@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**66 open roles** · updated 2026-06-20
+**67 open roles** · updated 2026-06-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -13,7 +13,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [C#/ .Net Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5764307635?se=9HEm1-Fs8RGJe8gKxAvXaw&utm_medium=api&utm_source=a9508167&v=F680B7D03632DC91DF617A2D48757F53DF5B5FE3) — Backend · £40,000–£50,000/yr · Heeley, Sheffield
 - [Angular/ C# .NET Software Developer](https://www.linkedin.com/jobs/view/4429630702/) — Backend · Sheffield, England, United Kingdom
 - [Software Developer (Angular) - Up to £55k](https://www.linkedin.com/jobs/view/4429653059/) — Backend · Sheffield, England, United Kingdom
-- [Software Engineer - C#/.Net/Angular - New](https://www.linkedin.com/jobs/view/4428098350/) — Sheffield, England, United Kingdom
+- [Software Engineer - C#/.Net/Angular - New](https://www.linkedin.com/jobs/view/4428098350/) — Backend · Sheffield, England, United Kingdom
 
 ### [Adria Solutions](https://jobs.winterchill.xyz/?employer=Adria%20Solutions) (4)
 
@@ -62,6 +62,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Automation Test Engineer - (IAM)](https://www.adzuna.co.uk/jobs/land/ad/5741326702?se=lFvE1-Fs8RGJe8gKxAvXaw&utm_medium=api&utm_source=a9508167&v=FA07D3B76B42767C98778CBB6111B4028F3B5983) — Platform / Infrastructure · £156,000–£156,260/yr · Heeley, Sheffield
 - [Test Automation Engineer](https://www.adzuna.co.uk/jobs/land/ad/5741298233?se=lFvE1-Fs8RGJe8gKxAvXaw&utm_medium=api&utm_source=a9508167&v=0287AA36A5184374CA5E7D3F05FD7780F7FC981A) — QA / Test Automation · £130,000–£130,260/yr · Heeley, Sheffield
 
+### [Harnham - Data & Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20%26%20Analytics%20Recruitment) (2)
+
+- [Lead ML Engineer - 12 Month FTC](https://www.reed.co.uk/jobs/lead-ml-engineer-12-month-ftc/56923074) — ML / AI Engineering · £80,000–£90,000/yr · Sheffield · remote
+- [Lead ML Engineer - 12 Month FTC](https://www.reed.co.uk/jobs/lead-ml-engineer-12-month-ftc/56923075) — ML / AI Engineering · £80,000–£90,000/yr · Sheffield · remote
+
 ### [HelloKindred](https://jobs.winterchill.xyz/?employer=HelloKindred) (2)
 
 - [Platform - SRE Engineer](https://www.adzuna.co.uk/jobs/details/5767603691?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Sheffield, South Yorkshire · hybrid
@@ -102,11 +107,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Autodesk](https://jobs.winterchill.xyz/?employer=Autodesk) (1)
 
-- [Senior Software Engineer, Cloud Applications and Services](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Senior-Software-Engineer--Cloud-Applications-and-Services_26WD97386) — Backend · Sheffield, GBP · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer, Cloud Applications and Services](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Senior-Software-Engineer--Cloud-Applications-and-Services_26WD97386) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [BGBx](https://jobs.winterchill.xyz/?employer=BGBx) (1)
 
-- [AI Software Engineer](https://www.linkedin.com/jobs/view/4429131187/) — £65,000–£75,000/yr · Sheffield, England, United Kingdom
+- [AI Software Engineer](https://www.linkedin.com/jobs/view/4429131187/) — Backend · £65,000–£75,000/yr · Sheffield, England, United Kingdom
 
 ### [British Business Bank plc](https://jobs.winterchill.xyz/?employer=British%20Business%20Bank%20plc) (1)
 
@@ -114,7 +119,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Caspian One](https://jobs.winterchill.xyz/?employer=Caspian%20One) (1)
 
-- [Java Software Engineer](https://www.linkedin.com/jobs/view/4430408667/) — Sheffield, England, United Kingdom
+- [Java Software Engineer](https://www.linkedin.com/jobs/view/4430408667/) — Backend · Sheffield, England, United Kingdom
 
 ### [Coforge](https://jobs.winterchill.xyz/?employer=Coforge) (1)
 
@@ -179,10 +184,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [TESTQ Technologies](https://jobs.winterchill.xyz/?employer=TESTQ%20Technologies) (1)
 
 - [Back End Developer](https://www.linkedin.com/jobs/view/4430919960/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
-
-### [Transaction Network Services (TNS)](https://jobs.winterchill.xyz/?employer=Transaction%20Network%20Services%20%28TNS%29) (1)
-
-- [Payments Processing Delivery Engineer](https://www.linkedin.com/jobs/view/4375982587/) — Sheffield, England, United Kingdom
 
 ### [Vallum Associates Limited](https://jobs.winterchill.xyz/?employer=Vallum%20Associates%20Limited) (1)
 
