@@ -1,18 +1,27 @@
 # Software &amp; IT careers in Cardiff
 
-**75 open roles** · updated 2026-06-23
+**92 open roles** · updated 2026-06-24
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Ofgem](https://jobs.winterchill.xyz/?employer=Ofgem) (5)
+### [Ofgem](https://jobs.winterchill.xyz/?employer=Ofgem) (6)
 
 - [Principal IDAM Engineer](https://uk.indeed.com/viewjob?jk=2a65e963f9384c8f) — DevOps / SRE · £63,443–£86,547/yr · Cardiff, United Kingdom · hybrid
-- [Senior Database Administrator](https://uk.indeed.com/viewjob?jk=2794b7093e4ded64) — DevOps / SRE · £52,397–£62,699/yr · Cardiff, United Kingdom · hybrid
+- [Senior Database Administrator](https://uk.indeed.com/viewjob?jk=97f028e2f512c433) — £52,397–£62,699/yr · Cardiff, United Kingdom
 - [Data & AI Operations Lead](https://uk.indeed.com/viewjob?jk=3d466f0468933f1f) — £52,397–£62,699/yr · Cardiff, United Kingdom · hybrid
 - [Senior AI Engineer](https://uk.indeed.com/viewjob?jk=14d401e50221f22a) — Backend · £52,397–£62,699/yr · Cardiff, United Kingdom · hybrid
 - [Data Scientist](https://uk.indeed.com/viewjob?jk=227b81af20d999cd) — Data Engineering · £35,232–£48,561/yr · Cardiff, United Kingdom · hybrid
+- [Senior Market Intelligence Analytics Engineer](https://www.linkedin.com/jobs/view/4426839564/) — Data Engineering · Cardiff, Wales, United Kingdom
+
+### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (5)
+
+- [CXP Staff Engineer (AEM), Fully Remote](https://www.reed.co.uk/jobs/cxp-staff-engineer-aem-fully-remote/56935222) — Backend · £75,000–£84,000/yr · Cardiff · remote
+- [Senior MDM Engineer / Emerging Technical Lead](https://www.reed.co.uk/jobs/senior-mdm-engineer-emerging-technical-lead/57050836) — Backend · £74,000–£75,000/yr · Cardiff · remote
+- [Senior Platform Engineer (DevOps)](https://www.reed.co.uk/jobs/senior-platform-engineer-devops/57037288) — DevOps / SRE · £70,000–£72,000/yr · Cardiff · remote
+- [CIAM Engineer](https://www.reed.co.uk/jobs/ciam-engineer/57046747) — Backend · £50,000–£60,000/yr · Cardiff · remote
+- [Genesys Cloud Engineer](https://www.reed.co.uk/jobs/genesys-cloud-engineer/57030381) — DevOps / SRE · Cardiff
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
@@ -22,10 +31,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720907143?utm_medium=api&utm_source=a9508167) — Mobile · Cardiff, Cardiff County
 - [Software Engineer, iOS Core Product - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5711921862?utm_medium=api&utm_source=a9508167) — Mobile · Cardiff, Cardiff County
 
+### [Sanderson Recruitment](https://jobs.winterchill.xyz/?employer=Sanderson%20Recruitment) (4)
+
+- [CXP Staff Engineer (AEM), Fully Remote](https://www.adzuna.co.uk/jobs/details/5738291533?utm_medium=api&utm_source=a9508167) — Enterprise / Business Systems Engineering · £80,000/yr · Cardiff, Cardiff County · remote
+- [CXP Staff Engineer](https://www.adzuna.co.uk/jobs/details/5769210333?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £80,000/yr · Splott, Cardiff
+- [Senior Platform Engineer (DevOps)](https://www.adzuna.co.uk/jobs/details/5769613039?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £70,000/yr · Cardiff, Cardiff County · remote
+- [CIAM Software Engineer](https://www.adzuna.co.uk/jobs/details/5772790483?utm_medium=api&utm_source=a9508167) — Backend · £60,000/yr · Cardiff, Cardiff County · hybrid
+
 ### [IntaPeople](https://jobs.winterchill.xyz/?employer=IntaPeople) (3)
 
-- [Data Engineer \| 6 months](https://www.adzuna.co.uk/jobs/land/ad/5752101505?se=BraZ9XBu8RGeWZzv8P2X6w&utm_medium=api&utm_source=a9508167&v=A120CF034A3F19971F791A20868D8268E551B858) — Data Engineering · £104,000–£123,500/yr · Cardiff, Cardiff County · hybrid
-- [Principal/Staff Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750713291?se=EHGL83Bu8RGVFsR5shNYkQ&utm_medium=api&utm_source=a9508167&v=042227CA94253AA33AF8626537417A221C558DF2) — Backend · £55,000–£75,000/yr · Cardiff, Cardiff County
+- [Data Engineer \| 6 months](https://www.adzuna.co.uk/jobs/land/ad/5752101505?se=qATUHjpv8RGnWKOvUc-68A&utm_medium=api&utm_source=a9508167&v=A120CF034A3F19971F791A20868D8268E551B858) — Data Engineering · £104,000–£123,500/yr · Cardiff, Cardiff County · hybrid
+- [Principal/Staff Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750713291?se=9p_iHDpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=042227CA94253AA33AF8626537417A221C558DF2) — Backend · £55,000–£75,000/yr · Cardiff, Cardiff County
 - [Software Engineer](https://www.adzuna.co.uk/jobs/details/5769209536?utm_medium=api&utm_source=a9508167) — Backend · £40,000–£70,000/yr · Splott, Cardiff
 
 ### [LDMS](https://jobs.winterchill.xyz/?employer=LDMS) (3)
@@ -34,17 +50,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Frontend Engineer](https://www.adzuna.co.uk/jobs/details/5687456741?utm_medium=api&utm_source=a9508167) — Frontend · £50,000/yr · Cardiff, Cardiff County · hybrid
 - [Full Stack Engineer](https://www.adzuna.co.uk/jobs/details/5687251318?utm_medium=api&utm_source=a9508167) — Full Stack · £50,000/yr · Cardiff, Cardiff County · hybrid
 
-### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (3)
+### [Method Resourcing](https://jobs.winterchill.xyz/?employer=Method%20Resourcing) (3)
 
-- [CXP Staff Engineer (AEM), Fully Remote](https://www.reed.co.uk/jobs/cxp-staff-engineer-aem-fully-remote/56935222) — Backend · £75,000–£84,000/yr · Cardiff · remote
-- [Senior Platform Engineer (DevOps)](https://www.reed.co.uk/jobs/senior-platform-engineer-devops/57037288) — DevOps / SRE · £70,000–£72,000/yr · Cardiff · remote
-- [Genesys Cloud Engineer](https://www.reed.co.uk/jobs/genesys-cloud-engineer/57030381) — DevOps / SRE · Cardiff
-
-### [Sanderson Recruitment](https://jobs.winterchill.xyz/?employer=Sanderson%20Recruitment) (3)
-
-- [CXP Staff Engineer (AEM), Fully Remote](https://www.adzuna.co.uk/jobs/details/5738291533?utm_medium=api&utm_source=a9508167) — Enterprise / Business Systems Engineering · £80,000/yr · Cardiff, Cardiff County · remote
-- [CXP Staff Engineer](https://www.adzuna.co.uk/jobs/details/5769210333?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £80,000/yr · Splott, Cardiff
-- [Senior Platform Engineer (DevOps)](https://www.adzuna.co.uk/jobs/details/5769613039?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £70,000/yr · Cardiff, Cardiff County · remote
+- [Engineering Lead](https://www.adzuna.co.uk/jobs/details/5749012108?utm_medium=api&utm_source=a9508167) — Product Engineering · £75,000/yr · Cardiff, Cardiff County · remote
+- [Cloud Engineer](https://www.reed.co.uk/jobs/cloud-engineer/57046539) — DevOps / SRE · £50,000–£55,000/yr · Cardiff · hybrid
+- [Infrastructure/DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5760151949?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £45,000/yr · Cardiff, Cardiff County · hybrid
 
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (3)
 
@@ -57,6 +67,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior JavaScript Developer](https://www.adzuna.co.uk/jobs/details/5733622964?utm_medium=api&utm_source=a9508167) — Backend · £80,000/yr · Cardiff, Cardiff County · hybrid
 - [Javascript Developer](https://www.linkedin.com/jobs/view/4426419158/) — Backend · Cardiff, Wales, United Kingdom
 
+### [BBC](https://jobs.winterchill.xyz/?employer=BBC) (2)
+
+- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=b2ad904c7f5a2ed4) — Backend · £54,600–£82,800/yr · Cardiff, United Kingdom · hybrid
+- [Snr Software Engineer - Machine Learning](https://uk.indeed.com/viewjob?jk=56a42a0f763abf45) — £60,000–£70,000/yr · Cardiff, United Kingdom
+
 ### [Confused.com](https://jobs.winterchill.xyz/?employer=Confused.com) (2)
 
 - [Lead Software Engineer](https://www.linkedin.com/jobs/view/4400393652/) — Backend · Cardiff, Wales, United Kingdom
@@ -67,15 +82,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [C++ Software Engineer II - ArcGIS Maps SDKs for Native Apps](https://www.adzuna.co.uk/jobs/details/5696595749?utm_medium=api&utm_source=a9508167) — £39,600–£67,320/yr · Cardiff, Cardiff County · 🛂 visa sponsor
 - [GIS Product Engineer II – ArcGIS Maps SDKs for Native Apps](https://www.adzuna.co.uk/jobs/details/5696594694?utm_medium=api&utm_source=a9508167) — Mobile · £37,080–£58,092/yr · Cardiff, Cardiff County · 🛂 visa sponsor
 
+### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (2)
+
+- [Senior Edge AI Engineer](https://www.linkedin.com/jobs/view/4432202153/) — Backend · Cardiff, Wales, United Kingdom
+- [Senior FPGA Engineer](https://www.linkedin.com/jobs/view/4430176070/) — Embedded / Robotics · Cardiff, Wales, United Kingdom
+
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (2)
 
 - [Full Stack PHP Developer – Mid-level](https://www.adzuna.co.uk/jobs/details/5768144556?utm_medium=api&utm_source=a9508167) — Backend · Cardiff, Cardiff County
 - [Software Engineer](https://www.linkedin.com/jobs/view/4426812439/) — Backend · Cardiff, Wales, United Kingdom
-
-### [Method Resourcing](https://jobs.winterchill.xyz/?employer=Method%20Resourcing) (2)
-
-- [Engineering Lead](https://www.adzuna.co.uk/jobs/details/5749012108?utm_medium=api&utm_source=a9508167) — Product Engineering · £75,000/yr · Cardiff, Cardiff County · remote
-- [Infrastructure/DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5760151949?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £45,000/yr · Cardiff, Cardiff County · hybrid
 
 ### [Performance Software](https://jobs.winterchill.xyz/?employer=Performance%20Software) (2)
 
@@ -87,10 +102,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Full Stack PHP Developer - Mid-level](https://www.adzuna.co.uk/jobs/details/5767378709?utm_medium=api&utm_source=a9508167) — Backend · Cardiff, Cardiff County
 - [Software Engineer I](https://www.adzuna.co.uk/jobs/details/5762591465?utm_medium=api&utm_source=a9508167) — Backend · Cardiff, Cardiff County · 🛂 visa sponsor
 
+### [Rocket Science Group](https://jobs.winterchill.xyz/?employer=Rocket%20Science%20Group) (2)
+
+- [Platform Data Engineer - Cardiff](https://uk.indeed.com/viewjob?jk=b30663d280cef0d0) — Cardiff, United Kingdom
+- [Platform Data Engineer](https://www.linkedin.com/jobs/view/4431254553/) — Backend · Cardiff, Wales, United Kingdom · remote
+
 ### [Vivo Talent](https://jobs.winterchill.xyz/?employer=Vivo%20Talent) (2)
 
-- [Senior Cloud Engineer](https://www.adzuna.co.uk/jobs/land/ad/5761469429?se=BraZ9XBu8RGeWZzv8P2X6w&utm_medium=api&utm_source=a9508167&v=AB0B3BDEFD127006882BFF85B7048C26F3C3DFBA) — DevOps / SRE · Grangetown, Cardiff · hybrid
-- [Lead Frontend Developer](https://www.adzuna.co.uk/jobs/land/ad/5761469389?se=hM2q9HBu8RGn9a7vjRhcZw&utm_medium=api&utm_source=a9508167&v=F37D6EB856C795B5DB60A65DA4FC6666C1B5924C) — Backend · Grangetown, Cardiff · hybrid
+- [Senior Cloud Engineer](https://www.adzuna.co.uk/jobs/land/ad/5761469429?se=qATUHjpv8RGnWKOvUc-68A&utm_medium=api&utm_source=a9508167&v=AB0B3BDEFD127006882BFF85B7048C26F3C3DFBA) — DevOps / SRE · Grangetown, Cardiff · hybrid
+- [Lead Frontend Developer](https://www.adzuna.co.uk/jobs/land/ad/5761469389?se=1MXnHTpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=F37D6EB856C795B5DB60A65DA4FC6666C1B5924C) — Backend · Grangetown, Cardiff · hybrid
 
 ### [Yolk Recruitment](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment) (2)
 
@@ -101,17 +121,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Team Scheduler](https://uk.indeed.com/viewjob?jk=498f70c18307b0e5) — Cardiff, United Kingdom · hybrid
 
+### [Arjo](https://jobs.winterchill.xyz/?employer=Arjo) (1)
+
+- [Software Engineer-UK, Cardiff](https://uk.indeed.com/viewjob?jk=87303b9256aa8f5f) — Cardiff, United Kingdom
+
 ### [Arup](https://jobs.winterchill.xyz/?employer=Arup) (1)
 
 - [Principal Process Engineer](https://uk.indeed.com/viewjob?jk=36bbacb8773a8994) — Cardiff, United Kingdom
 
+### [ASSA ABLOY Group](https://jobs.winterchill.xyz/?employer=ASSA%20ABLOY%20Group) (1)
+
+- [Staff Engineer](https://uk.indeed.com/viewjob?jk=22968eb48cac8c4c) — Cardiff, United Kingdom
+
 ### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
 
 - [(RD) Engineering Team Lead (ETL)](https://www.adzuna.co.uk/jobs/details/5753322479?utm_medium=api&utm_source=a9508167) — Data Engineering · Cardiff, Cardiff County · 🛂 visa sponsor
-
-### [BBC](https://jobs.winterchill.xyz/?employer=BBC) (1)
-
-- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=b2ad904c7f5a2ed4) — Backend · £54,600–£82,800/yr · Cardiff, United Kingdom · hybrid
 
 ### [Borley Engineering Services](https://jobs.winterchill.xyz/?employer=Borley%20Engineering%20Services) (1)
 
@@ -153,6 +177,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Low Code Developer](https://www.linkedin.com/jobs/view/4429516739/) — Enterprise / Business Systems Engineering · Cardiff, Wales, United Kingdom
 
+### [DSV](https://jobs.winterchill.xyz/?employer=DSV) (1)
+
+- [Senior Analytics Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5773747700?se=hjVdHTpv8RGnWKOvUc-68A&utm_medium=api&utm_source=a9508167&v=9362D5615CB188260B82E6058E7931C0DFB5FE65) — Grangetown, Cardiff
+
+### [F5 Consultants](https://jobs.winterchill.xyz/?employer=F5%20Consultants) (1)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4432277213/) — Backend · £60,000–£80,000/yr · Cardiff, Wales, United Kingdom
+
 ### [FitPro Lead Gen](https://jobs.winterchill.xyz/?employer=FitPro%20Lead%20Gen) (1)
 
 - [Marketing & Lead Generation Executive](https://uk.indeed.com/viewjob?jk=35bcd9bdfc26da39) — £27,000–£29,000/yr · Cardiff, United Kingdom
@@ -177,6 +209,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Engineering Degree Apprentice (Electrical & Electronics)](https://uk.indeed.com/viewjob?jk=34c3213bf6e8f875) — £19,500/yr · Cardiff, United Kingdom
 
+### [legalandgeneral](https://jobs.winterchill.xyz/?employer=legalandgeneral) (1)
+
+- [Data Analyst (SQL & Python)](https://uk.indeed.com/viewjob?jk=6f6e7450d9bac0f6) — Cardiff, United Kingdom
+
+### [Maritime and Coastguard Agency](https://jobs.winterchill.xyz/?employer=Maritime%20and%20Coastguard%20Agency) (1)
+
+- [Senior SEO Surveyor - External Monitoring and Assurance](https://uk.indeed.com/viewjob?jk=f5bff57cd096a98a) — £55,793/yr · Cardiff, United Kingdom
+
 ### [Network Rail](https://jobs.winterchill.xyz/?employer=Network%20Rail) (1)
 
 - [Asset Engineer [Drainage & Lineside]](https://uk.indeed.com/viewjob?jk=2fee6fa8a2669a95) — £43,588–£53,167/yr · Cardiff, United Kingdom · hybrid
@@ -187,7 +227,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (1)
 
-- [DevOps Engineer - Azure](https://www.adzuna.co.uk/jobs/land/ad/5748260688?se=BraZ9XBu8RGeWZzv8P2X6w&utm_medium=api&utm_source=a9508167&v=CE5DB530F243605859CBEA238794D2FA9D9426E4) — DevOps / SRE · £45,000–£65,000/yr · Grangetown, Cardiff · hybrid
+- [DevOps Engineer - Azure](https://www.adzuna.co.uk/jobs/land/ad/5748260688?se=qATUHjpv8RGnWKOvUc-68A&utm_medium=api&utm_source=a9508167&v=CE5DB530F243605859CBEA238794D2FA9D9426E4) — DevOps / SRE · £45,000–£65,000/yr · Grangetown, Cardiff · hybrid
 
 ### [Redkite Solicitors](https://jobs.winterchill.xyz/?employer=Redkite%20Solicitors) (1)
 
@@ -209,6 +249,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer - Sensors](https://www.adzuna.co.uk/jobs/details/5724614977?utm_medium=api&utm_source=a9508167) — Backend · Splott, Cardiff
 
+### [Starling](https://jobs.winterchill.xyz/?employer=Starling) (1)
+
+- [Database Reliability Engineer](https://www.adzuna.co.uk/jobs/details/5693219095?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Cardiff, Cardiff County
+
 ### [Target](https://jobs.winterchill.xyz/?employer=Target) (1)
 
 - [Senior DevOps Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5723137114?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £50,000/yr · Cardiff, Cardiff County · hybrid
@@ -219,7 +263,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [VIQU IT](https://jobs.winterchill.xyz/?employer=VIQU%20IT) (1)
 
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5764222561?se=BraZ9XBu8RGeWZzv8P2X6w&utm_medium=api&utm_source=a9508167&v=DB3A7A2622360262BF5C8A8D5A17DFE85DF112E5) — DevOps / SRE · £84,500/yr · Grangetown, Cardiff · remote
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5764222561?se=qATUHjpv8RGnWKOvUc-68A&utm_medium=api&utm_source=a9508167&v=DB3A7A2622360262BF5C8A8D5A17DFE85DF112E5) — DevOps / SRE · £84,500/yr · Grangetown, Cardiff · remote
 
 ### [VIQU IT Recruitment](https://jobs.winterchill.xyz/?employer=VIQU%20IT%20Recruitment) (1)
 
