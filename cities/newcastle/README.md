@@ -1,21 +1,33 @@
 # Software &amp; IT careers in Newcastle
 
-**164 open roles** · updated 2026-06-24
+**176 open roles** · updated 2026-06-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Opus Recruitment Solutions](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions) (8)
+### [Opus Recruitment Solutions](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions) (9)
 
-- [Python Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5757412787?se=1nJiJjpv8RGEdrN9fLrQcA&utm_medium=api&utm_source=a9508167&v=225AFF551F8985D9D8D6F1F7F199E88469C8428C) — Data Engineering · £91,000–£104,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
-- [Test Engineer (SFIA 4)](https://www.adzuna.co.uk/jobs/land/ad/5757412582?se=GtWeJTpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=74EC0E69F758C8C6C2AA281EEF0F5577DD77AABB) — Data Engineering · £78,000–£93,600/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5772628976?se=1nJiJjpv8RGEdrN9fLrQcA&utm_medium=api&utm_source=a9508167&v=681882B89A27812FE8F6CCFFDCBF366279E788FD) — DevOps / SRE · £35,000–£65,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
-- [Data Engineer \| 12 month FTC \| Newcastle \| SC Clearance Essential](https://www.adzuna.co.uk/jobs/land/ad/5743706229?se=GtWeJTpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=8ADDB8E18451809F0F792AAA032CB73C1A614661) — Backend · £35,000–£57,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Python Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5757412787?se=oPz5UgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=225AFF551F8985D9D8D6F1F7F199E88469C8428C) — Data Engineering · £91,000–£104,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
+- [Test Engineer (SFIA 4)](https://www.adzuna.co.uk/jobs/land/ad/5757412582?se=wBZNUgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=74EC0E69F758C8C6C2AA281EEF0F5577DD77AABB) — Data Engineering · £78,000–£93,600/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
+- [Java Developer](https://www.reed.co.uk/jobs/java-developer/57052855) — Backend · £35,000–£65,000/yr · Newcastle Upon Tyne · hybrid
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5772628976?se=oPz5UgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=681882B89A27812FE8F6CCFFDCBF366279E788FD) — DevOps / SRE · £35,000–£65,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
+- [Data Engineer \| 12 month FTC \| Newcastle \| SC Clearance Essential](https://www.adzuna.co.uk/jobs/land/ad/5743706229?se=wBZNUgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=8ADDB8E18451809F0F792AAA032CB73C1A614661) — Backend · £35,000–£57,000/yr · Newcastle Upon Tyne, Tyne & Wear
 - [Junior Java developer - FTC - 3 Days a week onsite in Newcastle](https://www.reed.co.uk/jobs/junior-java-developer-ftc-3-days-a-week-onsite-in-newcastle/56953271) — Backend · £35,000–£37,000/yr · Newcastle Upon Tyne
 - [Front End Developer -](https://www.reed.co.uk/jobs/front-end-developer/57050549) — Backend · Newcastle Upon Tyne
 - [Test Automation Specialist](https://www.linkedin.com/jobs/view/4430382836/) — QA / Test Automation · Newcastle Upon Tyne, England, United Kingdom · hybrid
 - [Non-Functional Test Engineer (Performance)](https://www.reed.co.uk/jobs/non-functional-test-engineer-performance/57002946) — QA / Test Automation · Newcastle Upon Tyne
+
+### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (8)
+
+- [Senior DevOps Engineer C# Azure - FinTech](https://www.linkedin.com/jobs/view/4429990152/) — Backend · Up to £130,000/yr · Newcastle Upon Tyne, England, United Kingdom
+- [Software Developer C# .Net - Quant Trading](https://www.linkedin.com/jobs/view/4429770859/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom
+- [Backend Software Engineer SC Clearance](https://www.linkedin.com/jobs/view/4428801728/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom
+- [Senior C# Developer .Net Core - FinTech](https://www.linkedin.com/jobs/view/4432551816/) — Backend · Up to £110,000/yr · Newcastle Upon Tyne, England, United Kingdom
+- [Data Engineer SQL Databricks - Fintech](https://www.adzuna.co.uk/jobs/details/5747976300?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Lead C# Developer .Net Core - Fintech](https://www.adzuna.co.uk/jobs/details/5730209737?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Senior Software Engineer C# .Net](https://www.adzuna.co.uk/jobs/details/5759391843?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Graduate Software Engineer Computer Science](https://www.adzuna.co.uk/jobs/details/5766995977?utm_medium=api&utm_source=a9508167) — Backend · £35,000/yr · Newcastle Upon Tyne, Tyne & Wear
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (7)
 
@@ -27,23 +39,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Node.JS Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/NodeJS-Developer---Newcastle_R00325398) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Architect / Senior Data Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Data---ML-Architect---Newcastle_R00325275-1) — Data Engineering · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (7)
-
-- [Senior DevOps Engineer C# Azure - FinTech](https://www.linkedin.com/jobs/view/4429990152/) — Backend · Up to £130,000/yr · Newcastle Upon Tyne, England, United Kingdom
-- [Software Developer C# .Net - Quant Trading](https://www.linkedin.com/jobs/view/4429770859/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom
-- [Backend Software Engineer SC Clearance](https://www.linkedin.com/jobs/view/4428801728/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom
-- [Data Engineer SQL Databricks - Fintech](https://www.adzuna.co.uk/jobs/details/5747976300?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear
-- [Lead C# Developer .Net Core - Fintech](https://www.adzuna.co.uk/jobs/details/5730209737?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear
-- [Senior Software Engineer C# .Net](https://www.adzuna.co.uk/jobs/details/5759391843?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear
-- [Graduate Software Engineer Computer Science](https://www.adzuna.co.uk/jobs/details/5766995977?utm_medium=api&utm_source=a9508167) — Backend · £35,000/yr · Newcastle Upon Tyne, Tyne & Wear
-
 ### [Tech 4](https://jobs.winterchill.xyz/?employer=Tech%204) (7)
 
+- [Principal Software Developer C++ and Rust](https://www.adzuna.co.uk/jobs/details/5769210066?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · North Brunton, Newcastle Upon Tyne
 - [Lead Data Engineer](https://www.adzuna.co.uk/jobs/details/5769210504?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · North Brunton, Newcastle Upon Tyne
-- [Principal Software Developer C++ and Rust](https://www.adzuna.co.uk/jobs/land/ad/5732290450?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=266C73BFE53F0C0F4DA949951A99D227538E1140) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear
 - [Senior Python Developer - Newcastle Upon Tyne](https://www.adzuna.co.uk/jobs/details/5772436317?utm_medium=api&utm_source=a9508167) — Backend · £90,000/yr · North Brunton, Newcastle Upon Tyne
 - [Senior .Net Developer](https://www.adzuna.co.uk/jobs/details/5748619182?utm_medium=api&utm_source=a9508167) — Backend · £90,000/yr · Newcastle Upon Tyne, Tyne & Wear
-- [Senior Python Developer](https://www.adzuna.co.uk/jobs/land/ad/5749131444?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=4FDC58FFEC5973CE59E5FA1EED3AF776AEDD36E8) — Backend · £90,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Senior Python Developer](https://www.adzuna.co.uk/jobs/land/ad/5749131444?se=ED4EUQNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=4FDC58FFEC5973CE59E5FA1EED3AF776AEDD36E8) — Backend · £90,000/yr · Newcastle Upon Tyne, Tyne & Wear
 - [Senior Software Engineer - C++ and Rust](https://www.adzuna.co.uk/jobs/details/5738655276?utm_medium=api&utm_source=a9508167) — Backend · £90,000/yr · Newcastle Upon Tyne, Tyne & Wear
 - [Data Engineer](https://www.adzuna.co.uk/jobs/details/5741380151?utm_medium=api&utm_source=a9508167) — Data Engineering · Newcastle Upon Tyne, Tyne & Wear
 
@@ -53,22 +55,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [.NET Developer - Newcastle upon Tyne](https://www.linkedin.com/jobs/view/4430469599/) — Backend · £45,000–£85,000/yr · Newcastle Upon Tyne, England, United Kingdom · remote
 - [Front End Developer](https://www.reed.co.uk/jobs/front-end-developer/57041071) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4431652921/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom
-- [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4429953260/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom
-- [Python Developer](https://www.adzuna.co.uk/jobs/land/ad/5772332126?se=rIJQJTpv8RGnWKOvUc-68A&utm_medium=api&utm_source=a9508167&v=EE205898703EB63DB24FA5C7F1DD3E548923B3AA) — Backend · £42,000–£62,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
+- [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4431835634/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · remote
+- [Python Developer](https://www.adzuna.co.uk/jobs/land/ad/5772332126?se=MH4HUgNw8RGA_J_s4PS1Ig&utm_medium=api&utm_source=a9508167&v=EE205898703EB63DB24FA5C7F1DD3E548923B3AA) — Backend · £42,000–£62,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
 
 ### [Sage](https://jobs.winterchill.xyz/?employer=Sage) (6)
 
 - [Senior Product Operations Manager](https://uk.indeed.com/viewjob?jk=954534388d7959a3) — Newcastle upon Tyne, United Kingdom
 - [Senior Machine Learning Engineer](https://www.adzuna.co.uk/jobs/details/5664209117?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Newcastle Upon Tyne, Tyne & Wear
-- [Developer (React, Node.js)](https://www.adzuna.co.uk/jobs/land/ad/5720324087?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=6F591B242BE9C554E883DB0484BAC173602BE505) — Backend · Newcastle Upon Tyne, Tyne & Wear
-- [Senior Software Engineer (AI)](https://www.adzuna.co.uk/jobs/land/ad/5720323356?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=48BE4E0D2C67B10417696866EDAA1F3D2AF18656) — Backend · Newcastle Upon Tyne, Tyne & Wear
-- [Software Engineer (.NET)](https://www.adzuna.co.uk/jobs/land/ad/5720324091?se=sFvoIzpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=07762E9A4ADFEF18E3C1941A0347F5FAC75B160C) — Backend · Newcastle Upon Tyne, Tyne & Wear
+- [Developer (React, Node.js)](https://www.adzuna.co.uk/jobs/land/ad/5720324087?se=ED4EUQNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=6F591B242BE9C554E883DB0484BAC173602BE505) — Backend · Newcastle Upon Tyne, Tyne & Wear
+- [Senior Software Engineer (AI)](https://www.adzuna.co.uk/jobs/land/ad/5720323356?se=ED4EUQNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=48BE4E0D2C67B10417696866EDAA1F3D2AF18656) — Backend · Newcastle Upon Tyne, Tyne & Wear
+- [Software Engineer (.NET)](https://www.adzuna.co.uk/jobs/land/ad/5720324091?se=2nd0UANw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=07762E9A4ADFEF18E3C1941A0347F5FAC75B160C) — Backend · Newcastle Upon Tyne, Tyne & Wear
 - [X3 Technical Support Consultant](https://uk.indeed.com/viewjob?jk=a6e52a17335f1340) — Newcastle upon Tyne, United Kingdom · hybrid
 
-### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (6)
+### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (5)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4428247560/) — Data Engineering · Up to £80,000/yr · Newcastle Upon Tyne, England, United Kingdom
-- [Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5764351016?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=E616CE259ADD85AB9017F47DFF9E4FCE8459ADE5) — Backend · £70,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5764351016?se=ED4EUQNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=E616CE259ADD85AB9017F47DFF9E4FCE8459ADE5) — Backend · £70,000/yr · Newcastle Upon Tyne, Tyne & Wear
 - [Data Engineer - Newcastle](https://www.reed.co.uk/jobs/data-engineer-newcastle/56912440) — Data Engineering · £45,000–£51,000/yr · Newcastle Upon Tyne · hybrid
 - [Data and AI Engineer](https://www.reed.co.uk/jobs/data-and-ai-engineer/56890378) — Data Engineering · £45,000–£51,000/yr · Newcastle Upon Tyne · hybrid
 - [AI Foundry Developer](https://www.linkedin.com/jobs/view/4424885989/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -109,6 +110,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, iOS Core Product - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5711921891?utm_medium=api&utm_source=a9508167) — Mobile · Newcastle Upon Tyne, Tyne & Wear
 - [Software Engineer, Platform - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5727991384?utm_medium=api&utm_source=a9508167) — Platform / Infrastructure · Newcastle Upon Tyne, Tyne & Wear
 
+### [Everything Managed Group](https://jobs.winterchill.xyz/?employer=Everything%20Managed%20Group) (3)
+
+- [IT/Infrastructure Manager](https://uk.indeed.com/viewjob?jk=169d711fdab54259) — Newcastle upon Tyne, United Kingdom
+- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5759898435?utm_medium=api&utm_source=a9508167) — Data Engineering · Shieldfield, Newcastle Upon Tyne
+- [Web Developer](https://www.adzuna.co.uk/jobs/details/5761402136?utm_medium=api&utm_source=a9508167) — Frontend · Shieldfield, Newcastle Upon Tyne · hybrid
+
 ### [hedgehog lab](https://jobs.winterchill.xyz/?employer=hedgehog%20lab) (3)
 
 - [Senior Full Stack Engineer (AI/Agentic)](https://www.linkedin.com/jobs/view/4429690825/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -123,9 +130,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Nigel Wright Group](https://jobs.winterchill.xyz/?employer=Nigel%20Wright%20Group) (3)
 
-- [Devops Engineer (AWS)](https://www.adzuna.co.uk/jobs/land/ad/5747697501?se=1nJiJjpv8RGEdrN9fLrQcA&utm_medium=api&utm_source=a9508167&v=C1A3C2BA7BFEDB1A945928A2AEBE64070188859F) — DevOps / SRE · £45,000–£65,000/yr · Newcastle Upon Tyne, Tyne & Wear
-- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5764581503?se=GtWeJTpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=5E9203C800085212F284010D313F9DAD318926A8) — Data Engineering · £45,000–£50,000/yr · Newcastle Upon Tyne, Tyne & Wear
-- [Senior Cyber Security Engineer](https://www.adzuna.co.uk/jobs/land/ad/5749217688?se=MAS4Jjpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=21CF61DBA0542197241EF79B8D1FF963E92E9F6A) — Security Engineering · £44,075–£48,226/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Devops Engineer (AWS)](https://www.adzuna.co.uk/jobs/land/ad/5747697501?se=oPz5UgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=C1A3C2BA7BFEDB1A945928A2AEBE64070188859F) — DevOps / SRE · £45,000–£65,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5764581503?se=wBZNUgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=5E9203C800085212F284010D313F9DAD318926A8) — Data Engineering · £45,000–£50,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Senior Cyber Security Engineer](https://www.adzuna.co.uk/jobs/land/ad/5749217688?se=2tRLUwNw8RGrvYF11hqYFQ&utm_medium=api&utm_source=a9508167&v=21CF61DBA0542197241EF79B8D1FF963E92E9F6A) — Security Engineering · £44,075–£48,226/yr · Newcastle Upon Tyne, Tyne & Wear
+
+### [Reed](https://jobs.winterchill.xyz/?employer=Reed) (3)
+
+- [Lead Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5766911534?se=wBZNUgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=ABDA73822FB167724D9641D2EC3DB8620B82C28E) — Data Engineering · £208,000/yr · Newcastle Upon Tyne, Tyne & Wear · remote
+- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5767368913?se=wBZNUgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=59DB57892F76532BC13C0EF070EA97ACFED114A8) — Data Engineering · £156,000/yr · Newcastle Upon Tyne, Tyne & Wear · remote
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5765776690?se=yG46_XBu8RGOUJ6zGKp4Eg&utm_medium=api&utm_source=a9508167&v=4AC8FFABA616D8BF0FF4029A02B5003CE91634BC) — DevOps / SRE · £104,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
 
 ### [Reed Technology](https://jobs.winterchill.xyz/?employer=Reed%20Technology) (3)
 
@@ -138,6 +151,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
 - [Graduate Test Engineer](https://jobs.lever.co/scottlogic/d173c70a-2384-46c2-b55f-7604cee66522) — Backend · Newcastle · 🛂 visa sponsor
 - [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60) — Backend · Newcastle · 🛂 visa sponsor
+
+### [Adria Solutions](https://jobs.winterchill.xyz/?employer=Adria%20Solutions) (2)
+
+- [AI Agentic Engineer X 3](https://www.adzuna.co.uk/jobs/land/ad/5757412898?se=2nd0UANw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=11DDF762CF4B56877A418990861BF7C50448CA91) — Backend · £50,000–£85,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Agentic Software Engineer](https://www.linkedin.com/jobs/view/4431277294/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid
 
 ### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (2)
 
@@ -159,15 +177,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Software Engineer](https://www.adzuna.co.uk/jobs/details/5765039189?utm_medium=api&utm_source=a9508167) — Backend · £90,000/yr · Newcastle Upon Tyne, Tyne & Wear
 - [Senior Software Engineer](https://www.adzuna.co.uk/jobs/details/5765039200?utm_medium=api&utm_source=a9508167) — Backend · £80,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
 
-### [Everything Managed Group](https://jobs.winterchill.xyz/?employer=Everything%20Managed%20Group) (2)
-
-- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5759898435?utm_medium=api&utm_source=a9508167) — Data Engineering · Shieldfield, Newcastle Upon Tyne
-- [Web Developer](https://www.adzuna.co.uk/jobs/details/5761402136?utm_medium=api&utm_source=a9508167) — Frontend · Shieldfield, Newcastle Upon Tyne · hybrid
-
 ### [Marsh McLennan](https://jobs.winterchill.xyz/?employer=Marsh%20McLennan) (2)
 
 - [Oliver Wyman - DnA Talent Manager - Newcastle](https://uk.indeed.com/viewjob?jk=7a58cd704aac3f1e) — Newcastle upon Tyne, United Kingdom · hybrid
 - [Recruiter, Data & Analytics - Newcastle](https://uk.indeed.com/viewjob?jk=bd085fd21872ba29) — Newcastle upon Tyne, United Kingdom · hybrid
+
+### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (2)
+
+- [Senior Business Intelligence Analyst](https://uk.indeed.com/viewjob?jk=1b096ce3fab74601) — £47,389–£56,535/yr · Newcastle upon Tyne, United Kingdom
+- [Laboratory Technical Specialist](https://uk.indeed.com/viewjob?jk=c797bffda0794c81) — £32,080–£34,610/yr · Newcastle upon Tyne, United Kingdom
+
+### [Northumbria Police](https://jobs.winterchill.xyz/?employer=Northumbria%20Police) (2)
+
+- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4431236754/) — Data Engineering · £50,154–£54,696/yr · Newcastle Upon Tyne, England, United Kingdom
+- [Senior Data Engineer](https://uk.indeed.com/viewjob?jk=c30a04f38a62bc55) — £50,145–£54,696/yr · Newcastle upon Tyne, United Kingdom
 
 ### [Opencast | B Corp™](https://jobs.winterchill.xyz/?employer=Opencast%20%7C%20B%20Corp%E2%84%A2) (2)
 
@@ -179,14 +202,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Dev Ops Engineer](https://www.adzuna.co.uk/jobs/details/5706056929?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £1/yr · Newcastle Upon Tyne, Tyne & Wear
 - [Test Engineer](https://www.adzuna.co.uk/jobs/details/5707295022?utm_medium=api&utm_source=a9508167) — Data Engineering · £1/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
 
-### [Reed](https://jobs.winterchill.xyz/?employer=Reed) (2)
-
-- [Lead Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5766911534?se=GtWeJTpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=ABDA73822FB167724D9641D2EC3DB8620B82C28E) — Data Engineering · £208,000/yr · Newcastle Upon Tyne, Tyne & Wear · remote
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5765776690?se=yG46_XBu8RGOUJ6zGKp4Eg&utm_medium=api&utm_source=a9508167&v=4AC8FFABA616D8BF0FF4029A02B5003CE91634BC) — DevOps / SRE · £104,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
-
 ### [Sanderson Government & Defence](https://jobs.winterchill.xyz/?employer=Sanderson%20Government%20%26%20Defence) (2)
 
-- [Senior Java Developer](https://www.adzuna.co.uk/jobs/land/ad/5731184556?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=B19CA68095D19E153BC9C44608EA3A5388B5B7D9) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
+- [Senior Java Developer](https://www.adzuna.co.uk/jobs/land/ad/5731184556?se=ED4EUQNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=B19CA68095D19E153BC9C44608EA3A5388B5B7D9) — Backend · £100,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
 - [Java Developer](https://www.adzuna.co.uk/jobs/details/5765041727?utm_medium=api&utm_source=a9508167) — Backend · Newcastle Upon Tyne, Tyne & Wear
 
 ### [Selby Jennings London](https://jobs.winterchill.xyz/?employer=Selby%20Jennings%20London) (2)
@@ -204,13 +222,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Site Reliability Engineer](https://www.adzuna.co.uk/jobs/details/5613422533?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Newcastle Upon Tyne, Tyne & Wear
 - [Staff Site Reliability Engineer - Cloud](https://www.adzuna.co.uk/jobs/details/5687235900?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Newcastle Upon Tyne, Tyne & Wear
 
-### [Adria Solutions](https://jobs.winterchill.xyz/?employer=Adria%20Solutions) (1)
-
-- [AI Agentic Engineer X 3](https://www.adzuna.co.uk/jobs/land/ad/5757412898?se=sFvoIzpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=11DDF762CF4B56877A418990861BF7C50448CA91) — Backend · £50,000–£85,000/yr · Newcastle Upon Tyne, Tyne & Wear
-
 ### [Aioi Nissay Dowa Europe](https://jobs.winterchill.xyz/?employer=Aioi%20Nissay%20Dowa%20Europe) (1)
 
-- [Dev Ops Engineer](https://www.adzuna.co.uk/jobs/land/ad/5760049776?se=1nJiJjpv8RGEdrN9fLrQcA&utm_medium=api&utm_source=a9508167&v=203C59D42054F9BDE7A31913362B2BD8015C2A16) — DevOps / SRE · £55,000–£60,000/yr · Forest Hall, Newcastle Upon Tyne
+- [Dev Ops Engineer](https://www.adzuna.co.uk/jobs/land/ad/5760049776?se=oPz5UgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=203C59D42054F9BDE7A31913362B2BD8015C2A16) — DevOps / SRE · £55,000–£60,000/yr · Forest Hall, Newcastle Upon Tyne
+
+### [Airbus Defence and Space](https://jobs.winterchill.xyz/?employer=Airbus%20Defence%20and%20Space) (1)
+
+- [Software Architect](https://www.linkedin.com/jobs/view/4355343599/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Amey](https://jobs.winterchill.xyz/?employer=Amey) (1)
 
@@ -230,7 +248,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [BELCAN](https://jobs.winterchill.xyz/?employer=BELCAN) (1)
 
-- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750744599?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=3FC9F28A480B9590A88597515CFB488AD3996717) — Backend · £124,800/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
+- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750744599?se=ED4EUQNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=3FC9F28A480B9590A88597515CFB488AD3996717) — Backend · £124,800/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
 
 ### [Blair West](https://jobs.winterchill.xyz/?employer=Blair%20West) (1)
 
@@ -238,7 +256,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [BMC Recruitment Group](https://jobs.winterchill.xyz/?employer=BMC%20Recruitment%20Group) (1)
 
-- [Frontend Angular Developer](https://www.adzuna.co.uk/jobs/land/ad/5761542906?se=NGAiJTpv8RG6VbN9WE0NzQ&utm_medium=api&utm_source=a9508167&v=7044E43628101E3CC55CE2460AEADFB855E4F02C) — Frontend · £50,000–£65,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Frontend Angular Developer](https://www.adzuna.co.uk/jobs/land/ad/5761542906?se=gHLXUQNw8RG1ptycNMu8WA&utm_medium=api&utm_source=a9508167&v=7044E43628101E3CC55CE2460AEADFB855E4F02C) — Frontend · £50,000–£65,000/yr · Newcastle Upon Tyne, Tyne & Wear
 
 ### [British Engines (UK) Limited](https://jobs.winterchill.xyz/?employer=British%20Engines%20%28UK%29%20Limited) (1)
 
@@ -262,7 +280,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [DVSA](https://jobs.winterchill.xyz/?employer=DVSA) (1)
 
-- [Head of Software Engineering](https://www.adzuna.co.uk/jobs/land/ad/5773793817?se=EJBdJDpv8RGwp7JcOoKFsQ&utm_medium=api&utm_source=a9508167&v=08C3D95A245B41637907BDDE38F17BCA10D8867E) — Engineering Management · £69,501/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Head of Software Engineering](https://www.adzuna.co.uk/jobs/land/ad/5773793817?se=ED4EUQNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=08C3D95A245B41637907BDDE38F17BCA10D8867E) — Engineering Management · £69,501/yr · Newcastle Upon Tyne, Tyne & Wear
 
 ### [DXC Technology](https://jobs.winterchill.xyz/?employer=DXC%20Technology) (1)
 
@@ -283,6 +301,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (1)
 
 - [Senior Data Engineer - Newcastle Upon Tyne](https://www.adzuna.co.uk/jobs/details/5769210696?utm_medium=api&utm_source=a9508167) — Data Engineering · £33,000–£65,000/yr · Walker, Newcastle Upon Tyne · 🛂 visa sponsor
+
+### [Health Research Authority](https://jobs.winterchill.xyz/?employer=Health%20Research%20Authority) (1)
+
+- [Technical Assurance Officer](https://uk.indeed.com/viewjob?jk=e89331c45ac87bcd) — £39,959–£48,117/yr · Newcastle upon Tyne, United Kingdom
 
 ### [Homes England](https://jobs.winterchill.xyz/?employer=Homes%20England) (1)
 
@@ -320,10 +342,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Test Coach](https://www.linkedin.com/jobs/view/4430042355/) — QA / Test Automation · Up to £43,000/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid
 
-### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (1)
-
-- [Laboratory Technical Specialist](https://uk.indeed.com/viewjob?jk=9d36df32fc2001e9) — £32,080–£34,610/yr · Newcastle upon Tyne, United Kingdom
-
 ### [NHS Business Services Authority](https://jobs.winterchill.xyz/?employer=NHS%20Business%20Services%20Authority) (1)
 
 - [M365 Infrastructure Team Lead](https://uk.indeed.com/viewjob?jk=3dce8892f43c8cb7) — £57,528–£64,750/yr · Newcastle upon Tyne, United Kingdom
@@ -340,10 +358,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Director of Service Delivery - North East](https://uk.indeed.com/viewjob?jk=c2e81b14ad4eb452) — £98,420/yr · Newcastle upon Tyne, United Kingdom · hybrid
 
-### [Northumbria Police](https://jobs.winterchill.xyz/?employer=Northumbria%20Police) (1)
-
-- [Senior Data Engineer](https://uk.indeed.com/viewjob?jk=c30a04f38a62bc55) — £50,145–£54,696/yr · Newcastle upon Tyne, United Kingdom
-
 ### [Norton Rose Fulbright](https://jobs.winterchill.xyz/?employer=Norton%20Rose%20Fulbright) (1)
 
 - [Marketing Executive (Creative Services and Multimedia)](https://uk.indeed.com/viewjob?jk=40de64c45f82fc43) — Newcastle upon Tyne, United Kingdom · hybrid · 🛂 visa sponsor
@@ -351,6 +365,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [NSD](https://jobs.winterchill.xyz/?employer=NSD) (1)
 
 - [Software Engineer - SC Clearance](https://www.adzuna.co.uk/jobs/details/5769209593?utm_medium=api&utm_source=a9508167) — Backend · £55,000–£95,000/yr · Shieldfield, Newcastle Upon Tyne
+
+### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (1)
+
+- [Data Engineer \| Newcastle](https://www.linkedin.com/jobs/view/4418738222/) — Data Engineering · Newcastle Upon Tyne, England, United Kingdom · hybrid
 
 ### [QA](https://jobs.winterchill.xyz/?employer=QA) (1)
 
@@ -366,7 +384,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Ronald James](https://jobs.winterchill.xyz/?employer=Ronald%20James) (1)
 
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5747998609?se=1nJiJjpv8RGEdrN9fLrQcA&utm_medium=api&utm_source=a9508167&v=CC2A68A4FDC76DCE1F8F60ED2B6BBF1DD9498A93) — DevOps / SRE · £50,000–£75,000/yr · Newcastle Upon Tyne, Tyne & Wear
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5747998609?se=oPz5UgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=CC2A68A4FDC76DCE1F8F60ED2B6BBF1DD9498A93) — DevOps / SRE · £50,000–£75,000/yr · Newcastle Upon Tyne, Tyne & Wear
 
 ### [Scrumconnect Consulting](https://jobs.winterchill.xyz/?employer=Scrumconnect%20Consulting) (1)
 
@@ -378,7 +396,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Searchability NS&D](https://jobs.winterchill.xyz/?employer=Searchability%20NS%26D) (1)
 
-- [Principal DevOps Engineer- SC Cleared](https://www.adzuna.co.uk/jobs/land/ad/5766737924?se=1nJiJjpv8RGEdrN9fLrQcA&utm_medium=api&utm_source=a9508167&v=99A8189422C6F7D5337BD9B1363EC2E058BE81A2) — DevOps / SRE · £90,000–£105,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
+- [Principal DevOps Engineer- SC Cleared](https://www.adzuna.co.uk/jobs/land/ad/5766737924?se=oPz5UgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=99A8189422C6F7D5337BD9B1363EC2E058BE81A2) — DevOps / SRE · £90,000–£105,000/yr · Newcastle Upon Tyne, Tyne & Wear · hybrid
 
 ### [Tatton Recruitment](https://jobs.winterchill.xyz/?employer=Tatton%20Recruitment) (1)
 
@@ -395,6 +413,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Teliytech](https://jobs.winterchill.xyz/?employer=Teliytech) (1)
 
 - [Senior Software Engineer (.NET / Azure / AI Engineering)](https://uk.indeed.com/viewjob?jk=8afa4edc408e26d5) — Backend · £43,256–£65,139/yr · Newcastle upon Tyne, United Kingdom · 🛂 visa sponsor
+
+### [Tesco Insurance](https://jobs.winterchill.xyz/?employer=Tesco%20Insurance) (1)
+
+- [Claims Team Leader (Total Loss)](https://uk.indeed.com/viewjob?jk=e0531cc427b4e630) — £33,040/yr · Newcastle upon Tyne, United Kingdom
 
 ### [Theo James Recruitment](https://jobs.winterchill.xyz/?employer=Theo%20James%20Recruitment) (1)
 
@@ -424,9 +446,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Pharmacy IT Support Officer](https://uk.indeed.com/viewjob?jk=880c04f617728a28) — £28,392–£31,157/yr · Newcastle-under-Lyme, United Kingdom
 
+### [Weightlifter Bodies Ltd](https://jobs.winterchill.xyz/?employer=Weightlifter%20Bodies%20Ltd) (1)
+
+- [Business Development Manager](https://uk.indeed.com/viewjob?jk=4d6050eba396dc92) — Up to £65,000/yr · Newcastle upon Tyne, United Kingdom
+
 ### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (1)
 
 - [Associate/Associate Director - Bridges](https://www.linkedin.com/jobs/view/4387883905/) — Backend · Newcastle Upon Tyne, England, United Kingdom · remote
+
+### [ZeroLight](https://jobs.winterchill.xyz/?employer=ZeroLight) (1)
+
+- [Back End Developer](https://www.adzuna.co.uk/jobs/details/5733697891?utm_medium=api&utm_source=a9508167) — Fenham, Newcastle Upon Tyne · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
