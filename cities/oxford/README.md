@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**125 open roles** · updated 2026-06-25
+**138 open roles** · updated 2026-06-26
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -21,19 +21,30 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (8)
 
-- [Senior Product Security Engineer II](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford/Senior-Product-Security-Engineer-II_R113910-3) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
-- [Senior Full Stack Software Engineer (Java / React )](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford/Senior-Full-Stack-Software-Engineer--Java---React--_R110832) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
-- [Security Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford/Security-Engineer-III_R112063-1) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
-- [Software Engineer III (Java / Spring)](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford/Software-Engineer-III--Java---Spring-_R110764) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
-- [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford/Java-Software-Engineer_R112239) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford/Principal---Consulting-Engineer_R112322-2) — Backend · Oxford, United Kingdom · 🛂 visa sponsor
-- [Senior Java Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford/Senior-Software-Engineer_R105929-3) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Product Security Engineer II](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Senior-Product-Security-Engineer-II_R113910-3) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
+- [Senior Full Stack Software Engineer (Java / React )](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Senior-Full-Stack-Software-Engineer--Java---React--_R110832) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
+- [Security Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Security-Engineer-III_R112063-1) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
+- [Software Engineer III (Java / Spring)](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Software-Engineer-III--Java---Spring-_R110764) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
+- [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Java-Software-Engineer_R112239) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Principal---Consulting-Engineer_R112322-2) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
+- [Senior Java Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Senior-Software-Engineer_R105929-3) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer III (Python)](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/UK-Oxford-Nielsen-House/Software-Engineer-III--Python-_R113007) — Backend · UK-Oxford (Nielsen House), United Kingdom · 🛂 visa sponsor
+
+### [Moderna](https://jobs.winterchill.xyz/?employer=Moderna) (8)
+
+- [Scientist, Clinical Biomarker Laboratory, Immuno-Assays - Cell Based](https://uk.indeed.com/viewjob?jk=9f0dc1418eb8bfe8) — Oxford, United Kingdom
+- [Sr. Research Associate, Clinical Biomarker Laboratory, Immunoassays](https://uk.indeed.com/viewjob?jk=777035d9efd9bbad) — Oxford, United Kingdom
+- [Principal Scientist, Immunogenicity and Ligand Binding Assays](https://www.linkedin.com/jobs/view/4432167335/) — Research / Applied Science · Oxford, England, United Kingdom
+- [Sr. Research Associate, Bioanalytical & Molecular Assays](https://uk.indeed.com/viewjob?jk=ba066a8ee21bffd9) — Oxford, United Kingdom
+- [Principal Scientist, Bioanalytical & Molecular Assays](https://www.linkedin.com/jobs/view/4431458924/) — Data Engineering · Oxford, England, United Kingdom · hybrid
+- [Principal Research Associate, Clinical Biomarker Laboratory, Flow Cytometry](https://uk.indeed.com/viewjob?jk=309ab5633ad7ebc9) — Oxford, United Kingdom
+- [Principal Scientist, Bioanalytical & Molecular Assays](https://uk.indeed.com/viewjob?jk=6862b15c7624abda) — Oxford, United Kingdom
+- [(Fixed Term) Data Quality Control Specialist. Clinical Biomarker Laboratory](https://www.linkedin.com/jobs/view/4408636373/) — Data Engineering · Oxford, England, United Kingdom
 
 ### [RELX](https://jobs.winterchill.xyz/?employer=RELX) (7)
 
 - [Security Engineer III](https://www.adzuna.co.uk/jobs/details/5741163571?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Oxford, Oxfordshire · 🛂 visa sponsor
-- [GENAI Tooling Engineer](https://www.adzuna.co.uk/jobs/details/5731913329?utm_medium=api&utm_source=a9508167) — Backend · Oxford, Oxfordshire
+- [GENAI Tooling Engineer](https://www.adzuna.co.uk/jobs/details/5731913329?utm_medium=api&utm_source=a9508167) — Backend · Oxford, Oxfordshire · 🛂 visa sponsor
 - [Senior Full Stack Software Engineer (Java / React )](https://www.adzuna.co.uk/jobs/details/5679720077?utm_medium=api&utm_source=a9508167) — Backend · Oxford, Oxfordshire
 - [Software Engineer III (Java / Spring)](https://www.adzuna.co.uk/jobs/details/5709794889?utm_medium=api&utm_source=a9508167) — Backend · Oxford, Oxfordshire
 - [Senior Java Software Engineer](https://www.adzuna.co.uk/jobs/details/5652898724?utm_medium=api&utm_source=a9508167) — Oxford, Oxfordshire
@@ -42,13 +53,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (7)
 
-- [Senior Product Security Engineer II](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford/Senior-Product-Security-Engineer-II_R113910) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
-- [Senior Full Stack Software Engineer (Java / React )](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford/Senior-Full-Stack-Software-Engineer--Java---React--_R110832-1) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
-- [Security Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford/Security-Engineer-III_R112063-2) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
-- [Software Engineer III (Java / Spring)](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford/Software-Engineer-III--Java---Spring-_R110764-1) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
-- [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford/Java-Software-Engineer_R112239-1) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford/Principal---Consulting-Engineer_R112322) — Backend · Oxford, United Kingdom · 🛂 visa sponsor
-- [Senior Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford/Senior-Software-Engineer_R105929-1) — Backend · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Product Security Engineer II](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Product-Security-Engineer-II_R113910) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
+- [Senior Full Stack Software Engineer (Java / React )](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Full-Stack-Software-Engineer--Java---React--_R110832-1) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
+- [Security Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Security-Engineer-III_R112063-2) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
+- [Software Engineer III (Java / Spring)](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Software-Engineer-III--Java---Spring-_R110764-1) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
+- [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Java-Software-Engineer_R112239-1) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Principal---Consulting-Engineer_R112322) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
+- [Senior Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Software-Engineer_R105929-1) — Backend · Oxford Nielsen House, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (6)
 
@@ -67,14 +78,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Platforms Software Engineer](https://www.linkedin.com/jobs/view/4425815903/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Moderna](https://jobs.winterchill.xyz/?employer=Moderna) (5)
-
-- [Sr. Research Associate, Bioanalytical & Molecular Assays](https://uk.indeed.com/viewjob?jk=ba066a8ee21bffd9) — Oxford, United Kingdom
-- [Principal Scientist, Bioanalytical & Molecular Assays](https://www.linkedin.com/jobs/view/4431458924/) — Data Engineering · Oxford, England, United Kingdom · hybrid
-- [Principal Research Associate, Clinical Biomarker Laboratory, Flow Cytometry](https://uk.indeed.com/viewjob?jk=309ab5633ad7ebc9) — Oxford, United Kingdom
-- [Principal Scientist, Bioanalytical & Molecular Assays](https://uk.indeed.com/viewjob?jk=6862b15c7624abda) — Oxford, United Kingdom
-- [(Fixed Term) Data Quality Control Specialist. Clinical Biomarker Laboratory](https://www.linkedin.com/jobs/view/4408636373/) — Data Engineering · Oxford, England, United Kingdom
-
 ### [Oxford Nanopore Technologies](https://jobs.winterchill.xyz/?employer=Oxford%20Nanopore%20Technologies) (4)
 
 - [Genomic Applications Manager](https://uk.indeed.com/viewjob?jk=90ee803e5cf7bb3c) — Oxford, United Kingdom
@@ -90,19 +93,24 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Hays Specialist Recruitment](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment) (3)
 
-- [AWS DevOps Engineer (Bioinformatics Sector)](https://www.adzuna.co.uk/jobs/land/ad/5753273214?se=TARfRANw8RGrvYF11hqYFQ&utm_medium=api&utm_source=a9508167&v=92AF43B8F27C548F56AD700DF6FE7A711ED5AD84) — DevOps / SRE · £75,000–£90,000/yr · Oxford, Oxfordshire
-- [Software Engineer (C# .Net, Applied Engineering, STEM)](https://www.adzuna.co.uk/jobs/land/ad/5750870372?se=eFKRQgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=A193015C9B3DE3FA4D3822B7B2DA111208CCA1CD) — Backend · £45,000–£70,000/yr · Oxford, Oxfordshire
-- [Software Engineer (AWS, Python, C#/C++, CFD/FEA)](https://www.adzuna.co.uk/jobs/land/ad/5750869957?se=eFKRQgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=440CC1806BD1005D43C1805033584C654D6F5128) — Backend · £45,000–£68,000/yr · Oxford, Oxfordshire
+- [AWS DevOps Engineer (Bioinformatics Sector)](https://www.adzuna.co.uk/jobs/land/ad/5753273214?se=3m6Tccxw8RGYA5triQA_Pw&utm_medium=api&utm_source=a9508167&v=92AF43B8F27C548F56AD700DF6FE7A711ED5AD84) — DevOps / SRE · £75,000–£90,000/yr · Oxford, Oxfordshire
+- [Software Engineer (C# .Net, Applied Engineering, STEM)](https://www.adzuna.co.uk/jobs/land/ad/5750870372?se=Gr8db8xw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=A193015C9B3DE3FA4D3822B7B2DA111208CCA1CD) — Backend · £45,000–£70,000/yr · Oxford, Oxfordshire
+- [Software Engineer (AWS, Python, C#/C++, CFD/FEA)](https://www.adzuna.co.uk/jobs/land/ad/5750869957?se=Gr8db8xw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=440CC1806BD1005D43C1805033584C654D6F5128) — Backend · £45,000–£68,000/yr · Oxford, Oxfordshire
 
 ### [Archangel Lightworks Ltd](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks%20Ltd) (2)
 
-- [Senior Systems Engineer Optical Ground System Operations](https://www.adzuna.co.uk/jobs/details/5772453028?utm_medium=api&utm_source=a9508167) — Platform / Infrastructure · Oxford, Oxfordshire
+- [Senior Systems Engineer – Optical Ground System Operations](https://www.adzuna.co.uk/jobs/land/ad/5769469275?se=Gr8db8xw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=595C7BAEF80076AE3E9483EBD7C611FEC4E9DEB9) — Platform / Infrastructure · Wytham, Oxford
 - [Embedded Software Engineer](https://www.adzuna.co.uk/jobs/details/5742890111?utm_medium=api&utm_source=a9508167) — Oxford, Oxfordshire
 
 ### [Avanti](https://jobs.winterchill.xyz/?employer=Avanti) (2)
 
 - [Junior QA Engineer](https://www.adzuna.co.uk/jobs/land/ad/5760595835?se=ovMnwadt8RG7-qPLD-YGUQ&utm_medium=api&utm_source=a9508167&v=B0238B3479855A739938BA108620F9E7F936C470) — QA / Test Automation · £28,000–£30,000/yr · Oxford, Oxfordshire
 - [Graduate QA Engineer (Software)](https://www.adzuna.co.uk/jobs/land/ad/5760598097?se=ovMnwadt8RG7-qPLD-YGUQ&utm_medium=api&utm_source=a9508167&v=D80AE6826B95FB273AA7998B17DEE91D9C0CC9D8) — QA / Test Automation · £28,000–£30,000/yr · Oxford, Oxfordshire
+
+### [Bioarchitech Ltd](https://jobs.winterchill.xyz/?employer=Bioarchitech%20Ltd) (2)
+
+- [Senior Scientist](https://uk.indeed.com/viewjob?jk=04cdc0d570aed8ae) — £40,000–£50,000/yr · Oxford, United Kingdom
+- [Senior Scientist (in vivo)](https://uk.indeed.com/viewjob?jk=238a44161ba66312) — £40,000–£50,000/yr · Oxford, United Kingdom
 
 ### Company not listed (2)
 
@@ -118,6 +126,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Bioinformatician - Generative Biology Institute](https://www.linkedin.com/jobs/view/4431659117/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Research Software Engineer - Generative Biology Institute](https://www.linkedin.com/jobs/view/4431657171/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Henderson Scott](https://jobs.winterchill.xyz/?employer=Henderson%20Scott) (2)
+
+- [AWS DevSecOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5761438611?se=IhKWbsxw8RGYA5triQA_Pw&utm_medium=api&utm_source=a9508167&v=140232F0C9EB283A63733EE60383DB85EF1FFED0) — DevOps / SRE · £55,000/yr · Cowley, Oxford · 🛂 visa sponsor
+- [Security Engineer](https://www.adzuna.co.uk/jobs/land/ad/5755361961?se=IhKWbsxw8RGYA5triQA_Pw&utm_medium=api&utm_source=a9508167&v=8CF6EF1E50CDB84AECC5D52B6F0369A1038DD4FC) — DevOps / SRE · £55,000/yr · Cowley, Oxford · 🛂 visa sponsor
 
 ### [JAB Recruitment](https://jobs.winterchill.xyz/?employer=JAB%20Recruitment) (2)
 
@@ -142,7 +155,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Morgan McKinley](https://jobs.winterchill.xyz/?employer=Morgan%20McKinley) (2)
 
 - [Salesforce Technical Lead](https://www.linkedin.com/jobs/view/4430394370/) — Platform / Infrastructure · Up to £120,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-- [Senior DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5752447783?se=TARfRANw8RGrvYF11hqYFQ&utm_medium=api&utm_source=a9508167&v=9470AB91347F67C7CF2D2F88ED43348B5AA623B8) — Oxford, Oxfordshire · 🛂 visa sponsor
+- [Senior DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5752447783?se=3m6Tccxw8RGYA5triQA_Pw&utm_medium=api&utm_source=a9508167&v=9470AB91347F67C7CF2D2F88ED43348B5AA623B8) — Oxford, Oxfordshire · 🛂 visa sponsor
 
 ### [Oxford University Hospitals NHS Foundation Trust](https://jobs.winterchill.xyz/?employer=Oxford%20University%20Hospitals%20NHS%20Foundation%20Trust) (2)
 
@@ -151,8 +164,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Platform Recruitment](https://jobs.winterchill.xyz/?employer=Platform%20Recruitment) (2)
 
-- [Machine Learning Engineer (Computer Vision)](https://www.adzuna.co.uk/jobs/land/ad/5756445856?se=blkzRANw8RGA_J_s4PS1Ig&utm_medium=api&utm_source=a9508167&v=0C52F6A5AE163991A359D11F77CE20D5534CA9AF) — Backend · £85,000–£160,000/yr · Wytham, Oxford
-- [FPGA Design Engineer](https://www.adzuna.co.uk/jobs/land/ad/5489661918?se=eFKRQgNw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=4F9E086299997F9110049BBA08EE01E71501EC52) — Embedded / Robotics · £50,000–£70,000/yr · Wytham, Oxford · hybrid
+- [Machine Learning Engineer (Computer Vision)](https://www.adzuna.co.uk/jobs/land/ad/5756445856?se=jh5mccxw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=0C52F6A5AE163991A359D11F77CE20D5534CA9AF) — Backend · £85,000–£160,000/yr · Wytham, Oxford
+- [FPGA Design Engineer](https://www.adzuna.co.uk/jobs/land/ad/5489661918?se=Gr8db8xw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=4F9E086299997F9110049BBA08EE01E71501EC52) — Embedded / Robotics · £50,000–£70,000/yr · Wytham, Oxford · hybrid
 
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (2)
 
@@ -168,13 +181,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Research Scientist I, Immunobiology](https://www.linkedin.com/jobs/view/4429676613/) — Research / Applied Science · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [Alignerr](https://jobs.winterchill.xyz/?employer=Alignerr) (1)
-
-- [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4432491781/) — ML / AI Engineering · $60–$80/hr · Oxford, England, United Kingdom · remote
-
 ### [Archangel Aerospace Group](https://jobs.winterchill.xyz/?employer=Archangel%20Aerospace%20Group) (1)
 
 - [Embedded Software Engineer (UAVs)](https://www.adzuna.co.uk/jobs/details/5769210996?utm_medium=api&utm_source=a9508167) — Backend · £53,000–£79,000/yr · North Hinksey Village, Oxford
+
+### [Archangel Autonomy](https://jobs.winterchill.xyz/?employer=Archangel%20Autonomy) (1)
+
+- [Finance Operations Manager (PT, Drone AI tech scaleup)](https://uk.indeed.com/viewjob?jk=a70517cfae1db775) — Oxford, United Kingdom · 🛂 visa sponsor
 
 ### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
 
@@ -188,6 +201,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior robotics software engineer - UK Oxfordshire ONLY - no VISA](https://www.linkedin.com/jobs/view/4428860562/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
+### [Bidwells](https://jobs.winterchill.xyz/?employer=Bidwells) (1)
+
+- [Senior Surveyor - Land and Development](https://uk.indeed.com/viewjob?jk=c7cf717c5131f39c) — Oxford, United Kingdom
+
 ### [Capital Resourcing Group](https://jobs.winterchill.xyz/?employer=Capital%20Resourcing%20Group) (1)
 
 - [SAP SuccessFactors Engineer](https://www.reed.co.uk/jobs/sap-successfactors-engineer/57044495) — Enterprise / Business Systems Engineering · £60,000–£70,000/yr · Oxford · hybrid
@@ -199,6 +216,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Cranleigh STEM](https://jobs.winterchill.xyz/?employer=Cranleigh%20STEM) (1)
 
 - [Software Engineer](https://www.adzuna.co.uk/jobs/details/5580874109?utm_medium=api&utm_source=a9508167) — Backend · North Hinksey Village, Oxford
+
+### [Creative Recruitment](https://jobs.winterchill.xyz/?employer=Creative%20Recruitment) (1)
+
+- [Senior HTML Game Developer](https://www.linkedin.com/jobs/view/4433070735/) — Backend · Oxford, England, United Kingdom · remote
 
 ### [develop](https://jobs.winterchill.xyz/?employer=develop) (1)
 
@@ -220,13 +241,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer](https://startup.jobs/software-engineer-habitat-energy-8021594) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
+### [Humand Talent](https://jobs.winterchill.xyz/?employer=Humand%20Talent) (1)
 
-- [Senior Data Engineer](https://www.adzuna.co.uk/jobs/details/5769209400?utm_medium=api&utm_source=a9508167) — Data Engineering · £48,000–£60,000/yr · South Hinksey, Oxford
-
-### [Henderson Scott](https://jobs.winterchill.xyz/?employer=Henderson%20Scott) (1)
-
-- [Security Engineer](https://www.adzuna.co.uk/jobs/details/5755361961?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £55,000/yr · Cowley, Oxford · 🛂 visa sponsor
+- [Software Engineer - ID49470](https://www.linkedin.com/jobs/view/4430220041/) — Backend · £100,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Immunocore](https://jobs.winterchill.xyz/?employer=Immunocore) (1)
 
@@ -243,6 +260,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Mode Labs](https://jobs.winterchill.xyz/?employer=Mode%20Labs) (1)
 
 - [Software Applications Engineer](https://www.adzuna.co.uk/jobs/details/5750419357?utm_medium=api&utm_source=a9508167) — Backend · £34,000–£40,000/yr · Oxford, Oxfordshire
+
+### [NielsenIQ](https://jobs.winterchill.xyz/?employer=NielsenIQ) (1)
+
+- [Distinguished Enterprise Architect](https://uk.indeed.com/viewjob?jk=acd7d82a5a8a3225) — Oxford, United Kingdom
 
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
 
@@ -271,6 +292,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Oxford Policy Management](https://jobs.winterchill.xyz/?employer=Oxford%20Policy%20Management) (1)
 
 - [Principal Consultant, Data Science, Research & Evidence Practice](https://uk.indeed.com/viewjob?jk=88b070a79ff7a494) — Data Engineering · Oxford, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Oxford University Press](https://jobs.winterchill.xyz/?employer=Oxford%20University%20Press) (1)
+
+- [Technical Delivery Manager](https://uk.indeed.com/viewjob?jk=27b745f4271f3568) — Oxford, United Kingdom
 
 ### [Perspectum Ltd](https://jobs.winterchill.xyz/?employer=Perspectum%20Ltd) (1)
 
@@ -304,6 +329,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Full Stack Engineer \| Python, React, AWS \| SaaS](https://www.linkedin.com/jobs/view/4429775850/) — Backend · Up to £80,000/yr · Oxford, England, United Kingdom
 
+### [Siemens Healthineers](https://jobs.winterchill.xyz/?employer=Siemens%20Healthineers) (1)
+
+- [Lean Manufacturing Excellence Manager](https://uk.indeed.com/viewjob?jk=bb56d4e81104ce16) — Oxford, United Kingdom
+
 ### [Space Capital](https://jobs.winterchill.xyz/?employer=Space%20Capital) (1)
 
 - [Platform Engineer](https://www.linkedin.com/jobs/view/4428581737/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid
@@ -312,6 +341,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Science Technician Apprentice - Suitable for School Leaver](https://uk.indeed.com/viewjob?jk=01eca9781b710dc2) — £18,584–£18,842/yr · Oxford, United Kingdom
 
+### [Third Nexus Group Limited](https://jobs.winterchill.xyz/?employer=Third%20Nexus%20Group%20Limited) (1)
+
+- [Power Platform Solution Engineer](https://www.adzuna.co.uk/jobs/land/ad/5776580809?se=0P7Fccxw8RGem4TAUNlqXw&utm_medium=api&utm_source=a9508167&v=DEF5FD5B4BDF2F82164FD8945E5DF9CF64C88E45) — £55,000–£60,000/yr · Wytham, Oxford · hybrid
+
 ### [un emploi de Software Engineer II chez Tripadvisor](https://jobs.winterchill.xyz/?employer=un%20emploi%20de%20Software%20Engineer%20II%20chez%20Tripadvisor) (1)
 
 - [Software Engineer II](https://www.adzuna.co.uk/jobs/details/5252004409?utm_medium=api&utm_source=a9508167) — Full Stack · Oxford, Oxfordshire · 🛂 visa sponsor
@@ -319,6 +352,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Veeva](https://jobs.winterchill.xyz/?employer=Veeva) (1)
 
 - [Senior Search Developer (Remote)](https://jobs.lever.co/veeva/b3fe9695-742d-4c35-a5d9-f0d706c485a7) — Backend · United Kingdom - Oxford · remote · 🛂 visa sponsor
+
+### [Wiley](https://jobs.winterchill.xyz/?employer=Wiley) (1)
+
+- [Account Manager - Corporate Subscriptions, Applied Research Intelligence](https://uk.indeed.com/viewjob?jk=95e38a4a40e3ae48) — £53,100–£78,767/yr · Oxford, United Kingdom
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

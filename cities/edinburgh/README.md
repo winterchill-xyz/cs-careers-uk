@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**241 open roles** · updated 2026-06-25
+**267 open roles** · updated 2026-06-26
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -16,10 +16,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [C++ Software Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/C---Software-Engineer_R0029200) — Backend · £45,000–£60,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer (Senior Levels)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Software-Engineer--Senior-Levels-_R0029170) — Backend · £45,000–£60,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Test Systems Design Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Test-Systems-Design-Engineer_R0029765) — Platform / Infrastructure · £45,000–£60,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
-- [Systems Engineer - All Levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Systems-Engineer---All-Levels_R0024423-1) — Platform / Infrastructure · £44,500–£56,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+- [Systems Engineer - Advanced Targeting - All Levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Systems-Engineer---Advanced-Targeting---All-Levels_R0030899) — Platform / Infrastructure · £44,500–£56,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+- [Systems Engineer - All Levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Systems-Engineer---All-Levels_R0030886-1) — Platform / Infrastructure · £44,500–£56,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Systems Engineer - Antenna/Electromagnetic  - All Levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Systems-Engineer---Antenna-Electromagnetic----All-Levels_R0024426) — Platform / Infrastructure · £44,500–£56,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Systems Engineer - Algorithm Development & Image Processing](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Systems-Engineer---Algorithm-Development---Image-Processing_R0027914) — Platform / Infrastructure · £44,500–£56,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
-- [Systems Engineer - Advanced Targeting - All Levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Systems-Engineer---Advanced-Targeting---All-Levels_R0024424) — Platform / Infrastructure · £44,500–£56,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Firmware/ FPGA Engineers - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Firmware--FPGA-Engineers---all-levels_R0030762) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Digital Engineers - All Levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Digital-Engineers---All-Levels--All-UK-sites-_R0016572) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Electronic Engineer - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Electronic-Engineer---all-levels_R0015647) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
@@ -29,7 +29,23 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Firmware/FPGA Engineers  - All levels (All UK Sites)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Firmware-FPGA-Engineers----All-levels--All-UK-Sites-_R0014842) — Embedded / Robotics · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Firmware/FPGA Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Lead-Firmware-Engineer_R0018458) — Platform / Infrastructure · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [University of Edinburgh](https://jobs.winterchill.xyz/?employer=University%20of%20Edinburgh) (12)
+### [Addepar](https://jobs.winterchill.xyz/?employer=Addepar) (13)
+
+- [Sr. Software Engineer - Data Control Frameworks](https://uk.indeed.com/viewjob?jk=cd73a133c9eeca8f) — Edinburgh, United Kingdom
+- [Sr. Software Engineer - Data Control Frameworks](https://www.linkedin.com/jobs/view/4433085930/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Software Engineer - Calculations](https://www.linkedin.com/jobs/view/4423382130/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
+- [Data Migration Specialist](https://uk.indeed.com/viewjob?jk=96b6d6a3b55bf201) — Edinburgh, United Kingdom
+- [Staff Software Engineer - Reference Data - AI/ML (UK)](https://www.linkedin.com/jobs/view/4413427193/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
+- [Staff Software Engineer](https://app.welcometothejungle.com/jobs/EZQdmiOe) — Backend · Edinburgh, UK · 🛂 visa sponsor
+- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5722144585?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
+- [Staff Backend Software Engineer - Portfolio Data Workflows](https://www.adzuna.co.uk/jobs/details/5755552272?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
+- [Associate Software Engineer - Data Intelligence (ADX)](https://www.adzuna.co.uk/jobs/details/5723441741?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
+- [Staff Software Engineer - Platform Services](https://www.adzuna.co.uk/jobs/details/5757222310?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
+- [Staff Product Manager](https://www.linkedin.com/jobs/view/4408445155/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
+- [Product Manager - Data Intelligence](https://www.linkedin.com/jobs/view/4408451097/) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior / Staff Full Stack Software Engineer - Partner Platform](https://www.linkedin.com/jobs/view/4420471668/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
+
+### [University of Edinburgh](https://jobs.winterchill.xyz/?employer=University%20of%20Edinburgh) (13)
 
 - [Integration Architect](https://uk.indeed.com/viewjob?jk=5fefc0c680e57629) — Backend · £61,759/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Research Fellow in Emerging Semiconductor Technologies](https://uk.indeed.com/viewjob?jk=74dfcc2fae47c59b) — Backend · £61,759/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
@@ -39,32 +55,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Postgraduate Teaching Assistant](https://uk.indeed.com/viewjob?jk=86eed584c1004a14) — Backend · £34,610–£39,906/yr · Edinburgh, United Kingdom · 🛂 visa sponsor
 - [Systematic Review Tutor](https://uk.indeed.com/viewjob?jk=92f83de4f9d1ca6d) — Backend · £34,610–£39,906/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [AI Accelerator Programme Administrator](https://uk.indeed.com/viewjob?jk=fd77a41195e9b9a0) — £32,873–£39,233/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+- [Research Technician](https://uk.indeed.com/viewjob?jk=6098dc771dee7a8b) — £29,588–£33,951/yr · Edinburgh, United Kingdom
 - [PA to Executive Director, Commercial & Residential Services](https://uk.indeed.com/viewjob?jk=01ae7ac3d6dc5f7d) — £33,951/yr · Edinburgh, United Kingdom · 🛂 visa sponsor
 - [Catering and Events Operations Team Leader](https://uk.indeed.com/viewjob?jk=c3149903fc56a429) — Backend · £26,093–£28,778/yr · Edinburgh, United Kingdom · 🛂 visa sponsor
 - [Domestic Assistant](https://uk.indeed.com/viewjob?jk=d125b3e0b03d40eb) — Backend · £24,547/yr · Edinburgh, United Kingdom · 🛂 visa sponsor
 - [Domestic Chargehand](https://uk.indeed.com/viewjob?jk=0d45321471412318) — Backend · £24,547/yr · Edinburgh, United Kingdom · 🛂 visa sponsor
 
-### [Addepar](https://jobs.winterchill.xyz/?employer=Addepar) (11)
-
-- [Data Migration Specialist](https://uk.indeed.com/viewjob?jk=96b6d6a3b55bf201) — Edinburgh, United Kingdom
-- [Staff Software Engineer - Reference Data - AI/ML (UK)](https://www.linkedin.com/jobs/view/4413427193/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
-- [Staff Software Engineer](https://app.welcometothejungle.com/jobs/EZQdmiOe) — Backend · Edinburgh, UK · 🛂 visa sponsor
-- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5722144585?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
-- [Staff Backend Software Engineer - Portfolio Data Workflows](https://www.adzuna.co.uk/jobs/details/5755552272?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
-- [Associate Software Engineer - Data Intelligence (ADX)](https://www.adzuna.co.uk/jobs/details/5723441741?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
-- [Staff Software Engineer - Platform Services](https://www.adzuna.co.uk/jobs/details/5757222310?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
-- [Senior Software Engineer - Calculations](https://www.adzuna.co.uk/jobs/details/5754571164?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh, Scotland · 🛂 visa sponsor
-- [Staff Product Manager](https://www.linkedin.com/jobs/view/4408445155/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
-- [Product Manager - Data Intelligence](https://www.linkedin.com/jobs/view/4408451097/) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior / Staff Full Stack Software Engineer - Partner Platform](https://www.linkedin.com/jobs/view/4420471668/) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
-
 ### [Capco](https://jobs.winterchill.xyz/?employer=Capco) (8)
 
-- [Senior Data Engineer - AWS](https://job-boards.greenhouse.io/capco/jobs/7675144) — Data Engineering · UK - Edinburgh · hybrid · 🛂 visa sponsor
 - [Senior Backend Engineer - Java](https://job-boards.greenhouse.io/capco/jobs/7675218) — Backend · UK - Edinburgh · hybrid · 🛂 visa sponsor
 - [Senior Azure Data Engineer (Databricks)](https://job-boards.greenhouse.io/capco/jobs/7921193) — Data Engineering · UK - Edinburgh; UK - Glasgow  · hybrid · 🛂 visa sponsor
 - [Senior AI Engineer](https://job-boards.greenhouse.io/capco/jobs/7908876) — Backend · UK - Edinburgh · hybrid · 🛂 visa sponsor
 - [Principal Backend Developer (Java)](https://job-boards.greenhouse.io/capco/jobs/7681742) — Backend · UK - Edinburgh · hybrid · 🛂 visa sponsor
+- [Lead AI Engineer](https://job-boards.greenhouse.io/capco/jobs/7712757) — Backend · UK - Edinburgh · hybrid · 🛂 visa sponsor
 - [Engineering Director](https://job-boards.greenhouse.io/capco/jobs/7675150) — Platform / Infrastructure · UK - Edinburgh · hybrid · 🛂 visa sponsor
 - [Backend Developer (Java)](https://job-boards.greenhouse.io/capco/jobs/7681740) — Backend · UK - Edinburgh · hybrid · 🛂 visa sponsor
 - [AWS Data Engineer](https://job-boards.greenhouse.io/capco/jobs/7681746) — Data Engineering · UK - Edinburgh · hybrid · 🛂 visa sponsor
@@ -90,20 +93,37 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java Engineer, Associate](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Edinburgh-Scotland/Java-Engineer--Aladdin-Engineering--Associate_R260209) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
 - [AI/ML - Platform Engineering, Vice President](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Edinburgh-Scotland/AI-ML---Platform-Engineering--Vice-President_R263260) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
 
-### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (5)
+### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (5)
 
-- [Tools Programmer: Audio](https://job-boards.greenhouse.io/rockstargames/jobs/7683473003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer (C++)](https://job-boards.greenhouse.io/rockstargames/jobs/7676265003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer (C++)](https://job-boards.greenhouse.io/rockstargames/jobs/6576746003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Lead Programmer: Creator Platform](https://job-boards.greenhouse.io/rockstargames/jobs/7709385003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Full Stack Engineer (C#/React)](https://job-boards.greenhouse.io/rockstargames/jobs/7710750003) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-
-### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (4)
-
+- [Technology Services Consultant - Transportation](https://uk.indeed.com/viewjob?jk=5389fd5f1bc70a3c) — Edinburgh, United Kingdom
 - [Senior Traffic Control Engineer - Technology Services](https://uk.indeed.com/viewjob?jk=2e7fdc912729f493) — Edinburgh, United Kingdom
 - [Digital Projects IM Lead](https://uk.indeed.com/viewjob?jk=c134c4abdee62c5c) — Edinburgh, United Kingdom
 - [BIM Manager - Energy](https://uk.indeed.com/viewjob?jk=529a7e6bf9f73d8c) — Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior/Principal Wind Energy Yield Analyst](https://uk.indeed.com/viewjob?jk=7a932bbf9a8bcad1) — Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [NatWest Group](https://jobs.winterchill.xyz/?employer=NatWest%20Group) (5)
+
+- [Continuous Improvement Specialist](https://uk.indeed.com/viewjob?jk=74d44b2670a33450) — £45,840–£68,760/yr · Edinburgh, United Kingdom
+- [Financial Crime Lead](https://uk.indeed.com/viewjob?jk=061ef51d8b6147d2) — Data Engineering · £36,168–£51,060/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+- [Reward Intelligence & Insights Lead](https://uk.indeed.com/viewjob?jk=7228a57f5e1c8701) — Data Engineering · £36,168–£51,060/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+- [Reward Intelligence & Insights Lead](https://www.linkedin.com/jobs/view/4430749686/) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Tech Insight Experience for Women - Engineering](https://www.adzuna.co.uk/jobs/details/5688572498?utm_medium=api&utm_source=a9508167) — Edinburgh, Scotland · 🛂 visa sponsor
+
+### [NHS Scotland](https://jobs.winterchill.xyz/?employer=NHS%20Scotland) (5)
+
+- [252026 (AP) Specialist Pharmacist](https://uk.indeed.com/viewjob?jk=efd9ea49bc2db0b6) — £52,845–£61,466/yr · Edinburgh, United Kingdom
+- [252050 - Senior Nuclear Medicine Physicist](https://uk.indeed.com/viewjob?jk=ffe0799d930581c3) — £52,845–£61,466/yr · Edinburgh, United Kingdom
+- [252023 Specialist Rehabilitation Engineer](https://uk.indeed.com/viewjob?jk=898e12eed58a69b9) — £43,231–£52,679/yr · Edinburgh, United Kingdom
+- [250520 (LI) ERAS Nurse](https://uk.indeed.com/viewjob?jk=3879152372f2670d) — £43,231–£52,679/yr · Edinburgh, United Kingdom
+- [NHS LOTHIAN & BORDERS STAFF BANK – Pre-Registration Nursing Students - Band 2 - Healthcare Assistants](https://uk.indeed.com/viewjob?jk=bd7066ef9b77a4d6) — £26,696–£28,988/yr · Edinburgh, United Kingdom
+
+### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (5)
+
+- [Senior Software Engineer - Finance Experience](https://uk.indeed.com/viewjob?jk=4a2f74bfe6950976) — Edinburgh, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer - Finance Experience](https://www.linkedin.com/jobs/view/4429860778/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer - Billing (VAT & Invoicing)](https://www.adzuna.co.uk/jobs/details/5737562157?utm_medium=api&utm_source=a9508167) — Edinburgh, Scotland · 🛂 visa sponsor
+- [Senior Software Engineer - Flights](https://www.adzuna.co.uk/jobs/details/5743581860?utm_medium=api&utm_source=a9508167) — Edinburgh, Scotland · 🛂 visa sponsor
+- [Staff Software Engineer - Flights](https://www.adzuna.co.uk/jobs/details/5743573937?utm_medium=api&utm_source=a9508167) — Edinburgh, Scotland · 🛂 visa sponsor
 
 ### [Analog Devices](https://jobs.winterchill.xyz/?employer=Analog%20Devices) (4)
 
@@ -116,7 +136,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.adzuna.co.uk/jobs/details/5770213879?utm_medium=api&utm_source=a9508167) — Data Engineering · £130,000/yr · Edinburgh, Scotland · hybrid
 - [Application Developer](https://www.adzuna.co.uk/jobs/details/5770213509?utm_medium=api&utm_source=a9508167) — £117,000–£123,500/yr · Edinburgh, Scotland · hybrid
-- [Senior Cyber Security Engineer](https://www.adzuna.co.uk/jobs/details/5769210031?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £75,000/yr · Edinburgh City Centre, Edinburgh
+- [Senior Cyber Security Engineer](https://www.adzuna.co.uk/jobs/land/ad/5756645971?se=5kgbYsxw8RGLSNVmuhUzVg&utm_medium=api&utm_source=a9508167&v=B8F3CD00FA2A66862C91B3EE1645B411FC0F1EAE) — £75,000/yr · Edinburgh, Scotland · hybrid
 - [Principal Java Engineer](https://www.adzuna.co.uk/jobs/details/5749353970?utm_medium=api&utm_source=a9508167) — Backend · £70,000/yr · Edinburgh, Scotland · hybrid
 
 ### [Clearwater Analytics](https://jobs.winterchill.xyz/?employer=Clearwater%20Analytics) (4)
@@ -137,15 +157,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer, Frontend (TypeScript)](https://www.linkedin.com/jobs/view/4422652606/) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineering Manager](https://www.linkedin.com/jobs/view/4421893859/) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
-- [Embedded QA Automation Engineer](https://www.adzuna.co.uk/jobs/land/ad/5708452202?se=9psTNQNw8RGrvYF11hqYFQ&utm_medium=api&utm_source=a9508167&v=205883280340BB9A549AE82DCD3517BE60769223) — Edinburgh, Scotland · 🛂 visa sponsor
+- [Embedded QA Automation Engineer](https://www.adzuna.co.uk/jobs/land/ad/5708452202?se=5kgbYsxw8RGLSNVmuhUzVg&utm_medium=api&utm_source=a9508167&v=205883280340BB9A549AE82DCD3517BE60769223) — Edinburgh, Scotland · 🛂 visa sponsor
 - [Software Engineer, Frontend (TypeScript)](https://uk.indeed.com/viewjob?jk=373835ecef6e0812) — Backend · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [NatWest Group](https://jobs.winterchill.xyz/?employer=NatWest%20Group) (4)
+### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (4)
 
-- [Financial Crime Lead](https://uk.indeed.com/viewjob?jk=061ef51d8b6147d2) — Data Engineering · £36,168–£51,060/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
-- [Reward Intelligence & Insights Lead](https://uk.indeed.com/viewjob?jk=7228a57f5e1c8701) — Data Engineering · £36,168–£51,060/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
-- [Reward Intelligence & Insights Lead](https://www.linkedin.com/jobs/view/4430749686/) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Tech Insight Experience for Women - Engineering](https://www.adzuna.co.uk/jobs/details/5688572498?utm_medium=api&utm_source=a9508167) — Edinburgh, Scotland · 🛂 visa sponsor
+- [Tools Programmer: Audio](https://job-boards.greenhouse.io/rockstargames/jobs/7683473003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer (C++)](https://job-boards.greenhouse.io/rockstargames/jobs/7676265003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer (C++)](https://job-boards.greenhouse.io/rockstargames/jobs/6576746003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Full Stack Engineer (C#/React)](https://job-boards.greenhouse.io/rockstargames/jobs/7710750003) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [Dayshape](https://jobs.winterchill.xyz/?employer=Dayshape) (3)
 
@@ -165,23 +185,28 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead QA Engineer](https://www.reed.co.uk/jobs/lead-qa-engineer/56967072) — DevOps / SRE · Edinburgh
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4426810313/) — Backend · Edinburgh, Scotland, United Kingdom
 
-### [NHS Scotland](https://jobs.winterchill.xyz/?employer=NHS%20Scotland) (3)
-
-- [252050 - Senior Nuclear Medicine Physicist](https://uk.indeed.com/viewjob?jk=ffe0799d930581c3) — £52,845–£61,466/yr · Edinburgh, United Kingdom
-- [252023 Specialist Rehabilitation Engineer](https://uk.indeed.com/viewjob?jk=898e12eed58a69b9) — £43,231–£52,679/yr · Edinburgh, United Kingdom
-- [250520 (LI) ERAS Nurse](https://uk.indeed.com/viewjob?jk=3879152372f2670d) — £43,231–£52,679/yr · Edinburgh, United Kingdom
-
 ### [Opus 2](https://jobs.winterchill.xyz/?employer=Opus%202) (3)
 
 - [Junior Software Engineer](https://startup.jobs/junior-software-engineer-opus-2-8013905) — Backend · Edinburgh, Scotland, United Kingdom
 - [Software Engineer](https://startup.jobs/software-engineer-opus-2-8013908) — Backend · Edinburgh, Scotland, United Kingdom
 - [Staff Software Engineer](https://app.welcometothejungle.com/jobs/eX5096PD) — Backend · Edinburgh, United Kingdom
 
+### [Seccl](https://jobs.winterchill.xyz/?employer=Seccl) (3)
+
+- [Engineering manager](https://www.linkedin.com/jobs/view/4431157613/) — Backend · £95,000–£110,000/yr · Edinburgh, Scotland, United Kingdom · hybrid
+- [Operations delivery lead – tax wrappers](https://uk.indeed.com/viewjob?jk=260e27488c8ef96b) — £50,000–£70,000/yr · Edinburgh, United Kingdom
+- [Senior software engineer (Node.js/TypeScript)](https://www.linkedin.com/jobs/view/4379591810/) — Backend · Edinburgh, Scotland, United Kingdom · hybrid
+
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
 - [Senior Software Engineer, Windows/Desktop Applications - Edinburgh, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720904700?utm_medium=api&utm_source=a9508167) — Mobile · Edinburgh, Scotland
 - [Software Engineer, Data Infrastructure & Acquisition - Edinburgh, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720906574?utm_medium=api&utm_source=a9508167) — Mobile · Edinburgh, Scotland
 - [Software Engineer, Platform - Edinburgh, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720902770?utm_medium=api&utm_source=a9508167) — Mobile · Edinburgh, Scotland
+
+### [ABM Industries Inc.](https://jobs.winterchill.xyz/?employer=ABM%20Industries%20Inc.) (2)
+
+- [External Team Leader](https://uk.indeed.com/viewjob?jk=8cc6f8c2b8c4305f) — £15/hr · Edinburgh, United Kingdom
+- [Security Officer](https://uk.indeed.com/viewjob?jk=0c2e351e0b96baf5) — Edinburgh, United Kingdom
 
 ### [Adobe](https://jobs.winterchill.xyz/?employer=Adobe) (2)
 
@@ -207,6 +232,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Security Engineer - AVP](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Security-Engineer---AVP_JR-0000109968) — DevOps / SRE · Edinburgh, South Gyle Crescent – TESCO TSA, United Kingdom · 🛂 visa sponsor
 - [Senior Android Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Android-Engineer_JR-0000112924) — Backend · Edinburgh, South Gyle Crescent – TESCO TSA, United Kingdom · 🛂 visa sponsor
+
+### [Bright Purple](https://jobs.winterchill.xyz/?employer=Bright%20Purple) (2)
+
+- [Data Engineer](https://www.linkedin.com/jobs/view/4430221435/) — Data Engineering · £500/day · Edinburgh, Scotland, United Kingdom · hybrid
+- [Principle Java SoftwareEngineer](https://www.linkedin.com/jobs/view/4427824680/) — Backend · Up to £95,000/yr · Edinburgh, Scotland, United Kingdom
 
 ### [Change Digital – Digital & Tech Recruitment](https://jobs.winterchill.xyz/?employer=Change%20Digital%20%E2%80%93%20Digital%20%26%20Tech%20Recruitment) (2)
 
@@ -240,8 +270,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (2)
 
-- [AI Engineer](https://www.linkedin.com/jobs/view/4429459977/) — Backend · Edinburgh, Scotland, United Kingdom
+- [AI Engineer](https://www.linkedin.com/jobs/view/4433062674/) — Backend · Edinburgh, Scotland, United Kingdom · hybrid
 - [Junior AI Engineer](https://www.linkedin.com/jobs/view/4432210219/) — Backend · Edinburgh, Scotland, United Kingdom
+
+### [Heriot-Watt University](https://jobs.winterchill.xyz/?employer=Heriot-Watt%20University) (2)
+
+- [Grants Finance Assistant Manager (RGF)](https://uk.indeed.com/viewjob?jk=e503065b720dff8f) — £37,694–£47,389/yr · Edinburgh, United Kingdom
+- [Mechanical Workshop Technician/Senior Technician](https://uk.indeed.com/viewjob?jk=b4434cc5504d7655) — £26,707–£36,636/yr · Edinburgh, United Kingdom
 
 ### [Lenovo](https://jobs.winterchill.xyz/?employer=Lenovo) (2)
 
@@ -268,11 +303,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior MLOps Engineer](https://www.adzuna.co.uk/jobs/details/5594473606?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh City Centre, Edinburgh · 🛂 visa sponsor
 - [Core Data Engineer](https://www.adzuna.co.uk/jobs/details/5717278326?utm_medium=api&utm_source=a9508167) — Data Engineering · Edinburgh City Centre, Edinburgh · 🛂 visa sponsor
 
-### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (2)
-
-- [Senior Software Engineer - Finance Experience](https://uk.indeed.com/viewjob?jk=4a2f74bfe6950976) — Edinburgh, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer - Finance Experience](https://www.linkedin.com/jobs/view/4429860778/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-
 ### [Pontoon](https://jobs.winterchill.xyz/?employer=Pontoon) (2)
 
 - [Junior Dev Ops Engineer](https://www.reed.co.uk/jobs/junior-dev-ops-engineer/56903171) — DevOps / SRE · £38,000–£44,000/yr · Edinburgh · hybrid
@@ -288,10 +318,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Management Accountant](https://uk.indeed.com/viewjob?jk=0e1dc6f0a5103ebf) — £54,398–£58,065/yr · Edinburgh, United Kingdom
 - [Procurement Officer (Graduate)](https://uk.indeed.com/viewjob?jk=834b7a8770ed2787) — £37,682–£44,248/yr · Edinburgh, United Kingdom
 
-### [Seccl](https://jobs.winterchill.xyz/?employer=Seccl) (2)
+### [Talan](https://jobs.winterchill.xyz/?employer=Talan) (2)
 
-- [Engineering manager](https://www.linkedin.com/jobs/view/4431157613/) — Backend · £95,000–£110,000/yr · Edinburgh, Scotland, United Kingdom · hybrid
-- [Operations delivery lead – tax wrappers](https://uk.indeed.com/viewjob?jk=260e27488c8ef96b) — £50,000–£70,000/yr · Edinburgh, United Kingdom
+- [Murex MRB Senior Developer](https://uk.indeed.com/viewjob?jk=e3e5d99ac771e735) — Edinburgh, United Kingdom
+- [Murex MRB Senior Developer](https://www.linkedin.com/jobs/view/4432670105/) — Platform / Infrastructure · Edinburgh, Scotland, United Kingdom · remote
+
+### [Tesco Insurance](https://jobs.winterchill.xyz/?employer=Tesco%20Insurance) (2)
+
+- [Governance, Risk and Compliance Manager](https://uk.indeed.com/viewjob?jk=2ff4f7451ac9cc72) — £57,760–£86,640/yr · Edinburgh, United Kingdom
+- [Senior Systems Engineer](https://uk.indeed.com/viewjob?jk=a82cf6524e260a28) — Up to £75,360/yr · Edinburgh, United Kingdom
 
 ### [The Craneware Group](https://jobs.winterchill.xyz/?employer=The%20Craneware%20Group) (2)
 
@@ -303,6 +338,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Developer – Build Innovative Digital Payment Solutions](https://www.adzuna.co.uk/jobs/details/5743046697?utm_medium=api&utm_source=a9508167) — Backend · £15,000–£37,500/yr · Edinburgh, Scotland
 - [Software Developer](https://www.linkedin.com/jobs/view/4429468696/) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Wood Mackenzie](https://jobs.winterchill.xyz/?employer=Wood%20Mackenzie) (2)
+
+- [Principal Engineer](https://uk.indeed.com/viewjob?jk=5be4c7d07f277913) — Edinburgh, United Kingdom
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4433091411/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+
 ### [xDesign](https://jobs.winterchill.xyz/?employer=xDesign) (2)
 
 - [Senior Software Engineer (Full Stack) - React](https://job-boards.eu.greenhouse.io/xdesign/jobs/4799183101) — Backend · Edinburgh · hybrid · 🛂 visa sponsor
@@ -311,10 +351,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Aberdeen](https://jobs.winterchill.xyz/?employer=Aberdeen) (1)
 
 - [Financial Crime Transaction Monitoring and Screening Lead](https://uk.indeed.com/viewjob?jk=5bb485126e3e7170) — Edinburgh, United Kingdom
-
-### [ABM Industries Inc.](https://jobs.winterchill.xyz/?employer=ABM%20Industries%20Inc.) (1)
-
-- [External Team Leader](https://uk.indeed.com/viewjob?jk=8cc6f8c2b8c4305f) — £15/hr · Edinburgh, United Kingdom
 
 ### [Agoda](https://jobs.winterchill.xyz/?employer=Agoda) (1)
 
@@ -344,6 +380,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior & Principal Full Stack Engineers](https://www.linkedin.com/jobs/view/4421935858/) — Backend · £80,000–£120,000/yr · Edinburgh, Scotland, United Kingdom
 
+### [BES Group](https://jobs.winterchill.xyz/?employer=BES%20Group) (1)
+
+- [Engineer Surveyor (Electrical)](https://uk.indeed.com/viewjob?jk=fbcb007b8456ab2f) — £40,500–£53,466/yr · Edinburgh, United Kingdom
+
 ### [BMS Performance](https://jobs.winterchill.xyz/?employer=BMS%20Performance) (1)
 
 - [Implementation Engineer](https://www.linkedin.com/jobs/view/4428041337/) — Solutions / Customer Engineering · Edinburgh, Scotland, United Kingdom · hybrid
@@ -352,17 +392,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [AI-Forward Software Engineer — AI Transformation Office, Senior Vice President](https://www.adzuna.co.uk/jobs/details/5742304591?utm_medium=api&utm_source=a9508167) — Backend · Edinburgh City Centre, Edinburgh
 
-### [Bright Purple](https://jobs.winterchill.xyz/?employer=Bright%20Purple) (1)
-
-- [Principle Java SoftwareEngineer](https://www.linkedin.com/jobs/view/4427824680/) — Backend · Up to £95,000/yr · Edinburgh, Scotland, United Kingdom
-
 ### [Careys Plc](https://jobs.winterchill.xyz/?employer=Careys%20Plc) (1)
 
 - [Construction Manager](https://uk.indeed.com/viewjob?jk=446a8c1f97f74e5f) — Edinburgh, United Kingdom
 
 ### [Cathcart Technology](https://jobs.winterchill.xyz/?employer=Cathcart%20Technology) (1)
 
-- [Contract Snowflake Data Engineer](https://www.adzuna.co.uk/jobs/details/5774588235?utm_medium=api&utm_source=a9508167) — Data Engineering · £15,000–£19,800/yr · Edinburgh City Centre, Edinburgh
+- [Contract Snowflake Data Engineer](https://www.adzuna.co.uk/jobs/details/5774363551?utm_medium=api&utm_source=a9508167) — Data Engineering · £130,000–£143,000/yr · Edinburgh, Scotland · hybrid
 
 ### [Civica](https://jobs.winterchill.xyz/?employer=Civica) (1)
 
@@ -380,9 +416,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer](https://www.adzuna.co.uk/jobs/details/5768784333?utm_medium=api&utm_source=a9508167) — Backend · Edinburgh, Scotland · hybrid
 
+### [Copello](https://jobs.winterchill.xyz/?employer=Copello) (1)
+
+- [Software Engineer Manager](https://www.adzuna.co.uk/jobs/land/ad/5776431868?se=HqcsZcxw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=1852A1395A9748E1BEAEDF03EAA026B35983FB50) — £70,000–£80,000/yr · Edinburgh, Scotland · hybrid
+
+### [Covetrus](https://jobs.winterchill.xyz/?employer=Covetrus) (1)
+
+- [Implementation Engineer](https://www.linkedin.com/jobs/view/4401928551/) — DevOps / SRE · Edinburgh, Scotland, United Kingdom · hybrid
+
 ### [Datatech](https://jobs.winterchill.xyz/?employer=Datatech) (1)
 
-- [AI Engineer - Financial Service Consulting](https://www.adzuna.co.uk/jobs/land/ad/5769898551?se=mi7BNwNw8RGA_J_s4PS1Ig&utm_medium=api&utm_source=a9508167&v=079368CF21110EC316FACC2DF62B421DE306BDE6) — Backend · Edinburgh, Scotland · hybrid
+- [AI Engineer - Financial Service Consulting](https://www.adzuna.co.uk/jobs/land/ad/5769898551?se=HqcsZcxw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=079368CF21110EC316FACC2DF62B421DE306BDE6) — Backend · Edinburgh, Scotland · hybrid
 
 ### [Datatech Analytics](https://jobs.winterchill.xyz/?employer=Datatech%20Analytics) (1)
 
@@ -408,6 +452,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineering Manager](https://www.linkedin.com/jobs/view/4429664013/) — Backend · £80,000–£100,000/yr · Edinburgh, Scotland, United Kingdom · hybrid
 
+### [Fdo Consulting Limited](https://jobs.winterchill.xyz/?employer=Fdo%20Consulting%20Limited) (1)
+
+- [Lead Azure Platform Engineer, PaaS, Home Based](https://www.adzuna.co.uk/jobs/details/5774363385?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £100,000/yr · Edinburgh, Scotland · remote
+
 ### [Financial Conduct Authority](https://jobs.winterchill.xyz/?employer=Financial%20Conduct%20Authority) (1)
 
 - [Senior Data Scientist - Markets](https://www.linkedin.com/jobs/view/4432546609/) — Data Engineering · £53,800–£64,000/yr · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
@@ -422,7 +470,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [GE Vernova](https://jobs.winterchill.xyz/?employer=GE%20Vernova) (1)
 
-- [Software Delivery Manager / Technical Lead](https://www.linkedin.com/jobs/view/4431718857/) — DevOps / SRE · Greater Edinburgh Area · remote
+- [Software Delivery Manager / Technical Lead](https://www.linkedin.com/jobs/view/4431718857/) — DevOps / SRE · Edinburgh, Scotland, United Kingdom · remote
 
 ### [Gousto](https://jobs.winterchill.xyz/?employer=Gousto) (1)
 
@@ -438,7 +486,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (1)
 
-- [Senior Android Engineer](https://www.linkedin.com/jobs/view/4429388390/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Android Engineer](https://www.linkedin.com/jobs/view/4432641921/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [Harnham - Data & Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20%26%20Analytics%20Recruitment) (1)
 
@@ -462,7 +510,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [iSupply Recruitment Ltd](https://jobs.winterchill.xyz/?employer=iSupply%20Recruitment%20Ltd) (1)
 
-- [Infrastructure Engineer](https://www.adzuna.co.uk/jobs/land/ad/5772681707?se=GrU9NwNw8RG1ptycNMu8WA&utm_medium=api&utm_source=a9508167&v=F921EAAA06975AF423001414800F4FD8A433BB04) — DevOps / SRE · £60,000–£75,000/yr · Edinburgh, Scotland
+- [Infrastructure Engineer](https://www.adzuna.co.uk/jobs/land/ad/5772681707?se=WJVLZMxw8RGCzc6DdVFMOA&utm_medium=api&utm_source=a9508167&v=F921EAAA06975AF423001414800F4FD8A433BB04) — DevOps / SRE · £60,000–£75,000/yr · Edinburgh, Scotland
 
 ### [IT Online Learning](https://jobs.winterchill.xyz/?employer=IT%20Online%20Learning) (1)
 
@@ -492,6 +540,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer](https://www.adzuna.co.uk/jobs/details/5725943591?utm_medium=api&utm_source=a9508167) — Backend · £60,000/yr · Edinburgh, Scotland
 
+### [MAC Recruit Group Ltd](https://jobs.winterchill.xyz/?employer=MAC%20Recruit%20Group%20Ltd) (1)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4433316927/) — Backend · £40,000–£60,000/yr · Edinburgh, Scotland, United Kingdom · remote
+
 ### [Mantel](https://jobs.winterchill.xyz/?employer=Mantel) (1)
 
 - [Lead/Principal Machine Learning Engineer - Sydney / Melbourne based](https://www.linkedin.com/jobs/view/4429249870/) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
@@ -499,6 +551,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Nine Twenty Recruitment](https://jobs.winterchill.xyz/?employer=Nine%20Twenty%20Recruitment) (1)
 
 - [Developer](https://www.linkedin.com/jobs/view/4431217361/) — Backend · Edinburgh, Scotland, United Kingdom
+
+### [OCS Group](https://jobs.winterchill.xyz/?employer=OCS%20Group) (1)
+
+- [Helpdesk Coordinator](https://uk.indeed.com/viewjob?jk=db37c03d0eda9c84) — Edinburgh, United Kingdom
 
 ### [OpenSourced Ltd](https://jobs.winterchill.xyz/?employer=OpenSourced%20Ltd) (1)
 
@@ -518,7 +574,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Qaledon by Caledonia Financial Group](https://jobs.winterchill.xyz/?employer=Qaledon%20by%20Caledonia%20Financial%20Group) (1)
 
-- [BACKEND ENGINEERS](https://www.linkedin.com/jobs/view/4432809499/) — Backend · Greater Edinburgh Area · remote
+- [BACKEND ENGINEERS](https://www.linkedin.com/jobs/view/4433342485/) — Backend · Greater Edinburgh Area · remote
 
 ### [Quorum Cyber](https://jobs.winterchill.xyz/?employer=Quorum%20Cyber) (1)
 
@@ -527,6 +583,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Quorum Network Resources](https://jobs.winterchill.xyz/?employer=Quorum%20Network%20Resources) (1)
 
 - [Graduate Automation & AI Engineer](https://www.reed.co.uk/jobs/graduate-automation-ai-engineer/56978719) — Backend · Edinburgh · hybrid
+
+### [RECRUITMENTiQ](https://jobs.winterchill.xyz/?employer=RECRUITMENTiQ) (1)
+
+- [Head of Corporate Services](https://uk.indeed.com/viewjob?jk=4e18547f6d63720e) — Edinburgh, United Kingdom
 
 ### [Rise Technical Recruitment](https://jobs.winterchill.xyz/?employer=Rise%20Technical%20Recruitment) (1)
 
@@ -552,6 +612,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Junior Engineer](https://www.adzuna.co.uk/jobs/details/5727320847?utm_medium=api&utm_source=a9508167) — Backend · Edinburgh, Scotland
 
+### [Spinwell Global](https://jobs.winterchill.xyz/?employer=Spinwell%20Global) (1)
+
+- [Developer - Local Authority](https://www.adzuna.co.uk/jobs/details/5776442828?utm_medium=api&utm_source=a9508167) — Edinburgh City Centre, Edinburgh · hybrid
+
 ### [SSE PLC](https://jobs.winterchill.xyz/?employer=SSE%20PLC) (1)
 
 - [Energy Markets - Senior Analytics Manager](https://uk.indeed.com/viewjob?jk=c5ba14ab0f25f54e) — Data Engineering · £66,100–£99,100/yr · Edinburgh, United Kingdom · hybrid
@@ -564,10 +628,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Engineering Manager (R&D Engineering)](https://www.linkedin.com/jobs/view/4411653339/) — Backend · Edinburgh, Scotland, United Kingdom
 
-### [Tesco Insurance](https://jobs.winterchill.xyz/?employer=Tesco%20Insurance) (1)
-
-- [Senior Systems Engineer](https://uk.indeed.com/viewjob?jk=a82cf6524e260a28) — Up to £75,360/yr · Edinburgh, United Kingdom
-
 ### [The HR Dept](https://jobs.winterchill.xyz/?employer=The%20HR%20Dept) (1)
 
 - [Venue Coordinator](https://uk.indeed.com/viewjob?jk=b9cb7d3fd282f4f6) — £150/day · Edinburgh, United Kingdom
@@ -575,10 +635,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Tomoro](https://jobs.winterchill.xyz/?employer=Tomoro) (1)
 
 - [UK Senior Applied AI Solution Engineer](https://www.adzuna.co.uk/jobs/details/5415768855?utm_medium=api&utm_source=a9508167) — Backend · £90,000–£135,000/yr · Edinburgh, Scotland
-
-### [Trustpilot](https://jobs.winterchill.xyz/?employer=Trustpilot) (1)
-
-- [Machine Learning Engineer](https://corporate.trustpilot.com/careers/job/7974601?gh_jid=7974601) — Backend · Edinburgh · 🛂 visa sponsor
 
 ### [unitech consultancy services ltd](https://jobs.winterchill.xyz/?employer=unitech%20consultancy%20services%20ltd) (1)
 
