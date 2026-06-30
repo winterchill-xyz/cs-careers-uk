@@ -1,17 +1,18 @@
 # Software &amp; IT careers in Sheffield
 
-**119 open roles** · updated 2026-06-29
+**149 open roles** · updated 2026-06-30
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [HSBC](https://jobs.winterchill.xyz/?employer=HSBC) (10)
+### [HSBC](https://jobs.winterchill.xyz/?employer=HSBC) (11)
 
 - [Senior Technical Business Analyst](https://www.linkedin.com/jobs/view/4433360994/) — Sheffield, England, United Kingdom
 - [Senior Technical Business Analyst](https://uk.indeed.com/viewjob?jk=58294b51c14ae941) — Sheffield, United Kingdom
 - [Lead Full Stack Engineer](https://uk.indeed.com/viewjob?jk=803ed5ef036fc05f) — Sheffield, United Kingdom
 - [Lead Full Stack Engineer](https://www.linkedin.com/jobs/view/4433303618/) — Backend · Sheffield, England, United Kingdom
+- [GenAI Platform Lead](https://www.linkedin.com/jobs/view/4432421536/) — Backend · Sheffield, England, United Kingdom
 - [MLOps Engineer (LLM/GenAI)](https://www.linkedin.com/jobs/view/4432415708/) — Backend · Sheffield, England, United Kingdom
 - [AI Platform Delivery Manager](https://uk.indeed.com/viewjob?jk=6f4d427983225ae8) — Sheffield, United Kingdom
 - [MLOps Engineer (LLM/GenAI)](https://uk.indeed.com/viewjob?jk=6ae5d5eb5416c878) — Sheffield, United Kingdom
@@ -19,70 +20,90 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Site Reliability Engineer (SRE) - AI Platforms](https://uk.indeed.com/viewjob?jk=d25a579d32e832cf) — Sheffield, United Kingdom
 - [Site Reliability Engineer (SRE) - AI Platforms](https://www.linkedin.com/jobs/view/4432419705/) — DevOps / SRE · Sheffield, England, United Kingdom
 
-### [RedRock Resourcing](https://jobs.winterchill.xyz/?employer=RedRock%20Resourcing) (7)
+### [RedRock Resourcing](https://jobs.winterchill.xyz/?employer=RedRock%20Resourcing) (6)
 
-- [Software Developer x 2 - C#/.Net/Angular - Up to £55k](https://www.adzuna.co.uk/jobs/land/ad/5756393643?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=5C7690B29601CA5EBFAADD833066A4BC7DF6616F) — Backend · £40,000–£55,000/yr · Heeley, Sheffield
+- [Software Developer x 2 - C#/.Net/Angular - Up to £55k](https://www.adzuna.co.uk/jobs/land/ad/5756393643?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=5C7690B29601CA5EBFAADD833066A4BC7DF6616F) — Backend · £40,000–£55,000/yr · Heeley, Sheffield
 - [C#/ .Net Software Developer (New Role)](https://www.linkedin.com/jobs/view/4429629721/) — Backend · Up to £55,000/yr · Sheffield, England, United Kingdom
-- [C#/ .Net Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5764307635?se=Btbh_idz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=F680B7D03632DC91DF617A2D48757F53DF5B5FE3) — Backend · £40,000–£50,000/yr · Heeley, Sheffield
-- [Application Support Analyst/Engineer x 2 - New Role](https://www.linkedin.com/jobs/view/4428413173/) — Backend · £25,000–£40,000/yr · Sheffield, England, United Kingdom
+- [C#/ .Net Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5764307635?se=drTuu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=F680B7D03632DC91DF617A2D48757F53DF5B5FE3) — Backend · £40,000–£50,000/yr · Heeley, Sheffield
 - [Software Engineer - C#/.Net/Angular - New](https://www.linkedin.com/jobs/view/4431479675/) — Backend · Sheffield, England, United Kingdom
 - [Angular/ C# .NET Software Developer](https://www.linkedin.com/jobs/view/4429630702/) — Backend · Sheffield, England, United Kingdom
 - [Software Developer (Angular) - Up to £55k](https://www.linkedin.com/jobs/view/4429653059/) — Backend · Sheffield, England, United Kingdom
 
-### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (6)
+### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (5)
 
 - [Senior Technical Business Analyst](https://www.linkedin.com/jobs/view/4433431899/) — Sheffield, England, United Kingdom · 🛂 visa sponsor
 - [Lead Full Stack Engineer](https://www.linkedin.com/jobs/view/4433281903/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
 - [GenAI Platform Lead](https://www.linkedin.com/jobs/view/4432174064/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
 - [MLOps Engineer (LLM/GenAI)](https://www.linkedin.com/jobs/view/4432164162/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
 - [Site Reliability Engineer (SRE)  - AI Platforms](https://www.linkedin.com/jobs/view/4432164163/) — DevOps / SRE · Sheffield, England, United Kingdom · 🛂 visa sponsor
-- [MSD365 Technical Specialist](https://www.linkedin.com/jobs/view/4429602735/) — Platform / Infrastructure · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [Adria Solutions](https://jobs.winterchill.xyz/?employer=Adria%20Solutions) (4)
 
 - [Lead Software Developer](https://www.adzuna.co.uk/jobs/details/5769211303?utm_medium=api&utm_source=a9508167) — Backend · £70,000–£85,000/yr · Norton, Sheffield
-- [Lead Software Developer - C#](https://www.adzuna.co.uk/jobs/land/ad/5757523873?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=98E81C115C82727ABB75FA315F20AA7273DD6F96) — Backend · £70,000–£85,000/yr · Sheffield, South Yorkshire
+- [Lead Software Developer - C#](https://www.adzuna.co.uk/jobs/land/ad/5757523873?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=98E81C115C82727ABB75FA315F20AA7273DD6F96) — Backend · £70,000–£85,000/yr · Sheffield, South Yorkshire
 - [Senior C# Software Engineer X 4](https://www.adzuna.co.uk/jobs/details/5765491762?utm_medium=api&utm_source=a9508167) — Backend · £85,000/yr · Sheffield, South Yorkshire
-- [C# .NET Developer (Azure) - Sheffield](https://www.adzuna.co.uk/jobs/details/5726343440?utm_medium=api&utm_source=a9508167) — Backend · £65,000/yr · Sheffield, South Yorkshire
+- [C# .NET Developer (Azure) - Sheffield X 2](https://www.reed.co.uk/jobs/c-net-developer-azure-sheffield-x-2/57069003) — Backend · £45,000–£65,000/yr · Sheffield
+
+### [University of Sheffield](https://jobs.winterchill.xyz/?employer=University%20of%20Sheffield) (4)
+
+- [Lecturer in Aerospace Engineering](https://uk.indeed.com/viewjob?jk=5271555845b8835a) — £48,822/yr · Sheffield, United Kingdom
+- [Research Associate](https://uk.indeed.com/viewjob?jk=1c371e0c8d9b8de5) — £38,784–£41,064/yr · Sheffield, United Kingdom
+- [Senior Technician: Geotechnical & Water](https://uk.indeed.com/viewjob?jk=e05c7f672eeb0721) — £32,080–£39,906/yr · Sheffield, United Kingdom · hybrid
+- [IT Support Assistant](https://uk.indeed.com/viewjob?jk=567e60dabe44aa49) — £25,249–£28,778/yr · Sheffield, United Kingdom
 
 ### [Adria Solutions Ltd](https://jobs.winterchill.xyz/?employer=Adria%20Solutions%20Ltd) (3)
 
 - [Lead Software Developer](https://www.adzuna.co.uk/jobs/details/5778920296?utm_medium=api&utm_source=a9508167) — Backend · £70,000–£85,000/yr · Norton, Sheffield
-- [Lead Software Developer - C](https://www.adzuna.co.uk/jobs/land/ad/5757454569?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=7462E348D1E5EDA4FF44B050AF03213458C601A9) — Backend · £70,000–£85,000/yr · Heeley, Sheffield
-- [Senior C# Software Engineer X 4](https://www.adzuna.co.uk/jobs/land/ad/5765457827?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=D650AA5F3F9AFAFAAC890BC1B7785180EE18291F) — Backend · £50,000–£85,000/yr · Sheffield, South Yorkshire
+- [Lead Software Developer - C](https://www.adzuna.co.uk/jobs/land/ad/5757454569?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=7462E348D1E5EDA4FF44B050AF03213458C601A9) — Backend · £70,000–£85,000/yr · Sheffield, South Yorkshire
+- [Senior C# Software Engineer X 4](https://www.adzuna.co.uk/jobs/land/ad/5765457827?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=D650AA5F3F9AFAFAAC890BC1B7785180EE18291F) — Backend · £50,000–£85,000/yr · Sheffield, South Yorkshire
 
 ### [Essential Consulting](https://jobs.winterchill.xyz/?employer=Essential%20Consulting) (3)
 
-- [Engineering Lead - Platform Engineering Automation](https://www.adzuna.co.uk/jobs/details/5776023049?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £43,000–£74,000/yr · Greenhill, Sheffield
-- [Engineering Practice Lead](https://www.adzuna.co.uk/jobs/details/5778836219?utm_medium=api&utm_source=a9508167) — Sheffield, South Yorkshire
-- [AI Lead Engineering Practices](https://www.adzuna.co.uk/jobs/details/5778835790?utm_medium=api&utm_source=a9508167) — Sheffield, South Yorkshire · hybrid
+- [Engineering Lead - Platform Engineering / Automation](https://www.adzuna.co.uk/jobs/land/ad/5774486895?se=phjIvPVz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=5AA0FC54674693576414B121744F8B3103AE76F9) — DevOps / SRE · £43,000–£74,000/yr · Sheffield, South Yorkshire
+- [AI Lead Engineering Practices](https://www.adzuna.co.uk/jobs/land/ad/5780693882?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=0D1E3924EAA544B53967FB18D09398211BE6C226) — Sheffield, South Yorkshire · hybrid
+- [Engineering Practice Lead](https://www.adzuna.co.uk/jobs/land/ad/5778836219?se=_nQovPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=0DF8D0CB9D2C120D92FB71A35526A3D1D2F8065D) — Sheffield, South Yorkshire
 
 ### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (3)
 
-- [Remote DevOps Engineer up to £760 per day INSIDE](https://www.adzuna.co.uk/jobs/land/ad/5758517621?se=gJyb_ydz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=DCFA1D37879C572BDECB7D270B22DA7F84EFDFE4) — DevOps / SRE · £162,760–£197,600/yr · Heeley, Sheffield · remote
+- [Remote DevOps Engineer up to £760 per day INSIDE](https://www.adzuna.co.uk/jobs/land/ad/5758517621?se=phjIvPVz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=DCFA1D37879C572BDECB7D270B22DA7F84EFDFE4) — DevOps / SRE · £162,760–£197,600/yr · Heeley, Sheffield · remote
 - [Data Engineer (Fabric)](https://www.adzuna.co.uk/jobs/details/5776020244?utm_medium=api&utm_source=a9508167) — Data Engineering · £50,000–£60,000/yr · Norton, Sheffield
 - [Remote DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5776021422?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Norton, Sheffield · remote
 
-### [University of Sheffield](https://jobs.winterchill.xyz/?employer=University%20of%20Sheffield) (3)
+### [South Yorkshire Mayoral Combined Authority](https://jobs.winterchill.xyz/?employer=South%20Yorkshire%20Mayoral%20Combined%20Authority) (3)
 
-- [Lecturer in Aerospace Engineering](https://uk.indeed.com/viewjob?jk=5271555845b8835a) — £48,822/yr · Sheffield, United Kingdom
-- [Research Associate](https://uk.indeed.com/viewjob?jk=1c371e0c8d9b8de5) — £38,784–£41,064/yr · Sheffield, United Kingdom
-- [IT Support Assistant](https://uk.indeed.com/viewjob?jk=567e60dabe44aa49) — £25,249–£28,778/yr · Sheffield, United Kingdom
+- [Head of Transport Technology](https://www.linkedin.com/jobs/view/4426499255/) — £75,061–£83,150/yr · Sheffield, England, United Kingdom · hybrid
+- [Head of Digital Platforms](https://www.linkedin.com/jobs/view/4430230751/) — £75,061–£83,150/yr · Sheffield, England, United Kingdom · hybrid
+- [DTS Business Systems Developer](https://www.linkedin.com/jobs/view/4427861126/) — £39,153–£41,772/yr · Sheffield, England, United Kingdom · hybrid
 
 ### [Arm](https://jobs.winterchill.xyz/?employer=Arm) (2)
 
 - [Staff SoC Verification and Emulation Engineer](https://www.linkedin.com/jobs/view/4402110248/) — Backend · £97,300–£131,700/yr · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Implementation Engineer](https://www.linkedin.com/jobs/view/4424560547/) — Backend · £73,500–£99,500/yr · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Caspian One](https://jobs.winterchill.xyz/?employer=Caspian%20One) (2)
+
+- [Technical Project Manager](https://www.linkedin.com/jobs/view/4431071980/) — £550/day · Sheffield, England, United Kingdom
+- [Java Software Engineer](https://www.linkedin.com/jobs/view/4430408667/) — Backend · Sheffield, England, United Kingdom
+
 ### [CRU](https://jobs.winterchill.xyz/?employer=CRU) (2)
 
 - [Senior Full Stack Engineer - React/Node](https://www.linkedin.com/jobs/view/4431679143/) — Backend · Sheffield, England, United Kingdom · hybrid
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4429944589/) — Backend · Sheffield, England, United Kingdom
 
-### [DWP Digital](https://jobs.winterchill.xyz/?employer=DWP%20Digital) (2)
+### [DLA Piper](https://jobs.winterchill.xyz/?employer=DLA%20Piper) (2)
 
-- [Senior Data Engineer](https://www.adzuna.co.uk/jobs/details/5773866074?utm_medium=api&utm_source=a9508167) — Data Engineering · £75,000/yr · Sheffield, South Yorkshire
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5762490240?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £55,000/yr · Sheffield, South Yorkshire · hybrid
+- [Product Manager](https://www.linkedin.com/jobs/view/4432290202/) — Sheffield, England, United Kingdom
+- [Product Manager](https://uk.indeed.com/viewjob?jk=fb193f10b6417027) — Sheffield, United Kingdom
+
+### [Elevation Recruitment Group](https://jobs.winterchill.xyz/?employer=Elevation%20Recruitment%20Group) (2)
+
+- [Senior Operations Manager](https://www.linkedin.com/jobs/view/4431500099/) — Sheffield, England, United Kingdom
+- [D365 Developer](https://www.linkedin.com/jobs/view/4428284089/) — Sheffield, England, United Kingdom
+
+### [eTeam](https://jobs.winterchill.xyz/?employer=eTeam) (2)
+
+- [Solutions Architect](https://www.linkedin.com/jobs/view/4434456904/) — £519/day · Sheffield, England, United Kingdom
+- [Python Developer](https://www.linkedin.com/jobs/view/4432299471/) — Backend · £362/day · Sheffield, England, United Kingdom
 
 ### [EWOR GmbH](https://jobs.winterchill.xyz/?employer=EWOR%20GmbH) (2)
 
@@ -96,8 +117,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Hays Specialist Recruitment Limited](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment%20Limited) (2)
 
-- [Data Engineer (Fabric)](https://www.adzuna.co.uk/jobs/land/ad/5764582568?se=Ln0S_ydz8RG03p_b2NRIZw&utm_medium=api&utm_source=a9508167&v=11F720158CEB7045FA2271FE65FD6D341A309999) — Data Engineering · £50,000–£60,000/yr · Sheffield, South Yorkshire
-- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5768360109?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=77FDD9364B42CF61B240940D296BE49C20ECC3BA) — Backend · £45,000–£50,000/yr · Sheffield, South Yorkshire · hybrid
+- [Data Engineer (Fabric)](https://www.adzuna.co.uk/jobs/land/ad/5764582568?se=_nQovPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=11F720158CEB7045FA2271FE65FD6D341A309999) — Data Engineering · £50,000–£60,000/yr · Sheffield, South Yorkshire
+- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5768360109?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=77FDD9364B42CF61B240940D296BE49C20ECC3BA) — Backend · £45,000–£50,000/yr · Sheffield, South Yorkshire · hybrid
 
 ### [HelloKindred](https://jobs.winterchill.xyz/?employer=HelloKindred) (2)
 
@@ -109,14 +130,24 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Operations Manager - Sheffield](https://uk.indeed.com/viewjob?jk=7a9a64d7895aaf5c) — Sheffield, United Kingdom
 - [Inspector - Sheffield](https://uk.indeed.com/viewjob?jk=b320f490b35c3ec9) — Sheffield, United Kingdom
 
+### [Infinity Quest](https://jobs.winterchill.xyz/?employer=Infinity%20Quest) (2)
+
+- [Kubernetes Lead](https://www.linkedin.com/jobs/view/4434700218/) — Sheffield, England, United Kingdom
+- [Front End Developer-React](https://www.linkedin.com/jobs/view/4432570626/) — Backend · Sheffield, England, United Kingdom · hybrid
+
 ### [IT Online Learning](https://jobs.winterchill.xyz/?employer=IT%20Online%20Learning) (2)
 
-- [AI Engineer Placement Programme No Experience Needed](https://www.adzuna.co.uk/jobs/details/5759850075?utm_medium=api&utm_source=a9508167) — £75,000/yr · Sheffield, South Yorkshire · remote
-- [Software Developer Placement Programme No experience needed](https://www.adzuna.co.uk/jobs/land/ad/5759825637?se=Btbh_idz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=B016CFA46EF3C21E065D9D4AED3C2E471E489A55) — Backend · £65,000/yr · Sheffield, South Yorkshire · remote
+- [AI Engineer Placement Programme No Experience Needed](https://www.adzuna.co.uk/jobs/land/ad/5757937277?se=AqudvPVz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=F0794BE9A4A9309138782DE62F206DD636A68113) — ML / AI Engineering · £75,000/yr · Sheffield, South Yorkshire · remote
+- [Software Developer Placement Programme No experience needed](https://www.adzuna.co.uk/jobs/land/ad/5759825637?se=drTuu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=B016CFA46EF3C21E065D9D4AED3C2E471E489A55) — Backend · £65,000/yr · Sheffield, South Yorkshire · remote
+
+### [ITM Power](https://jobs.winterchill.xyz/?employer=ITM%20Power) (2)
+
+- [Senior Business Development Manager Hydrogen](https://uk.indeed.com/viewjob?jk=0acd29f35610f330) — Sheffield, United Kingdom
+- [Product Quality & Conformity Engineer](https://uk.indeed.com/viewjob?jk=c96ac12b2275f2cb) — Sheffield, United Kingdom
 
 ### [Net2Source (N2S)](https://jobs.winterchill.xyz/?employer=Net2Source%20%28N2S%29) (2)
 
-- [Java Backend with Microservices](https://www.linkedin.com/jobs/view/4418087561/) — Backend · Sheffield, England, United Kingdom
+- [Java Backend with Microservices](https://www.linkedin.com/jobs/view/4418087561/) — Backend · Sheffield, England, United Kingdom · hybrid
 - [Java & Kotlin Developer](https://www.linkedin.com/jobs/view/4418091529/) — Backend · Sheffield, England, United Kingdom
 
 ### [Preventx](https://jobs.winterchill.xyz/?employer=Preventx) (2)
@@ -129,24 +160,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Tech Lead/ Engineering Manager](https://www.adzuna.co.uk/jobs/details/5757039054?utm_medium=api&utm_source=a9508167) — Product Engineering · Sheffield, South Yorkshire
 - [Software Engineer](https://www.adzuna.co.uk/jobs/details/5767935118?utm_medium=api&utm_source=a9508167) — Backend · Sheffield, South Yorkshire
 
+### [Sheffield Forgemasters Engineering Ltd](https://jobs.winterchill.xyz/?employer=Sheffield%20Forgemasters%20Engineering%20Ltd) (2)
+
+- [Lead Apprentice Training Mentor](https://uk.indeed.com/viewjob?jk=1d9a5819612b06aa) — Sheffield, United Kingdom
+- [Finance Business Partner](https://uk.indeed.com/viewjob?jk=f7d272e189be7044) — Sheffield, United Kingdom
+
 ### [Talent Smart](https://jobs.winterchill.xyz/?employer=Talent%20Smart) (2)
 
-- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5775105553?se=Ln0S_ydz8RG03p_b2NRIZw&utm_medium=api&utm_source=a9508167&v=0421C0BA4ADD9501D4A96E8E3176EBFA47CEDB93) — Data Engineering · £130,000–£156,000/yr · Heeley, Sheffield
+- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5775105553?se=_nQovPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=0421C0BA4ADD9501D4A96E8E3176EBFA47CEDB93) — Data Engineering · £500–£600/day · Heeley, Sheffield
 - [API Developer - Golang/Python](https://www.adzuna.co.uk/jobs/land/ad/5708347841?se=mgM6v5Vx8RG03p_b2NRIZw&utm_medium=api&utm_source=a9508167&v=363601EF1EBFEA34775A72937C4C54EC709AA094) — Backend · £130,000–£149,500/yr · Heeley, Sheffield
 
 ### [TESTQ Technologies](https://jobs.winterchill.xyz/?employer=TESTQ%20Technologies) (2)
 
-- [Backend Engineer](https://www.linkedin.com/jobs/view/4433579999/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
+- [Backend Engineer](https://www.linkedin.com/jobs/view/4433579999/) — Backend · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Back End Developer](https://www.linkedin.com/jobs/view/4430919960/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [Vallum Associates Limited](https://jobs.winterchill.xyz/?employer=Vallum%20Associates%20Limited) (2)
 
-- [.Net Developer (IAM)](https://www.adzuna.co.uk/jobs/land/ad/5772705291?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=F91A9402AAD7AD729FAD3251DC72AFC9B323F233) — £117,000/yr · Sheffield, South Yorkshire
-- [Automation Engineer](https://www.adzuna.co.uk/jobs/land/ad/5749548819?se=gJyb_ydz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=876AB9B41A0829F3F0EF2FDE4D8864F1217275FA) — Backend · £117,000/yr · Sheffield, South Yorkshire
-
-### [Adroit People Ltd](https://jobs.winterchill.xyz/?employer=Adroit%20People%20Ltd) (1)
-
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4430560051/) — Backend · Sheffield, England, United Kingdom
+- [.Net Developer (IAM)](https://www.adzuna.co.uk/jobs/land/ad/5772705291?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=F91A9402AAD7AD729FAD3251DC72AFC9B323F233) — £117,000/yr · Sheffield, South Yorkshire
+- [Automation Engineer](https://www.adzuna.co.uk/jobs/land/ad/5749548819?se=phjIvPVz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=876AB9B41A0829F3F0EF2FDE4D8864F1217275FA) — Backend · £117,000/yr · Sheffield, South Yorkshire
 
 ### [Albany Beck](https://jobs.winterchill.xyz/?employer=Albany%20Beck) (1)
 
@@ -154,7 +186,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Anna Maher Recruitment](https://jobs.winterchill.xyz/?employer=Anna%20Maher%20Recruitment) (1)
 
-- [Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5750498710?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=E3680B87277DE66FE0D7E6340D065C26D201C17F) — Backend · £35,000–£38,000/yr · Sheffield, South Yorkshire · hybrid
+- [Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5750498710?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=E3680B87277DE66FE0D7E6340D065C26D201C17F) — Backend · £35,000–£38,000/yr · Sheffield, South Yorkshire · hybrid
+
+### [Arcadis](https://jobs.winterchill.xyz/?employer=Arcadis) (1)
+
+- [Data Analyst - Project Delivery](https://www.linkedin.com/jobs/view/4430610669/) — Sheffield, England, United Kingdom
 
 ### [Arnold Magnetic Technologies](https://jobs.winterchill.xyz/?employer=Arnold%20Magnetic%20Technologies) (1)
 
@@ -172,6 +208,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [CNC Machinist](https://uk.indeed.com/viewjob?jk=b9d1b18efccccea9) — Sheffield, United Kingdom
 
+### [Brightsmith](https://jobs.winterchill.xyz/?employer=Brightsmith) (1)
+
+- [Programme Director](https://www.linkedin.com/jobs/view/4431220078/) — Sheffield, England, United Kingdom
+
 ### [British Business Bank](https://jobs.winterchill.xyz/?employer=British%20Business%20Bank) (1)
 
 - [Cloud DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5771082428?utm_medium=api&utm_source=a9508167) — Sheffield, South Yorkshire · hybrid · 🛂 visa sponsor
@@ -180,9 +220,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Security Architect](https://uk.indeed.com/viewjob?jk=721283a7ccda2382) — £52,500–£77,500/yr · Sheffield, United Kingdom
 
-### [Caspian One](https://jobs.winterchill.xyz/?employer=Caspian%20One) (1)
+### [Clozr-UK](https://jobs.winterchill.xyz/?employer=Clozr-UK) (1)
 
-- [Java Software Engineer](https://www.linkedin.com/jobs/view/4430408667/) — Backend · Sheffield, England, United Kingdom
+- [Graduate Management Trainee](https://www.linkedin.com/jobs/view/4434283464/) — Sheffield, England, United Kingdom
+
+### [CML](https://jobs.winterchill.xyz/?employer=CML) (1)
+
+- [Works Delivery Manager - Sheffield](https://www.linkedin.com/jobs/view/4431547897/) — Sheffield, England, United Kingdom
 
 ### [Coforge](https://jobs.winterchill.xyz/?employer=Coforge) (1)
 
@@ -208,33 +252,41 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Control Room Shift Manager](https://uk.indeed.com/viewjob?jk=054123bf9c403a9f) — Sheffield, United Kingdom
 
-### [DLA Piper](https://jobs.winterchill.xyz/?employer=DLA%20Piper) (1)
+### [Dev/Null Security](https://jobs.winterchill.xyz/?employer=Dev/Null%20Security) (1)
 
-- [Product Manager](https://uk.indeed.com/viewjob?jk=fb193f10b6417027) — Sheffield, United Kingdom
+- [IDAM Architect (AI)](https://www.linkedin.com/jobs/view/4433070732/) — Greater Sheffield Area · remote
+
+### [Domino Mechanical and Electrical Limited](https://jobs.winterchill.xyz/?employer=Domino%20Mechanical%20and%20Electrical%20Limited) (1)
+
+- [Business Development Manager](https://uk.indeed.com/viewjob?jk=3bc47da5cd50683a) — £50,000–£70,000/yr · Sheffield, United Kingdom
 
 ### [Doncaster Council](https://jobs.winterchill.xyz/?employer=Doncaster%20Council) (1)
 
 - [Airfield Safeguarding and Change Manager](https://uk.indeed.com/viewjob?jk=134f83a849f6f75b) — £40,778–£45,092/yr · Sheffield, United Kingdom · 🛂 visa sponsor
 
+### [DWP Digital](https://jobs.winterchill.xyz/?employer=DWP%20Digital) (1)
+
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5762490240?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £55,000/yr · Sheffield, South Yorkshire · hybrid
+
 ### [Elecomm](https://jobs.winterchill.xyz/?employer=Elecomm) (1)
 
 - [Project Manager Office Support](https://uk.indeed.com/viewjob?jk=ca1b0b177dd2fdbb) — £24,500–£28,500/yr · Sheffield, United Kingdom
-
-### [Elevation Recruitment Group](https://jobs.winterchill.xyz/?employer=Elevation%20Recruitment%20Group) (1)
-
-- [D365 Developer](https://www.linkedin.com/jobs/view/4428284089/) — Sheffield, England, United Kingdom
 
 ### [Eligo Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Eligo%20Recruitment%20Ltd) (1)
 
 - [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5776019610?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £80,000–£95,000/yr · Grenoside, Sheffield
 
-### [eTeam](https://jobs.winterchill.xyz/?employer=eTeam) (1)
+### [Entrust](https://jobs.winterchill.xyz/?employer=Entrust) (1)
 
-- [Python Developer](https://www.linkedin.com/jobs/view/4432299471/) — Backend · £362/day · Sheffield, England, United Kingdom
+- [Systems Integrator](https://www.linkedin.com/jobs/view/4434028488/) — Greater Sheffield Area · hybrid
 
 ### [Eurosafe](https://jobs.winterchill.xyz/?employer=Eurosafe) (1)
 
 - [Fall Protection / Access Project Manager](https://uk.indeed.com/viewjob?jk=c8e8315f7ec78351) — Sheffield, United Kingdom
+
+### [Experis UK](https://jobs.winterchill.xyz/?employer=Experis%20UK) (1)
+
+- [DevX_POD Lead (Kotlin/Java)](https://www.linkedin.com/jobs/view/4434926933/) — Sheffield, England, United Kingdom · hybrid
 
 ### [Flip](https://jobs.winterchill.xyz/?employer=Flip) (1)
 
@@ -246,7 +298,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [GIOS Technology](https://jobs.winterchill.xyz/?employer=GIOS%20Technology) (1)
 
-- [Software Engineer / Technical Lead (Kotlin / Java)](https://www.linkedin.com/jobs/view/4433805416/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer / Technical Lead (Kotlin / Java)](https://www.linkedin.com/jobs/view/4433805416/) — Backend · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Glanua](https://jobs.winterchill.xyz/?employer=Glanua) (1)
+
+- [BIM Coordinator](https://uk.indeed.com/viewjob?jk=eee3c1de4e19377f) — Sheffield, United Kingdom
+
+### [Goodlord](https://jobs.winterchill.xyz/?employer=Goodlord) (1)
+
+- [SDR Lead](https://www.linkedin.com/jobs/view/4432277430/) — Sheffield, England, United Kingdom · hybrid
+
+### [Grant Thornton UK](https://jobs.winterchill.xyz/?employer=Grant%20Thornton%20UK) (1)
+
+- [Head of IT Infrastructure and Operations](https://www.linkedin.com/jobs/view/4429852228/) — Sheffield, England, United Kingdom · hybrid
 
 ### [Harnham - Data & Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20%26%20Analytics%20Recruitment) (1)
 
@@ -256,9 +320,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Remote DevOps Engineer up to £760 per day INSIDE](https://www.adzuna.co.uk/jobs/land/ad/5758567927?se=kMcnVgNw8RGrvYF11hqYFQ&utm_medium=api&utm_source=a9508167&v=187EB6061F471B45A08778A36463BF638449372D) — DevOps / SRE · £162,760–£197,600/yr · Sheffield, South Yorkshire · remote
 
+### [Hillfoot Steel Ltd](https://jobs.winterchill.xyz/?employer=Hillfoot%20Steel%20Ltd) (1)
+
+- [Account Manager - Internal Sales](https://uk.indeed.com/viewjob?jk=709268893274ad2c) — £28,000–£30,000/yr · Sheffield, United Kingdom
+
 ### [HOK Consulting - Technical Recruitment Consultancy](https://jobs.winterchill.xyz/?employer=HOK%20Consulting%20-%20Technical%20Recruitment%20Consultancy) (1)
 
 - [Kotlin Developer](https://www.linkedin.com/jobs/view/4433893140/) — Backend · Greater Sheffield Area · hybrid
+
+### [Home Office](https://jobs.winterchill.xyz/?employer=Home%20Office) (1)
+
+- [Lead Engineer](https://uk.indeed.com/viewjob?jk=793ab92ead330f3d) — £62,109–£68,320/yr · Sheffield, United Kingdom
 
 ### [Homeprotect](https://jobs.winterchill.xyz/?employer=Homeprotect) (1)
 
@@ -272,29 +344,45 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4417779103/) — Data Engineering · £65,000–£73,000/yr · Sheffield, England, United Kingdom
 
-### [Infinity Quest](https://jobs.winterchill.xyz/?employer=Infinity%20Quest) (1)
-
-- [Front End Developer-React](https://www.linkedin.com/jobs/view/4432570626/) — Backend · Sheffield, England, United Kingdom · hybrid
-
 ### [ITOL Recruit](https://jobs.winterchill.xyz/?employer=ITOL%20Recruit) (1)
 
-- [Software Developer Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772452341?se=Ln0S_ydz8RG03p_b2NRIZw&utm_medium=api&utm_source=a9508167&v=5C01C182CD6754FAE717C0D456EBD1B3CCBB158F) — Backend · £30,000–£35,000/yr · Sheffield, South Yorkshire
+- [Software Developer Trainee](https://www.adzuna.co.uk/jobs/land/ad/5772452341?se=_nQovPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=5C01C182CD6754FAE717C0D456EBD1B3CCBB158F) — Backend · £30,000–£35,000/yr · Sheffield, South Yorkshire
 
 ### [M & A Doocey](https://jobs.winterchill.xyz/?employer=M%20%26%20A%20Doocey) (1)
 
 - [Streetworks Coordinator](https://uk.indeed.com/viewjob?jk=4cb4d95b86752c01) — Sheffield, United Kingdom
 
+### [Methods](https://jobs.winterchill.xyz/?employer=Methods) (1)
+
+- [Power Apps Developer (Power BI specialism)](https://www.linkedin.com/jobs/view/4420732094/) — Data Engineering · £60,000–£70,000/yr · Sheffield, England, United Kingdom · remote
+
+### [Moore Insight](https://jobs.winterchill.xyz/?employer=Moore%20Insight) (1)
+
+- [Business Support Administrator](https://www.linkedin.com/jobs/view/4433811673/) — Sheffield, England, United Kingdom · hybrid
+
 ### [N Consulting Ltd](https://jobs.winterchill.xyz/?employer=N%20Consulting%20Ltd) (1)
 
 - [Principal Database Platform Engineer](https://www.adzuna.co.uk/jobs/details/5670435533?utm_medium=api&utm_source=a9508167) — Data Engineering · £130,000–£156,000/yr · Heeley, Sheffield
+
+### [Nextech Group Limited](https://jobs.winterchill.xyz/?employer=Nextech%20Group%20Limited) (1)
+
+- [Technical Support Engineer](https://www.linkedin.com/jobs/view/4432548774/) — Up to £32,000/yr · Sheffield, England, United Kingdom · hybrid
 
 ### [NHS](https://jobs.winterchill.xyz/?employer=NHS) (1)
 
 - [Maintenance Worker Specialised (Electrical)](https://uk.indeed.com/viewjob?jk=d0245d602e7227bf) — £32,073–£39,043/yr · Sheffield, United Kingdom
 
+### [Pareto](https://jobs.winterchill.xyz/?employer=Pareto) (1)
+
+- [Commercial Graduate Scheme](https://www.linkedin.com/jobs/view/4432281216/) — Up to £27,000/yr · Sheffield, England, United Kingdom
+
 ### [Pertemps North Midlands](https://jobs.winterchill.xyz/?employer=Pertemps%20North%20Midlands) (1)
 
 - [Automation Control Engineer](https://www.adzuna.co.uk/jobs/land/ad/5744694296?se=qCzqyJVx8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=304D896D16B53F79488FBFF96033044EEE9E8AB3) — Embedded / Robotics · £45,000–£55,000/yr · Sheffield, South Yorkshire
+
+### [PRACYVA](https://jobs.winterchill.xyz/?employer=PRACYVA) (1)
+
+- [Java Developer](https://www.linkedin.com/jobs/view/4431515273/) — Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [PURVIEW](https://jobs.winterchill.xyz/?employer=PURVIEW) (1)
 
@@ -306,23 +394,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Renzo Talent](https://jobs.winterchill.xyz/?employer=Renzo%20Talent) (1)
 
-- [Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5778024639?se=Ln0S_ydz8RG03p_b2NRIZw&utm_medium=api&utm_source=a9508167&v=462C06084EE32A4B753C279753B5CCBBC23B47A4) — Backend · £45,000–£50,000/yr · Heeley, Sheffield · hybrid
+- [Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5778024639?se=_nQovPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=462C06084EE32A4B753C279753B5CCBBC23B47A4) — Backend · £45,000–£50,000/yr · Heeley, Sheffield · hybrid
 
 ### [Renzo Talent Ltd](https://jobs.winterchill.xyz/?employer=Renzo%20Talent%20Ltd) (1)
 
-- [Software Engineer](https://www.adzuna.co.uk/jobs/details/5778648922?utm_medium=api&utm_source=a9508167) — £50,000/yr · Sheffield, South Yorkshire
+- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5778445788?se=_nQovPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=DB012551F375B24C054928EA31638759FAC0DF5E) — £50,000/yr · Sheffield, South Yorkshire
 
 ### [Samuel Frank](https://jobs.winterchill.xyz/?employer=Samuel%20Frank) (1)
 
-- [PLC Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5720639592?se=vhr__Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=B140FC44851F98237F5A5B7C089289A33E38B650) — Embedded / Robotics · £50,000–£65,000/yr · Tinsley, Sheffield
+- [PLC Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5720639592?se=lF8Xu_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=B140FC44851F98237F5A5B7C089289A33E38B650) — Embedded / Robotics · £50,000–£65,000/yr · Tinsley, Sheffield
 
 ### [Sheffield City Council](https://jobs.winterchill.xyz/?employer=Sheffield%20City%20Council) (1)
 
 - [Bereavement and Coronial Support Officer](https://uk.indeed.com/viewjob?jk=36ed698116842f7d) — £30,024–£32,597/yr · Sheffield, United Kingdom
-
-### [Sheffield Forgemasters Engineering Ltd](https://jobs.winterchill.xyz/?employer=Sheffield%20Forgemasters%20Engineering%20Ltd) (1)
-
-- [Finance Business Partner](https://uk.indeed.com/viewjob?jk=f7d272e189be7044) — Sheffield, United Kingdom
 
 ### [Som-3 Recruitment](https://jobs.winterchill.xyz/?employer=Som-3%20Recruitment) (1)
 
@@ -331,6 +415,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Som3](https://jobs.winterchill.xyz/?employer=Som3) (1)
 
 - [Senior Automation Test Engineer - Identity & Access Management](https://www.adzuna.co.uk/jobs/land/ad/5742146328?se=fiFsVgNw8RG1ptycNMu8WA&utm_medium=api&utm_source=a9508167&v=B71CC80121A43B03A04F88223B1007DC1B8EB9AE) — QA / Test Automation · £104,000–£156,000/yr · Heeley, Sheffield · hybrid
+
+### [Sparta Global Limited](https://jobs.winterchill.xyz/?employer=Sparta%20Global%20Limited) (1)
+
+- [Java Software Engineering Consultant](https://www.adzuna.co.uk/jobs/details/5781289426?utm_medium=api&utm_source=a9508167) — Backend · £25,000–£26,000/yr · Sheffield, South Yorkshire
+
+### [Square One Resources](https://jobs.winterchill.xyz/?employer=Square%20One%20Resources) (1)
+
+- [POD Lead (Kotlin/Java)](https://www.linkedin.com/jobs/view/4431517352/) — £515/day · Sheffield, England, United Kingdom · 🛂 visa sponsor
+
+### [UK Home Office](https://jobs.winterchill.xyz/?employer=UK%20Home%20Office) (1)
+
+- [Lead Infrastructure Engineer - Messaging and Email Hygiene](https://www.linkedin.com/jobs/view/4433076299/) — £62,109/yr · Sheffield, England, United Kingdom · hybrid
 
 ### [UniHomes](https://jobs.winterchill.xyz/?employer=UniHomes) (1)
 

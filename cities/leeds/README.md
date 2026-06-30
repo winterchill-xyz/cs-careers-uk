@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**275 open roles** · updated 2026-06-29
+**294 open roles** · updated 2026-06-30
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,6 +8,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [UST](https://jobs.winterchill.xyz/?employer=UST) (15)
 
+- [Graduate Data Engineer – Databricks & PySpark](https://uk.indeed.com/viewjob?jk=98d6acda51f38ae3) — Leeds, United Kingdom · hybrid
+- [Graduate Data Engineer – Databricks & PySpark](https://www.linkedin.com/jobs/view/4431505497/) — Data Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead iOS Engineer – Mobile SDK Modernisation ( Lead I - Software Engineering)](https://uk.indeed.com/viewjob?jk=92abe403a5a3ea5e) — Leeds, United Kingdom
 - [Lead iOS Engineer – Mobile SDK Modernisation ( Lead I - Software Engineering)](https://www.linkedin.com/jobs/view/4430230510/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid
 - [Technical Product Owner (Device Management / SDK) - UK (Hybrid) - Specialist I - Product Architect](https://uk.indeed.com/viewjob?jk=9f203537921fd9f3) — Leeds, United Kingdom
@@ -20,9 +22,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Data engineer (Lead II - Software Engineering)](https://uk.indeed.com/viewjob?jk=13a590435c3115c6) — Leeds, United Kingdom
 - [Lead SDK Architect (Mobile Platform) - London/ Leeds - Software Solution Architect I](https://www.linkedin.com/jobs/view/4427870191/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid
 - [Lead Data engineer (Lead II - Software Engineering)](https://www.linkedin.com/jobs/view/4427832971/) — Data Engineering · Leeds, England, United Kingdom
-- [Lead Android Engineer – Mobile Platform (Kotlin / Android SDK) (Lead I - Software Engineering)](https://www.linkedin.com/jobs/view/4426440133/) — Backend · Leeds, England, United Kingdom
-- [Java Architect (Device Identification / SDK / Azure) - UK, Hybrid - Software Architect II](https://www.linkedin.com/jobs/view/4427866248/) — Platform / Infrastructure · Leeds, England, United Kingdom · hybrid
 - [Principal iOS Engineer (SDK / Azure / Java) - UK, Hybrid - Architect I - Enterprise Solutions](https://www.linkedin.com/jobs/view/4427862980/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid
+
+### [Bank of England](https://jobs.winterchill.xyz/?employer=Bank%20of%20England) (8)
+
+- [Banking and Securities Operations Manager in RTGS Operations](https://uk.indeed.com/viewjob?jk=9b106a19a74cd219) — £72,720–£81,810/yr · Leeds, United Kingdom
+- [Senior Java Engineer (Core Settlement), RTGS Technology](https://uk.indeed.com/viewjob?jk=97eb19512156124c) — £64,480–£72,540/yr · Leeds, United Kingdom
+- [Privacy Manager (Accountability)](https://uk.indeed.com/viewjob?jk=3ca513c9ec1ae5a0) — £62,480–£70,920/yr · Leeds, United Kingdom
+- [Platform Engineer (Developer Experience), RTGS Technology](https://uk.indeed.com/viewjob?jk=1d35df2b3d7a2d11) — £49,360–£61,650/yr · Leeds, United Kingdom
+- [Senior Analyst, Financial Risk in FRMD Climate Risk](https://uk.indeed.com/viewjob?jk=d4d8054c1821401c) — £50,320–£56,610/yr · Leeds, United Kingdom
+- [Platform Engineer (Runtime), RTGS Technology](https://uk.indeed.com/viewjob?jk=e116d9c24c1611dd) — £49,360–£55,530/yr · Leeds, United Kingdom
+- [Senior Data Scientist in ADVANCED ANALYTICS](https://uk.indeed.com/viewjob?jk=fefe4a77070568ae) — Leeds, United Kingdom
+- [Senior Manager, Data and Analytics - UK Deposit Takers Supervision Division](https://uk.indeed.com/viewjob?jk=183a1f1237705365) — Leeds, United Kingdom
 
 ### [YourCode](https://jobs.winterchill.xyz/?employer=YourCode) (8)
 
@@ -38,9 +49,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Brio Digital](https://jobs.winterchill.xyz/?employer=Brio%20Digital) (7)
 
 - [Full Stack Python Developer](https://www.adzuna.co.uk/jobs/details/5776021587?utm_medium=api&utm_source=a9508167) — Backend · £130,000/yr · Holbeck, Leeds
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5758646678?se=TAJk2Cdz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=F2E8C540C92A3F38C12976F5B99005E031C2CC09) — DevOps / SRE · £130,000/yr · Hyde Park, Leeds
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5758646678?se=DtnYl_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=F2E8C540C92A3F38C12976F5B99005E031C2CC09) — DevOps / SRE · £130,000/yr · Hyde Park, Leeds
 - [Data Engineer](https://www.adzuna.co.uk/jobs/details/5510354959?utm_medium=api&utm_source=a9508167) — Data Engineering · £130,000/yr · Holbeck, Leeds
-- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750751338?se=vgwR1ydz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=CCC8E287E3EE267C81B951B5ABF8D3399B0C784C) — Backend · £130,000/yr · Hyde Park, Leeds
+- [Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750751338?se=Pv3BlvVz8RG5wqNxUkLhAA&utm_medium=api&utm_source=a9508167&v=CCC8E287E3EE267C81B951B5ABF8D3399B0C784C) — Backend · £130,000/yr · Hyde Park, Leeds
 - [Lead AWS DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5452151141?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Holbeck, Leeds
 - [AWS DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5510354217?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Holbeck, Leeds
 - [.Net software engineer](https://www.adzuna.co.uk/jobs/details/5510354798?utm_medium=api&utm_source=a9508167) — Backend · Holbeck, Leeds
@@ -50,7 +61,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior DevOps Engineer - AWS](https://uk.indeed.com/viewjob?jk=fc7e1d255c2bb047) — Leeds, United Kingdom
 - [Senior Polyglot Full Stack Engineer (Java)](https://uk.indeed.com/viewjob?jk=316d29dc98488834) — Leeds, United Kingdom
 - [Senior Full Stack Engineer](https://uk.indeed.com/viewjob?jk=42c6b5b4a92dbaee) — Leeds, United Kingdom
-- [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4432566158/) — Backend · Leeds, England, United Kingdom
+- [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4432559759/) — Backend · Leeds, England, United Kingdom
 - [Principal Full Stack Engineer - Managed Service](https://www.adzuna.co.uk/jobs/details/5699001108?utm_medium=api&utm_source=a9508167) — Backend · Holbeck, Leeds
 - [Full Stack Engineer - Managed Service](https://www.adzuna.co.uk/jobs/details/5736509609?utm_medium=api&utm_source=a9508167) — Backend · Holbeck, Leeds
 - [Senior Full Stack Engineer - Managed Service](https://www.linkedin.com/jobs/view/4422920115/) — Backend · Leeds, England, United Kingdom
@@ -58,39 +69,30 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Hippo Digital Limited](https://jobs.winterchill.xyz/?employer=Hippo%20Digital%20Limited) (7)
 
 - [Lead Agile Delivery Manager](https://uk.indeed.com/viewjob?jk=4bc55e341c51ce85) — £69,000–£77,500/yr · Leeds, United Kingdom · 🛂 visa sponsor
-- [Lead AWS DevOps Engineer - Managed Services](https://www.adzuna.co.uk/jobs/land/ad/5759899493?se=nqnT2Cdz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=429C5D91E6756E5F605CED88D9A927CEA24336EF) — DevOps / SRE · £67,000–£77,500/yr · Holbeck, Leeds
-- [Lead Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5759899110?se=sJlp1ydz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=790FA6006B2D2542E6A42E073396071F5040B508) — Data Engineering · £69,000–£77,500/yr · Holbeck, Leeds
-- [Senior AWS DevOps Engineer - Managed Services](https://www.adzuna.co.uk/jobs/land/ad/5759898388?se=nqnT2Cdz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=BDE71BBA28674B45DD800ABE0F5EED773ADAA345) — DevOps / SRE · £57,000–£66,000/yr · Holbeck, Leeds
-- [Senior Azure Data Engineer - Managed Services](https://www.adzuna.co.uk/jobs/land/ad/5759901064?se=nqnT2Cdz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=DBF324C236FD207200D00A1441D76802CCA275DC) — Data Engineering · £57,000–£66,000/yr · Holbeck, Leeds
-- [Senior Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5759898047?se=sJlp1ydz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=C230326395BFCCE8C00E63754A255DD66A229B98) — Data Engineering · £57,500–£66,000/yr · Holbeck, Leeds
+- [Lead AWS DevOps Engineer - Managed Services](https://www.adzuna.co.uk/jobs/land/ad/5759899493?se=hAM9mPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=429C5D91E6756E5F605CED88D9A927CEA24336EF) — DevOps / SRE · £67,000–£77,500/yr · Holbeck, Leeds
+- [Lead Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5759899110?se=CMsal_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=790FA6006B2D2542E6A42E073396071F5040B508) — Data Engineering · £69,000–£77,500/yr · Holbeck, Leeds
+- [Senior AWS DevOps Engineer - Managed Services](https://www.adzuna.co.uk/jobs/land/ad/5759898388?se=hAM9mPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=BDE71BBA28674B45DD800ABE0F5EED773ADAA345) — DevOps / SRE · £57,000–£66,000/yr · Holbeck, Leeds
+- [Senior Azure Data Engineer - Managed Services](https://www.adzuna.co.uk/jobs/land/ad/5759901064?se=hAM9mPVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=DBF324C236FD207200D00A1441D76802CCA275DC) — Data Engineering · £57,000–£66,000/yr · Holbeck, Leeds
+- [Senior Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5759898047?se=CMsal_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=C230326395BFCCE8C00E63754A255DD66A229B98) — Data Engineering · £57,500–£66,000/yr · Holbeck, Leeds
 - [Intermediate Agile Delivery Manager](https://uk.indeed.com/viewjob?jk=340c1f5c9afa1f01) — £38,500–£47,000/yr · Leeds, United Kingdom · 🛂 visa sponsor
 
 ### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (7)
 
+- [NLP Data Scientist - Customer Intelligence](https://apply.workable.com/j/88E539A7B2/apply) — £60,000–£75,000/yr · Leeds, United Kingdom · 🛂 visa sponsor
+- [Applied AI Data Scientist](https://apply.workable.com/j/88D40344BF/apply) — £60,000–£75,000/yr · Leeds, United Kingdom · 🛂 visa sponsor
 - [Technology - ML Ops Engineer](https://apply.workable.com/j/E801329139/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Technology - Cloud Engineer](https://apply.workable.com/j/48F546438F/apply) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [QA Test Engineer](https://apply.workable.com/j/7A9AF6F330/apply) — Frontend · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal QA Engineer](https://apply.workable.com/j/4FF16B62EE/apply) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Lead Data Engineer](https://apply.workable.com/j/5FFA749A22/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Data Engineer](https://apply.workable.com/j/46B7FAB195/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Fruition Group](https://jobs.winterchill.xyz/?employer=Fruition%20Group) (6)
-
-- [Frontend Engineering Manager](https://www.linkedin.com/jobs/view/4432827237/) — Engineering Management · £80,000–£110,000/yr · Leeds, England, United Kingdom · hybrid
-- [Lead Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5770645843?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £100,000/yr · Leeds, West Yorkshire · hybrid
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5778920937?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £70,000–£85,000/yr · Holbeck, Leeds
-- [Senior Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5770216163?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £80,000/yr · Leeds, West Yorkshire · hybrid
-- [Senior Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4429772920/) — Backend · £60,000–£70,000/yr · Leeds, England, United Kingdom
-- [AI and Automation Engineer](https://www.adzuna.co.uk/jobs/details/5778835821?utm_medium=api&utm_source=a9508167) — ML / AI Engineering · £50,000/yr · Leeds, West Yorkshire · hybrid
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (6)
 
 - [Tech Lead, Android Core Product - Leeds, United Kingdom](https://uk.indeed.com/viewjob?jk=53e934d82fb911c2) — Leeds, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom](https://uk.indeed.com/viewjob?jk=c610d166c81870da) — Leeds, United Kingdom
 - [Senior Software Engineer, Core Experiences - Leeds, United Kingdom](https://uk.indeed.com/viewjob?jk=40f188f9ba44a947) — Leeds, United Kingdom
-- [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://uk.indeed.com/viewjob?jk=47fde31c8c662c9a) — Backend · Leeds, United Kingdom · remote
 - [Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom](https://www.adzuna.co.uk/jobs/details/5722144573?utm_medium=api&utm_source=a9508167) — Mobile · Leeds, West Yorkshire
+- [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://www.adzuna.co.uk/jobs/details/5711938008?utm_medium=api&utm_source=a9508167) — Mobile · Leeds, West Yorkshire
 - [Software Engineer, Platform - Leeds, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720897051?utm_medium=api&utm_source=a9508167) — Mobile · Leeds, West Yorkshire
 
 ### [Environment Agency](https://jobs.winterchill.xyz/?employer=Environment%20Agency) (5)
@@ -101,6 +103,30 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Scientist - 35659](https://www.linkedin.com/jobs/view/4430293233/) — £34,320/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Waste Scientist - 35608](https://uk.indeed.com/viewjob?jk=1c8a6caa987f04c0) — £34,320/yr · Leeds, United Kingdom
 
+### [Fruition Group](https://jobs.winterchill.xyz/?employer=Fruition%20Group) (5)
+
+- [Frontend Engineering Manager](https://www.linkedin.com/jobs/view/4432827237/) — Engineering Management · £80,000–£110,000/yr · Leeds, England, United Kingdom · hybrid
+- [Lead Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5770645843?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £100,000/yr · Leeds, West Yorkshire · hybrid
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5778920937?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £70,000–£85,000/yr · Holbeck, Leeds
+- [Senior Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5770216163?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £80,000/yr · Leeds, West Yorkshire · hybrid
+- [Senior Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4429772920/) — Backend · £60,000–£70,000/yr · Leeds, England, United Kingdom
+
+### [Jet2.com and Jet2holidays](https://jobs.winterchill.xyz/?employer=Jet2.com%20and%20Jet2holidays) (5)
+
+- [Engineering Administration Assistant](https://uk.indeed.com/viewjob?jk=ed9900360929aca6) — Leeds Bradford Airport, United Kingdom
+- [Lead Digital Analyst](https://www.linkedin.com/jobs/view/4423940485/) — Data Engineering · Leeds, England, United Kingdom · hybrid
+- [Lead Business Analyst](https://uk.indeed.com/viewjob?jk=1e7ba6b811bb4043) — Leeds, United Kingdom
+- [Business Analyst - Data](https://uk.indeed.com/viewjob?jk=537bdd70950fdaac) — Leeds, United Kingdom
+- [Senior Data & Analytics Engineer](https://www.linkedin.com/jobs/view/4429675580/) — Data Engineering · Leeds, England, United Kingdom
+
+### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (5)
+
+- [Senior Data Scientist, Game Analytics](https://job-boards.greenhouse.io/rockstargames/jobs/7638027003) — Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Application Security Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7644896003) — Developer Experience · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer, FiveM](https://job-boards.greenhouse.io/rockstargames/jobs/7776241003) — Developer Experience · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Analytics Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7650920003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
+
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (4)
 
 - [Senior Java Developer](https://apply.workable.com/j/7DBE168E22/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
@@ -108,12 +134,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Full Stack Developer](https://apply.workable.com/j/FE3391C064/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Contract Engineering Manager PHP/.Net (6 months)](https://apply.workable.com/j/E16C9126C9/apply) — Leeds, United Kingdom · remote · 🛂 visa sponsor
 
-### [Bank of England](https://jobs.winterchill.xyz/?employer=Bank%20of%20England) (4)
+### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (4)
 
-- [Senior Java Engineer (Core Settlement), RTGS Technology](https://uk.indeed.com/viewjob?jk=97eb19512156124c) — £64,480–£72,540/yr · Leeds, United Kingdom
-- [Platform Engineer (Runtime), RTGS Technology](https://uk.indeed.com/viewjob?jk=e116d9c24c1611dd) — £49,360–£55,530/yr · Leeds, United Kingdom
-- [Senior Data Scientist in ADVANCED ANALYTICS](https://uk.indeed.com/viewjob?jk=fefe4a77070568ae) — Leeds, United Kingdom
-- [Senior Manager, Data and Analytics - UK Deposit Takers Supervision Division](https://uk.indeed.com/viewjob?jk=183a1f1237705365) — Leeds, United Kingdom
+- [Software Engineer](https://www.linkedin.com/jobs/view/4433061686/) — Backend · £70,000–£80,000/yr · Leeds, England, United Kingdom
+- [Graduate Software Developer](https://www.linkedin.com/jobs/view/4430689517/) — £60,000/yr · Leeds, England, United Kingdom
+- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4431537167/) — Data Engineering · Leeds, England, United Kingdom
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4431243982/) — Backend · Leeds, England, United Kingdom
+
+### [HM Revenue & Customs](https://jobs.winterchill.xyz/?employer=HM%20Revenue%20%26%20Customs) (4)
+
+- [Agile Delivery Manager](https://uk.indeed.com/viewjob?jk=ce921e8a5511a293) — £45,544–£55,157/yr · Leeds, United Kingdom · hybrid
+- [Correspondence and Engagement Manager](https://uk.indeed.com/viewjob?jk=8869aeaaeb6789d5) — £45,544–£49,523/yr · Leeds, United Kingdom · hybrid
+- [Senior Developer](https://uk.indeed.com/viewjob?jk=cb5f50d579e23d67) — £45,544–£49,523/yr · Leeds, United Kingdom
+- [Associate Product Manager](https://uk.indeed.com/viewjob?jk=652664c3fdad21d9) — £45,544–£49,523/yr · Leeds, United Kingdom · hybrid
 
 ### [Informed Solutions](https://jobs.winterchill.xyz/?employer=Informed%20Solutions) (4)
 
@@ -129,32 +162,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [SEO Executive](https://uk.indeed.com/viewjob?jk=76561ed9f52b3265) — Leeds, United Kingdom
 - [SEO Manager](https://uk.indeed.com/viewjob?jk=133b7ac8d185f1d2) — Leeds, United Kingdom
 
-### [Jet2.com and Jet2holidays](https://jobs.winterchill.xyz/?employer=Jet2.com%20and%20Jet2holidays) (4)
-
-- [Lead Digital Analyst](https://www.linkedin.com/jobs/view/4423940485/) — Data Engineering · Leeds, England, United Kingdom · hybrid
-- [Lead Business Analyst](https://uk.indeed.com/viewjob?jk=1e7ba6b811bb4043) — Leeds, United Kingdom
-- [Business Analyst - Data](https://uk.indeed.com/viewjob?jk=537bdd70950fdaac) — Leeds, United Kingdom
-- [Senior Data & Analytics Engineer](https://www.linkedin.com/jobs/view/4429675580/) — Data Engineering · Leeds, England, United Kingdom
-
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (4)
 
 - [Engineering Lead (Cryptography lab))](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Engineering-Lead--Cryptography-lab--_159018-1) — Platform / Infrastructure · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 - [QRM Modelling Developer - 12 month FTC](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/QRM-Modelling-Developer---12-month-FTC_156077-1) — Data Engineering · £72,702–£88,858/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Site Reliability Engineer (Private Cloud)](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Senior-Site-Reliability-Engineer--Private-Cloud-_157451) — DevOps / SRE · £72,702–£80,780/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer - Cyber Security Configuration Assurance](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Senior-Software-Engineer---Cyber-Security-Configuration-Assurance_158334) — Backend · £63,152–£78,940/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (4)
-
-- [Application Security Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7644896003) — Developer Experience · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer, FiveM](https://job-boards.greenhouse.io/rockstargames/jobs/7776241003) — Developer Experience · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Analytics Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7650920003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [Elevation Recruitment Group](https://jobs.winterchill.xyz/?employer=Elevation%20Recruitment%20Group) (3)
-
-- [Senior Data Engineer (Cloud)](https://www.reed.co.uk/jobs/senior-data-engineer-cloud/56922012) — Data Engineering · £70,000–£80,000/yr · Leeds · hybrid
-- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4413337280/) — Data Engineering · £70,000–£80,000/yr · Leeds, England, United Kingdom
-- [Full Stack Software Engineer](https://www.reed.co.uk/jobs/full-stack-software-engineer/56893918) — Backend · £55,000–£60,000/yr · Leeds · hybrid
 
 ### [evoke](https://jobs.winterchill.xyz/?employer=evoke) (3)
 
@@ -166,7 +179,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Staff Platform Engineer](https://www.linkedin.com/jobs/view/4399754047/) — DevOps / SRE · £121,200–£151,200/yr · Greater Leeds Area
 - [Senior Platform Engineer - Core - Platform (UK)](https://www.linkedin.com/jobs/view/4420793106/) — DevOps / SRE · £96,000–£120,000/yr · Greater Leeds Area
-- [Software Engineer III, Trading - FBG](https://www.linkedin.com/jobs/view/4428270187/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer III, Trading - FBG](https://www.linkedin.com/jobs/view/4428270187/) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Leeds Beckett University](https://jobs.winterchill.xyz/?employer=Leeds%20Beckett%20University) (3)
 
@@ -182,13 +195,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [WRK digital](https://jobs.winterchill.xyz/?employer=WRK%20digital) (3)
 
+- [Fabric Data Engineer](https://www.linkedin.com/jobs/view/4434493413/) — Data Engineering · £425/day · Leeds, England, United Kingdom · remote
 - [Data Analyst](https://www.linkedin.com/jobs/view/4430468469/) — Data Engineering · £400/day · Leeds, England, United Kingdom
 - [Principal Data Engineer](https://www.linkedin.com/jobs/view/4419887523/) — Data Engineering · £72,000–£85,000/yr · Leeds, England, United Kingdom · hybrid
-- [Principal Engineer](https://www.linkedin.com/jobs/view/4421671538/) — Backend · Greater Leeds Area
 
 ### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (3)
 
-- [Engineering Manager - Rail Stations](https://www.linkedin.com/jobs/view/4385386967/) — Leeds, England, United Kingdom
+- [Technical Director (WSP Architecture)](https://www.linkedin.com/jobs/view/4432966589/) — Leeds, England, United Kingdom · remote
 - [Technical Design Lead (LCDAE) - Energy](https://www.linkedin.com/jobs/view/4429980294/) — Leeds, England, United Kingdom
 - [Engineering and AI Enterprise Architect, Client Delivery Solutions](https://www.linkedin.com/jobs/view/4410796048/) — Backend · Leeds, England, United Kingdom
 
@@ -203,19 +216,24 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Cloud Data Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Cloud-Data-Engineer_R00284603) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Quality Automation Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Quality-Automation-Engineer---Leeds_R00289257-1) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
+### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (2)
+
+- [Technical Design Lead- Data Centres](https://www.linkedin.com/jobs/view/4432863137/) — Leeds, England, United Kingdom · hybrid
+- [Graduate Bridge Structures Engineers – Leeds (2026)](https://uk.indeed.com/viewjob?jk=314561dfd83e7310) — Leeds, United Kingdom
+
+### [ASDA](https://jobs.winterchill.xyz/?employer=ASDA) (2)
+
+- [Solution Architect - Retail](https://uk.indeed.com/viewjob?jk=c42804cb41afc870) — Leeds, United Kingdom
+- [Senior Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5772716403?se=nqnT2Cdz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=9966B9836615FA127B48B26B54C0A02D1A4A5255) — Leeds, West Yorkshire
+
 ### [Avnet](https://jobs.winterchill.xyz/?employer=Avnet) (2)
 
 - [Environmental Product Compliance Manager](https://uk.indeed.com/viewjob?jk=008056be924ba803) — Leeds, United Kingdom
 - [UI Engineering Manager](https://www.adzuna.co.uk/jobs/details/5754571477?utm_medium=api&utm_source=a9508167) — Leeds, West Yorkshire
 
-### [Channel 4](https://jobs.winterchill.xyz/?employer=Channel%204) (2)
-
-- [Web Analytics Implementation Analyst](https://www.linkedin.com/jobs/view/4428939414/) — Data Engineering · Greater Leeds Area
-- [Data Engineer](https://www.linkedin.com/jobs/view/4426401839/) — Data Engineering · Leeds, England, United Kingdom
-
 ### [Circle Recruitment](https://jobs.winterchill.xyz/?employer=Circle%20Recruitment) (2)
 
-- [Senior Java Developer](https://www.adzuna.co.uk/jobs/land/ad/5769608839?se=ospS1Sdz8RGz7JyeHwxKeg&utm_medium=api&utm_source=a9508167&v=5FAACF8834E712E4B33E4523806E8D4AC4A889AE) — £550–£650/day · Leeds, West Yorkshire · remote
+- [Senior Java Developer](https://www.adzuna.co.uk/jobs/land/ad/5769608839?se=sHozlfVz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=a9508167&v=5FAACF8834E712E4B33E4523806E8D4AC4A889AE) — £143,000–£169,000/yr · Leeds, West Yorkshire · remote
 - [Senior DevOps Engineer - Leeds](https://www.adzuna.co.uk/jobs/land/ad/5747998346?se=TAJk2Cdz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=9A043A5E1028191749D83B4C451A320FC515AD58) — DevOps / SRE · £60,000–£70,000/yr · Leeds, West Yorkshire
 
 ### [Codurance](https://jobs.winterchill.xyz/?employer=Codurance) (2)
@@ -227,6 +245,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Technical Support Services Manager](https://uk.indeed.com/viewjob?jk=004e229c42500620) — £58,000/yr · Leeds, United Kingdom
 - [Graduate Content Marketing Specialist](https://uk.indeed.com/viewjob?jk=b3e4eceef2988f4e) — Leeds, United Kingdom
+
+### [CreateFuture](https://jobs.winterchill.xyz/?employer=CreateFuture) (2)
+
+- [Lead Data Engineer](https://uk.indeed.com/viewjob?jk=589c0ab36415c7f1) — Leeds, United Kingdom · hybrid
+- [ML Ops Engineer - Contract](https://www.linkedin.com/jobs/view/4402487445/) — Data Engineering · Leeds, England, United Kingdom · hybrid
 
 ### [EWOR GmbH](https://jobs.winterchill.xyz/?employer=EWOR%20GmbH) (2)
 
@@ -241,12 +264,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (2)
 
 - [Senior Data & Analytics Engineer](https://www.linkedin.com/jobs/view/4430315041/) — Data Engineering · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
-- [Lead Customer Journey Developer](https://www.linkedin.com/jobs/view/4429691422/) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [HM Revenue & Customs](https://jobs.winterchill.xyz/?employer=HM%20Revenue%20%26%20Customs) (2)
-
-- [Agile Delivery Manager](https://uk.indeed.com/viewjob?jk=ce921e8a5511a293) — £45,544–£55,157/yr · Leeds, United Kingdom · hybrid
-- [Associate Product Manager](https://uk.indeed.com/viewjob?jk=652664c3fdad21d9) — £45,544–£49,523/yr · Leeds, United Kingdom · hybrid
+- [Lead Customer Journey Developer](https://www.linkedin.com/jobs/view/4429691422/) — Data Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [interactive investor](https://jobs.winterchill.xyz/?employer=interactive%20investor) (2)
 
@@ -258,10 +276,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Applied AI Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5741127438?se=vKqe_jlv8RGEdrN9fLrQcA&utm_medium=api&utm_source=a9508167&v=634D6A26C8757A6B7C847F46A81ED505150C837B) — Backend · £90,000–£110,000/yr · Hyde Park, Leeds
 - [Senior AI Engineer](https://www.linkedin.com/jobs/view/4430539982/) — Backend · £90,000–£100,000/yr · Leeds, England, United Kingdom · hybrid
 
-### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (2)
+### [Leeds Teaching Hospitals NHS Trust](https://jobs.winterchill.xyz/?employer=Leeds%20Teaching%20Hospitals%20NHS%20Trust) (2)
 
-- [Senior Agentic AI Engineer](https://www.linkedin.com/jobs/view/4420735108/) — Backend · Leeds, England, United Kingdom · hybrid
-- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4419286687/) — Backend · Leeds, England, United Kingdom · hybrid
+- [Graduate Trainee - Radiotherapy Technology](https://uk.indeed.com/viewjob?jk=5800da0cc2bbfbbc) — £32,073–£39,043/yr · Leeds, United Kingdom
+- [Service Desk Analyst](https://uk.indeed.com/viewjob?jk=b43ba80342d81129) — £25,760–£27,476/yr · Leeds, United Kingdom
 
 ### [Maples Group](https://jobs.winterchill.xyz/?employer=Maples%20Group) (2)
 
@@ -270,13 +288,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Mastek](https://jobs.winterchill.xyz/?employer=Mastek) (2)
 
-- [Functional Tester](https://www.linkedin.com/jobs/view/4431079028/) — Leeds, England, United Kingdom
+- [Functional Tester](https://www.linkedin.com/jobs/view/4431079028/) — QA / Test Automation · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Java Fullstack Developer](https://www.linkedin.com/jobs/view/4428231536/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [Medicines and Healthcare products Regulatory Agency](https://jobs.winterchill.xyz/?employer=Medicines%20and%20Healthcare%20products%20Regulatory%20Agency) (2)
+
+- [Senior User Researcher - £57,028-£64,672 p.a. + benefits](https://uk.indeed.com/viewjob?jk=9923569a6a038ea0) — £57,028–£64,672/yr · Leeds, United Kingdom · hybrid
+- [Senior User Researcher](https://uk.indeed.com/viewjob?jk=4ec2844beba51f57) — Up to £20,371/yr · Leeds, United Kingdom · hybrid
 
 ### [Oscar Technology](https://jobs.winterchill.xyz/?employer=Oscar%20Technology) (2)
 
 - [AI Engineer - Automation](https://www.adzuna.co.uk/jobs/land/ad/5774589042?se=1KSiWcxw8RGem4TAUNlqXw&utm_medium=api&utm_source=a9508167&v=5158C5482D4D9B12FF4642F2D8135A908CB2D8AC) — Data Engineering · £40,000–£50,000/yr · Leeds, West Yorkshire · hybrid
-- [React Developer](https://www.adzuna.co.uk/jobs/land/ad/5772915493?se=zn8b1idz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=938C84B3BCC4DC9CF0E23755A3B51F6CFA70B25D) — Backend · £45,000–£50,000/yr · Leeds, West Yorkshire
+- [React Developer](https://www.adzuna.co.uk/jobs/land/ad/5772915493?se=KgnBlfVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=938C84B3BCC4DC9CF0E23755A3B51F6CFA70B25D) — Backend · £45,000–£50,000/yr · Leeds, West Yorkshire
 
 ### [QA](https://jobs.winterchill.xyz/?employer=QA) (2)
 
@@ -290,33 +313,28 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (2)
 
-- [Digital Full Stack Engineer - React / C# - Leeds City Centre](https://www.adzuna.co.uk/jobs/land/ad/5776259462?se=zn8b1idz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=71912DDDAAE28E3DA0A0A38199AA539270C8401B) — Frontend · £50,000–£62,500/yr · Leeds, West Yorkshire · hybrid
-- [React Developer - Leeds](https://www.adzuna.co.uk/jobs/land/ad/5768352306?se=TAJk2Cdz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=C3414D5DC76BB86F4A5481935AF27A198C67DB7D) — Frontend · £30,000–£60,000/yr · Leeds, West Yorkshire · hybrid
+- [Digital Full Stack Engineer - React / C# - Leeds City Centre](https://www.adzuna.co.uk/jobs/land/ad/5776259462?se=KgnBlfVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=71912DDDAAE28E3DA0A0A38199AA539270C8401B) — Frontend · £50,000–£62,500/yr · Leeds, West Yorkshire · hybrid
+- [React Developer - Leeds](https://www.adzuna.co.uk/jobs/land/ad/5768352306?se=DtnYl_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=C3414D5DC76BB86F4A5481935AF27A198C67DB7D) — Frontend · £30,000–£60,000/yr · Leeds, West Yorkshire · hybrid
 
 ### [Searchability  Ltd](https://jobs.winterchill.xyz/?employer=Searchability%20%20Ltd) (2)
 
 - [Digital Full Stack Engineer - React / C# - Leeds City Centre](https://www.adzuna.co.uk/jobs/details/5776613319?utm_medium=api&utm_source=a9508167) — Frontend · £50,000–£62,500/yr · Leeds, West Yorkshire · hybrid
 - [React Developer - Leeds](https://www.adzuna.co.uk/jobs/details/5768954154?utm_medium=api&utm_source=a9508167) — Frontend · £60,000/yr · Leeds, West Yorkshire · hybrid
 
-### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (2)
-
-- [Full Stack Developer - Java, Angular - Leeds (Hybrid)](https://www.reed.co.uk/jobs/full-stack-developer-java-angular-leeds-hybrid/56918926) — Backend · £65,000–£80,000/yr · Leeds · hybrid
-- [Data Engineer - Belfast](https://www.reed.co.uk/jobs/data-engineer-belfast/56890422) — Backend · £45,000–£51,000/yr · Leeds · hybrid
-
 ### [The Phoenix Partnership](https://jobs.winterchill.xyz/?employer=The%20Phoenix%20Partnership) (2)
 
 - [Graduate Software Developer](https://www.adzuna.co.uk/jobs/details/5726981602?utm_medium=api&utm_source=a9508167) — Backend · £60,000/yr · Leeds, West Yorkshire
 - [Internship Software Developer](https://www.adzuna.co.uk/jobs/details/5726981385?utm_medium=api&utm_source=a9508167) — Backend · £36,000–£50,500/yr · Leeds, West Yorkshire
 
+### [TIEVA](https://jobs.winterchill.xyz/?employer=TIEVA) (2)
+
+- [Security Operations Engineer](https://uk.indeed.com/viewjob?jk=4959fc32a2040f5c) — £45,000–£55,000/yr · Leeds, United Kingdom · hybrid
+- [Cloud Solution Architect](https://uk.indeed.com/viewjob?jk=5b69771de9a7e7a3) — Leeds, United Kingdom
+
 ### [TPP](https://jobs.winterchill.xyz/?employer=TPP) (2)
 
 - [Summer Internship \u2013 Software Developer](https://www.adzuna.co.uk/jobs/details/5568971293?utm_medium=api&utm_source=a9508167) — Backend · Leeds, West Yorkshire
 - [Graduate Software Developer](https://www.adzuna.co.uk/jobs/details/5568971438?utm_medium=api&utm_source=a9508167) — Backend · Leeds, West Yorkshire
-
-### [Vaerdi Recruitment Limited](https://jobs.winterchill.xyz/?employer=Vaerdi%20Recruitment%20Limited) (2)
-
-- [Senior Data Engineer(North West / Yorkshire)](https://dataengineeringjobs.co.uk/jobs/senior-data-engineernorth-west-yorkshire-vaerdi-recruitment-limited-leeds) — Data Engineering · £70,000–£80,000/yr · Leeds, England · hybrid
-- [Senior Data Engineer – £70,000–£80,000 – Hybrid (North West / Yorkshire)](https://www.adzuna.co.uk/jobs/land/ad/5766987729?se=GMBrLQNw8RG1ptycNMu8WA&utm_medium=api&utm_source=a9508167&v=98F936F715F31EDBE1D8DAE25BE8182F9DC9784E) — Data Engineering · £70,000–£80,000/yr · Leeds, West Yorkshire · hybrid
 
 ### [WRK DIGITAL LTD](https://jobs.winterchill.xyz/?employer=WRK%20DIGITAL%20LTD) (2)
 
@@ -327,18 +345,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [AI Engineer](https://www.linkedin.com/jobs/view/4430391360/) — Backend · Leeds, England, United Kingdom · hybrid
 
-### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (1)
-
-- [Graduate Bridge Structures Engineers – Leeds (2026)](https://uk.indeed.com/viewjob?jk=314561dfd83e7310) — Leeds, United Kingdom
-
-### [Arcadis](https://jobs.winterchill.xyz/?employer=Arcadis) (1)
-
-- [Senior Engineer - Bridges](https://www.linkedin.com/jobs/view/4283508721/) — Leeds, England, United Kingdom
-
-### [ASDA](https://jobs.winterchill.xyz/?employer=ASDA) (1)
-
-- [Senior Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5772716403?se=nqnT2Cdz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=9966B9836615FA127B48B26B54C0A02D1A4A5255) — Leeds, West Yorkshire
-
 ### [AtkinsRéalis](https://jobs.winterchill.xyz/?employer=AtkinsR%C3%A9alis) (1)
 
 - [Principal Waste Water Process Engineer](https://uk.indeed.com/viewjob?jk=74931576cde33d6c) — Leeds, United Kingdom
@@ -347,17 +353,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Java Full Stack Engineer](https://www.linkedin.com/jobs/view/4431690278/) — Backend · £60,000–£70,000/yr · Leeds, England, United Kingdom
 
-### [Bannatyne](https://jobs.winterchill.xyz/?employer=Bannatyne) (1)
-
-- [Maintenance Operative](https://uk.indeed.com/viewjob?jk=641a128a787a1a7c) — £16/hr · Leeds, United Kingdom
-
 ### [Batch'd](https://jobs.winterchill.xyz/?employer=Batch%27d) (1)
 
 - [Automation & Software Developer](https://www.adzuna.co.uk/jobs/details/5776021247?utm_medium=api&utm_source=a9508167) — Backend · £23,000–£55,000/yr · Hunslet, Leeds
 
 ### [Biometric Talent](https://jobs.winterchill.xyz/?employer=Biometric%20Talent) (1)
 
-- [AI Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5747659241?se=zn8b1idz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=CE5DE6DE0D49C5BB40CF16933FCBB61CA1DDAE30) — Backend · Beeston, Leeds · hybrid
+- [AI Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5747659241?se=KgnBlfVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=CE5DE6DE0D49C5BB40CF16933FCBB61CA1DDAE30) — Backend · Beeston, Leeds · hybrid
 
 ### [Blaize](https://jobs.winterchill.xyz/?employer=Blaize) (1)
 
@@ -367,10 +369,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Building Services Manager (MEP)](https://uk.indeed.com/viewjob?jk=b300a47bf88f859e) — £65,000–£85,000/yr · Leeds, United Kingdom
 
-### [C&D Talent Advisory](https://jobs.winterchill.xyz/?employer=C%26D%20Talent%20Advisory) (1)
-
-- [Mid-Senior Founding Full-Stack Product Engineer](https://www.linkedin.com/jobs/view/4427705921/) — Backend · Leeds, England, United Kingdom
-
 ### [Caesars Entertainment](https://jobs.winterchill.xyz/?employer=Caesars%20Entertainment) (1)
 
 - [Java Engineer](https://www.linkedin.com/jobs/view/4429568587/) — Backend · Leeds, England, United Kingdom
@@ -379,17 +377,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Java Engineer](https://www.linkedin.com/jobs/view/4426863875/) — Backend · Leeds, England, United Kingdom
 
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
+
+- [AWS Platform Engineer](https://uk.indeed.com/viewjob?jk=d151558f89fa3709) — Leeds, United Kingdom · hybrid
+
 ### [CGL (Change, Grow, Live)](https://jobs.winterchill.xyz/?employer=CGL%20%28Change%2C%20Grow%2C%20Live%29) (1)
 
 - [Facilities Quality Assurance Lead](https://uk.indeed.com/viewjob?jk=dcca89c1167b315a) — £41,970–£45,584/yr · Leeds, United Kingdom
 
+### [Channel 4](https://jobs.winterchill.xyz/?employer=Channel%204) (1)
+
+- [Web Analytics Implementation Analyst](https://www.linkedin.com/jobs/view/4428939414/) — Data Engineering · Greater Leeds Area
+
 ### [Click Digital](https://jobs.winterchill.xyz/?employer=Click%20Digital) (1)
 
-- [SITS Developer](https://www.adzuna.co.uk/jobs/land/ad/5750536478?se=vgwR1ydz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=0C091368F3A4F9F7F9057E0B8805B5121DCC3E89) — Backend · £143,000–£169,000/yr · Hyde Park, Leeds · remote
+- [SITS Developer](https://www.adzuna.co.uk/jobs/land/ad/5750536478?se=Pv3BlvVz8RG5wqNxUkLhAA&utm_medium=api&utm_source=a9508167&v=0C091368F3A4F9F7F9057E0B8805B5121DCC3E89) — Backend · £143,000–£169,000/yr · Hyde Park, Leeds · remote
 
-### [CreateFuture](https://jobs.winterchill.xyz/?employer=CreateFuture) (1)
+### [Cox Automotive Europe](https://jobs.winterchill.xyz/?employer=Cox%20Automotive%20Europe) (1)
 
-- [ML Ops Engineer - Contract](https://www.linkedin.com/jobs/view/4402487445/) — Data Engineering · Leeds, England, United Kingdom · hybrid
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4431834711/) — Backend · Leeds, England, United Kingdom · hybrid
 
 ### [CSL Surveys](https://jobs.winterchill.xyz/?employer=CSL%20Surveys) (1)
 
@@ -399,9 +405,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Infrastructure Engineer](https://uk.indeed.com/viewjob?jk=73107b5ebfef13e3) — £44,447–£52,442/yr · Leeds, United Kingdom
 
-### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (1)
+### [Department for Work and Pensions (DWP)](https://jobs.winterchill.xyz/?employer=Department%20for%20Work%20and%20Pensions%20%28DWP%29) (1)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4430574178/) — Backend · £40,000–£50,000/yr · Leeds, England, United Kingdom · hybrid
+- [Senior Network Engineer (Wi-Fi)](https://uk.indeed.com/viewjob?jk=e85eedd0b75b83d2) — £57,946–£73,205/yr · Leeds, United Kingdom
 
 ### [Driver & Vehicle Standards Agency](https://jobs.winterchill.xyz/?employer=Driver%20%26%20Vehicle%20Standards%20Agency) (1)
 
@@ -415,17 +421,33 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [DevOps Engineer](https://www.reed.co.uk/jobs/devops-engineer/57049024) — DevOps / SRE · £45,000–£60,000/yr · Leeds · hybrid · 🛂 visa sponsor
 
+### [Elevation Recruitment Group](https://jobs.winterchill.xyz/?employer=Elevation%20Recruitment%20Group) (1)
+
+- [Senior Data Engineer (Cloud)](https://www.reed.co.uk/jobs/senior-data-engineer-cloud/56922012) — Data Engineering · £70,000–£80,000/yr · Leeds · hybrid
+
 ### [Enfinium](https://jobs.winterchill.xyz/?employer=Enfinium) (1)
 
 - [Maintenance Supervisor](https://uk.indeed.com/viewjob?jk=65621eb088b1be67) — Leeds, United Kingdom
 
+### [ENGIE](https://jobs.winterchill.xyz/?employer=ENGIE) (1)
+
+- [Applications Support Analyst](https://uk.indeed.com/viewjob?jk=dfbb374cb419feff) — Leeds, United Kingdom
+
 ### [Equals One](https://jobs.winterchill.xyz/?employer=Equals%20One) (1)
 
-- [Automation & Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5756446846?se=zn8b1idz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=62EBB1D1C7732785B23B1D0091228C658F3B9E8B) — Backend · £26,000–£32,000/yr · Leeds, West Yorkshire
+- [Automation & Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5756446846?se=KgnBlfVz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=62EBB1D1C7732785B23B1D0091228C658F3B9E8B) — Backend · £26,000–£32,000/yr · Leeds, West Yorkshire
 
 ### [Equals One Ltd](https://jobs.winterchill.xyz/?employer=Equals%20One%20Ltd) (1)
 
 - [Automation & Software Developer](https://www.adzuna.co.uk/jobs/details/5756818479?utm_medium=api&utm_source=a9508167) — Backend · £26,000–£32,000/yr · Leeds, West Yorkshire
+
+### [Equifax](https://jobs.winterchill.xyz/?employer=Equifax) (1)
+
+- [Assistant Management Accountant](https://uk.indeed.com/viewjob?jk=4042223064350d3a) — Leeds, United Kingdom
+
+### [Etex](https://jobs.winterchill.xyz/?employer=Etex) (1)
+
+- [Head of Commercial Performance & Market Development - UK](https://uk.indeed.com/viewjob?jk=ffaacbc3963b49c2) — Leeds, United Kingdom · hybrid
 
 ### [Eurobase People](https://jobs.winterchill.xyz/?employer=Eurobase%20People) (1)
 
@@ -441,15 +463,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Farnell Global](https://jobs.winterchill.xyz/?employer=Farnell%20Global) (1)
 
-- [UI Engineering Manager](https://www.linkedin.com/jobs/view/4423550967/) — DevOps / SRE · Leeds, England, United Kingdom
-
-### [FDO Consulting](https://jobs.winterchill.xyz/?employer=FDO%20Consulting) (1)
-
-- [Lead Azure Cloud Platform Engineer, Home Based](https://www.adzuna.co.uk/jobs/details/5772726907?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £90,000–£100,000/yr · Leeds, West Yorkshire · remote
+- [UI Engineering Manager](https://www.linkedin.com/jobs/view/4423550967/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid
 
 ### [Fdo Consulting Limited](https://jobs.winterchill.xyz/?employer=Fdo%20Consulting%20Limited) (1)
 
-- [Lead Azure Cloud Platform Engineer, Home Based](https://www.adzuna.co.uk/jobs/land/ad/5773086318?se=TAJk2Cdz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=087F9868216F113D2242CCC94180B055CBA42787) — DevOps / SRE · £100,000/yr · Leeds, West Yorkshire · remote
+- [Lead Azure Cloud Platform Engineer, Home Based](https://www.adzuna.co.uk/jobs/land/ad/5773086318?se=DtnYl_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=087F9868216F113D2242CCC94180B055CBA42787) — DevOps / SRE · £100,000/yr · Leeds, West Yorkshire · remote
 
 ### [Financial Conduct Authority](https://jobs.winterchill.xyz/?employer=Financial%20Conduct%20Authority) (1)
 
@@ -463,9 +481,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Frontier R&D Manager](https://www.linkedin.com/jobs/view/4424442008/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid
 
+### [Focal Systems](https://jobs.winterchill.xyz/?employer=Focal%20Systems) (1)
+
+- [Field Service Technician - Leeds (6 Month Fixed-Term Contract)](https://uk.indeed.com/viewjob?jk=b5f520e716a23f9f) — £17/hr · Leeds, United Kingdom
+
 ### [Focus 5 Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Focus%205%20Recruitment%20Ltd) (1)
 
-- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5765502286?se=sJlp1ydz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=A08B772C8D705982000C900E04765310E1D11D73) — Data Engineering · £45,000–£55,000/yr · Hyde Park, Leeds
+- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5765502286?se=CMsal_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=A08B772C8D705982000C900E04765310E1D11D73) — Data Engineering · £45,000–£55,000/yr · Hyde Park, Leeds
 
 ### [Focused Futures Consultancy LTD](https://jobs.winterchill.xyz/?employer=Focused%20Futures%20Consultancy%20LTD) (1)
 
@@ -479,10 +501,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Residential Development Senior Associate](https://uk.indeed.com/viewjob?jk=aba297a4064b6232) — Leeds, United Kingdom
 
-### [Gazelle Global](https://jobs.winterchill.xyz/?employer=Gazelle%20Global) (1)
-
-- [ODI Developer](https://www.linkedin.com/jobs/view/4426826244/) — Data Engineering · Leeds, England, United Kingdom
-
 ### [Gravitas Recruitment Group (Global) Ltd](https://jobs.winterchill.xyz/?employer=Gravitas%20Recruitment%20Group%20%28Global%29%20Ltd) (1)
 
 - [Data & Insight Analyst](https://www.linkedin.com/jobs/view/4428952142/) — Data Engineering · £45,000–£50,000/yr · Leeds, England, United Kingdom · hybrid
@@ -494,10 +512,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Harnham - Data & Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20%26%20Analytics%20Recruitment) (1)
 
 - [Principal Data Engineer](https://www.reed.co.uk/jobs/principal-data-engineer/56915384) — Data Engineering · £70,000–£80,000/yr · Leeds · hybrid
-
-### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
-
-- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4431243982/) — Backend · Leeds, England, United Kingdom
 
 ### [hedgehog lab](https://jobs.winterchill.xyz/?employer=hedgehog%20lab) (1)
 
@@ -525,11 +539,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [ITOL Recruit](https://jobs.winterchill.xyz/?employer=ITOL%20Recruit) (1)
 
-- [Trainee Web Developer](https://www.adzuna.co.uk/jobs/land/ad/5765462872?se=sJlp1ydz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=C5EB51BCE65E43B7244F711F1F0C08198B4410B1) — Backend · £29,000–£35,000/yr · Leeds, West Yorkshire
+- [Trainee Web Developer](https://www.adzuna.co.uk/jobs/land/ad/5765462872?se=CMsal_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=C5EB51BCE65E43B7244F711F1F0C08198B4410B1) — Backend · £29,000–£35,000/yr · Leeds, West Yorkshire
 
-### [JN Bentley](https://jobs.winterchill.xyz/?employer=JN%20Bentley) (1)
+### [JMG Group](https://jobs.winterchill.xyz/?employer=JMG%20Group) (1)
 
-- [Contracts Manager](https://uk.indeed.com/viewjob?jk=f911c274832688c4) — Leeds, United Kingdom
+- [Data Manager](https://uk.indeed.com/viewjob?jk=99fc76d2ed3212c7) — Leeds, United Kingdom
 
 ### [Johnsons Hotel Linen](https://jobs.winterchill.xyz/?employer=Johnsons%20Hotel%20Linen) (1)
 
@@ -551,17 +565,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://www.adzuna.co.uk/jobs/details/5752707990?utm_medium=api&utm_source=a9508167) — Embedded / Robotics · £60,000/yr · Leeds, West Yorkshire · hybrid
 
-### [La Fosse Associates](https://jobs.winterchill.xyz/?employer=La%20Fosse%20Associates) (1)
+### [LeoVegas Group](https://jobs.winterchill.xyz/?employer=LeoVegas%20Group) (1)
 
-- [Azure Engineer](https://www.adzuna.co.uk/jobs/details/5741389289?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £65,000–£70,000/yr · Leeds, West Yorkshire · hybrid · 🛂 visa sponsor
-
-### [Leeds Teaching Hospitals NHS Trust](https://jobs.winterchill.xyz/?employer=Leeds%20Teaching%20Hospitals%20NHS%20Trust) (1)
-
-- [Service Desk Analyst](https://uk.indeed.com/viewjob?jk=b43ba80342d81129) — £25,760–£27,476/yr · Leeds, United Kingdom
+- [Senior Node.js Engineer - Group CMS](https://www.linkedin.com/jobs/view/4407186946/) — Backend · Leeds, England, United Kingdom · hybrid
 
 ### [Lhasa Limited](https://jobs.winterchill.xyz/?employer=Lhasa%20Limited) (1)
 
 - [Senior Application Scientist](https://www.linkedin.com/jobs/view/4428482179/) — Leeds, England, United Kingdom
+
+### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (1)
+
+- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4419286687/) — Backend · Leeds, England, United Kingdom · hybrid
 
 ### [Lorien](https://jobs.winterchill.xyz/?employer=Lorien) (1)
 
@@ -573,15 +587,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Morgan Hunt Recruitment](https://jobs.winterchill.xyz/?employer=Morgan%20Hunt%20Recruitment) (1)
 
-- [HR Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750871745?se=sJlp1ydz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=F58A2F118BFAC37680763A7C913AD3B50D7501A8) — £51,000–£60,000/yr · Leeds, West Yorkshire
+- [HR Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750871745?se=CMsal_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=F58A2F118BFAC37680763A7C913AD3B50D7501A8) — £51,000–£60,000/yr · Leeds, West Yorkshire
 
 ### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (1)
 
 - [Senior Engineer (AI First)](https://www.linkedin.com/jobs/view/4427861059/) — Backend · Leeds, England, United Kingdom
-
-### [MSA Data Analytics Ltd](https://jobs.winterchill.xyz/?employer=MSA%20Data%20Analytics%20Ltd) (1)
-
-- [Commercial Performance Analyst](https://www.linkedin.com/jobs/view/4428862152/) — Data Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [MUFG Pension & Market Services](https://jobs.winterchill.xyz/?employer=MUFG%20Pension%20%26%20Market%20Services) (1)
 
@@ -589,11 +599,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [National Wealth Fund](https://jobs.winterchill.xyz/?employer=National%20Wealth%20Fund) (1)
 
-- [Principal Automation Test Specialist](https://www.linkedin.com/jobs/view/4431140520/) — DevOps / SRE · Up to £55,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Principal Automation Test Specialist](https://www.linkedin.com/jobs/view/4431140520/) — DevOps / SRE · Up to £55,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [NEEV LIMITED](https://jobs.winterchill.xyz/?employer=NEEV%20LIMITED) (1)
 
 - [Full Stack Java Engineer](https://www.adzuna.co.uk/jobs/details/5738655278?utm_medium=api&utm_source=a9508167) — Backend · Leeds, West Yorkshire
+
+### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
+
+- [.NET Developer](https://www.linkedin.com/jobs/view/4434494884/) — Backend · £130,000–£150,000/yr · Leeds, England, United Kingdom
 
 ### [Northern Trains](https://jobs.winterchill.xyz/?employer=Northern%20Trains) (1)
 
@@ -601,7 +615,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Oscar Associates  Limited](https://jobs.winterchill.xyz/?employer=Oscar%20Associates%20%20Limited) (1)
 
-- [AI Engineer - Automation](https://www.adzuna.co.uk/jobs/land/ad/5777531851?se=sJlp1ydz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=4C807A88E2B8F3547B7F6059A86EB9F370868CE5) — Data Engineering · £50,000/yr · Leeds, West Yorkshire · hybrid
+- [AI Engineer - Automation](https://www.adzuna.co.uk/jobs/land/ad/5777531851?se=CMsal_Vz8RG5B_ZD6wKS8Q&utm_medium=api&utm_source=a9508167&v=4C807A88E2B8F3547B7F6059A86EB9F370868CE5) — Data Engineering · £50,000/yr · Leeds, West Yorkshire · hybrid
 
 ### [Pemberton Tech](https://jobs.winterchill.xyz/?employer=Pemberton%20Tech) (1)
 
@@ -610,6 +624,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Phoenix Bathrooms](https://jobs.winterchill.xyz/?employer=Phoenix%20Bathrooms) (1)
 
 - [Bathroom Showroom Display Fitter](https://uk.indeed.com/viewjob?jk=58f7f4c7a5bd254a) — £17–£19/hr · Leeds, United Kingdom
+
+### [PKF Littlejohn](https://jobs.winterchill.xyz/?employer=PKF%20Littlejohn) (1)
+
+- [VAT Director](https://uk.indeed.com/viewjob?jk=1dc3026669d8e291) — Leeds, United Kingdom · hybrid
 
 ### [Pontoon](https://jobs.winterchill.xyz/?employer=Pontoon) (1)
 
@@ -623,6 +641,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4432410713/) — Backend · Leeds, England, United Kingdom · hybrid
 
+### [Qualient Technology Solutions UK Limited](https://jobs.winterchill.xyz/?employer=Qualient%20Technology%20Solutions%20UK%20Limited) (1)
+
+- [Functional Tester](https://www.linkedin.com/jobs/view/4433695580/) — QA / Test Automation · Leeds, England, United Kingdom · hybrid
+
 ### [RedRock Consulting](https://jobs.winterchill.xyz/?employer=RedRock%20Consulting) (1)
 
 - [Senior Kotlin Backend Engineer](https://www.linkedin.com/jobs/view/4429309943/) — Backend · Leeds, England, United Kingdom
@@ -630,6 +652,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rees Technical](https://jobs.winterchill.xyz/?employer=Rees%20Technical) (1)
 
 - [Biotechnology Scientist / Engineer](https://www.linkedin.com/jobs/view/4430443606/) — £30,000–£50,000/yr · Leeds, England, United Kingdom
+
+### [Rexel](https://jobs.winterchill.xyz/?employer=Rexel) (1)
+
+- [Digital Solutions Manager](https://uk.indeed.com/viewjob?jk=3e3da717516a5692) — Leeds, United Kingdom
 
 ### [Roberts Mart & Co Ltd](https://jobs.winterchill.xyz/?employer=Roberts%20Mart%20%26%20Co%20Ltd) (1)
 
@@ -642,6 +668,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rockstar North](https://jobs.winterchill.xyz/?employer=Rockstar%20North) (1)
 
 - [Analytics Engineer](https://www.adzuna.co.uk/jobs/details/5741294564?utm_medium=api&utm_source=a9508167) — Developer Relations / Technical Content · Leeds, West Yorkshire
+
+### [RSK LDE (Land and Development Engineering)](https://jobs.winterchill.xyz/?employer=RSK%20LDE%20%28Land%20and%20Development%20Engineering%29) (1)
+
+- [Associate Director - Infrastructure Engineer](https://www.linkedin.com/jobs/view/4432661951/) — Leeds, England, United Kingdom
 
 ### [Russell Tobin](https://jobs.winterchill.xyz/?employer=Russell%20Tobin) (1)
 
@@ -658,6 +688,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Siemens Energy](https://jobs.winterchill.xyz/?employer=Siemens%20Energy) (1)
 
 - [Quality Manager in Projects](https://uk.indeed.com/viewjob?jk=9d0315ceff2ad9bb) — Leeds, United Kingdom
+
+### [Simpro Software](https://jobs.winterchill.xyz/?employer=Simpro%20Software) (1)
+
+- [Senior Director of Engineering](https://www.linkedin.com/jobs/view/4433376295/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [SolarEdge Technologies](https://jobs.winterchill.xyz/?employer=SolarEdge%20Technologies) (1)
 
@@ -679,9 +713,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Java Developer](https://www.linkedin.com/jobs/view/4424074429/) — Backend · £65,000–£75,000/yr · Leeds, England, United Kingdom · hybrid
 
+### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
+
+- [Full Stack Developer - Java, Angular - Leeds (Hybrid)](https://www.reed.co.uk/jobs/full-stack-developer-java-angular-leeds-hybrid/56918926) — Backend · £65,000–£80,000/yr · Leeds · hybrid
+
 ### [The Bank of England](https://jobs.winterchill.xyz/?employer=The%20Bank%20of%20England) (1)
 
 - [Lead Engineer (Specialist) in DATA COLLECTION AND PUBLICATION (DCP)](https://www.adzuna.co.uk/jobs/details/5759151987?utm_medium=api&utm_source=a9508167) — £72,320–£81,360/yr · Leeds, West Yorkshire
+
+### [The Hair Dr](https://jobs.winterchill.xyz/?employer=The%20Hair%20Dr) (1)
+
+- [Registered Scrub Nurse](https://uk.indeed.com/viewjob?jk=6370407f350f83f9) — £30,000–£40,000/yr · Leeds, United Kingdom
 
 ### [Tredence Inc.](https://jobs.winterchill.xyz/?employer=Tredence%20Inc.) (1)
 
@@ -702,6 +744,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Upshot Engineering UK Ltd](https://jobs.winterchill.xyz/?employer=Upshot%20Engineering%20UK%20Ltd) (1)
 
 - [Snr IT Analyst/IT Engineer](https://uk.indeed.com/viewjob?jk=d9286ff08c5e0cee) — £40,000–£50,000/yr · Leeds, United Kingdom
+
+### [Vaerdi Recruitment Limited](https://jobs.winterchill.xyz/?employer=Vaerdi%20Recruitment%20Limited) (1)
+
+- [Senior Data Engineer – £70,000–£80,000 – Hybrid (North West / Yorkshire)](https://www.adzuna.co.uk/jobs/land/ad/5766987729?se=GMBrLQNw8RG1ptycNMu8WA&utm_medium=api&utm_source=a9508167&v=98F936F715F31EDBE1D8DAE25BE8182F9DC9784E) — Data Engineering · £70,000–£80,000/yr · Leeds, West Yorkshire · hybrid
 
 ### [Vantage Consulting](https://jobs.winterchill.xyz/?employer=Vantage%20Consulting) (1)
 
@@ -731,9 +777,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Junior Software & Systems Engineer](https://uk.indeed.com/viewjob?jk=299d0b44b37f12fb) — Leeds, United Kingdom
 
-### [Xerogrid Ltd](https://jobs.winterchill.xyz/?employer=Xerogrid%20Ltd) (1)
+### [WSP](https://jobs.winterchill.xyz/?employer=WSP) (1)
 
-- [Solar project manager (part time freelance)](https://uk.indeed.com/viewjob?jk=b29e603b83037e53) — £45–£60/hr · Leeds, United Kingdom
+- [Assistant Engineer (Structures Investigation)](https://uk.indeed.com/viewjob?jk=3eec5481a0fa7ed5) — Leeds, United Kingdom · remote
 
 ### [Youwe](https://jobs.winterchill.xyz/?employer=Youwe) (1)
 
@@ -741,7 +787,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Zealous Agency](https://jobs.winterchill.xyz/?employer=Zealous%20Agency) (1)
 
-- [Web Developer](https://www.linkedin.com/jobs/view/4430935309/) — Backend · Leeds, England, United Kingdom
+- [Web Developer](https://www.linkedin.com/jobs/view/4430935309/) — Backend · Leeds, England, United Kingdom · hybrid
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
