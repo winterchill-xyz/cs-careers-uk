@@ -1,13 +1,14 @@
 # Software &amp; IT careers in Glasgow
 
-**413 open roles** · updated 2026-07-01
+**512 open roles** · updated 2026-07-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Glasgow)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (26)
+### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (27)
 
+- [Lead Software Engineer - AWS / GCP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210757979) — GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - Python, Databricks, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210731305) — GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer- Python & AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210762028) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - Python/Test Automation](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210705454) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
@@ -27,11 +28,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Lead Software Engineer - Python, Data, Cloud, AIML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210749232) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III - Python, Cloud, Data, AIML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210751066) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Full Stack Software Engineer - Java, React, AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210751317) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [UI Lead Software Engineer - React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210753826) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- …and 6 more at JPMorgan — see [`jobs.json`](jobs.json)
+- …and 7 more at JPMorgan — see [`jobs.json`](jobs.json)
 
-### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (20)
+### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (24)
 
+- [Lead Data Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Lead-Data-Engineer_JR-0000110659-1) — Glasgow Campus, United Kingdom · 🛂 visa sponsor
+- [Full Stack Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Full-Stack-Developer_JR-0000115478) — Glasgow Campus, United Kingdom · 🛂 visa sponsor
+- [Site Reliability Engineer (SRE)](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Site-Reliability-Engineer--SRE-_JR-0000102279-1) — Glasgow Campus, United Kingdom · 🛂 visa sponsor
+- [Forward Deployment Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Forward-Deployment-Engineer_JR-0000102291) — Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Site Reliability Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Site-Reliability-Engineer_JR-0000111681) — Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Senior AWS Data Platform Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-AWS-Data-Platform-Developer_JR-0000103954) — Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Senior Developer (Java and React)](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Developer--Java-and-React-_JR-0000113441) — Platform / Infrastructure · Glasgow Campus, United Kingdom · 🛂 visa sponsor
@@ -48,12 +52,47 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Salesforce Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Salesforce-Developer_JR-0000101936) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Senior Full Stack Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Full-Stack-Developer_JR-0000099526) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Developer Platform Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Developer-Platform-Engineer_JR-0000092605) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
-- [Senior Java Developer Integrated Financial Crime (IFC)](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Java-Developer-Integrated-Financial-Crime--IFC-_JR-0000083058) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
-- [Engineering Manager](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Engineering-Manager_JR-0000113203) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
-- [Senior Full Stack Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Full-Stack-Engineer_JR-0000118735-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
-- [Senior ServiceNow Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-ServiceNow-Developer_JR-0000089944-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
+- …and 4 more at Barclays — see [`jobs.json`](jobs.json)
 
-### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (9)
+### Company not listed (10)
+
+- [Cybersecurity Director](https://uk.indeed.com/viewjob?jk=b0849981662c48ff) — £8,333–£10,833/mo · Glasgow, United Kingdom
+- [Senior Quantity Surveyor](https://uk.indeed.com/viewjob?jk=6fc4d770a5729768) — £6,250–£7,917/mo · Glasgow, United Kingdom
+- [Senior Associate Electrical Engineer](https://uk.indeed.com/viewjob?jk=234e37b26e786d12) — £63,250–£79,500/yr · Glasgow, United Kingdom
+- [Computational Photonics Engineer](https://uk.indeed.com/viewjob?jk=2ae7d6b8cfd54d73) — £35,000–£75,000/yr · Glasgow, United Kingdom
+- [Project Services & Client Delivery Manager](https://uk.indeed.com/viewjob?jk=dfe1161fc632fbc2) — £64,000/yr · Glasgow, United Kingdom
+- [HPC Engineer](https://uk.indeed.com/viewjob?jk=61f283f4fb395dae) — £48,123–£58,607/yr · Glasgow, United Kingdom · 🛂 visa sponsor
+- [Project Manager - Data Strategy & AI Readiness](https://uk.indeed.com/viewjob?jk=f6a4520084af225f) — £40,000–£50,000/yr · Glasgow, United Kingdom
+- [Data Coordination & Integration Lead – Research Data & AI Readiness](https://uk.indeed.com/viewjob?jk=7e50e6945cd21df6) — £30,000–£40,000/yr · Glasgow, United Kingdom
+- [Photonic Design Engineer](https://uk.indeed.com/viewjob?jk=d6e5cf19b7191d5f) — £35,000/yr · Glasgow, United Kingdom
+- [Embedded Electronic Systems Engineer](https://uk.indeed.com/viewjob?jk=eb41aa02b2822579) — £35,000/yr · Glasgow, United Kingdom
+
+### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (10)
+
+- [Project Commercial Manager](https://uk.indeed.com/viewjob?jk=8ab9ea766a7aae3c) — Glasgow, United Kingdom
+- [Head of Function - Quality, Health & Safety](https://uk.indeed.com/viewjob?jk=06425d9b2f54fcbd) — Glasgow, United Kingdom
+- [Principal Engineering Geologist](https://www.linkedin.com/jobs/view/4407841331/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Process Engineering Lead](https://www.linkedin.com/jobs/view/4433092676/) — Glasgow, Scotland, United Kingdom
+- [Technical Director](https://www.linkedin.com/jobs/view/4403766806/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Principal Geotechnical Engineer](https://www.linkedin.com/jobs/view/4391724595/) — Glasgow, Scotland, United Kingdom
+- [Senior Architect](https://www.linkedin.com/jobs/view/4433837408/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Design Manager](https://www.linkedin.com/jobs/view/4414661359/) — Glasgow, Scotland, United Kingdom
+- [Process Engineer](https://www.linkedin.com/jobs/view/4434716841/) — Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Process Engineer](https://uk.indeed.com/viewjob?jk=eff788c50d830bc7) — Glasgow, United Kingdom
+
+### [Burns & McDonnell](https://jobs.winterchill.xyz/?employer=Burns%20%26%20McDonnell) (9)
+
+- [Principal Civil Engineer - Transmission & Distribution (Multiple Locations, UK)](https://uk.indeed.com/viewjob?jk=4162c501ee14cb70) — Glasgow, United Kingdom
+- [Senior Civil Engineer - Transmission & Distribution (Multiple Locations, UK)](https://uk.indeed.com/viewjob?jk=5c934c7224011feb) — Glasgow, United Kingdom
+- [Principal Protection & Control Engineer - Transmission & Distribution (Glasgow, UK)](https://uk.indeed.com/viewjob?jk=1784e29166c21e75) — Glasgow, United Kingdom
+- [Senior Protection & Control Engineer - Transmission & Distribution (Glasgow, UK)](https://uk.indeed.com/viewjob?jk=6d756c9b15bf6528) — Glasgow, United Kingdom
+- [Staff Protection & Control Engineer - Transmission & Distribution (Glasgow, UK)](https://uk.indeed.com/viewjob?jk=c94d2264170afb72) — Glasgow, United Kingdom
+- [Senior Project Manager - T&D Construction - (Glasgow, UK)](https://www.linkedin.com/jobs/view/4415667390/) — Glasgow, Scotland, United Kingdom
+- [Senior Design Manager - Transmission & Distribution (Glasgow, UK)](https://www.linkedin.com/jobs/view/4138160365/) — Glasgow, Scotland, United Kingdom
+- [Field Operations Manager - T&D Construction (Multiple Locations, UK)](https://uk.indeed.com/viewjob?jk=4b92ec6731d07974) — Glasgow, United Kingdom
+- [Section Manager (Protection & Control) - T&D (Multiple Location, UK)](https://uk.indeed.com/viewjob?jk=77ee7f697091c7ee) — Glasgow, United Kingdom
+
+### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (8)
 
 - [Electrical Engineer - Distribution](https://uk.indeed.com/viewjob?jk=3d832b6957aef65d) — Glasgow, United Kingdom
 - [Digital Projects IM Lead](https://www.linkedin.com/jobs/view/4430598688/) — Glasgow, Scotland, United Kingdom · hybrid
@@ -63,7 +102,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Engineering Geologist](https://uk.indeed.com/viewjob?jk=b8d91b7b9c542492) — Glasgow, United Kingdom · hybrid
 - [Graduate Bridge Structures Engineer – Glasgow (2026)](https://uk.indeed.com/viewjob?jk=6016567c42bab0a9) — Glasgow, United Kingdom
 - [Principal Engineer/ Associate Director - Local Roads and Transportation](https://uk.indeed.com/viewjob?jk=6a4fec6a9df36621) — Glasgow, United Kingdom
-- [Practice Director - Systems Engineering and Safety Assurance & Engineering Management](https://www.adzuna.co.uk/jobs/details/5768743765?utm_medium=api&utm_source=a9508167) — Glasgow, Scotland · 🛂 visa sponsor
+
+### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (8)
+
+- [Agile Business Analyst - Consultant/Senior Consultant - Digital Excellence](https://uk.indeed.com/viewjob?jk=a59eb5f905b19572) — Glasgow, United Kingdom
+- [AWS Cloud Data Engineer](https://uk.indeed.com/viewjob?jk=1c33d713929c9390) — Glasgow, United Kingdom
+- [BUSINESS ANALYST](https://www.linkedin.com/jobs/view/4432809944/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Vice President - Intelligent Industries - Digital Construction](https://www.linkedin.com/jobs/view/4434944273/) — Glasgow, Scotland, United Kingdom
+- [AWS Cloud Data Engineer](https://www.linkedin.com/jobs/view/4433247397/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [BUSINESS ANALYST](https://uk.indeed.com/viewjob?jk=132325af108af722) — Glasgow, United Kingdom
+- [Managing Consultant/Senior Manager - Data & AI Architecture](https://uk.indeed.com/viewjob?jk=e76f454365c4d582) — Glasgow, United Kingdom
+- [Java Fullstack Developer (React)](https://www.linkedin.com/jobs/view/4430051692/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (8)
 
@@ -83,20 +132,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Frontend Software Engineer](https://uk.indeed.com/viewjob?jk=c3f6616adc5c6bba) — Glasgow, United Kingdom
 - [Senior Technical Project Manager](https://www.linkedin.com/jobs/view/4412947822/) — Product Engineering · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Deployment Engineer](https://www.linkedin.com/jobs/view/4404092154/) — DevOps / SRE · Glasgow, Scotland, United Kingdom · remote · 🛂 visa sponsor
-- [Senior Software Engineering Manager](https://www.adzuna.co.uk/jobs/land/ad/5703528011?se=DhQAPrp08RG2jLGQagABMA&utm_medium=api&utm_source=a9508167&v=236635F115EEFED8EEEC2F0162E4CE3439F038B6) — Engineering Management · Glasgow, Scotland · 🛂 visa sponsor
-- [Graduate Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5723444414?se=IO7BOrp08RGpTcCyz6jaTQ&utm_medium=api&utm_source=a9508167&v=BD162C7472718BA1B529B57514229B6BF0BE97DC) — Backend · Glasgow, Scotland · 🛂 visa sponsor
+- [Senior Software Engineering Manager](https://www.adzuna.co.uk/jobs/land/ad/5703528011?se=_tE4dIN18RG075onbIWOaw&utm_medium=api&utm_source=a9508167&v=236635F115EEFED8EEEC2F0162E4CE3439F038B6) — Engineering Management · Glasgow, Scotland · 🛂 visa sponsor
+- [Graduate Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5723444414?se=OmHAcYN18RGt3dtJYsVrNQ&utm_medium=api&utm_source=a9508167&v=BD162C7472718BA1B529B57514229B6BF0BE97DC) — Backend · Glasgow, Scotland · 🛂 visa sponsor
 
-### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (6)
+### [ScottishPower](https://jobs.winterchill.xyz/?employer=ScottishPower) (7)
 
-- [AWS Cloud Data Engineer](https://uk.indeed.com/viewjob?jk=1c33d713929c9390) — Glasgow, United Kingdom
-- [BUSINESS ANALYST](https://www.linkedin.com/jobs/view/4432809944/) — Glasgow, Scotland, United Kingdom · hybrid
-- [AWS Cloud Data Engineer](https://www.linkedin.com/jobs/view/4433247397/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
-- [BUSINESS ANALYST](https://uk.indeed.com/viewjob?jk=132325af108af722) — Glasgow, United Kingdom
-- [Managing Consultant/Senior Manager - Data & AI Architecture](https://uk.indeed.com/viewjob?jk=e76f454365c4d582) — Glasgow, United Kingdom
-- [Java Fullstack Developer (React)](https://www.linkedin.com/jobs/view/4430051692/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [ScottishPower](https://jobs.winterchill.xyz/?employer=ScottishPower) (6)
-
+- [Solutions Architect](https://www.linkedin.com/jobs/view/4431528874/) — £63,000–£79,000/yr · Glasgow, Scotland, United Kingdom
 - [Lead Analyst](https://uk.indeed.com/viewjob?jk=9cec01c62ae04957) — £63,200/yr · Glasgow, United Kingdom
 - [Senior Software Engineer- Innovation & AI](https://www.linkedin.com/jobs/view/4429447592/) — Backend · £63,200/yr · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Product Owner](https://uk.indeed.com/viewjob?jk=cbb53651344a4f2a) — £55,200/yr · Glasgow, United Kingdom · hybrid
@@ -104,23 +145,32 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Network Risk Engineer](https://www.linkedin.com/jobs/view/4431084567/) — £55,000/yr · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [SCADA Engineer](https://www.linkedin.com/jobs/view/4430229974/) — £45,400/yr · Glasgow, Scotland, United Kingdom · hybrid
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (6)
+### [Ofgem](https://jobs.winterchill.xyz/?employer=Ofgem) (6)
 
-- [Tech Lead, Web Core Product & Chrome Extension - Glasgow, United Kingdom](https://uk.indeed.com/viewjob?jk=9186391003e336a0) — Glasgow, United Kingdom
-- [Software Engineer, Data Infrastructure & Acquisition - Glasgow, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720903781?utm_medium=api&utm_source=a9508167) — Mobile · Glasgow, Scotland
-- [Software Engineer, iOS Core Product - Glasgow, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-glasgow-united-kingdom-speechify-7947233) — Backend · Glasgow, Scotland, United Kingdom · remote
-- [Senior Software Engineer, Core Experiences - Glasgow, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-glasgow-united-kingdom-speechify-7960014) — Backend · Glasgow, Scotland, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Glasgow, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-glasgow-united-kingdom-speechify-7982568) — Backend · Glasgow, Scotland, United Kingdom
-- [Software Engineer, Platform - Glasgow, United Kingdom](https://www.adzuna.co.uk/jobs/details/5732353829?utm_medium=api&utm_source=a9508167) — Mobile · Glasgow, Scotland
+- [Senior Data Architect](https://uk.indeed.com/viewjob?jk=f58ab70eb1ff7c4f) — £52,397–£62,699/yr · Glasgow, United Kingdom
+- [Service Desk Manager](https://uk.indeed.com/viewjob?jk=6dc9760d1e91c54e) — £52,397–£62,699/yr · Glasgow, United Kingdom
+- [Lead End User Computing Engineer (Sharepoint/Power Platform)](https://uk.indeed.com/viewjob?jk=75881849e42c7c26) — £52,397–£62,699/yr · Glasgow, United Kingdom
+- [Lead Cyber Security Analyst](https://www.linkedin.com/jobs/view/4431075876/) — £52,397–£62,699/yr · Glasgow, Scotland, United Kingdom · hybrid
+- [Business Analyst](https://uk.indeed.com/viewjob?jk=5d9c20638cc20bd9) — £35,232–£48,561/yr · Glasgow, United Kingdom · hybrid
+- [Data Scientist](https://www.linkedin.com/jobs/view/4428932099/) — Data Engineering · £35,232/yr · Glasgow, Scotland, United Kingdom · hybrid
 
 ### [Spire](https://jobs.winterchill.xyz/?employer=Spire) (6)
 
 - [GNC Engineer - Avionics](https://www.linkedin.com/jobs/view/4312085609/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Senior Firmware Engineer](https://www.linkedin.com/jobs/view/4414576808/) — Glasgow, Scotland, United Kingdom
 - [Senior GNC Engineer](https://www.linkedin.com/jobs/view/4390352718/) — Embedded / Robotics · Glasgow, Scotland, United Kingdom · hybrid
-- [Software Engineer - Yocto/Linux](https://www.adzuna.co.uk/jobs/details/5696592081?utm_medium=api&utm_source=a9508167) — Backend · Glasgow, Scotland
 - [Director of Software Engineering](https://www.adzuna.co.uk/jobs/details/5696595647?utm_medium=api&utm_source=a9508167) — Engineering Management · Glasgow, Scotland
 - [Telecommunications GS Engineer](https://www.linkedin.com/jobs/view/4401786234/) — DevOps / SRE · Glasgow, Scotland, United Kingdom · hybrid
 - [Senior Spacecraft Software Engineer](https://www.linkedin.com/jobs/view/4378822812/) — Backend · Glasgow, Scotland, United Kingdom · hybrid
+
+### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (6)
+
+- [Reliability (RAM) Engineer (All Levels) - Rail](https://www.linkedin.com/jobs/view/4405636428/) — Glasgow, Scotland, United Kingdom
+- [Senior or Principal Waste Infrastructure & Technology Engineer / Consultant](https://www.linkedin.com/jobs/view/4422439188/) — Glasgow, Scotland, United Kingdom · remote
+- [Consultant Ecologist](https://www.linkedin.com/jobs/view/4393591782/) — Glasgow, Scotland, United Kingdom
+- [PHP Software Developer](https://www.linkedin.com/jobs/view/4433885235/) — Glasgow, Scotland, United Kingdom
+- [Senior or Principal Data Scientist](https://www.linkedin.com/jobs/view/4433884317/) — Backend · Glasgow, Scotland, United Kingdom
+- [Senior Civil Infrastructure Engineer (Development)](https://www.linkedin.com/jobs/view/4420928339/) — Glasgow, Scotland, United Kingdom · remote
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (5)
 
@@ -132,19 +182,27 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Amey](https://jobs.winterchill.xyz/?employer=Amey) (5)
 
-- [Cleaner/Housekeeper](https://uk.indeed.com/viewjob?jk=1ffc65b3a8c17f9b) — £14/hr · Glasgow, United Kingdom
+- [Cleaner/Housekeeper](https://uk.indeed.com/viewjob?jk=3e13fcbfa7264fbc) — £14/hr · Glasgow, United Kingdom
 - [Delivery Manager - Bridges](https://www.linkedin.com/jobs/view/4432564613/) — Glasgow, Scotland, United Kingdom
 - [Operations Manager](https://uk.indeed.com/viewjob?jk=b0d5b7c71b134aa0) — Glasgow, United Kingdom
 - [Delivery Manager - Bridges](https://uk.indeed.com/viewjob?jk=1e76c64af36a4b7d) — Glasgow, United Kingdom
 - [Cleaning Team Leader](https://uk.indeed.com/viewjob?jk=32887cc424c5f520) — Glasgow, United Kingdom
 
-### [AtkinsRéalis](https://jobs.winterchill.xyz/?employer=AtkinsR%C3%A9alis) (5)
+### [Arcadis](https://jobs.winterchill.xyz/?employer=Arcadis) (5)
 
-- [Power Technical Director](https://uk.indeed.com/viewjob?jk=ede7624a0afd9683) — Glasgow, United Kingdom
-- [Senior Project Manager](https://uk.indeed.com/viewjob?jk=c67799cfc2e1cfd3) — Glasgow, United Kingdom · hybrid
-- [Assistant Project Manager](https://uk.indeed.com/viewjob?jk=7ec41d9386aa46dd) — Glasgow, United Kingdom
-- [Principal Nuclear Safety Engineer](https://uk.indeed.com/viewjob?jk=68315fefab11a08b) — Glasgow, United Kingdom
-- [Senior Nuclear Safety Engineer](https://uk.indeed.com/viewjob?jk=ce0670eb384b9e2b) — Glasgow, United Kingdom
+- [Earthing Technician](https://uk.indeed.com/viewjob?jk=c2e94ae849247cc3) — Glasgow, United Kingdom
+- [Senior Design Manager](https://www.linkedin.com/jobs/view/4430217551/) — Glasgow, Scotland, United Kingdom
+- [Assistant Engineer Geotechnics](https://www.linkedin.com/jobs/view/4430228346/) — Glasgow, Scotland, United Kingdom
+- [Senior Project Manager Major Projects](https://uk.indeed.com/viewjob?jk=c4d9e5ca965c0354) — Glasgow, United Kingdom
+- [Senior Design Manager](https://uk.indeed.com/viewjob?jk=4c633462986a0436) — Glasgow, United Kingdom
+
+### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (5)
+
+- [Backend Software Engineer](https://www.adzuna.co.uk/jobs/details/5776220636?utm_medium=api&utm_source=a9508167) — Backend · £104,000–£124,800/yr · Glasgow, Scotland · remote · 🛂 visa sponsor
+- [Power BI Developer](https://www.adzuna.co.uk/jobs/details/5781267364?utm_medium=api&utm_source=a9508167) — Data Engineering · £109,200/yr · Glasgow City Centre, Glasgow · 🛂 visa sponsor
+- [Global Infrastructure Manager](https://www.linkedin.com/jobs/view/4435178246/) — Glasgow, Scotland, United Kingdom
+- [Chief of Staff - Office of the CTIO](https://www.linkedin.com/jobs/view/4433315338/) — Glasgow, Scotland, United Kingdom
+- [Site Reliability Engineer](https://www.reed.co.uk/jobs/site-reliability-engineer/56957717) — DevOps / SRE · Glasgow · hybrid · 🛂 visa sponsor
 
 ### [Mindrift](https://jobs.winterchill.xyz/?employer=Mindrift) (5)
 
@@ -162,14 +220,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Infrastructure Security Engineer (Windows)](https://morganstanley.eightfold.ai/careers/job/549797298414) — DevOps / SRE · Glasgow, United Kingdom; Glasgow, Scotland, GB · 🛂 visa sponsor
 - [Senior Platform Engineer](https://morganstanley.eightfold.ai/careers/job/549798279798) — DevOps / SRE · Glasgow, United Kingdom; Glasgow, Scotland, GB · hybrid · 🛂 visa sponsor
 
-### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (5)
-
-- [Technical Director](https://www.linkedin.com/jobs/view/4403766806/) — Glasgow, Scotland, United Kingdom · hybrid
-- [Principal Geotechnical Engineer](https://www.linkedin.com/jobs/view/4391724595/) — Glasgow, Scotland, United Kingdom
-- [Senior Architect](https://www.linkedin.com/jobs/view/4433837408/) — Glasgow, Scotland, United Kingdom · hybrid
-- [Process Engineer](https://www.linkedin.com/jobs/view/4434716841/) — Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior Process Engineer](https://uk.indeed.com/viewjob?jk=eff788c50d830bc7) — Glasgow, United Kingdom
-
 ### [NXP Semiconductors](https://jobs.winterchill.xyz/?employer=NXP%20Semiconductors) (5)
 
 - [Principal Product Security Certification Expert (m/f/d)](https://www.linkedin.com/jobs/view/4384346493/) — Glasgow, Scotland, United Kingdom
@@ -178,6 +228,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Product Security Incident Response Manager (m/f/d)](https://www.linkedin.com/jobs/view/4365400485/) — DevOps / SRE · Glasgow, Scotland, United Kingdom
 - [Applications / Software Engineer in Roznov or Ostrava](https://www.linkedin.com/jobs/view/4402164881/) — Backend · Glasgow, Scotland, United Kingdom · hybrid
 
+### [Amentum](https://jobs.winterchill.xyz/?employer=Amentum) (4)
+
+- [Senior Mechanical Engineers](https://www.linkedin.com/jobs/view/4432431989/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Technical Director – Ports and Maritime Engineering](https://www.linkedin.com/jobs/view/4430926132/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Principal Fire Engineer](https://www.linkedin.com/jobs/view/4413452405/) — Glasgow, Scotland, United Kingdom
+- [Principal Solutions Architect](https://www.linkedin.com/jobs/view/4434019943/) — Glasgow, Scotland, United Kingdom
+
+### [AtkinsRéalis](https://jobs.winterchill.xyz/?employer=AtkinsR%C3%A9alis) (4)
+
+- [Power Technical Director](https://www.linkedin.com/jobs/view/4435102603/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Power Technical Director](https://uk.indeed.com/viewjob?jk=ede7624a0afd9683) — Glasgow, United Kingdom
+- [Principal Nuclear Safety Engineer](https://uk.indeed.com/viewjob?jk=68315fefab11a08b) — Glasgow, United Kingdom
+- [Senior Nuclear Safety Engineer](https://uk.indeed.com/viewjob?jk=ce0670eb384b9e2b) — Glasgow, United Kingdom
+
 ### [Balfour Beatty](https://jobs.winterchill.xyz/?employer=Balfour%20Beatty) (4)
 
 - [Commercial Manager](https://uk.indeed.com/viewjob?jk=34eb9e1708203aa7) — Glasgow, United Kingdom · remote
@@ -185,12 +249,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Quantity Surveyor - Education Structure Build](https://uk.indeed.com/viewjob?jk=de00345d7e0eaa31) — Glasgow, United Kingdom
 - [CAD Technician - Glasgow](https://uk.indeed.com/viewjob?jk=87565ad06909da78) — Glasgow, United Kingdom
 
-### Company not listed (4)
+### [Capco](https://jobs.winterchill.xyz/?employer=Capco) (4)
 
-- [Senior Associate Electrical Engineer](https://uk.indeed.com/viewjob?jk=234e37b26e786d12) — £63,250–£79,500/yr · Glasgow, United Kingdom
-- [Project Services & Client Delivery Manager](https://uk.indeed.com/viewjob?jk=dfe1161fc632fbc2) — £64,000/yr · Glasgow, United Kingdom
-- [Project Manager - Data Strategy & AI Readiness](https://uk.indeed.com/viewjob?jk=f6a4520084af225f) — £40,000–£50,000/yr · Glasgow, United Kingdom
-- [Data Coordination & Integration Lead – Research Data & AI Readiness](https://uk.indeed.com/viewjob?jk=7e50e6945cd21df6) — £30,000–£40,000/yr · Glasgow, United Kingdom
+- [Senior Backend Engineer - Java](https://job-boards.greenhouse.io/capco/jobs/7679923) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
+- [Principal AWS Data Engineer](https://job-boards.greenhouse.io/capco/jobs/7681747) — Data Engineering · UK - Glasgow  · hybrid · 🛂 visa sponsor
+- [Lead AI Engineer](https://job-boards.greenhouse.io/capco/jobs/7712769) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
+- [Engineering Director](https://job-boards.greenhouse.io/capco/jobs/7675152) — Platform / Infrastructure · UK - Glasgow  · hybrid · 🛂 visa sponsor
+
+### [Celeros Flow Technology](https://jobs.winterchill.xyz/?employer=Celeros%20Flow%20Technology) (4)
+
+- [Manufacturing Engineer](https://www.linkedin.com/jobs/view/4432947966/) — Glasgow, Scotland, United Kingdom
+- [Apprentice](https://www.linkedin.com/jobs/view/4432197906/) — Glasgow, Scotland, United Kingdom
+- [Fabrication & Weld Supervisor](https://uk.indeed.com/viewjob?jk=c3f241748a36b586) — Glasgow, United Kingdom
+- [Fitter & Service Engineer](https://uk.indeed.com/viewjob?jk=1596ca0051f26a20) — Glasgow, United Kingdom
 
 ### [Diana Duggan UK Limited](https://jobs.winterchill.xyz/?employer=Diana%20Duggan%20UK%20Limited) (4)
 
@@ -199,50 +270,32 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Logging & Inventory Cloud Engineer](https://www.reed.co.uk/jobs/logging-inventory-cloud-engineer/57054841) — DevOps / SRE · £400–£450/day · Glasgow · hybrid
 - [Site Reliability Engineer (SRE) – Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5775038200?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £400–£450/day · Glasgow City Centre, Glasgow · hybrid
 
-### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (4)
+### [Planet DDS](https://jobs.winterchill.xyz/?employer=Planet%20DDS) (4)
 
-- [Backend Software Engineer](https://www.adzuna.co.uk/jobs/details/5776220636?utm_medium=api&utm_source=a9508167) — Backend · £104,000–£124,800/yr · Glasgow, Scotland · remote · 🛂 visa sponsor
-- [Power BI Developer](https://www.adzuna.co.uk/jobs/details/5781361058?utm_medium=api&utm_source=a9508167) — Data Engineering · £109,200/yr · Glasgow, Scotland · 🛂 visa sponsor
-- [Chief of Staff - Office of the CTIO](https://www.linkedin.com/jobs/view/4433315338/) — Glasgow, Scotland, United Kingdom
-- [Site Reliability Engineer](https://www.reed.co.uk/jobs/site-reliability-engineer/56957717) — DevOps / SRE · Glasgow · hybrid · 🛂 visa sponsor
-
-### [Hawksworth](https://jobs.winterchill.xyz/?employer=Hawksworth) (4)
-
-- [VP - AI Software Engineer - Banking - £90k-£100k](https://www.linkedin.com/jobs/view/4433232043/) — Backend · £90,000–£100,000/yr · Glasgow, Scotland, United Kingdom · hybrid
-- [AI Software Engineer - Glasgow - Hybrid - £50k - £90k + bonus + Package ( Banking)](https://www.linkedin.com/jobs/view/4429038177/) — Backend · £50,000–£90,000/yr · Glasgow, Scotland, United Kingdom · hybrid
-- [Generative AI Architect - Global Financial - £107k](https://www.linkedin.com/jobs/view/4433219636/) — Glasgow, Scotland, United Kingdom · hybrid
-- [AI Software Engineer - Banking- £65k](https://www.linkedin.com/jobs/view/4433227413/) — Backend · Glasgow, Scotland, United Kingdom · hybrid
+- [Corporate IT Manager](https://www.linkedin.com/jobs/view/4423017743/) — Glasgow, Scotland, United Kingdom
+- [Software Engineer III (AI-Powered)](https://www.linkedin.com/jobs/view/4415524750/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [DevOps Engineer III (AI-Powered)](https://www.linkedin.com/jobs/view/4415530600/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [Engineering Technical Lead](https://www.linkedin.com/jobs/view/4413445473/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [RES](https://jobs.winterchill.xyz/?employer=RES) (4)
 
 - [Senior Android Developer – Drone Navigation & Control](https://www.linkedin.com/jobs/view/4425914127/) — Glasgow, Scotland, United Kingdom
 - [Data and AI Modeller / Analytics Engineer](https://www.linkedin.com/jobs/view/4422190905/) — Data Engineering · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior Data and AI Engineer](https://www.linkedin.com/jobs/view/4419891113/) — Data Engineering · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer - React/Python/C#](https://www.linkedin.com/jobs/view/4389942261/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Data and AI Engineer](https://www.adzuna.co.uk/jobs/details/5744466873?utm_medium=api&utm_source=a9508167) — Glasgow, Scotland · 🛂 visa sponsor
+- [Software Engineer - React/Python/C#](https://www.adzuna.co.uk/jobs/details/5684030396?utm_medium=api&utm_source=a9508167) — Glasgow, Scotland · 🛂 visa sponsor
 
-### [Amentum](https://jobs.winterchill.xyz/?employer=Amentum) (3)
+### [SAS](https://jobs.winterchill.xyz/?employer=SAS) (4)
 
-- [Technical Director – Ports and Maritime Engineering](https://www.linkedin.com/jobs/view/4430926132/) — Glasgow, Scotland, United Kingdom · hybrid
-- [Principal Fire Engineer](https://www.linkedin.com/jobs/view/4413452405/) — Glasgow, Scotland, United Kingdom
-- [Principal Electrical Engineer](https://www.linkedin.com/jobs/view/4407878156/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Manager, Software Development - Customer Intelligence](https://uk.indeed.com/viewjob?jk=1f0de9b799c5b4e5) — Glasgow, United Kingdom
+- [R&D Project Manager - SaaS](https://www.linkedin.com/jobs/view/4432812059/) — Glasgow, Scotland, United Kingdom
+- [R&D Project Manager - SaaS](https://uk.indeed.com/viewjob?jk=1a1f1c9890d763ff) — Glasgow, United Kingdom
+- [Linguistic Developer](https://www.linkedin.com/jobs/view/4392998673/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Arcadis](https://jobs.winterchill.xyz/?employer=Arcadis) (3)
+### [BBC](https://jobs.winterchill.xyz/?employer=BBC) (3)
 
-- [Senior Design Manager](https://www.linkedin.com/jobs/view/4430217551/) — Glasgow, Scotland, United Kingdom
-- [Senior Project Manager Major Projects](https://uk.indeed.com/viewjob?jk=c4d9e5ca965c0354) — Glasgow, United Kingdom
-- [Senior Design Manager](https://uk.indeed.com/viewjob?jk=4c633462986a0436) — Glasgow, United Kingdom
-
-### [Burns & McDonnell](https://jobs.winterchill.xyz/?employer=Burns%20%26%20McDonnell) (3)
-
-- [Senior Design Manager - Transmission & Distribution (Glasgow, UK)](https://www.linkedin.com/jobs/view/4138160365/) — Glasgow, Scotland, United Kingdom
-- [Field Operations Manager - T&D Construction (Multiple Locations, UK)](https://uk.indeed.com/viewjob?jk=4b92ec6731d07974) — Glasgow, United Kingdom
-- [Section Manager (Protection & Control) - T&D (Multiple Location, UK)](https://uk.indeed.com/viewjob?jk=77ee7f697091c7ee) — Glasgow, United Kingdom
-
-### [Capco](https://jobs.winterchill.xyz/?employer=Capco) (3)
-
-- [Senior Backend Engineer - Java](https://job-boards.greenhouse.io/capco/jobs/7679923) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
-- [Principal Backend Developer (Java)](https://job-boards.greenhouse.io/capco/jobs/7681743) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
-- [Lead AI Engineer](https://job-boards.greenhouse.io/capco/jobs/7712769) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer - EXTEND](https://uk.indeed.com/viewjob?jk=670535bf410f7f60) — £63,000–£68,000/yr · Glasgow, United Kingdom
+- [Section Principal Viola, BBC SSO](https://www.linkedin.com/jobs/view/4432255179/) — Glasgow, Scotland, United Kingdom
+- [Principal Software Engineer](https://uk.indeed.com/viewjob?jk=f89b44c024c6ce64) — Glasgow, United Kingdom
 
 ### [Chemify Ltd](https://jobs.winterchill.xyz/?employer=Chemify%20Ltd) (3)
 
@@ -262,6 +315,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Vertex AI Engineer](https://www.linkedin.com/jobs/view/4410828802/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
 - [Cloud Software Engineer (GCP)](https://www.linkedin.com/jobs/view/4410819922/) — DevOps / SRE · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
 
+### [Frazer-Nash Consultancy](https://jobs.winterchill.xyz/?employer=Frazer-Nash%20Consultancy) (3)
+
+- [Design (Nuclear)](https://www.linkedin.com/jobs/view/4425278541/) — £61,600–£92,400/yr · Glasgow, Scotland, United Kingdom
+- [Senior Interface Manager](https://www.linkedin.com/jobs/view/4424619135/) — £60,000–£75,000/yr · Glasgow, Scotland, United Kingdom · remote
+- [Dynamic Hazards Specialist (Structural)](https://www.linkedin.com/jobs/view/4328210477/) — £37,000–£60,000/yr · Glasgow, Scotland, United Kingdom
+
+### [Hawksworth](https://jobs.winterchill.xyz/?employer=Hawksworth) (3)
+
+- [VP - AI Software Engineer - Banking - £90k-£100k](https://www.linkedin.com/jobs/view/4433232043/) — Backend · £90,000–£100,000/yr · Glasgow, Scotland, United Kingdom · hybrid
+- [Generative AI Architect - Global Financial - £107k](https://www.linkedin.com/jobs/view/4433219636/) — Glasgow, Scotland, United Kingdom · hybrid
+- [AI Software Engineer - Banking- £65k](https://www.linkedin.com/jobs/view/4433227413/) — Backend · Glasgow, Scotland, United Kingdom · hybrid
+
 ### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (3)
 
 - [Java Developer - Glasgow](https://www.adzuna.co.uk/jobs/details/5776020522?utm_medium=api&utm_source=a9508167) — Backend · £30,000–£60,000/yr · Hillhead, Glasgow City Centre
@@ -274,23 +339,59 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Technical Lead](https://uk.indeed.com/viewjob?jk=82987d9ff66b8702) — £55,000/yr · Glasgow, United Kingdom
 - [NARM Development Manager](https://uk.indeed.com/viewjob?jk=464e428a80eb076c) — Glasgow, United Kingdom · hybrid
 
+### [Jacobs](https://jobs.winterchill.xyz/?employer=Jacobs) (3)
+
+- [Principal Renewable Energy Engineer - Energy Advisory](https://www.linkedin.com/jobs/view/4432362496/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Highways Principal Engineer (UK Wide)](https://www.linkedin.com/jobs/view/4431910337/) — Glasgow, Scotland, United Kingdom · remote
+- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5769849156?utm_medium=api&utm_source=a9508167) — Data Engineering · Glasgow, Scotland · 🛂 visa sponsor
+
 ### [OCS Group](https://jobs.winterchill.xyz/?employer=OCS%20Group) (3)
 
-- [Helpdesk Coordinator](https://uk.indeed.com/viewjob?jk=eff99d45cff18922) — Glasgow, United Kingdom
+- [Helpdesk Coordinator](https://uk.indeed.com/viewjob?jk=d756d98d78b3791a) — Glasgow, United Kingdom
 - [Weekend Helpdesk Coordinator](https://uk.indeed.com/viewjob?jk=036efb1cf0144f16) — Glasgow, United Kingdom
 - [Asset Operations Coordinator – Data & Surveys](https://uk.indeed.com/viewjob?jk=46a9b780ead36d92) — Glasgow, United Kingdom
 
-### [Ofgem](https://jobs.winterchill.xyz/?employer=Ofgem) (3)
+### [s1jobs](https://jobs.winterchill.xyz/?employer=s1jobs) (3)
 
-- [Lead Cyber Security Analyst](https://www.linkedin.com/jobs/view/4431075876/) — £52,397–£62,699/yr · Glasgow, Scotland, United Kingdom · hybrid
-- [Business Analyst](https://uk.indeed.com/viewjob?jk=5d9c20638cc20bd9) — £35,232–£48,561/yr · Glasgow, United Kingdom · hybrid
-- [Data Scientist](https://www.linkedin.com/jobs/view/4428932099/) — Data Engineering · £35,232/yr · Glasgow, Scotland, United Kingdom · hybrid
+- [Head of Property Investment and Compliance](https://www.linkedin.com/jobs/view/4433867583/) — £68,009–£73,548/yr · Glasgow, Scotland, United Kingdom
+- [Infrastructure Team Lead - 12 Month FTC](https://www.linkedin.com/jobs/view/4435125352/) — Glasgow, Scotland, United Kingdom · remote
+- [AI Service Designer (SC cleared)](https://www.linkedin.com/jobs/view/4432344374/) — Glasgow, Scotland, United Kingdom · hybrid
 
-### [Planet DDS](https://jobs.winterchill.xyz/?employer=Planet%20DDS) (3)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
-- [Software Engineer III (AI-Powered)](https://www.linkedin.com/jobs/view/4415524750/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
-- [DevOps Engineer III (AI-Powered)](https://www.linkedin.com/jobs/view/4415530600/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
-- [Engineering Technical Lead](https://www.linkedin.com/jobs/view/4413445473/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [Tech Lead, Web Core Product & Chrome Extension - Glasgow, United Kingdom](https://uk.indeed.com/viewjob?jk=9186391003e336a0) — Glasgow, United Kingdom
+- [Senior Software Engineer, Windows/Desktop Applications - Glasgow, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-glasgow-united-kingdom-speechify-7982568) — Backend · Glasgow, Scotland, United Kingdom
+- [Software Engineer, Platform - Glasgow, United Kingdom](https://www.adzuna.co.uk/jobs/details/5732353829?utm_medium=api&utm_source=a9508167) — Mobile · Glasgow, Scotland
+
+### [SSE PLC](https://jobs.winterchill.xyz/?employer=SSE%20PLC) (3)
+
+- [Senior Substation Engineer](https://uk.indeed.com/viewjob?jk=3add1745c8ccf954) — £58,100–£87,100/yr · Glasgow, United Kingdom · hybrid
+- [Project Manager](https://uk.indeed.com/viewjob?jk=ec171b57b915e22b) — £58,100–£87,100/yr · Glasgow, United Kingdom
+- [OT Data Network Engineer](https://uk.indeed.com/viewjob?jk=7ddb5ab4e0960290) — £64,085–£76,851/yr · Glasgow, United Kingdom
+
+### [SSEN Transmission](https://jobs.winterchill.xyz/?employer=SSEN%20Transmission) (3)
+
+- [Deputy Project Director](https://www.linkedin.com/jobs/view/4433541119/) — £78,400–£117,600/yr · Glasgow, Scotland, United Kingdom
+- [Lead Project Manager](https://www.linkedin.com/jobs/view/4433369376/) — £66,100–£99,100/yr · Glasgow, Scotland, United Kingdom
+- [Senior Project Manager](https://www.linkedin.com/jobs/view/4433894596/) — £58,100–£87,100/yr · Glasgow, Scotland, United Kingdom
+
+### [Tetra Tech Europe](https://jobs.winterchill.xyz/?employer=Tetra%20Tech%20Europe) (3)
+
+- [Technical Director - Wastewater](https://www.linkedin.com/jobs/view/4426712175/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Principal Civil Engineer](https://www.linkedin.com/jobs/view/4425595990/) — Glasgow, Scotland, United Kingdom
+- [Graduate Structural Engineer - 2026 intake](https://www.linkedin.com/jobs/view/4425806055/) — Glasgow, Scotland, United Kingdom
+
+### [Thales](https://jobs.winterchill.xyz/?employer=Thales) (3)
+
+- [Industrial Process Engineer](https://www.linkedin.com/jobs/view/4381788014/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4343552388/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Programme Manager](https://uk.indeed.com/viewjob?jk=5dc54814f799b8b3) — Glasgow, United Kingdom · hybrid
+
+### [Turner & Townsend](https://jobs.winterchill.xyz/?employer=Turner%20%26%20Townsend) (3)
+
+- [Associate Director - Procurement](https://www.linkedin.com/jobs/view/4324360182/) — Greater Glasgow Area · hybrid
+- [Associate Director - Risk Management](https://www.linkedin.com/jobs/view/4328116694/) — Greater Glasgow Area
+- [Senior Cost Manager](https://uk.indeed.com/viewjob?jk=7740604f25d3d1ff) — Glasgow, United Kingdom
 
 ### [University of Strathclyde](https://jobs.winterchill.xyz/?employer=University%20of%20Strathclyde) (3)
 
@@ -298,21 +399,31 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Teaching Fellow: Computer Science/Software Engineering (Bahrain)](https://uk.indeed.com/viewjob?jk=dc0f7266ec56283b) — Glasgow, United Kingdom
 - [Teaching Fellow: Computer Science/Software Engineering (Bahrain)](https://uk.indeed.com/viewjob?jk=c96522d617e70cf5) — Glasgow, United Kingdom
 
-### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (3)
+### [WSP](https://jobs.winterchill.xyz/?employer=WSP) (3)
 
-- [Senior or Principal Waste Infrastructure & Technology Engineer / Consultant](https://www.linkedin.com/jobs/view/4422439188/) — Glasgow, Scotland, United Kingdom · remote
-- [Consultant Ecologist](https://www.linkedin.com/jobs/view/4393591782/) — Glasgow, Scotland, United Kingdom
-- [Senior Civil Infrastructure Engineer (Development)](https://www.linkedin.com/jobs/view/4420928339/) — Glasgow, Scotland, United Kingdom · remote
+- [Architect Design Manager - WSP Architecture](https://uk.indeed.com/viewjob?jk=50afdf095ce38dc0) — Glasgow, United Kingdom
+- [Geo-Environmental Consultant / Assistant Geo-Environmental Consultant](https://uk.indeed.com/viewjob?jk=8749e116fb41d89e) — Glasgow, United Kingdom · remote
+- [Senior to Associate Electrical Engineers - Data Centres (Building Services)](https://www.adzuna.co.uk/jobs/land/ad/5703528757?se=xGMAc4N18RGt3dtJYsVrNQ&utm_medium=api&utm_source=a9508167&v=B924C0878EF03F14C5F161C94D4381AFEA8A467C) — Hillhead, Glasgow City Centre
 
 ### [Alexander Associates Technical Recruitment](https://jobs.winterchill.xyz/?employer=Alexander%20Associates%20Technical%20Recruitment) (2)
 
 - [ERP Odoo Engineer](https://www.linkedin.com/jobs/view/4431664952/) — Backend · £40,000–£55,000/yr · Glasgow, Scotland, United Kingdom
 - [Project Manager](https://www.linkedin.com/jobs/view/4433086605/) — Glasgow, Scotland, United Kingdom
 
-### [BBC](https://jobs.winterchill.xyz/?employer=BBC) (2)
+### [Alignerr](https://jobs.winterchill.xyz/?employer=Alignerr) (2)
 
-- [Section Principal Viola, BBC SSO](https://www.linkedin.com/jobs/view/4432255179/) — Glasgow, Scotland, United Kingdom
-- [Principal Software Engineer](https://uk.indeed.com/viewjob?jk=f89b44c024c6ce64) — Glasgow, United Kingdom
+- [Oncology Clinical Researcher](https://www.linkedin.com/jobs/view/4435370222/) — Glasgow, Scotland, United Kingdom · remote
+- [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4433538815/) — Backend · Glasgow, Scotland, United Kingdom · remote
+
+### [Altrad UK, Ireland & Nordics](https://jobs.winterchill.xyz/?employer=Altrad%20UK%2C%20Ireland%20%26%20Nordics) (2)
+
+- [Stress Engineer](https://www.linkedin.com/jobs/view/4431925756/) — Glasgow, Scotland, United Kingdom
+- [Assistant Quantity Surveyor](https://www.linkedin.com/jobs/view/4423119337/) — Glasgow, Scotland, United Kingdom · remote
+
+### [BAE Systems](https://jobs.winterchill.xyz/?employer=BAE%20Systems) (2)
+
+- [IT Programme Manager](https://www.linkedin.com/jobs/view/4434481180/) — Up to £75,000/yr · Glasgow, Scotland, United Kingdom · hybrid
+- [Senior Engineer – Mechanical – Auxiliary Systems](https://www.linkedin.com/jobs/view/4435356489/) — Up to £49,000/yr · Glasgow, Scotland, United Kingdom · hybrid
 
 ### [Be-IT](https://jobs.winterchill.xyz/?employer=Be-IT) (2)
 
@@ -324,25 +435,40 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Sales Associate](https://uk.indeed.com/viewjob?jk=f81b0c58b4350de6) — Glasgow, United Kingdom
 - [Retail Supervisor](https://uk.indeed.com/viewjob?jk=b48df3f29c941dea) — Glasgow, United Kingdom
 
-### [Celeros Flow Technology](https://jobs.winterchill.xyz/?employer=Celeros%20Flow%20Technology) (2)
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (2)
 
-- [Fabrication & Weld Supervisor](https://uk.indeed.com/viewjob?jk=c3f241748a36b586) — Glasgow, United Kingdom
-- [Fitter & Service Engineer](https://uk.indeed.com/viewjob?jk=1596ca0051f26a20) — Glasgow, United Kingdom
+- [Technical Team Leader (Application Support)](https://www.linkedin.com/jobs/view/4423027942/) — Glasgow, Scotland, United Kingdom
+- [Software Engineer (Java) (IT)](https://www.adzuna.co.uk/jobs/details/5734179659?utm_medium=api&utm_source=a9508167) — Backend · Glasgow, Scotland
+
+### [Confero Recruitment Group](https://jobs.winterchill.xyz/?employer=Confero%20Recruitment%20Group) (2)
+
+- [Recruitment Resourcer](https://www.linkedin.com/jobs/view/4435811181/) — £25,000–£30,000/yr · Glasgow, Scotland, United Kingdom · hybrid
+- [Associate Director (Architecture)](https://www.linkedin.com/jobs/view/4433329851/) — Glasgow, Scotland, United Kingdom
 
 ### [Connelly Security Systems Ltd](https://jobs.winterchill.xyz/?employer=Connelly%20Security%20Systems%20Ltd) (2)
 
 - [Multi Disciplined Service Alarm Engineer](https://uk.indeed.com/viewjob?jk=c31bfb27e99813b9) — £34,000/yr · Glasgow, United Kingdom
 - [Telephone Support Administrator](https://uk.indeed.com/viewjob?jk=6db45bf2048983d4) — £26,227/yr · Glasgow, United Kingdom
 
+### [COWI](https://jobs.winterchill.xyz/?employer=COWI) (2)
+
+- [Mechanical Design Manager - Water](https://www.linkedin.com/jobs/view/4404796340/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Technical Director (Numerical Modelling)](https://www.linkedin.com/jobs/view/4434124867/) — Glasgow, Scotland, United Kingdom
+
 ### [DNV](https://jobs.winterchill.xyz/?employer=DNV) (2)
 
-- [Senior / Principal FACTS System Design Consultant Flex Grid](https://www.linkedin.com/jobs/view/4383102526/) — Glasgow, Scotland, United Kingdom
 - [Senior / Principal Solar Engineer](https://www.linkedin.com/jobs/view/4430633530/) — Glasgow, Scotland, United Kingdom
+- [Senior / Principal Battery Energy Storage Engineer](https://www.linkedin.com/jobs/view/4430612741/) — Glasgow, Scotland, United Kingdom
 
 ### [Equans](https://jobs.winterchill.xyz/?employer=Equans) (2)
 
 - [Remote BMS Engineer](https://uk.indeed.com/viewjob?jk=51b92bed1cdbfe3b) — Glasgow, United Kingdom · remote
 - [Service Coordinator](https://uk.indeed.com/viewjob?jk=92c744ed5cf3b01e) — Glasgow, United Kingdom
+
+### [EY](https://jobs.winterchill.xyz/?employer=EY) (2)
+
+- [EY.ai Data Agent Product Owner](https://www.linkedin.com/jobs/view/4402486272/) — Glasgow, Scotland, United Kingdom
+- [Product Manager - SaT](https://www.linkedin.com/jobs/view/4431503429/) — Glasgow, Scotland, United Kingdom
 
 ### [First Bus](https://jobs.winterchill.xyz/?employer=First%20Bus) (2)
 
@@ -364,25 +490,40 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior AI Platform Engineer](https://www.reed.co.uk/jobs/senior-ai-platform-engineer/56968145) — Backend · £110,000–£130,000/yr · Glasgow · remote
 - [Senior Data Engineer (Snowflake)](https://www.adzuna.co.uk/jobs/details/5766114079?utm_medium=api&utm_source=a9508167) — Data Engineering · £55,000–£70,000/yr · Glasgow City Centre, Glasgow · remote
 
+### [HDR](https://jobs.winterchill.xyz/?employer=HDR) (2)
+
+- [Pipeline – Buildings Commissioning Jobs in UK](https://www.linkedin.com/jobs/view/4384637766/) — Glasgow, Scotland, United Kingdom
+- [IT Support Specialist](https://www.linkedin.com/jobs/view/4414146806/) — Glasgow, Scotland, United Kingdom
+
 ### [Henderson Scott](https://jobs.winterchill.xyz/?employer=Henderson%20Scott) (2)
 
-- [Principal Java Software Engineer (VP)](https://www.adzuna.co.uk/jobs/details/5776023110?utm_medium=api&utm_source=a9508167) — Backend · £95,000/yr · Hillhead, Glasgow City Centre · 🛂 visa sponsor
+- [Principal Java Software Engineer (VP)](https://www.adzuna.co.uk/jobs/land/ad/5774616134?se=OmHAcYN18RGt3dtJYsVrNQ&utm_medium=api&utm_source=a9508167&v=1A62F7E158206D8F38C94EB4814E5D275CB143BD) — Backend · £95,000/yr · Glasgow, Scotland · hybrid · 🛂 visa sponsor
 - [Senior Oracle Developer](https://www.adzuna.co.uk/jobs/land/ad/5757058962?se=7pwc4ydz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=BE2314B5A3DD047ED9A676A8BA6E966299ED7E3A) — £72,800–£78,000/yr · Glasgow, Scotland · hybrid · 🛂 visa sponsor
 
-### [Iberdrola](https://jobs.winterchill.xyz/?employer=Iberdrola) (2)
+### [Infected Blood Compensation Authority](https://jobs.winterchill.xyz/?employer=Infected%20Blood%20Compensation%20Authority) (2)
 
-- [Senior Software Engineer- Innovation & AI](https://www.adzuna.co.uk/jobs/land/ad/5774974323?se=IDfjObp08RGr3q9D2Dejjw&utm_medium=api&utm_source=a9508167&v=C3E6ACAB8F19C6A79D538103199724E727E93F98) — Glasgow, Scotland · hybrid
-- [Software Engineer (SAP  AI)](https://www.adzuna.co.uk/jobs/land/ad/5759903458?se=xFefOANw8RGxLYapsz3qXg&utm_medium=api&utm_source=a9508167&v=DA8BBE971885DDEDB0C0D1A8B4140962D46E2AF7) — Glasgow, Scotland · hybrid
+- [Performance Measurement and Analytics Lead](https://www.linkedin.com/jobs/view/4434968699/) — Glasgow, Scotland, United Kingdom
+- [Software Engineer](https://www.linkedin.com/jobs/view/4433674091/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+
+### [Kier Group](https://jobs.winterchill.xyz/?employer=Kier%20Group) (2)
+
+- [Assistant Planner](https://uk.indeed.com/viewjob?jk=3970e3a759455cdc) — Glasgow, United Kingdom
+- [Assistant Planner](https://www.linkedin.com/jobs/view/4434349396/) — Glasgow, Scotland, United Kingdom
 
 ### [Leidos Innovations UK Limited](https://jobs.winterchill.xyz/?employer=Leidos%20Innovations%20UK%20Limited) (2)
 
 - [Senior Embedded Software Developer](https://www.adzuna.co.uk/jobs/details/5778920912?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £75,000/yr · Hillhead, Glasgow City Centre
 - [ADA Software Engineer](https://www.adzuna.co.uk/jobs/details/5776021947?utm_medium=api&utm_source=a9508167) — Backend · £60,000/yr · Hillhead, Glasgow City Centre
 
+### [Lusona Consultancy](https://jobs.winterchill.xyz/?employer=Lusona%20Consultancy) (2)
+
+- [Senior Electrical Engineering Manager - Grid/Substations](https://www.linkedin.com/jobs/view/4420129278/) — Up to £100,000/yr · Glasgow, Scotland, United Kingdom · hybrid
+- [Assistant Project Manager](https://www.linkedin.com/jobs/view/4433820046/) — Up to £40,000/yr · Glasgow, Scotland, United Kingdom
+
 ### [MAC Recruit Group Ltd](https://jobs.winterchill.xyz/?employer=MAC%20Recruit%20Group%20Ltd) (2)
 
 - [DevOps Engineer](https://www.linkedin.com/jobs/view/4434483723/) — Up to £95,000/yr · Glasgow City, Scotland, United Kingdom · hybrid
-- [Engineering Manager](https://www.linkedin.com/jobs/view/4435116035/) — Up to £90,000/yr · Glasgow City, Scotland, United Kingdom · hybrid
+- [Engineering Manager](https://www.linkedin.com/jobs/view/4435116035/) — Up to £90,000/yr · Greater Glasgow Area · hybrid
 
 ### [NHS Scotland](https://jobs.winterchill.xyz/?employer=NHS%20Scotland) (2)
 
@@ -394,25 +535,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Sonata SME Engineer](https://uk.indeed.com/viewjob?jk=319cd4c1a87051da) — Glasgow, United Kingdom · hybrid
 - [Digital Product Owner](https://uk.indeed.com/viewjob?jk=2c005ab3429b7490) — Glasgow, United Kingdom
 
-### [SAS](https://jobs.winterchill.xyz/?employer=SAS) (2)
-
-- [R&D Project Manager - SaaS](https://uk.indeed.com/viewjob?jk=1a1f1c9890d763ff) — Glasgow, United Kingdom
-- [Linguistic Developer](https://www.linkedin.com/jobs/view/4392998673/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [SRG](https://jobs.winterchill.xyz/?employer=SRG) (2)
 
 - [Graduate Chemist](https://www.linkedin.com/jobs/view/4434479702/) — Greater Glasgow Area
 - [Junior / Mid Level Developer (SQL)](https://www.adzuna.co.uk/jobs/details/5766990465?utm_medium=api&utm_source=a9508167) — Backend · Glasgow City Centre, Glasgow · hybrid
 
-### [SSE PLC](https://jobs.winterchill.xyz/?employer=SSE%20PLC) (2)
+### [Stantec](https://jobs.winterchill.xyz/?employer=Stantec) (2)
 
-- [Senior Substation Engineer](https://uk.indeed.com/viewjob?jk=3add1745c8ccf954) — £58,100–£87,100/yr · Glasgow, United Kingdom · hybrid
-- [Project Manager](https://uk.indeed.com/viewjob?jk=ec171b57b915e22b) — £58,100–£87,100/yr · Glasgow, United Kingdom
+- [Digital Design Lead (Energy)](https://www.linkedin.com/jobs/view/4434979647/) — Glasgow, Scotland, United Kingdom
+- [Digital Engineering Coordinator - Energy](https://www.linkedin.com/jobs/view/4302410155/) — Glasgow, Scotland, United Kingdom
 
-### [SSEN Transmission](https://jobs.winterchill.xyz/?employer=SSEN%20Transmission) (2)
+### [Stonegate Group](https://jobs.winterchill.xyz/?employer=Stonegate%20Group) (2)
 
-- [Lead Project Manager](https://www.linkedin.com/jobs/view/4433369376/) — £66,100–£99,100/yr · Glasgow, Scotland, United Kingdom
-- [Senior Project Manager](https://www.linkedin.com/jobs/view/4433894596/) — £58,100–£87,100/yr · Glasgow, Scotland, United Kingdom
+- [Bar Team Member](https://www.linkedin.com/jobs/view/4433892364/) — Glasgow, Scotland, United Kingdom
+- [Deputy Manager](https://www.linkedin.com/jobs/view/4434404762/) — Glasgow, Scotland, United Kingdom
 
 ### [Sword Group](https://jobs.winterchill.xyz/?employer=Sword%20Group) (2)
 
@@ -429,14 +565,32 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Talent Acquisition Associate](https://www.linkedin.com/jobs/view/4434761167/) — Glasgow, Scotland, United Kingdom
 - [Data Engineer Lead](https://www.linkedin.com/jobs/view/4431227202/) — Data Engineering · Glasgow, Scotland, United Kingdom
 
-### [WSP](https://jobs.winterchill.xyz/?employer=WSP) (2)
+### [VodafoneThree](https://jobs.winterchill.xyz/?employer=VodafoneThree) (2)
 
-- [Geo-Environmental Consultant / Assistant Geo-Environmental Consultant](https://uk.indeed.com/viewjob?jk=8749e116fb41d89e) — Glasgow, United Kingdom · remote
-- [Senior to Associate Electrical Engineers - Data Centres (Building Services)](https://www.adzuna.co.uk/jobs/land/ad/5703528757?se=rIjaPLp08RG2jLGQagABMA&utm_medium=api&utm_source=a9508167&v=B924C0878EF03F14C5F161C94D4381AFEA8A467C) — Hillhead, Glasgow City Centre
+- [VodafoneThree - Design Engineer](https://uk.indeed.com/viewjob?jk=3aa373a2dcbe268b) — Glasgow, United Kingdom
+- [VodafoneThree - Design Engineer](https://www.linkedin.com/jobs/view/4431928888/) — Glasgow, Scotland, United Kingdom
+
+### [Waracle](https://jobs.winterchill.xyz/?employer=Waracle) (2)
+
+- [Delivery Manager](https://www.linkedin.com/jobs/view/4434295444/) — Glasgow, Scotland, United Kingdom
+- [Senior Developer - React Native](https://www.linkedin.com/jobs/view/4432272161/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Worley](https://jobs.winterchill.xyz/?employer=Worley) (2)
+
+- [Sector Lead - Power Infrastructure (Generation, Networks & Storage)](https://www.linkedin.com/jobs/view/4426553269/) — Glasgow, Scotland, United Kingdom
+- [Quality Director - UK](https://www.linkedin.com/jobs/view/4434783618/) — Glasgow, Scotland, United Kingdom
 
 ### [8192 Barclays Bank UK PLC](https://jobs.winterchill.xyz/?employer=8192%20Barclays%20Bank%20UK%20PLC) (1)
 
 - [Full Stack Software Engineer](https://startup.jobs/full-stack-software-engineer-8192-barclays-bank-uk-plc-8585149) — Backend · Glasgow, Scotland, United Kingdom
+
+### [AAB](https://jobs.winterchill.xyz/?employer=AAB) (1)
+
+- [Trainee HR Consultant](https://www.linkedin.com/jobs/view/4432606939/) — Glasgow, Scotland, United Kingdom
+
+### [Agera Consulting](https://jobs.winterchill.xyz/?employer=Agera%20Consulting) (1)
+
+- [Senior Enterprise Solutions Architect](https://uk.indeed.com/viewjob?jk=5998db97a1b020e5) — £7,500–£9,583/mo · Glasgow, United Kingdom
 
 ### [Aggreko](https://jobs.winterchill.xyz/?employer=Aggreko) (1)
 
@@ -446,10 +600,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Odoo developer](https://www.linkedin.com/jobs/view/4429432965/) — Backend · £40,000–£55,000/yr · Glasgow, Scotland, United Kingdom
 
-### [Alignerr](https://jobs.winterchill.xyz/?employer=Alignerr) (1)
-
-- [Data Science Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4433015048/) — Backend · Glasgow, Scotland, United Kingdom · remote
-
 ### [Allied Vehicles](https://jobs.winterchill.xyz/?employer=Allied%20Vehicles) (1)
 
 - [Graduate Homologation Engineer](https://uk.indeed.com/viewjob?jk=97d4869ab235cd14) — £26,227/yr · Glasgow, United Kingdom
@@ -458,21 +608,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://www.adzuna.co.uk/jobs/details/5751512800?utm_medium=api&utm_source=a9508167) — Backend · Glasgow, Scotland · 🛂 visa sponsor
 
-### [Alternative Heat Ltd](https://jobs.winterchill.xyz/?employer=Alternative%20Heat%20Ltd) (1)
-
-- [Senior Building Services Manager](https://www.linkedin.com/jobs/view/4432565092/) — Glasgow, Scotland, United Kingdom
-
-### [Altrad UK, Ireland & Nordics](https://jobs.winterchill.xyz/?employer=Altrad%20UK%2C%20Ireland%20%26%20Nordics) (1)
-
-- [Assistant Quantity Surveyor](https://www.linkedin.com/jobs/view/4423119337/) — Glasgow, Scotland, United Kingdom · remote
-
-### [Ampstek](https://jobs.winterchill.xyz/?employer=Ampstek) (1)
-
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4431217728/) — Backend · Glasgow, Scotland, United Kingdom
-
 ### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (1)
 
-- [Platform Engineer (DevOps)](https://www.adzuna.co.uk/jobs/land/ad/5779126184?se=LFuqPbp08RGeccqK7JssDw&utm_medium=api&utm_source=a9508167&v=D6C7E363022B5951C94465984ED001FC90F78BC5) — Platform / Infrastructure · Glasgow, Scotland · hybrid
+- [Platform Engineer (DevOps)](https://www.adzuna.co.uk/jobs/land/ad/5779126184?se=bEvUc4N18RGOeNvhEByHAg&utm_medium=api&utm_source=a9508167&v=D6C7E363022B5951C94465984ED001FC90F78BC5) — Platform / Infrastructure · Glasgow, Scotland · hybrid
 
 ### [Aperta Ltd](https://jobs.winterchill.xyz/?employer=Aperta%20Ltd) (1)
 
@@ -506,9 +644,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Process Lead](https://www.linkedin.com/jobs/view/4434941332/) — Glasgow, Scotland, United Kingdom
 
-### [BAE Systems](https://jobs.winterchill.xyz/?employer=BAE%20Systems) (1)
+### [Balfour Beatty plc](https://jobs.winterchill.xyz/?employer=Balfour%20Beatty%20plc) (1)
 
-- [IT Programme Manager](https://www.linkedin.com/jobs/view/4434481180/) — Up to £75,000/yr · Glasgow, Scotland, United Kingdom · hybrid
+- [Assistant Engineering Manager](https://www.linkedin.com/jobs/view/4337711864/) — Glasgow, Scotland, United Kingdom
 
 ### [Be-IT Resourcing](https://jobs.winterchill.xyz/?employer=Be-IT%20Resourcing) (1)
 
@@ -532,7 +670,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [BrightBox Group](https://jobs.winterchill.xyz/?employer=BrightBox%20Group) (1)
 
-- [Senior Java Developer](https://www.adzuna.co.uk/jobs/details/5756445922?utm_medium=api&utm_source=a9508167) — Backend · £78,000–£91,000/yr · Glasgow, Scotland · hybrid
+- [Senior Java Developer](https://www.adzuna.co.uk/jobs/land/ad/5756445922?se=OmHAcYN18RGt3dtJYsVrNQ&utm_medium=api&utm_source=a9508167&v=58731A6210C12E580CAFA97D35768E958FE985B1) — Backend · £78,000–£91,000/yr · Glasgow, Scotland · hybrid
+
+### [Brink’s Inc](https://jobs.winterchill.xyz/?employer=Brink%E2%80%99s%20Inc) (1)
+
+- [BIT Technician](https://www.linkedin.com/jobs/view/4345171737/) — Glasgow, Scotland, United Kingdom
+
+### [British Transport Police](https://jobs.winterchill.xyz/?employer=British%20Transport%20Police) (1)
+
+- [Researcher - Harm Reduction Team (HaRT)](https://www.linkedin.com/jobs/view/4425929413/) — £31,736/yr · Glasgow, Scotland, United Kingdom
 
 ### [BRUSH Group](https://jobs.winterchill.xyz/?employer=BRUSH%20Group) (1)
 
@@ -550,9 +696,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Project Support Engineer (Polmadie)](https://uk.indeed.com/viewjob?jk=24b4b6e9d8d1629a) — Glasgow, United Kingdom
 
-### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
+### [Chisholm Hunter](https://jobs.winterchill.xyz/?employer=Chisholm%20Hunter) (1)
 
-- [Software Engineer (Java) (IT)](https://www.adzuna.co.uk/jobs/details/5734179659?utm_medium=api&utm_source=a9508167) — Backend · Glasgow, Scotland
+- [Dispatch Administrator](https://www.linkedin.com/jobs/view/4434359161/) — Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+
+### [CleanTech Talent](https://jobs.winterchill.xyz/?employer=CleanTech%20Talent) (1)
+
+- [Senior Network Engineer](https://www.linkedin.com/jobs/view/4407177610/) — £75,000–£95,000/yr · Glasgow, Scotland, United Kingdom · hybrid
+
+### [Close Brothers](https://jobs.winterchill.xyz/?employer=Close%20Brothers) (1)
+
+- [Customer Service Associate](https://www.linkedin.com/jobs/view/4434323945/) — Glasgow, Scotland, United Kingdom · hybrid
 
 ### [Coca-Cola Europacific Partners](https://jobs.winterchill.xyz/?employer=Coca-Cola%20Europacific%20Partners) (1)
 
@@ -565,14 +719,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Coherent Corp.](https://jobs.winterchill.xyz/?employer=Coherent%20Corp.) (1)
 
 - [Product Manager](https://uk.indeed.com/viewjob?jk=57f1d8518ed465ac) — Glasgow, United Kingdom
-
-### [COWI](https://jobs.winterchill.xyz/?employer=COWI) (1)
-
-- [Mechanical Design Manager - Water](https://www.linkedin.com/jobs/view/4404796340/) — Glasgow, Scotland, United Kingdom · hybrid
-
-### [CSI GLOBAL LTD](https://jobs.winterchill.xyz/?employer=CSI%20GLOBAL%20LTD) (1)
-
-- [Java Technical Lead](https://www.linkedin.com/jobs/view/4432585737/) — Backend · Glasgow, Scotland, United Kingdom · hybrid
 
 ### [Dalkia](https://jobs.winterchill.xyz/?employer=Dalkia) (1)
 
@@ -626,17 +772,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [DevOps Engineer](https://www.linkedin.com/jobs/view/4434966852/) — £402/day · Glasgow, Scotland, United Kingdom
 
-### [European Tech Recruit](https://jobs.winterchill.xyz/?employer=European%20Tech%20Recruit) (1)
-
-- [Embedded Systems Engineer - Security / Cryptography](https://www.linkedin.com/jobs/view/4431386865/) — Embedded / Robotics · Glasgow, Scotland, United Kingdom
-
 ### [Evantis Consulting](https://jobs.winterchill.xyz/?employer=Evantis%20Consulting) (1)
 
 - [Java Developer Contract](https://www.linkedin.com/jobs/view/4430384836/) — Backend · £500/day · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Evolve IT Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Evolve%20IT%20Recruitment%20Ltd) (1)
 
-- [Senior Developer - AI](https://www.adzuna.co.uk/jobs/land/ad/5743250785?se=LFuqPbp08RGeccqK7JssDw&utm_medium=api&utm_source=a9508167&v=518C677BBEA54E19EB2893FFC6A888E5B8C8092F) — Backend · £85,000/yr · Glasgow, Scotland · hybrid
+- [Senior Developer - AI](https://www.adzuna.co.uk/jobs/land/ad/5743250785?se=bEvUc4N18RGOeNvhEByHAg&utm_medium=api&utm_source=a9508167&v=518C677BBEA54E19EB2893FFC6A888E5B8C8092F) — Backend · £85,000/yr · Glasgow, Scotland · hybrid
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
 
@@ -646,21 +788,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Oracle Lead Developer](https://www.adzuna.co.uk/jobs/details/5765448022?utm_medium=api&utm_source=a9508167) — Glasgow, Scotland
 
-### [EY](https://jobs.winterchill.xyz/?employer=EY) (1)
-
-- [Behavioral Science Specialist - Supervising Associate](https://www.linkedin.com/jobs/view/4431840053/) — Data Engineering · £92,600–£188,900/yr · Glasgow, Scotland, United Kingdom · hybrid
-
 ### [Filament](https://jobs.winterchill.xyz/?employer=Filament) (1)
 
 - [Senior Fullstack Engineer](https://www.adzuna.co.uk/jobs/details/5654998823?utm_medium=api&utm_source=a9508167) — Glasgow, Scotland
 
+### [Fitch Solutions](https://jobs.winterchill.xyz/?employer=Fitch%20Solutions) (1)
+
+- [Operations Associate](https://www.linkedin.com/jobs/view/4424576524/) — Glasgow, Scotland, United Kingdom
+
 ### [Focal Systems](https://jobs.winterchill.xyz/?employer=Focal%20Systems) (1)
 
 - [Field Service Technician - Glasgow (6 Month Fixed-Term Contract)](https://uk.indeed.com/viewjob?jk=dbadc900503864d2) — £17/hr · Glasgow, United Kingdom
-
-### [Focus Cloud Group](https://jobs.winterchill.xyz/?employer=Focus%20Cloud%20Group) (1)
-
-- [Java Developer](https://www.adzuna.co.uk/jobs/details/5760729619?utm_medium=api&utm_source=a9508167) — Backend · £143,000–£156,000/yr · Glasgow, Scotland
 
 ### [Fred. Olsen Seawind](https://jobs.winterchill.xyz/?employer=Fred.%20Olsen%20Seawind) (1)
 
@@ -670,6 +808,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [SOC Engineer](https://www.linkedin.com/jobs/view/4432592598/) — DevOps / SRE · Greater Glasgow Area · hybrid · 🛂 visa sponsor
 
+### [Gallagher](https://jobs.winterchill.xyz/?employer=Gallagher) (1)
+
+- [Inter Company Analyst](https://www.linkedin.com/jobs/view/4425492629/) — Glasgow, Scotland, United Kingdom
+
 ### [George Leslie Ltd](https://jobs.winterchill.xyz/?employer=George%20Leslie%20Ltd) (1)
 
 - [Civil Engineering Sub Agents and Site Agents](https://uk.indeed.com/viewjob?jk=26493016149ade9e) — Glasgow, United Kingdom
@@ -677,6 +819,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Gigged.AI](https://jobs.winterchill.xyz/?employer=Gigged.AI) (1)
 
 - [Full Stack Java Developer - Hybrid Glasgow](https://www.adzuna.co.uk/jobs/details/5758660464?utm_medium=api&utm_source=a9508167) — Backend · £72,800–£78,000/yr · Glasgow, Scotland · hybrid
+
+### [Gilmours](https://jobs.winterchill.xyz/?employer=Gilmours) (1)
+
+- [SolidWorks Design & Manufacturing Detailer](https://uk.indeed.com/viewjob?jk=fcb363366197fa56) — £24,420–£49,387/yr · Glasgow, United Kingdom
+
+### [GIOS Technology](https://jobs.winterchill.xyz/?employer=GIOS%20Technology) (1)
+
+- [AWS DevOps Lead – Cloud & Data Engineering](https://www.linkedin.com/jobs/view/4435521790/) — Glasgow, Scotland, United Kingdom · hybrid
 
 ### [Global Media Group](https://jobs.winterchill.xyz/?employer=Global%20Media%20Group) (1)
 
@@ -698,13 +848,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Specialist Sales Account Manager - Field based](https://uk.indeed.com/viewjob?jk=d3bbc028b2ee77b0) — Glasgow, United Kingdom
 
+### [Hilton](https://jobs.winterchill.xyz/?employer=Hilton) (1)
+
+- [Analyst Revenue Accounting](https://www.linkedin.com/jobs/view/4433354083/) — Glasgow, Scotland, United Kingdom
+
 ### [Hines](https://jobs.winterchill.xyz/?employer=Hines) (1)
 
 - [Sales & Services Assistant](https://www.linkedin.com/jobs/view/4432687129/) — Glasgow, Scotland, United Kingdom
 
+### [HM Revenue & Customs](https://jobs.winterchill.xyz/?employer=HM%20Revenue%20%26%20Customs) (1)
+
+- [Lead Test Engineer](https://www.linkedin.com/jobs/view/4422764104/) — £58,541/yr · Glasgow, Scotland, United Kingdom · hybrid
+
 ### [Hoare Lea](https://jobs.winterchill.xyz/?employer=Hoare%20Lea) (1)
 
-- [Associate Director - Electrical](https://www.linkedin.com/jobs/view/4430293951/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Principal Electrical Engineer](https://www.linkedin.com/jobs/view/4257149872/) — Greater Glasgow Area · hybrid
 
 ### [Home Office](https://jobs.winterchill.xyz/?employer=Home%20Office) (1)
 
@@ -714,6 +872,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graphic Designer](https://www.linkedin.com/jobs/view/4434701643/) — Glasgow, Scotland, United Kingdom · remote
 
+### [Iberdrola](https://jobs.winterchill.xyz/?employer=Iberdrola) (1)
+
+- [Senior Software Engineer- Innovation & AI](https://www.adzuna.co.uk/jobs/land/ad/5774974323?se=dq_NcIN18RGt3dtJYsVrNQ&utm_medium=api&utm_source=a9508167&v=C3E6ACAB8F19C6A79D538103199724E727E93F98) — Glasgow, Scotland · hybrid
+
+### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (1)
+
+- [MOSFET Design Engineer](https://www.linkedin.com/jobs/view/4434010615/) — Glasgow, Scotland, United Kingdom
+
 ### [Iconic Resourcing](https://jobs.winterchill.xyz/?employer=Iconic%20Resourcing) (1)
 
 - [Transformation Programme Director](https://www.linkedin.com/jobs/view/4432544390/) — Glasgow, Scotland, United Kingdom · hybrid
@@ -722,9 +888,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Application Engineer (Multiphysics Simulation) / Quanscient](https://uk.indeed.com/viewjob?jk=08e88790ece5e4d4) — £5,000–£6,500/mo · Glasgow, United Kingdom · remote
 
-### [Infected Blood Compensation Authority](https://jobs.winterchill.xyz/?employer=Infected%20Blood%20Compensation%20Authority) (1)
+### [Invictus Group](https://jobs.winterchill.xyz/?employer=Invictus%20Group) (1)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4433674091/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Maintenance Manager](https://www.linkedin.com/jobs/view/4431560625/) — £55,000–£65,000/yr · Glasgow, Scotland, United Kingdom
 
 ### [iO Associates](https://jobs.winterchill.xyz/?employer=iO%20Associates) (1)
 
@@ -742,13 +908,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Dynamics 365 and Power Platform Developer](https://www.reed.co.uk/jobs/senior-dynamics-365-and-power-platform-developer/57007014) — DevOps / SRE · £60,000–£75,000/yr · Glasgow · hybrid
 
-### [Jacobs](https://jobs.winterchill.xyz/?employer=Jacobs) (1)
+### [James Fisher & Sons PLC](https://jobs.winterchill.xyz/?employer=James%20Fisher%20%26%20Sons%20PLC) (1)
 
-- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5769849156?utm_medium=api&utm_source=a9508167) — Data Engineering · Glasgow, Scotland · 🛂 visa sponsor
+- [HR Advisor](https://uk.indeed.com/viewjob?jk=2215c3221cce9e4f) — Glasgow, United Kingdom
 
 ### [JENSEN HUGHES](https://jobs.winterchill.xyz/?employer=JENSEN%20HUGHES) (1)
 
 - [Principal Fire Surveyor](https://uk.indeed.com/viewjob?jk=f3c97ef12f1195cd) — Glasgow, United Kingdom
+
+### [Jitterbit](https://jobs.winterchill.xyz/?employer=Jitterbit) (1)
+
+- [Partner Manager - Remote](https://uk.indeed.com/viewjob?jk=acb09c5b26d885f0) — Glasgow, United Kingdom
 
 ### [JLL](https://jobs.winterchill.xyz/?employer=JLL) (1)
 
@@ -766,9 +936,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Risk Manager](https://uk.indeed.com/viewjob?jk=d6dd9f77a84552ab) — Glasgow, United Kingdom
 
-### [Kier Group](https://jobs.winterchill.xyz/?employer=Kier%20Group) (1)
+### [Keepmoat](https://jobs.winterchill.xyz/?employer=Keepmoat) (1)
 
-- [Assistant Planner](https://uk.indeed.com/viewjob?jk=3970e3a759455cdc) — Glasgow, United Kingdom
+- [Land and Partnerships Graduate](https://www.linkedin.com/jobs/view/4432605566/) — Glasgow, Scotland, United Kingdom
 
 ### [Kodamai](https://jobs.winterchill.xyz/?employer=Kodamai) (1)
 
@@ -784,15 +954,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [LMA Recruitment](https://jobs.winterchill.xyz/?employer=LMA%20Recruitment) (1)
 
-- [Staff Software Engineer (Java, Glasgow)](https://www.adzuna.co.uk/jobs/details/5756272963?utm_medium=api&utm_source=a9508167) — Backend · £130,000–£143,000/yr · Glasgow City Centre, Glasgow · hybrid
+- [Staff Software Engineer (Java, Glasgow)](https://www.adzuna.co.uk/jobs/details/5783427101?utm_medium=api&utm_source=a9508167) — Backend · £143,000–£156,000/yr · Glasgow City Centre, Glasgow · hybrid
 
 ### [Lorien](https://jobs.winterchill.xyz/?employer=Lorien) (1)
 
 - [Junior / Mid Level Developer (SQL)](https://www.adzuna.co.uk/jobs/details/5776022040?utm_medium=api&utm_source=a9508167) — £21,000–£42,000/yr · Hillhead, Glasgow City Centre
-
-### [Lusona Consultancy](https://jobs.winterchill.xyz/?employer=Lusona%20Consultancy) (1)
-
-- [Senior Electrical Engineering Manager - Grid/Substations](https://www.linkedin.com/jobs/view/4420129278/) — Up to £100,000/yr · Glasgow, Scotland, United Kingdom · hybrid
 
 ### [M Group](https://jobs.winterchill.xyz/?employer=M%20Group) (1)
 
@@ -806,13 +972,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Finance Manager](https://uk.indeed.com/viewjob?jk=142cfb89c76ccc1c) — Glasgow, United Kingdom
 
+### [Meraki Talent](https://jobs.winterchill.xyz/?employer=Meraki%20Talent) (1)
+
+- [Data & Reporting Manager](https://www.linkedin.com/jobs/view/4434351460/) — Glasgow, Scotland, United Kingdom
+
+### [Merck Life Science](https://jobs.winterchill.xyz/?employer=Merck%20Life%20Science) (1)
+
+- [Global GxP System Engineer](https://www.linkedin.com/jobs/view/4425658805/) — Glasgow, Scotland, United Kingdom
+
 ### [Morrisons](https://jobs.winterchill.xyz/?employer=Morrisons) (1)
 
 - [Customer Service Manager (S)](https://www.linkedin.com/jobs/view/4421141855/) — Glasgow, Scotland, United Kingdom
-
-### [Morson Edge](https://jobs.winterchill.xyz/?employer=Morson%20Edge) (1)
-
-- [Software Engineer C++ Controls](https://www.adzuna.co.uk/jobs/details/5777493198?utm_medium=api&utm_source=a9508167) — Backend · £85,000/yr · Hillhead, Glasgow City Centre
 
 ### [N Consulting Ltd](https://jobs.winterchill.xyz/?employer=N%20Consulting%20Ltd) (1)
 
@@ -833,6 +1003,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [NHS Ayrshire & Arran](https://jobs.winterchill.xyz/?employer=NHS%20Ayrshire%20%26%20Arran) (1)
 
 - [Senior Health Information Scientist](https://www.linkedin.com/jobs/view/4428287489/) — £52,845–£61,466/yr · Glasgow, Scotland, United Kingdom · hybrid
+
+### [OCS](https://jobs.winterchill.xyz/?employer=OCS) (1)
+
+- [Senior Mechanical Project Manager](https://www.linkedin.com/jobs/view/4410746327/) — Glasgow, Scotland, United Kingdom
 
 ### [OCU Group](https://jobs.winterchill.xyz/?employer=OCU%20Group) (1)
 
@@ -878,6 +1052,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Assistant Scaffold Designer](https://www.linkedin.com/jobs/view/4432250045/) — Glasgow, Scotland, United Kingdom
 
+### [Pick Everard](https://jobs.winterchill.xyz/?employer=Pick%20Everard) (1)
+
+- [Senior Project Manager](https://www.linkedin.com/jobs/view/4343708105/) — Glasgow, Scotland, United Kingdom
+
 ### [Play Services Scotland](https://jobs.winterchill.xyz/?employer=Play%20Services%20Scotland) (1)
 
 - [Playground & Play Area Inspector](https://uk.indeed.com/viewjob?jk=080b74296ecb6bc2) — £25,500–£40,000/yr · Glasgow, United Kingdom
@@ -898,9 +1076,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Analyst (On-site in Dubai)](https://www.linkedin.com/jobs/view/4432605212/) — Data Engineering · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
 
+### [PwC UK](https://jobs.winterchill.xyz/?employer=PwC%20UK) (1)
+
+- [Strategy & Insights -  Senior Associate (12-Month FTC)](https://www.linkedin.com/jobs/view/4432485412/) — Glasgow, Scotland, United Kingdom
+
 ### [Q1 Technologies, Inc.](https://jobs.winterchill.xyz/?employer=Q1%20Technologies%2C%20Inc.) (1)
 
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4430234588/) — Glasgow, Scotland, United Kingdom
+
+### [QA](https://jobs.winterchill.xyz/?employer=QA) (1)
+
+- [Technical Skills Coach – DLT3 Data Analytics](https://uk.indeed.com/viewjob?jk=bd01f8233701908f) — Glasgow, United Kingdom
 
 ### [Qualitrol](https://jobs.winterchill.xyz/?employer=Qualitrol) (1)
 
@@ -922,9 +1108,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Application Engineer](https://www.adzuna.co.uk/jobs/details/5776022791?utm_medium=api&utm_source=a9508167) — Data Engineering · £45,000–£70,000/yr · Glasgow, Scotland
 
+### [Res](https://jobs.winterchill.xyz/?employer=Res) (1)
+
+- [Civil Engineer](https://uk.indeed.com/viewjob?jk=64b57d2f9dd39fde) — Glasgow, United Kingdom
+
 ### [Response Informatics](https://jobs.winterchill.xyz/?employer=Response%20Informatics) (1)
 
-- [Java Full Stack Developer](https://www.linkedin.com/jobs/view/4432211062/) — Backend · £80,000/yr · Glasgow, Scotland, United Kingdom
+- [Java Full Stack Developer](https://www.adzuna.co.uk/jobs/details/5765042268?utm_medium=api&utm_source=a9508167) — Backend · £80,000/yr · Glasgow, Scotland
 
 ### [Rettie & Co](https://jobs.winterchill.xyz/?employer=Rettie%20%26%20Co) (1)
 
@@ -938,10 +1128,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Pre-Construction Manager](https://uk.indeed.com/viewjob?jk=b06329cd3ee43b2d) — Glasgow, United Kingdom
 
-### [s1jobs](https://jobs.winterchill.xyz/?employer=s1jobs) (1)
-
-- [Head of Property Investment and Compliance](https://www.linkedin.com/jobs/view/4433867583/) — £68,009–£73,548/yr · Glasgow, Scotland, United Kingdom
-
 ### [Sanderson Recruitment](https://jobs.winterchill.xyz/?employer=Sanderson%20Recruitment) (1)
 
 - [Data Science / ML Engineer](https://www.adzuna.co.uk/jobs/details/5738293095?utm_medium=api&utm_source=a9508167) — Data Engineering · Glasgow, Scotland
@@ -949,6 +1135,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Scottish Federation of Housing Associations](https://jobs.winterchill.xyz/?employer=Scottish%20Federation%20of%20Housing%20Associations) (1)
 
 - [Head of Property Investment and Compliance](https://www.linkedin.com/jobs/view/4433287388/) — £68,009–£73,548/yr · Greater Glasgow Area
+
+### [Shawbrook](https://jobs.winterchill.xyz/?employer=Shawbrook) (1)
+
+- [Financial Accountant](https://uk.indeed.com/viewjob?jk=2721cfcf58c4b058) — Glasgow, United Kingdom
 
 ### [Siemens Healthineers](https://jobs.winterchill.xyz/?employer=Siemens%20Healthineers) (1)
 
@@ -958,9 +1148,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [IT 1st Line Support (UK)](https://uk.indeed.com/viewjob?jk=2c892370013d99e5) — £25,000–£27,000/yr · Glasgow, United Kingdom
 
+### [SignVideo](https://jobs.winterchill.xyz/?employer=SignVideo) (1)
+
+- [IT 1st Line Support](https://www.linkedin.com/jobs/view/4433659686/) — £25,000–£27,000/yr · Glasgow, Scotland, United Kingdom
+
 ### [Skyscanner](https://jobs.winterchill.xyz/?employer=Skyscanner) (1)
 
 - [Software Engineering Apprenticeship Programme](http://www.skyscanner.net/jobs/job/7956291?gh_jid=7956291) — Backend · £25,000/yr · Glasgow · hybrid · 🛂 visa sponsor
+
+### [Soben](https://jobs.winterchill.xyz/?employer=Soben) (1)
+
+- [Graduate Project Manager](https://www.linkedin.com/jobs/view/4434153815/) — Glasgow, Scotland, United Kingdom
+
+### [Social Security Scotland](https://jobs.winterchill.xyz/?employer=Social%20Security%20Scotland) (1)
+
+- [A3 Modern Apprentice - Social Security Scotland - Glasgow](https://www.linkedin.com/jobs/view/4432696237/) — Glasgow, Scotland, United Kingdom · hybrid
 
 ### [spire](https://jobs.winterchill.xyz/?employer=spire) (1)
 
@@ -982,13 +1184,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Business Process & Systems Manager](https://uk.indeed.com/viewjob?jk=f3147e6335b66014) — £65,000–£70,000/yr · Glasgow, United Kingdom
 
-### [Stonegate Group](https://jobs.winterchill.xyz/?employer=Stonegate%20Group) (1)
-
-- [Deputy Manager](https://www.linkedin.com/jobs/view/4434404762/) — Glasgow, Scotland, United Kingdom
-
 ### [Sweco](https://jobs.winterchill.xyz/?employer=Sweco) (1)
 
-- [Principal Transport Planner](https://www.linkedin.com/jobs/view/4415678650/) — Glasgow, Scotland, United Kingdom · hybrid
+- [Principal Civil Engineer (Water Infrastructure)](https://www.linkedin.com/jobs/view/4402497205/) — Glasgow, Scotland, United Kingdom · hybrid
 
 ### [Sygna.](https://jobs.winterchill.xyz/?employer=Sygna.) (1)
 
@@ -1000,11 +1198,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Synechron](https://jobs.winterchill.xyz/?employer=Synechron) (1)
 
-- [Senior Java Engineer (Spark, Scala, Java)](https://www.linkedin.com/jobs/view/4429022578/) — Backend · Glasgow City, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Java Engineer (Spark, Scala, Java)](https://www.adzuna.co.uk/jobs/land/ad/5783216157?se=xGMAc4N18RGt3dtJYsVrNQ&utm_medium=api&utm_source=a9508167&v=CAF35F8193B190EC0730CE3C8F40BC8544422E2F) — Platform / Infrastructure · Glasgow, Scotland · 🛂 visa sponsor
 
 ### [Synopsys](https://jobs.winterchill.xyz/?employer=Synopsys) (1)
 
-- [Staff Engineer (R&D Engineering)](https://www.adzuna.co.uk/jobs/details/5761450275?utm_medium=api&utm_source=a9508167) — Glasgow, Scotland
+- [Staff Engineer (R&D Engineering)](https://www.adzuna.co.uk/jobs/land/ad/5761450275?se=cM2jc4N18RGOeNvhEByHAg&utm_medium=api&utm_source=a9508167&v=FD0EA87F877FF1BCA21029522B7D3E5830653AE3) — Glasgow, Scotland
 
 ### [Synopsys Inc](https://jobs.winterchill.xyz/?employer=Synopsys%20Inc) (1)
 
@@ -1020,15 +1218,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Telstra Associates](https://jobs.winterchill.xyz/?employer=Telstra%20Associates) (1)
 
-- [Site Reliability Engineer GCP Azure Cloud Hybrid](https://www.adzuna.co.uk/jobs/details/5776465339?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £104,000–£117,000/yr · Glasgow, Scotland · hybrid
+- [Site Reliability Engineer GCP Azure Cloud Hybrid](https://www.adzuna.co.uk/jobs/land/ad/5776465339?se=bEvUc4N18RGOeNvhEByHAg&utm_medium=api&utm_source=a9508167&v=80E1038F114862B56E875EB022506E8488040576) — DevOps / SRE · £104,000–£117,000/yr · Glasgow, Scotland · hybrid
 
 ### [Tesco](https://jobs.winterchill.xyz/?employer=Tesco) (1)
 
 - [Cafe Back of House Team Member](https://www.linkedin.com/jobs/view/4434113970/) — Glasgow, Scotland, United Kingdom
-
-### [Thales](https://jobs.winterchill.xyz/?employer=Thales) (1)
-
-- [Programme Manager](https://uk.indeed.com/viewjob?jk=5dc54814f799b8b3) — Glasgow, United Kingdom · hybrid
 
 ### [The Cigna Group](https://jobs.winterchill.xyz/?employer=The%20Cigna%20Group) (1)
 
@@ -1050,53 +1244,53 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Customer Support Assistant](https://www.linkedin.com/jobs/view/4431872941/) — £24,788/yr · Glasgow, Scotland, United Kingdom · hybrid
 
+### [Transport Planning & Engineering Ltd](https://jobs.winterchill.xyz/?employer=Transport%20Planning%20%26%20Engineering%20Ltd) (1)
+
+- [Senior Engineer](https://www.linkedin.com/jobs/view/4435530677/) — Glasgow, Scotland, United Kingdom · hybrid
+
 ### [Travis Perkins plc](https://jobs.winterchill.xyz/?employer=Travis%20Perkins%20plc) (1)
 
 - [Warehouse Assistant & Driver](https://www.linkedin.com/jobs/view/4429870466/) — Glasgow, Scotland, United Kingdom
 
-### [Trtl](https://jobs.winterchill.xyz/?employer=Trtl) (1)
+### [Turner Lovell](https://jobs.winterchill.xyz/?employer=Turner%20Lovell) (1)
 
-- [AI Software Engineer](https://www.adzuna.co.uk/jobs/details/5764618453?utm_medium=api&utm_source=a9508167) — Hillhead, Glasgow City Centre · hybrid
+- [Project Director](https://www.linkedin.com/jobs/view/4429887307/) — Greater Glasgow Area
 
-### [Turner & Townsend](https://jobs.winterchill.xyz/?employer=Turner%20%26%20Townsend) (1)
+### [UK Home Office](https://jobs.winterchill.xyz/?employer=UK%20Home%20Office) (1)
 
-- [Senior Cost Manager](https://uk.indeed.com/viewjob?jk=7740604f25d3d1ff) — Glasgow, United Kingdom
+- [Lead Infrastructure Engineer - Messaging and Email Hygiene](https://www.linkedin.com/jobs/view/4433073427/) — Platform / Infrastructure · £62,109/yr · Glasgow, Scotland, United Kingdom
 
 ### [United Infrastructure Ltd](https://jobs.winterchill.xyz/?employer=United%20Infrastructure%20Ltd) (1)
 
 - [Quality Manager](https://www.linkedin.com/jobs/view/4434170192/) — Glasgow, Scotland, United Kingdom
 
-### [VAK Consulting LLC](https://jobs.winterchill.xyz/?employer=VAK%20Consulting%20LLC) (1)
+### [Valor Hospitality Careers - UK](https://jobs.winterchill.xyz/?employer=Valor%20Hospitality%20Careers%20-%20UK) (1)
 
-- [Power Platform Tech Lead](https://www.linkedin.com/jobs/view/4430495366/) — DevOps / SRE · Glasgow City, Scotland, United Kingdom · remote
+- [Receptionist](https://www.linkedin.com/jobs/view/4433434389/) — £13/hr · Glasgow, Scotland, United Kingdom
 
 ### [VINCI](https://jobs.winterchill.xyz/?employer=VINCI) (1)
 
 - [Regional Business Development Manager](https://uk.indeed.com/viewjob?jk=30d67dd9f2c543ec) — Glasgow, United Kingdom
 
-### [VodafoneThree](https://jobs.winterchill.xyz/?employer=VodafoneThree) (1)
-
-- [VodafoneThree - Design Engineer](https://uk.indeed.com/viewjob?jk=3aa373a2dcbe268b) — Glasgow, United Kingdom
-
 ### [VolkerWessels UK](https://jobs.winterchill.xyz/?employer=VolkerWessels%20UK) (1)
 
 - [Senior Design Manager](https://www.linkedin.com/jobs/view/4432640592/) — Glasgow, Scotland, United Kingdom
 
-### [Waracle](https://jobs.winterchill.xyz/?employer=Waracle) (1)
+### [Volvo Trucks](https://jobs.winterchill.xyz/?employer=Volvo%20Trucks) (1)
 
-- [Senior Developer - React Native](https://www.linkedin.com/jobs/view/4432272161/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [Customer Sales & Support Administrator](https://www.linkedin.com/jobs/view/4435181013/) — Glasgow, Scotland, United Kingdom · hybrid
+
+### [Women in Data®](https://jobs.winterchill.xyz/?employer=Women%20in%20Data%C2%AE) (1)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4432385940/) — £47,258/yr · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [xDesign](https://jobs.winterchill.xyz/?employer=xDesign) (1)
 
 - [Lead Software Engineer (.NET)](https://job-boards.eu.greenhouse.io/xdesign/jobs/4903633101) — Backend · Glasgow · hybrid · 🛂 visa sponsor
 
-### [Xodus](https://jobs.winterchill.xyz/?employer=Xodus) (1)
-
-- [Engineering Lead - Civils & Construction](https://www.linkedin.com/jobs/view/4302333561/) — Glasgow, Scotland, United Kingdom
-
 ### [Zscaler](https://jobs.winterchill.xyz/?employer=Zscaler) (1)
 
-- [Principal AI Security Specialist](https://uk.indeed.com/viewjob?jk=0776bc98d467ec6d) — Glasgow, United Kingdom · hybrid
+- [Principal AI Security Specialist, UK&I](https://uk.indeed.com/viewjob?jk=0776bc98d467ec6d) — Glasgow, United Kingdom · hybrid
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

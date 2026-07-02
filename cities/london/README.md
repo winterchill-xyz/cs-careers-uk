@@ -1,12 +1,12 @@
 # Software &amp; IT careers in London
 
-**7,193 open roles** · updated 2026-07-01
+**7,364 open roles** · updated 2026-07-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=London)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (125)
+### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (128)
 
 - [Sr Lead Software Engineer - ETC ETRADE INFRA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210756086) — £171,000–£260,000/yr · LONDON, United Kingdom · 🛂 visa sponsor
 - [Product Manager - ICB AI Engineering](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210761272) — ML / AI Engineering · £86,500–£123,600/yr (est.) · LONDON, LONDON, United Kingdom · 🛂 visa sponsor
@@ -21,14 +21,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Director of Software Engineering - Executive Director](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210748020) — Backend · £76,250–£119,750/yr (est.) · LONDON, United Kingdom · 🛂 visa sponsor
 - [Java Sr Lead Software Engineer - OMS/Sales - VP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210760604) — Backend · £75,750–£115,500/yr (est.) · LONDON, LONDON, United Kingdom · 🛂 visa sponsor
 - [Director of Software Engineering- J.P. Morgan Personal Investing](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210761487) — Backend · £75,750–£115,500/yr (est.) · LONDON, LONDON, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer - C#, SQL Server Database](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210760359) — Backend · £75,750–£115,500/yr (est.) · LONDON, LONDON, United Kingdom · 🛂 visa sponsor
 - [Sr. Lead Data Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210760671) — Data Engineering · £64,700–£93,400/yr (est.) · LONDON, LONDON, United Kingdom · 🛂 visa sponsor
 - [Lead DevOps Engineer – AWS, Kubernetes, Terraform](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210764019) — £69,600–£85,125/yr (est.) · LONDON, LONDON, United Kingdom · 🛂 visa sponsor
 - [Senior Lead Infrastructure Engineer - Market Data - AWS / Snowflake](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210748723) — Data Engineering · £54,600–£69,738/yr (est.) · LONDON, LONDON, United Kingdom · 🛂 visa sponsor
 - [Sr Lead Infrastructure Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210761280) — DevOps / SRE · £54,600–£69,738/yr (est.) · LONDON, United Kingdom · 🛂 visa sponsor
-- [React UI Senior Lead Engineer - Synergy EMEA](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210706224) — LONDON, LONDON, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer EQ -GCT-MANAGEMENT UK](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210752512) — LONDON, United Kingdom · 🛂 visa sponsor
-- …and 105 more at JPMorgan — see [`jobs.json`](jobs.json)
+- [Sr Lead Software Engineer - Full Stack Java / React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210764712) — LONDON, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer - Full Stack Java / React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210764708) — LONDON, United Kingdom · 🛂 visa sponsor
+- [Lead Java Full-Stack AWS Software Engineer - Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210765125) — LONDON, United Kingdom · 🛂 visa sponsor
+- …and 108 more at JPMorgan — see [`jobs.json`](jobs.json)
 
 ### [eFinancialCareers](https://jobs.winterchill.xyz/?employer=eFinancialCareers) (80)
 
@@ -40,22 +40,47 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Data Engineer - Defence](https://www.reed.co.uk/jobs/data-engineer-defence/57049557) — Backend · £60,000–£90,000/yr · London · hybrid · 🛂 visa sponsor
 - [Cloud Native DevOps Engineer](https://www.reed.co.uk/jobs/cloud-native-devops-engineer/57048677) — DevOps / SRE · £65,000–£85,000/yr · London · hybrid · 🛂 visa sponsor
 - [AWS Engineer](https://www.reed.co.uk/jobs/aws-engineer/57049690) — Backend · £50,000–£80,000/yr · London · remote · 🛂 visa sponsor
+- [Principal Development Engineer](https://www.reed.co.uk/jobs/principal-development-engineer/57065212) — Backend · London · hybrid · 🛂 visa sponsor
+- [Python Developer - Trading Systems & Research Infrastructure No Finance Experience Needed](https://www.reed.co.uk/jobs/python-developer-trading-systems-research-infrastructure-no-finance-experience-needed/57078212) — Backend · London · 🛂 visa sponsor
+- [DevOps & Security Engineer - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/devops-security-engineer-universities-superannuation-scheme-limited/57080141) — DevOps / SRE · London · 🛂 visa sponsor
+- [Senior Data Engineer - Universities Superannuation Scheme Limited](https://www.reed.co.uk/jobs/senior-data-engineer-universities-superannuation-scheme-limited/57080130) — Data Engineering · London · 🛂 visa sponsor
+- [C++ Quant Developer / Equities Pod/ London/ £ High Base](https://www.reed.co.uk/jobs/c-quant-developer-equities-pod-london--high-base/57078198) — Backend · London · 🛂 visa sponsor
+- [Mayfair Fund Hiring Quant Developers / Python/ C++](https://www.reed.co.uk/jobs/mayfair-fund-hiring-quant-developers-python-c/57078145) — Backend · London · 🛂 visa sponsor
+- [Quant Researcher Market Making / HFT- Onsite/ Remote](https://www.reed.co.uk/jobs/quant-researcher-market-making-hft-onsite-remote/57078163) — Backend · London · remote · 🛂 visa sponsor
 - [Equity Derivatives Developer](https://www.reed.co.uk/jobs/equity-derivatives-developer/57066872) — Backend · London · 🛂 visa sponsor
 - [Python Developer - FRTB](https://www.reed.co.uk/jobs/python-developer-frtb/57069955) — Backend · London · 🛂 visa sponsor
 - [Core Engineering Java Development Lead - FX Tech SVP - Citi](https://www.reed.co.uk/jobs/core-engineering-java-development-lead-fx-tech-svp-citi/57048612) — Backend · London · hybrid · 🛂 visa sponsor
 - [Senior Research Engineer - Selby Jennings](https://www.reed.co.uk/jobs/senior-research-engineer-selby-jennings/57068506) — Backend · London · 🛂 visa sponsor
 - [KDB Developer - Macquarie Group](https://www.reed.co.uk/jobs/kdb-developer-macquarie-group/57065545) — Backend · London · remote · 🛂 visa sponsor
-- [Associate Engineer - Finance & People Technology - Man Group plc](https://www.reed.co.uk/jobs/associate-engineer-finance-people-technology-man-group-plc/57060887) — Backend · London · 🛂 visa sponsor
-- [Senior Python Developer - Trading & Risk Platforms - Up to £700 per day Inside IR35](https://www.reed.co.uk/jobs/senior-python-developer-trading-risk-platforms-up-to-700-per-day-inside-ir35/57058121) — Backend · London · hybrid · 🛂 visa sponsor
-- [Junior Python Developer Hedge Fund](https://www.reed.co.uk/jobs/junior-python-developer-hedge-fund/57058164) — Backend · London · 🛂 visa sponsor
-- [Principal Development Engineer](https://www.reed.co.uk/jobs/principal-development-engineer/56975200) — Backend · London · hybrid · 🛂 visa sponsor
-- [Machine Learning Engineer - TradingHub](https://www.reed.co.uk/jobs/machine-learning-engineer-tradinghub/57048656) — Backend · London · hybrid · 🛂 visa sponsor
-- [Desk-Aligned Engineer Commodities- Market-Leading Global Hedge Fund](https://www.reed.co.uk/jobs/desk-aligned-engineer-commodities-market-leading-global-hedge-fund/57048547) — Backend · London · 🛂 visa sponsor
-- [Junior Python Developer Hedge Fund - eFinancialCareers Sourcing Services](https://www.reed.co.uk/jobs/junior-python-developer-hedge-fund-efinancialcareers-sourcing-services/57052162) — Backend · London · 🛂 visa sponsor
 - …and 60 more at eFinancialCareers — see [`jobs.json`](jobs.json)
+
+### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (60)
+
+- [Cloud DevOps Advisory Managing Consultant - DevEx](https://uk.indeed.com/viewjob?jk=cc14120d7418f140) — £500,000/yr · London, United Kingdom
+- [Google Cloud Champion (Pre-Sales & Delivery Leadership) - London, UK - Fulltime - Hybrid](https://uk.indeed.com/viewjob?jk=7499f33ac35cb73d) — £139,250–£150,000/yr (est.) · London, United Kingdom
+- [Managing Consultant/Senior Manager - Operating Model & Organisation Design](https://www.glassdoor.co.uk/job-listing/managing-consultant-senior-manager-operating-model-organisation-design-capgemini-JV_IC2671300_KO0,70_KE71,80.htm?jl=1010174000464) — £72,000–£100,500/yr (est.) · London, England · hybrid · 🛂 visa sponsor
+- [Senior Platform Engineer](https://uk.indeed.com/viewjob?jk=44370aaf4027254d) — £34,000–£78,000/yr (est.) · London, United Kingdom
+- [Lead Data Scientist](https://uk.indeed.com/viewjob?jk=7d319901b341b390) — £41,500–£77,000/yr (est.) · London, United Kingdom
+- [AWS Databricks Engineer](https://www.linkedin.com/jobs/view/4430927665/) — £61,625–£72,250/yr (est.) · London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [User Experience Designer (SC Eligible) - Consultant / Senior Consultant](https://www.glassdoor.co.uk/job-listing/user-experience-designer-sc-eligible-consultant-senior-consultant-capgemini-JV_IC2671300_KO0,65_KE66,75.htm?jl=1010176584831) — Frontend · £43,750–£68,000/yr (est.) · London, England · hybrid · 🛂 visa sponsor
+- [Agentic / GenAI Consultant / Senior Consultant](https://uk.indeed.com/viewjob?jk=b0b21fd170f13ec3) — £43,750–£68,000/yr (est.) · London, United Kingdom
+- [Senior Java Engineer](https://uk.indeed.com/viewjob?jk=dfaff83f7acc87ac) — £55,000–£65,000/yr (est.) · London, United Kingdom
+- [SAP Lead Automation Test Engineer](https://uk.indeed.com/viewjob?jk=2fd9f6f158f89b2a) — £49,743–£60,498/yr (est.) · London, United Kingdom
+- [Full Stack Developer](https://uk.indeed.com/viewjob?jk=7dee961fe0439ea2) — £55,000–£60,000/yr (est.) · London, United Kingdom
+- [Full Stack Developer](https://www.linkedin.com/jobs/view/4432410089/) — Backend · £55,000–£60,000/yr (est.) · London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Junior Java Full Stack-Associate Consultant](https://uk.indeed.com/viewjob?jk=ed99af56b84840a6) — £55,000–£60,000/yr (est.) · London, United Kingdom
+- [Java Full Stack Engineer - Consultant - Digital Excellence](https://uk.indeed.com/viewjob?jk=f62239ec51dc527d) — £55,000–£60,000/yr (est.) · London, United Kingdom
+- [SAS Engineer - London, Uk - Hybrid - Fulltime](https://uk.indeed.com/viewjob?jk=0074390c608941b6) — £39,000–£58,920/yr (est.) · London, United Kingdom
+- [Network Engineer](https://www.glassdoor.co.uk/job-listing/network-engineer-capgemini-JV_IC2671300_KO0,16_KE17,26.htm?jl=1010175872073) — Platform / Infrastructure · £41,000–£58,500/yr (est.) · London, England · hybrid · 🛂 visa sponsor
+- [Loan IQ Migration Subject Matter Expert](https://uk.indeed.com/viewjob?jk=fb2687bbaedb33ce) — £34,050–£35,000/yr (est.) · London, United Kingdom
+- [Junior Full Stack Engineer (React + Java) - Glasgow, UK - Fulltime Hybrid](https://www.linkedin.com/jobs/view/4429102172/) — Backend · London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Java Fullstack Developer](https://www.linkedin.com/jobs/view/4429559565/) — Backend · London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Cybersecurity Consultant](https://uk.indeed.com/viewjob?jk=ef74e44a744195f5) — London, United Kingdom
+- …and 40 more at Capgemini — see [`jobs.json`](jobs.json)
 
 ### [Qube Research & Technologies](https://jobs.winterchill.xyz/?employer=Qube%20Research%20%26%20Technologies) (57)
 
+- [Quantitative Developer - Ultra Low-Latency (C++)](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8607638002) — London · 🛂 visa sponsor
 - [Software Developer - Regulatory Technology](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8073871002) — London · 🛂 visa sponsor
 - [Data Scientist - Pricing](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8551885002) — London · 🛂 visa sponsor
 - [Data Scientist - Index Data](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8511917002) — London · 🛂 visa sponsor
@@ -75,44 +100,23 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer - Data & Lifecycle (Equities/CA)](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8298711002) — Backend · London · 🛂 visa sponsor
 - [Software Engineer - Data & Lifecycle (Derivatives)](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8298719002) — Backend · London · 🛂 visa sponsor
 - [Software Engineer, Data Core](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8078399002) — Backend · London · 🛂 visa sponsor
-- [Senior Software Engineer - Data Infrastructure](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8591819002) — Backend · London · 🛂 visa sponsor
 - …and 37 more at Qube Research & Technologies — see [`jobs.json`](jobs.json)
 
-### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (56)
+### [Wise](https://jobs.winterchill.xyz/?employer=Wise) (53)
 
-- [Cloud DevOps Advisory Managing Consultant - DevEx](https://uk.indeed.com/viewjob?jk=cc14120d7418f140) — £500,000/yr · London, United Kingdom
-- [Google Cloud Champion (Pre-Sales & Delivery Leadership) - London, UK - Fulltime - Hybrid](https://uk.indeed.com/viewjob?jk=7499f33ac35cb73d) — £139,250–£150,000/yr (est.) · London, United Kingdom
-- [GEN AI Engineer](https://uk.indeed.com/viewjob?jk=77e7612017f8e846) — £75,000–£105,000/yr (est.) · London, United Kingdom
-- [GEN AI Engineer](https://www.linkedin.com/jobs/view/4432818200/) — Backend · £75,000–£105,000/yr (est.) · London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Managing Consultant/Senior Manager - Operating Model & Organisation Design](https://www.glassdoor.co.uk/job-listing/managing-consultant-senior-manager-operating-model-organisation-design-capgemini-JV_IC2671300_KO0,70_KE71,80.htm?jl=1010174000464) — £72,000–£100,500/yr (est.) · London, England · hybrid · 🛂 visa sponsor
-- [Senior Platform Engineer](https://uk.indeed.com/viewjob?jk=44370aaf4027254d) — £34,000–£78,000/yr (est.) · London, United Kingdom
-- [Lead Data Scientist](https://uk.indeed.com/viewjob?jk=7d319901b341b390) — £41,500–£77,000/yr (est.) · London, United Kingdom
-- [AWS Databricks Engineer](https://www.linkedin.com/jobs/view/4430927665/) — £61,625–£72,250/yr (est.) · London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [User Experience Designer (SC Eligible) - Consultant / Senior Consultant](https://www.glassdoor.co.uk/job-listing/user-experience-designer-sc-eligible-consultant-senior-consultant-capgemini-JV_IC2671300_KO0,65_KE66,75.htm?jl=1010176584831) — Frontend · £43,750–£68,000/yr (est.) · London, England · hybrid · 🛂 visa sponsor
-- [Agentic / GenAI Consultant / Senior Consultant](https://uk.indeed.com/viewjob?jk=b0b21fd170f13ec3) — £43,750–£68,000/yr (est.) · London, United Kingdom
-- [Senior Java Engineer](https://uk.indeed.com/viewjob?jk=dfaff83f7acc87ac) — £55,000–£65,000/yr (est.) · London, United Kingdom
-- [SAP Lead Automation Test Engineer](https://uk.indeed.com/viewjob?jk=2fd9f6f158f89b2a) — £49,743–£60,498/yr (est.) · London, United Kingdom
-- [Full Stack Developer](https://uk.indeed.com/viewjob?jk=7dee961fe0439ea2) — £55,000–£60,000/yr (est.) · London, United Kingdom
-- [Full Stack Developer](https://www.linkedin.com/jobs/view/4432410089/) — Backend · £55,000–£60,000/yr (est.) · London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Junior Java Full Stack-Associate Consultant](https://uk.indeed.com/viewjob?jk=ed99af56b84840a6) — £55,000–£60,000/yr (est.) · London, United Kingdom
-- [Java Full Stack Engineer - Consultant - Digital Excellence](https://uk.indeed.com/viewjob?jk=f62239ec51dc527d) — £55,000–£60,000/yr (est.) · London, United Kingdom
-- [Java Full Stack Engineer-Senior Consultant-Digital Excellence](https://www.glassdoor.co.uk/job-listing/java-full-stack-engineer-senior-consultant-digital-excellence-capgemini-JV_IC2671300_KO0,61_KE62,71.htm?jl=1010173009739) — Backend · £55,000–£60,000/yr (est.) · London, England · hybrid · 🛂 visa sponsor
-- [SAS Engineer - London, Uk - Hybrid - Fulltime](https://uk.indeed.com/viewjob?jk=0074390c608941b6) — £39,000–£58,920/yr (est.) · London, United Kingdom
-- [Network Engineer](https://www.glassdoor.co.uk/job-listing/network-engineer-capgemini-JV_IC2671300_KO0,16_KE17,26.htm?jl=1010175872073) — Platform / Infrastructure · £41,000–£58,500/yr (est.) · London, England · hybrid · 🛂 visa sponsor
-- [Loan IQ Migration Subject Matter Expert](https://uk.indeed.com/viewjob?jk=fb2687bbaedb33ce) — £34,050–£35,000/yr (est.) · London, United Kingdom
-- …and 36 more at Capgemini — see [`jobs.json`](jobs.json)
-
-### [Wise](https://jobs.winterchill.xyz/?employer=Wise) (49)
-
+- [Staff Applied ML Engineer - Financial Crime](https://jobs.smartrecruiters.com/Wise/744000135275289) — £145,000–£182,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Senior Staff Software Engineer - Risk Assessment Platform, Servicing](https://jobs.smartrecruiters.com/Wise/744000129195750) — Backend · £145,000–£182,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
 - [Sr Engineering Team Lead  - Data - Platform](https://jobs.smartrecruiters.com/Wise/744000131768719) — Backend · £135,000–£175,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
 - [Staff Backend Engineer - Consumer Onboarding](https://jobs.smartrecruiters.com/Wise/744000134975135) — £111,000–£145,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer II - Investments - Java](https://jobs.smartrecruiters.com/Wise/744000134487434) — £111,000–£145,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer II - Send Core](https://jobs.smartrecruiters.com/Wise/744000134210540) — Backend · £111,000–£145,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Backend Engineer II - Europe Account](https://jobs.smartrecruiters.com/Wise/744000132644934) — Backend · £111,000–£145,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
-- [Staff Software Engineer - Global KYC and Onboarding](https://jobs.smartrecruiters.com/Wise/744000133959225) — Backend · £105,000–£130,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
+- [Engineering Lead - Ptech - HR Tech](https://jobs.smartrecruiters.com/Wise/744000135312659) — £105,000–£135,000/yr · London, United Kingdom · 🛂 visa sponsor
+- [Staff Software Engineer - Global KYC and Onboarding](https://jobs.smartrecruiters.com/Wise/744000135211269) — £105,000–£130,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Lead Analytics Engineer](https://api.smartrecruiters.com/v1/companies/Wise/postings/744000129210959) — Backend · £85,000–£125,000/yr · London, gb · remote · 🛂 visa sponsor
 - [Senior iOS Engineer – Send Experience](https://jobs.smartrecruiters.com/Wise/744000134202156) — Backend · £87,500–£115,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
+- [Sr Software Engineer I - Fincrime - Scam Prevention](https://jobs.smartrecruiters.com/Wise/744000135312270) — £87,000–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
+- [Senior Platform Engineer- Continuous Delivery (CD)](https://jobs.smartrecruiters.com/Wise/744000135272033) — £87,500–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer I – Contacts Team](https://jobs.smartrecruiters.com/Wise/744000134976279) — £87,000–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer I - Personal & Business Pricing Team](https://jobs.smartrecruiters.com/Wise/744000134976509) — £87,000–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer I - Wise for Enterprise - Banks](https://jobs.smartrecruiters.com/Wise/744000134974124) — £87,000–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
@@ -120,14 +124,35 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer I - Investments](https://jobs.smartrecruiters.com/Wise/744000134487729) — £87,500–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer I -  Account Integrity Team - Fincrime](https://jobs.smartrecruiters.com/Wise/744000134461469) — Backend · £87,500–£111,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Solutions Engineer](https://jobs.smartrecruiters.com/Wise/744000134218985) — Backend · £87,500–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer I - Onboarding Experience](https://jobs.smartrecruiters.com/Wise/744000134210369) — Backend · £87,500–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer I - Acquiring Platform - Backend (Java)](https://jobs.smartrecruiters.com/Wise/744000133020674) — Backend · £87,500–£111,000/yr · London, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer I - Investments - Java](https://api.smartrecruiters.com/v1/companies/Wise/postings/744000126522129) — Backend · £87,500–£111,000/yr · London, gb · hybrid · 🛂 visa sponsor
-- [Senior Platform Engineer I - Database Platform - Python](https://jobs.smartrecruiters.com/Wise/744000127447659) — Backend · £87,500–£111,000/yr · London, United Kingdom · 🛂 visa sponsor
-- …and 29 more at Wise — see [`jobs.json`](jobs.json)
+- …and 33 more at Wise — see [`jobs.json`](jobs.json)
 
-### [Citi](https://jobs.winterchill.xyz/?employer=Citi) (46)
+### Company not listed (48)
 
+- [Member of Technical Staff](https://uk.indeed.com/viewjob?jk=3229f71e701ed0cc) — £250,000–£450,000/yr · London, United Kingdom
+- [Founding Member of Technical Staff](https://uk.indeed.com/viewjob?jk=90b9745318950557) — £150,000–£300,000/yr · London, United Kingdom
+- [Head of/Director, International Regulatory Affairs](https://uk.indeed.com/viewjob?jk=ebb61e4d474add35) — £140,000–£155,000/yr · London, United Kingdom
+- [Head of/Director, Government Affairs - UK & EU](https://uk.indeed.com/viewjob?jk=c48643b99836dfb0) — £140,000–£155,000/yr · London, United Kingdom
+- [Senior Staff Engineer](https://uk.indeed.com/viewjob?jk=20c6706606e73fe6) — £140,000/yr · London, United Kingdom
+- [Senior Engineering Manager](https://uk.indeed.com/viewjob?jk=b9fa76ddf03645f1) — £112,000/yr · London, United Kingdom
+- [Gen AI Lead](https://uk.indeed.com/viewjob?jk=061d4e6d66c7c24e) — £300–£400/day · London, United Kingdom
+- [AI Tech Lead Developer](https://uk.indeed.com/viewjob?jk=310e92a50b4434c8) — £300–£400/day · London, United Kingdom
+- [Managing Consultant - Retail/FMCG](https://uk.indeed.com/viewjob?jk=e2a3c52c3e53b376) — £70,000–£100,000/yr · London, United Kingdom
+- [Regulatory Assurance Technical Lead](https://uk.indeed.com/viewjob?jk=02e4f3fb4e0f6a3a) — £62,595–£97,550/yr · London, United Kingdom
+- [Senior Mechanical Design Engineer](https://uk.indeed.com/viewjob?jk=c9071bd6ed6ec245) — £80,000–£90,000/yr · London, United Kingdom
+- [Senior Electrical Design Engineer](https://uk.indeed.com/viewjob?jk=4970a6fe83e6abc4) — £80,000–£90,000/yr · London, United Kingdom
+- [Sr. Applied AI Solution Engineer](https://uk.indeed.com/viewjob?jk=5f67437fb434a283) — £65,000–£80,000/yr · London, United Kingdom
+- [EA and Family PA](https://uk.indeed.com/viewjob?jk=116075d7504a73bb) — £65,000–£75,000/yr · London, United Kingdom
+- [EA and Family PA to HNW Principals](https://uk.indeed.com/viewjob?jk=9d7300c9bfafcd3b) — £65,000–£75,000/yr · London, United Kingdom
+- [Senior Consultant](https://uk.indeed.com/viewjob?jk=e724e651bd0f3e40) — £55,000–£75,000/yr · London, United Kingdom · 🛂 visa sponsor
+- [Technical Project Delivery Manager](https://uk.indeed.com/viewjob?jk=a618675525092548) — £72,000/yr · London, United Kingdom
+- [Site Supervisor (Civil)](https://uk.indeed.com/viewjob?jk=1a5118c762cfec09) — £260/day · London, United Kingdom
+- [Business Consultant - Retail/FMCG](https://uk.indeed.com/viewjob?jk=d11af465d65d6b04) — £40,000–£65,000/yr · London, United Kingdom
+- [Procurement Manager](https://uk.indeed.com/viewjob?jk=1d9a94ee504d4ec7) — £60,000–£64,000/yr · London, United Kingdom
+- …and 28 more at Company not listed — see [`jobs.json`](jobs.json)
+
+### [Citi](https://jobs.winterchill.xyz/?employer=Citi) (47)
+
+- [Product Developer - Institutional Banking - VP](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Product-Developer---Institutional-Banking---VP_26957283) — London  United Kingdom, United Kingdom · 🛂 visa sponsor
 - [Counterparty Credit Risk Python Developer, AVP](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Counterparty-Credit-Risk-Python-Developer--AVP_26973565) — London  United Kingdom, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer, CalcGraphs - Vice President](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Senior-Software-Engineer--CalcGraphs---Vice-President_26958156) — London  United Kingdom, United Kingdom · 🛂 visa sponsor
 - [Full Stack Engineer - AI Enabled – Senior Vice President](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Full-Stack-Engineer---AI-Enabled---Senior-Vice-President_26974556) — London  United Kingdom, United Kingdom · 🛂 visa sponsor
@@ -147,80 +172,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [FX eTrading Java Developer - VP](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/FX-eTrading-Java-Developer---VP_26942079) — Backend · London  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Full Stack Engineer (Kotlin and/or Python) – VP](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Full-Stack-Engineer--Kotlin-and-or-Python----VP_26956553) — Backend · London  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Developer – VP – XVA Technology](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Lead-Developer---VP---XVA-Technology_26956285) — Backend · London  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-- [Java (Kotlin) Developer (Agile, Test-Driven) AVP](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Java--Kotlin--Developer--Agile--Test-Driven--AVP_26944371-1) — Backend · London  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-- …and 26 more at Citi — see [`jobs.json`](jobs.json)
-
-### Company not listed (45)
-
-- [Member of Technical Staff](https://uk.indeed.com/viewjob?jk=3229f71e701ed0cc) — £250,000–£450,000/yr · London, United Kingdom
-- [Founding Member of Technical Staff](https://uk.indeed.com/viewjob?jk=90b9745318950557) — £150,000–£300,000/yr · London, United Kingdom
-- [Head of/Director, International Regulatory Affairs](https://uk.indeed.com/viewjob?jk=ebb61e4d474add35) — £140,000–£155,000/yr · London, United Kingdom
-- [Head of/Director, Government Affairs - UK & EU](https://uk.indeed.com/viewjob?jk=c48643b99836dfb0) — £140,000–£155,000/yr · London, United Kingdom
-- [Senior Staff Engineer](https://uk.indeed.com/viewjob?jk=20c6706606e73fe6) — £140,000/yr · London, United Kingdom
-- [Senior Engineering Manager](https://uk.indeed.com/viewjob?jk=b9fa76ddf03645f1) — £112,000/yr · London, United Kingdom
-- [AI Tech Lead Developer](https://uk.indeed.com/viewjob?jk=310e92a50b4434c8) — £300–£400/day · London, United Kingdom
-- [Managing Consultant - Retail/FMCG](https://uk.indeed.com/viewjob?jk=e2a3c52c3e53b376) — £70,000–£100,000/yr · London, United Kingdom
-- [Regulatory Assurance Technical Lead](https://uk.indeed.com/viewjob?jk=02e4f3fb4e0f6a3a) — £62,595–£97,550/yr · London, United Kingdom
-- [Senior Mechanical Design Engineer](https://uk.indeed.com/viewjob?jk=c9071bd6ed6ec245) — £80,000–£90,000/yr · London, United Kingdom
-- [Senior Electrical Design Engineer](https://uk.indeed.com/viewjob?jk=4970a6fe83e6abc4) — £80,000–£90,000/yr · London, United Kingdom
-- [Sr. Applied AI Solution Engineer](https://uk.indeed.com/viewjob?jk=5f67437fb434a283) — £65,000–£80,000/yr · London, United Kingdom
-- [EA and Family PA](https://uk.indeed.com/viewjob?jk=116075d7504a73bb) — £65,000–£75,000/yr · London, United Kingdom
-- [EA and Family PA to HNW Principals](https://uk.indeed.com/viewjob?jk=9d7300c9bfafcd3b) — £65,000–£75,000/yr · London, United Kingdom
-- [Senior Consultant](https://uk.indeed.com/viewjob?jk=e724e651bd0f3e40) — £55,000–£75,000/yr · London, United Kingdom · 🛂 visa sponsor
-- [Technical Project Delivery Manager](https://uk.indeed.com/viewjob?jk=a618675525092548) — £72,000/yr · London, United Kingdom
-- [Site Supervisor (Civil)](https://uk.indeed.com/viewjob?jk=1a5118c762cfec09) — £260/day · London, United Kingdom
-- [Business Consultant - Retail/FMCG](https://uk.indeed.com/viewjob?jk=d11af465d65d6b04) — £40,000–£65,000/yr · London, United Kingdom
-- [Procurement Manager](https://uk.indeed.com/viewjob?jk=1d9a94ee504d4ec7) — £60,000–£64,000/yr · London, United Kingdom
-- [Applied AI Solution Engineer](https://uk.indeed.com/viewjob?jk=f5b9d646aed9a75c) — £45,000–£60,000/yr · London, United Kingdom
-- …and 25 more at Company not listed — see [`jobs.json`](jobs.json)
-
-### [Hunter Bond](https://jobs.winterchill.xyz/?employer=Hunter%20Bond) (44)
-
-- [C++ Software Engineer – Packages Up to £400K – London](https://www.linkedin.com/jobs/view/4428974903/) — Backend · Up to £400,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [Software Engineer](https://www.linkedin.com/jobs/view/4431095999/) — Up to £300,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer (KDB+/Q) - Up to £270,000 + Bonus + Benefits (London)](https://www.linkedin.com/jobs/view/4431049598/) — Backend · Up to £270,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [React Frontend Developer](https://www.linkedin.com/jobs/view/4431503881/) — Backend · Up to £200,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [C++ Developer - Up to £200,000 + Bonus + Package](https://www.linkedin.com/jobs/view/4431052457/) — Backend · Up to £200,000/yr · Greater London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Quantitative Developer – Up to £200,000 + Bonus + Benefits](https://www.linkedin.com/jobs/view/4431054422/) — Backend · Up to £200,000/yr · Greater London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer (Rust) – Up to £200,000 + Bonus + Package](https://www.linkedin.com/jobs/view/4433812943/) — Backend · Up to £200,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Rust Developer - Up to £200,000 P/A + Bonus](https://www.linkedin.com/jobs/view/4428961810/) — Backend · Up to £200,000/yr · Greater London, England, United Kingdom · 🛂 visa sponsor
-- [Lead Python Engineer – London – Up to £200k Base + Bonus + Benefits](https://www.linkedin.com/jobs/view/4432227316/) — Backend · Up to £200,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Java/Python Software Developer - Risk - Up To £750 Per Day - London (Hybrid)](https://www.linkedin.com/jobs/view/4433841011/) — Backend · Up to £750/day · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Python Developer - Inside IR35 - Up to £700 per day](https://www.linkedin.com/jobs/view/4433077443/) — Backend · Up to £700/day · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Graduate Software Engineer / Quant Developer / Quant Researcher - Up to £180,000 + Bonus + Package](https://www.linkedin.com/jobs/view/4431032872/) — Up to £180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [Front-End React Software Engineer : Trading : £120-180k plus excellent bonus : London](https://www.linkedin.com/jobs/view/4431088463/) — Backend · £120,000–£180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [React Developer - Up to £180,000 + Bonus + Package](https://www.linkedin.com/jobs/view/4431048589/) — Backend · Up to £180,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Python Engineer – Up to £180,000 + Bonus + Benefits](https://www.linkedin.com/jobs/view/4431043581/) — Backend · Up to £180,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [C++ Software Engineer : Trading : £120-180k plus excellent bonus : London](https://www.linkedin.com/jobs/view/4430212999/) — Backend · £120,000–£180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [Platform Engineer – Elite Fintech – London - up to £180,000 + Exceptional benefits/bonus package](https://www.linkedin.com/jobs/view/4430627165/) — Backend · Up to £180,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Rust Developer – Elite Trading Firm, London : £80-180k](https://www.linkedin.com/jobs/view/4430220270/) — Backend · £80,000–£180,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Frontend Developer - Up to £180,000 P/A + Bonus](https://www.linkedin.com/jobs/view/4428971660/) — Backend · Up to £180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [Front-End Engineer (React) : Trading : £120-180k plus excellent bonus : London](https://www.linkedin.com/jobs/view/4428946117/) — Backend · £120,000–£180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- …and 24 more at Hunter Bond — see [`jobs.json`](jobs.json)
-
-### [LSEG](https://jobs.winterchill.xyz/?employer=LSEG) (44)
-
-- [Senior Data Scientist](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Data-Scientist_R0116109-1) — London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Principal Applied Data Scientist](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Principal-Applied-Data-Scientist_R0118411-1) — GBR-London-10 Paternoster Square, United Kingdom · 🛂 visa sponsor
-- [Engineering Business Operations Associate](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Engineering-Business-Operations-Associate_R0120850-1) — GBR-London-10 Paternoster Square, United Kingdom · 🛂 visa sponsor
-- [Lead DevOps Engineer - Real Time Platform](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead-DevOps-Engineer---Real-Time-Platform_R0120637) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Junior Data Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Junior-Data-Engineer_R0120934) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Senior Engineer – Data Distribution Platform](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Engineer---Data-Distribution-Platform_R0120391) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Data Engineering Lead](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Data-Engineering-Lead_R0120238-1) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [CDSClear Clearing Platform Engineering Manager](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/CDSClear-Clearing-Platform-Engineering-Manager_R0119402-1) — Data Engineering · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Solution Engineer (CPQ Software)](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Salesforce-Solution-Engineer--CPQ-_R0119736) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Head of Analytics Engineering](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Head-of-Analytics-Engineering_R0118793) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Senior Manager, Engineering Product Operations](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Manager--Engineering-Product-Operations_R0120141-1) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Index Distribution Software Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Index-Distribution-Software-Engineer_R0114476-1) — Backend · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Engineering Lead, Index Distribution](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Software-Engineering-Manager--Index-Distribution_R0114479) — Backend · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-- [Lead, Software & Platform Engineering](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead--Software---Platform-Engineering_R0113171-1) — Backend · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-- [Quantitative Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Quantitative-Engineer_R0111825-1) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Senior Lead Scala Engineer, Post Trade](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Lead-Scala-Engineer--Post-Trade_R0116069) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Senior Java Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Java-Engineer_R0117399) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Engineer, Post Trade (Blockchain)](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Engineer--Post-Trade_R0116071-1) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Senior Lead Engineer, Post Trade (Blockchain)](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Lead-Engineer--Post-Trade_R0116072-1) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- [Senior Reliability Engineer - Hosting & Connectivity](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Reliability-Engineer---Hosting---Connectivity_R0115126-1) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
-- …and 24 more at LSEG — see [`jobs.json`](jobs.json)
+- …and 27 more at Citi — see [`jobs.json`](jobs.json)
 
 ### [G-Research](https://jobs.winterchill.xyz/?employer=G-Research) (43)
 
@@ -246,7 +198,31 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal AI Security Engineer](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Principal-AI-Security-Engineer_R3476) — DevOps / SRE · London, UK, United Kingdom · 🛂 visa sponsor
 - …and 23 more at G-Research — see [`jobs.json`](jobs.json)
 
-### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (41)
+### [LSEG](https://jobs.winterchill.xyz/?employer=LSEG) (43)
+
+- [Lead Software Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Lead-Software-Engineer_R0121251) — GBR-London-10 Paternoster Square, United Kingdom · 🛂 visa sponsor
+- [Senior Data Scientist](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Data-Scientist_R0116109-1) — London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Principal Applied Data Scientist](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Principal-Applied-Data-Scientist_R0118411-1) — GBR-London-10 Paternoster Square, United Kingdom · 🛂 visa sponsor
+- [Engineering Business Operations Associate](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-London-10-Paternoster-Square/Engineering-Business-Operations-Associate_R0120850-1) — GBR-London-10 Paternoster Square, United Kingdom · 🛂 visa sponsor
+- [Lead DevOps Engineer - Real Time Platform](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead-DevOps-Engineer---Real-Time-Platform_R0120637) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Junior Data Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Junior-Data-Engineer_R0120934) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Senior Full Stack Engineer – Index Distribution Engineering](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Engineer---Data-Distribution-Platform_R0120391) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Data Engineering Lead](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Data-Engineering-Lead_R0120238-1) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [CDSClear Clearing Platform Engineering Manager](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/CDSClear-Clearing-Platform-Engineering-Manager_R0119402-1) — Data Engineering · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Solution Engineer (CPQ Software)](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Salesforce-Solution-Engineer--CPQ-_R0119736) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Head of Analytics Engineering](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Head-of-Analytics-Engineering_R0118793) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Senior Manager, Engineering Product Operations](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Manager--Engineering-Product-Operations_R0120141-1) — Data Engineering · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Index Distribution Software Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Index-Distribution-Software-Engineer_R0114476-1) — Backend · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Engineering Lead, Index Distribution](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Software-Engineering-Manager--Index-Distribution_R0114479) — Backend · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead, Software & Platform Engineering](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead--Software---Platform-Engineering_R0113171-1) — Backend · London, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
+- [Quantitative Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Quantitative-Engineer_R0111825-1) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Senior Lead Scala Engineer, Post Trade](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Lead-Scala-Engineer--Post-Trade_R0116069) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Senior Java Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Java-Engineer_R0117399) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Engineer, Post Trade (Blockchain)](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Engineer--Post-Trade_R0116071-1) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Senior Lead Engineer, Post Trade (Blockchain)](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Senior-Lead-Engineer--Post-Trade_R0116072-1) — Backend · London, United Kingdom, United Kingdom · 🛂 visa sponsor
+- …and 23 more at LSEG — see [`jobs.json`](jobs.json)
+
+### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (40)
 
 - [Senior Software Engineer II - Investments - Java](https://www.linkedin.com/jobs/view/4433489706/) — Backend · £111,000–£145,000/yr · London, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer II - Send Core](https://www.linkedin.com/jobs/view/4433282885/) — Backend · £111,000–£145,000/yr · London, England, United Kingdom · 🛂 visa sponsor
@@ -255,28 +231,76 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer I - Acquiring Platform - Backend (Java)](https://www.linkedin.com/jobs/view/4430098377/) — Backend · £87,500–£111,000/yr · London, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer I - Stream Processing - Kafka & Flink](https://www.linkedin.com/jobs/view/4430022353/) — Backend · £87,500–£111,000/yr · London, England, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4432930375/) — Backend · £76,023–£95,029/yr · London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4404489197/) — Backend · Up to £87,244/yr · London, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Data Analyst - Product Reliability](https://www.linkedin.com/jobs/view/4421375230/) — Backend · £60,000–£85,000/yr · London, England, United Kingdom · 🛂 visa sponsor
 - [London: Senior/Lead Software Engineer](https://www.linkedin.com/jobs/view/4404494114/) — Backend · £56,640–£70,800/yr · London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Java Engineer](https://www.linkedin.com/jobs/view/4330854087/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
-- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4422513635/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
-- [Data Strategy Engineer](https://www.linkedin.com/jobs/view/4428703900/) — Data Engineering · London, England, United Kingdom · 🛂 visa sponsor
-- [Staff Engineer](https://www.linkedin.com/jobs/view/4359014933/) — Backend · London, England, United Kingdom · remote · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4324063796/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [Lead ML Platform Engineer](https://www.linkedin.com/jobs/view/4413833372/) — Backend · London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4422513635/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Senior Java Engineer](https://www.linkedin.com/jobs/view/4330854087/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Staff Engineer](https://www.linkedin.com/jobs/view/4359014933/) — Backend · London, England, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Research Data Scientist](https://www.linkedin.com/jobs/view/4435025588/) — Backend · London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Vice President, Full-Stack Engineer Opportunities](https://www.linkedin.com/jobs/view/4398735578/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Vice President, Full-Stack Engineer](https://www.linkedin.com/jobs/view/4403670425/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [Head of AI Engineering](https://www.linkedin.com/jobs/view/4431478303/) — ML / AI Engineering · London, England, United Kingdom · 🛂 visa sponsor
 - [Junior Software Engineer](https://www.linkedin.com/jobs/view/4423984629/) — Backend · London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [London: Principal Engineer](https://www.linkedin.com/jobs/view/4404486168/) — Backend · London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Mid Level Java Developer](https://www.linkedin.com/jobs/view/4404483204/) — United Kingdom · 🛂 visa sponsor
-- [Java Engineer](https://www.linkedin.com/jobs/view/4402188739/) — London, England, United Kingdom · 🛂 visa sponsor
-- [Software Development Engineer III](https://www.linkedin.com/jobs/view/4432649861/) — Backend · London, England, United Kingdom · hybrid · 🛂 visa sponsor
-- …and 21 more at hackajob — see [`jobs.json`](jobs.json)
+- …and 20 more at hackajob — see [`jobs.json`](jobs.json)
 
-### [Harnham - Data & Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20%26%20Analytics%20Recruitment) (34)
+### [Hunter Bond](https://jobs.winterchill.xyz/?employer=Hunter%20Bond) (40)
+
+- [C++ Software Engineer – Packages Up to £400K – London](https://www.linkedin.com/jobs/view/4428974903/) — Backend · Up to £400,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4431095999/) — Up to £300,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer (KDB+/Q) - Up to £270,000 + Bonus + Benefits (London)](https://www.linkedin.com/jobs/view/4431049598/) — Backend · Up to £270,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [React Frontend Developer](https://www.linkedin.com/jobs/view/4431503881/) — Backend · Up to £200,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [C++ Developer - Up to £200,000 + Bonus + Package](https://www.linkedin.com/jobs/view/4431052457/) — Backend · Up to £200,000/yr · Greater London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Quantitative Developer – Up to £200,000 + Bonus + Benefits](https://www.linkedin.com/jobs/view/4431054422/) — Backend · Up to £200,000/yr · Greater London, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer (Rust) – Up to £200,000 + Bonus + Package](https://www.linkedin.com/jobs/view/4433812943/) — Backend · Up to £200,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Rust Developer - Up to £200,000 P/A + Bonus](https://www.linkedin.com/jobs/view/4428961810/) — Backend · Up to £200,000/yr · Greater London, England, United Kingdom · 🛂 visa sponsor
+- [Lead Python Engineer – London – Up to £200k Base + Bonus + Benefits](https://www.linkedin.com/jobs/view/4432227316/) — Backend · Up to £200,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Java/Python Software Developer - Risk - Up To £750 Per Day - London (Hybrid)](https://www.linkedin.com/jobs/view/4433841011/) — Backend · Up to £750/day · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Python Developer - Inside IR35 - Up to £700 per day](https://www.linkedin.com/jobs/view/4433077443/) — Backend · Up to £700/day · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Front-End React Software Engineer : Trading : £120-180k plus excellent bonus : London](https://www.linkedin.com/jobs/view/4431088463/) — Backend · £120,000–£180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Python Engineer – Up to £180,000 + Bonus + Benefits](https://www.linkedin.com/jobs/view/4431043581/) — Backend · Up to £180,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [C++ Software Engineer : Trading : £120-180k plus excellent bonus : London](https://www.linkedin.com/jobs/view/4430212999/) — Backend · £120,000–£180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Platform Engineer – Elite Fintech – London - up to £180,000 + Exceptional benefits/bonus package](https://www.linkedin.com/jobs/view/4430627165/) — Backend · Up to £180,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Rust Developer – Elite Trading Firm, London : £80-180k](https://www.linkedin.com/jobs/view/4430220270/) — Backend · £80,000–£180,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Frontend Developer - Up to £180,000 P/A + Bonus](https://www.linkedin.com/jobs/view/4428971660/) — Backend · Up to £180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Front-End Engineer (React) : Trading : £120-180k plus excellent bonus : London](https://www.linkedin.com/jobs/view/4428946117/) — Backend · £120,000–£180,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Front Office Developer - SQL - Up To £170,000 P/A + Comps](https://www.linkedin.com/jobs/view/4428982060/) — Backend · Up to £170,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Python Developer - London - Up to £160,000 Starting Base + Exceptional Bonuses/Benefits](https://www.linkedin.com/jobs/view/4431044504/) — Backend · Up to £160,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- …and 20 more at Hunter Bond — see [`jobs.json`](jobs.json)
+
+### [Google](https://jobs.winterchill.xyz/?employer=Google) (37)
+
+- [Product Deployment Engineer Manager, gTech](https://uk.indeed.com/viewjob?jk=c22f1b51e2ad3a12) — £158,000–£197,000/yr · London, United Kingdom
+- [Solutions Architect, Digital Platforms, Google Cloud](https://uk.indeed.com/viewjob?jk=a0403ce2b982cc37) — £148,000–£152,000/yr · London, United Kingdom
+- [Solutions Architect, Web3 and Digital Asset, Google Cloud](https://uk.indeed.com/viewjob?jk=4177bce3603fddf0) — £148,000–£152,000/yr · London, United Kingdom
+- [Technical Program Manager, Networking SRE](https://uk.indeed.com/viewjob?jk=c152074dc21eaed2) — £146,000–£150,000/yr · London, United Kingdom
+- [Customer Engineer, Google Distributed Cloud, EMEA](https://uk.indeed.com/viewjob?jk=d13cce949d3950e1) — £126,000–£136,000/yr · London, United Kingdom
+- [Technical Program Manager, Longhaul Planning](https://uk.indeed.com/viewjob?jk=2087f910fa10acd9) — £118,000–£121,000/yr · London, United Kingdom
+- [Senior Sales Operations Associate](https://uk.indeed.com/viewjob?jk=323090a24d46d00a) — £118,000–£121,000/yr · London, United Kingdom
+- [Software Engineer III, GenAI Data Operations Research, XR](https://www.glassdoor.co.uk/job-listing/software-engineer-iii-genai-data-operations-research-xr-google-JV_IC2671300_KO0,55_KE56,62.htm?jl=1010173846088) — Backend · £70,875–£115,500/yr (est.) · London, England · 🛂 visa sponsor
+- [Network Design Engineer](https://uk.indeed.com/viewjob?jk=2bab3c5f07fd8251) — £100,000–£103,000/yr · London, United Kingdom
+- [Technical Solutions Consultant, Apps and Gaming](https://uk.indeed.com/viewjob?jk=2db4508d48d9fde2) — £64,000–£70,000/yr · London, United Kingdom
+- [Forward Deployed Engineer I, Google Cloud Consulting (French, German)](https://www.glassdoor.co.uk/job-listing/forward-deployed-engineer-i-google-cloud-consulting-french-german-google-JV_IC2671300_KO0,65_KE66,72.htm?jl=1010173846102) — Backend · £55,000–£68,000/yr (est.) · London, England · 🛂 visa sponsor
+- [Technical Program Manager, Regional Data Center Portfolio Management](https://uk.indeed.com/viewjob?jk=691e35c1748712fb) — London, United Kingdom
+- [Junior Marketing Manager, Google UKDEEP, Strategy and Operations (Fixed-Term Contract)](https://uk.indeed.com/viewjob?jk=44f3c6376daca9bb) — London, United Kingdom
+- [Innovation Consultant, Public Sector, Google Cloud](https://uk.indeed.com/viewjob?jk=e9636a7c9c51df40) — London, United Kingdom
+- [Creative Business Lead, Creative Works, Accelerators](https://uk.indeed.com/viewjob?jk=8cc9885c6be15d9a) — London, United Kingdom
+- [AI Infrastructure Engineer](https://uk.indeed.com/viewjob?jk=94ef981be5b74edc) — London, United Kingdom
+- [Forward Deployed Engineer III, Generative AI (French, German)](https://uk.indeed.com/viewjob?jk=165065db02f1a733) — London, United Kingdom
+- [Forward Deployed Engineer II, GenAI (French, German)](https://uk.indeed.com/viewjob?jk=45174b7611e64b75) — London, United Kingdom
+- [AI Outcome Customer Engineer, Cloud AI Tech GTM](https://uk.indeed.com/viewjob?jk=5fd116fd903b9b42) — London, United Kingdom
+- [Software Engineer, Applied AI, Agent Building, Google Cloud Platform](https://uk.indeed.com/viewjob?jk=253432db86b68348) — London, United Kingdom
+- …and 17 more at Google — see [`jobs.json`](jobs.json)
+
+### [Harnham - Data & Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20%26%20Analytics%20Recruitment) (33)
 
 - [Head of AI Engineering](https://www.reed.co.uk/jobs/head-of-ai-engineering/57008746) — Data Engineering · £150,000–£200,000/yr · London · hybrid
 - [Staff Engineer (AI)](https://www.reed.co.uk/jobs/staff-engineer-ai/57023400) — Backend · £150,000–£200,000/yr · London · hybrid
 - [Staff AI Engineer](https://www.reed.co.uk/jobs/staff-ai-engineer/57023408) — Data Engineering · £150,000–£200,000/yr · London · hybrid
 - [Senior Gen AI Developer](https://www.reed.co.uk/jobs/senior-gen-ai-developer/57002436) — Backend · £500–£700/day · London · hybrid
-- [Senior ML Platform Engineer](https://www.adzuna.co.uk/jobs/land/ad/5749209826?se=TB7Ah_Vz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=692AC6C0DB68B6C73D712906A7EC2036A88CBC80) — Data Engineering · £143,000–£182,000/yr · London, UK · hybrid
+- [Senior ML Platform Engineer](https://www.adzuna.co.uk/jobs/land/ad/5749209826?se=TB7Ah_Vz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=692AC6C0DB68B6C73D712906A7EC2036A88CBC80) — Data Engineering · £550–£700/day · London, UK · hybrid
 - [MLOps Engineer, Palantir Platform](https://www.reed.co.uk/jobs/mlops-engineer-palantir-platform/56945830) — Data Engineering · £550–£650/day · London · remote
 - [MLOps Engineer](https://www.reed.co.uk/jobs/mlops-engineer/57007295) — Data Engineering · £550–£650/day · London · remote
 - [AI Engineer](https://www.reed.co.uk/jobs/ai-engineer/56945831) — Backend · £550–£650/day · London · remote
@@ -292,12 +316,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead AI Engineer](https://www.reed.co.uk/jobs/lead-ai-engineer/56976653) — Backend · £110,000–£140,000/yr · London · hybrid
 - [AI Engineering Lead](https://www.reed.co.uk/jobs/ai-engineering-lead/56968572) — Data Engineering · £100,000–£130,000/yr · London · remote
 - [Forward Deployed AI Engineer](https://www.reed.co.uk/jobs/forward-deployed-ai-engineer/56924310) — Backend · £80,000–£130,000/yr · London · remote
-- …and 14 more at Harnham - Data & Analytics Recruitment — see [`jobs.json`](jobs.json)
+- …and 13 more at Harnham - Data & Analytics Recruitment — see [`jobs.json`](jobs.json)
 
-### [Apple](https://jobs.winterchill.xyz/?employer=Apple) (33)
+### [Apple](https://jobs.winterchill.xyz/?employer=Apple) (32)
 
 - [Software Engineer - Emerging Platform Infrastructure & Automation](https://jobs.apple.com/en-gb/details/200652053) — Backend · £42,125–£150,000/yr (est.) · London · 🛂 visa sponsor
 - [Senior Software Engineer - Payments](https://jobs.apple.com/en-gb/details/200667957) — Backend · £42,125–£150,000/yr (est.) · London · 🛂 visa sponsor
+- [Software Engineering Manager - Kubernetes, London](https://jobs.apple.com/en-gb/details/200670622) — London · 🛂 visa sponsor
 - [Senior Engineering Program Manager, Customer Engagement - Apple Service](https://jobs.apple.com/en-gb/details/200670139) — London · 🛂 visa sponsor
 - [Software Engineer - Private Cloud Compute, On-Device Client Frameworks](https://jobs.apple.com/en-gb/details/200670286) — London · 🛂 visa sponsor
 - [GPU Design Verification Engineer](https://jobs.apple.com/en-gb/details/200605389) — Embedded / Robotics · London · 🛂 visa sponsor
@@ -315,8 +340,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer - Backend, Developer Publications](https://jobs.apple.com/en-gb/details/200633025) — Backend · London · 🛂 visa sponsor
 - [Applied Machine Learning Engineer - Developer Publications](https://jobs.apple.com/en-gb/details/200660448) — Backend · London · 🛂 visa sponsor
 - [Software Engineer, Apple Cloud Object Store](https://jobs.apple.com/en-gb/details/200661789) — Backend · London · 🛂 visa sponsor
-- [Software Engineer Manager, Apple Online Store](https://jobs.apple.com/en-gb/details/200662106) — Backend · London · 🛂 visa sponsor
-- …and 13 more at Apple — see [`jobs.json`](jobs.json)
+- …and 12 more at Apple — see [`jobs.json`](jobs.json)
 
 ### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (30)
 
@@ -324,6 +348,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Developer - QIS Technology](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Developer---QIS-Technology_JR-0000092471) — Backend · £57,200–£90,000/yr (est.) · Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - [Viva Insights Administrator and Data Engineer - 12 Months Fixed Term Contract](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Viva-Insights-Administrator-and-Data-Engineer---12-Months-Fixed-Term-Contract_JR-0000103201) — £50,075–£72,700/yr (est.) · Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - [Applied AI Engineer - BPL](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Applied-AI-Engineer---BPL_JR-0000116244-1) — Backend · £49,500–£62,125/yr (est.) · Canary Wharf, 1 Churchill Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Quantitative Model Developer - VP](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Model-Developer---VP_JR-0000109799) — Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - [C# Front-End Bond Trading Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/C--Front-End-Bond-Trading-Developer_JR-0000102654-1) — Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - [Staff Software Engineer - Payments Enterprise Technology](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Staff-Software-Engineer---Payments-Enterprise-Technology---BPL_JR-0000101823) — Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - [BI Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/BI-Developer_JR-0000094794) — Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
@@ -339,10 +364,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Head of Security Architecture and Engineering - CISO function - BPL](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Head-of-Security-Architecture-and-Engineering---CISO-function---BPL_JR-0000116443-1) — DevOps / SRE · Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - [Pricing Application Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Pricing-Application-Developer_JR-0000097217-1) — Backend · Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - [Senior Software Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Software-Engineer--Python-Developer_JR-0000079083-1) — Backend · Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
-- [Senior Data Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Senior-Data-Engineer_JR-0000114790) — Data Engineering · Canary Wharf, 1 Churchill Place, United Kingdom · 🛂 visa sponsor
 - …and 10 more at Barclays — see [`jobs.json`](jobs.json)
 
-### [DRW](https://jobs.winterchill.xyz/?employer=DRW) (30)
+### [DRW](https://jobs.winterchill.xyz/?employer=DRW) (29)
 
 - [Senior Software Engineer, Mid-Frequency Platform - UP Reference Data Team](https://job-boards.greenhouse.io/drweng/jobs/7821958) — Backend · $175,000–$225,000/yr · Chicago, London, New York City · hybrid · 🛂 visa sponsor
 - [Quantitative Researcher Equities](https://job-boards.greenhouse.io/drweng/jobs/7228276) — Backend · London, Singapore · 🛂 visa sponsor
@@ -355,7 +379,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Python, Global Delta One](https://job-boards.greenhouse.io/drweng/jobs/7375686) — Backend · London · 🛂 visa sponsor
 - [Software Engineer - Prediction Markets (Python)](https://job-boards.greenhouse.io/drweng/jobs/7728164) — Backend · London · 🛂 visa sponsor
 - [Software Engineer, Market Data - Cumberland](https://job-boards.greenhouse.io/drweng/jobs/7563809) — Backend · London · 🛂 visa sponsor
-- [Software Engineer - Equity Index Options](https://job-boards.greenhouse.io/drweng/jobs/7758526) — Backend · London · 🛂 visa sponsor
 - [Software Engineer - Cumberland/FICCO Tools Engineering](https://job-boards.greenhouse.io/drweng/jobs/7797389) — Backend · London · 🛂 visa sponsor
 - [Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing](https://job-boards.greenhouse.io/drweng/jobs/7942731) — Backend · London · 🛂 visa sponsor
 - [Senior Software Engineer, Trading Team](https://job-boards.greenhouse.io/drweng/jobs/7634122) — Backend · Singapore | London · 🛂 visa sponsor
@@ -364,79 +387,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer - Risk Technology](https://job-boards.greenhouse.io/drweng/jobs/7645868) — Backend · London  · 🛂 visa sponsor
 - [Senior Software Engineer - Data Integration](https://job-boards.greenhouse.io/drweng/jobs/7895277) — Backend · London · 🛂 visa sponsor
 - [Senior Software Engineer, C/FICCO Data](https://job-boards.greenhouse.io/drweng/jobs/7175503) — Backend · London · 🛂 visa sponsor
-- …and 10 more at DRW — see [`jobs.json`](jobs.json)
-
-### [Google](https://jobs.winterchill.xyz/?employer=Google) (30)
-
-- [Product Deployment Engineer Manager, gTech](https://uk.indeed.com/viewjob?jk=c22f1b51e2ad3a12) — £158,000–£197,000/yr · London, United Kingdom
-- [Solutions Architect, Web3 and Digital Asset, Google Cloud](https://uk.indeed.com/viewjob?jk=4177bce3603fddf0) — £148,000–£152,000/yr · London, United Kingdom
-- [Solutions Architect, Digital Platforms, Google Cloud](https://uk.indeed.com/viewjob?jk=093a150d7364ac57) — £148,000–£152,000/yr · London, United Kingdom · hybrid
-- [Technical Program Manager, Networking SRE](https://uk.indeed.com/viewjob?jk=c152074dc21eaed2) — £146,000–£150,000/yr · London, United Kingdom
-- [Senior Technical Program Manager, Customer Engagement, Applied AI](https://www.glassdoor.co.uk/job-listing/senior-technical-program-manager-customer-engagement-applied-ai-google-JV_IC2671300_KO0,63_KE64,70.htm?jl=1010172870181) — ML / AI Engineering · £103,750–£150,000/yr (est.) · London, England · 🛂 visa sponsor
-- [Customer Engineer, Google Distributed Cloud, EMEA](https://uk.indeed.com/viewjob?jk=d13cce949d3950e1) — £126,000–£136,000/yr · London, United Kingdom
-- [Technical Program Manager, Longhaul Planning](https://uk.indeed.com/viewjob?jk=2087f910fa10acd9) — £118,000–£121,000/yr · London, United Kingdom
-- [Senior Sales Operations Associate](https://uk.indeed.com/viewjob?jk=323090a24d46d00a) — £118,000–£121,000/yr · London, United Kingdom
-- [Software Engineer III, GenAI Data Operations Research, XR](https://www.glassdoor.co.uk/job-listing/software-engineer-iii-genai-data-operations-research-xr-google-JV_IC2671300_KO0,55_KE56,62.htm?jl=1010173846088) — Backend · £70,875–£115,500/yr (est.) · London, England · 🛂 visa sponsor
-- [Network Design Engineer](https://uk.indeed.com/viewjob?jk=2bab3c5f07fd8251) — £100,000–£103,000/yr · London, United Kingdom
-- [Technical Solutions Consultant, Apps and Gaming](https://uk.indeed.com/viewjob?jk=2db4508d48d9fde2) — £64,000–£70,000/yr · London, United Kingdom
-- [Forward Deployed Engineer I, Google Cloud Consulting (French, German)](https://www.glassdoor.co.uk/job-listing/forward-deployed-engineer-i-google-cloud-consulting-french-german-google-JV_IC2671300_KO0,65_KE66,72.htm?jl=1010173846102) — Backend · £55,000–£68,000/yr (est.) · London, England · 🛂 visa sponsor
-- [Partner Principal Architect, GSI CTO, Google Cloud, UKI](https://uk.indeed.com/viewjob?jk=36f9ac7555c38564) — £35,037–£45,125/yr (est.) · London, United Kingdom
-- [Partner Principal Architect, GSI CTO, Google Cloud](https://uk.indeed.com/viewjob?jk=09fe763cbb4e3bbb) — £35,037–£45,125/yr (est.) · London, United Kingdom
-- [Software Engineer, Applied AI, Agent Building, Google Cloud Platform](https://uk.indeed.com/viewjob?jk=253432db86b68348) — London, United Kingdom
-- [Software Engineer, Agent Building, Applied AI, Google Cloud Platform](https://uk.indeed.com/viewjob?jk=efe68511a421b9ff) — London, United Kingdom
-- [Software Engineer, Agent Building, Applied AI, Google Cloud Platform](https://www.linkedin.com/jobs/view/4434128669/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
-- [Software Engineer, Applied AI, Agent Building, Google Cloud Platform](https://www.linkedin.com/jobs/view/4434130645/) — London, England, United Kingdom · 🛂 visa sponsor
-- [Partner Solution Architect, Regional System Integrators and Strategic Partners](https://uk.indeed.com/viewjob?jk=57eb5e286ce3c3fc) — London, United Kingdom
-- [Partner Solution Architect, Regional System Integrators](https://uk.indeed.com/viewjob?jk=4141c242a43d6892) — London, United Kingdom
-- …and 10 more at Google — see [`jobs.json`](jobs.json)
-
-### [Bloomberg](https://jobs.winterchill.xyz/?employer=Bloomberg) (29)
-
-- [Senior Software Engineer - Login Platform](https://uk.indeed.com/viewjob?jk=9b09736416b30491) — £97,500–£129,500/yr (est.) · London, United Kingdom
-- [Senior Software Engineer - Login Platform](https://www.linkedin.com/jobs/view/4430650381/) — Backend · £97,500–£129,500/yr (est.) · London, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer - Risk Valuation Platform](https://uk.indeed.com/viewjob?jk=2de6d954ef7f562c) — £97,500–£129,500/yr (est.) · London, United Kingdom
-- [Senior Software Engineer - Risk Valuation Platform](https://www.linkedin.com/jobs/view/4430267735/) — Backend · £97,500–£129,500/yr (est.) · London, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer - Platform as a Service (BPaaS)](https://uk.indeed.com/viewjob?jk=ac47fcede650831d) — £97,500–£129,500/yr (est.) · London, United Kingdom
-- [Senior Software Engineer - Platform as a Service (BPaaS)](https://www.linkedin.com/jobs/view/4429864427/) — Backend · £97,500–£129,500/yr (est.) · London, England, United Kingdom · 🛂 visa sponsor
-- [Senior Data Management Professional - Financial Engineering - Securitized Products](https://uk.indeed.com/viewjob?jk=e2171efcc1151da3) — £58,000–£100,000/yr (est.) · London, United Kingdom
-- [Product Security Engineer - Software Security Enablement](https://www.glassdoor.co.uk/job-listing/product-security-engineer-software-security-enablement-bloomberg-JV_IC2671300_KO0,54_KE55,64.htm?jl=1010172615864) — Backend · £67,032–£80,000/yr (est.) · London, England · 🛂 visa sponsor
-- [Senior Software Engineer - DataHub Experience & Control Plane](https://www.linkedin.com/jobs/view/4417249187/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
-- [Senior ML Research Engineer - Artificial Intelligence](https://www.linkedin.com/jobs/view/4421186729/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer - Fixed Income Trading](https://www.linkedin.com/jobs/view/4419647270/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
-- [Product and Index Counsel](https://uk.indeed.com/viewjob?jk=c14c0eb9d0b24ebf) — London, United Kingdom
-- [Team Leader - Funds Data, DL+ - Enterprise Data Product](https://uk.indeed.com/viewjob?jk=019f9b5ac0c16857) — London, United Kingdom
-- [Team Leader - Data Engineering (Shared Infrastructure)](https://www.linkedin.com/jobs/view/4419628691/) — Data Engineering · London, England, United Kingdom · 🛂 visa sponsor
-- [Product Manager - Company Events](https://uk.indeed.com/viewjob?jk=f24d034bb1de43b4) — London, United Kingdom
-- [Enterprise Data- Unstructured Data Product Manager](https://uk.indeed.com/viewjob?jk=692a55bc03a5c773) — London, United Kingdom
-- [PMO Lead, Buy-Side Implementation, Enterprise Services - Financial Solutions](https://uk.indeed.com/viewjob?jk=a67038d559ff983f) — London, United Kingdom
-- [Talent Development Designer](https://uk.indeed.com/viewjob?jk=87f0759a2cc68677) — London, United Kingdom
-- [Port Enterprise Performance & Risk Implementation Lead , Enterprise Services - Financial Solutions](https://uk.indeed.com/viewjob?jk=d2a178a6bfc243ea) — London, United Kingdom
-- [Senior Technical Account Manager - Portfolios (French Speaker)](https://uk.indeed.com/viewjob?jk=c1a6a4745bcd4ba6) — London, United Kingdom
-- …and 9 more at Bloomberg — see [`jobs.json`](jobs.json)
-
-### [Imperial College London](https://jobs.winterchill.xyz/?employer=Imperial%20College%20London) (29)
-
-- [Assistant Professor within the Department of Life Sciences](https://uk.indeed.com/viewjob?jk=bd44031305267892) — £70,718–£80,148/yr · South Kensington, United Kingdom
-- [Senior Project Manager](https://uk.indeed.com/viewjob?jk=9321a9868514520f) — £69,365–£79,257/yr · London, United Kingdom
-- [PMO Manager](https://uk.indeed.com/viewjob?jk=311387682692fda2) — £57,785–£69,365/yr · South Kensington, United Kingdom
-- [Postgraduate Education Manager](https://uk.indeed.com/viewjob?jk=6dc9e8a25c6d460e) — £57,785–£69,365/yr · South Kensington, United Kingdom
-- [Partner Engagement Manager](https://uk.indeed.com/viewjob?jk=f5a9242102e867cd) — £57,785–£69,365/yr · South Kensington, United Kingdom
-- [Leonardo Honorary Practice Fellowship in Impact Finance (three positions)](https://uk.indeed.com/viewjob?jk=344da9afa5c38410) — £50,851–£66,952/yr (est.) · South Kensington, United Kingdom
-- [Teaching Fellow (x2 positions)](https://uk.indeed.com/viewjob?jk=02181f4f665c9723) — £55,144–£62,433/yr · South Kensington, United Kingdom
-- [Teaching Fellow](https://uk.indeed.com/viewjob?jk=f5efcccabcd6374d) — £55,144–£62,433/yr · South Kensington, United Kingdom · hybrid
-- [Research Associate](https://uk.indeed.com/viewjob?jk=e087c6d6307d6305) — £43,863–£57,582/yr · South Kensington, United Kingdom
-- [Research Associate (Postdoctoral)](https://uk.indeed.com/viewjob?jk=fa842f8f4ec0f160) — £49,017–£57,472/yr · South Kensington, United Kingdom
-- [Research Associate in Soil Holobionts](https://uk.indeed.com/viewjob?jk=b2dcf8b5a1b67e0c) — £49,017–£57,472/yr · South Kensington, United Kingdom · hybrid
-- [Research Associate in Virology](https://uk.indeed.com/viewjob?jk=15dfb013bd78e7b7) — £43,863–£57,472/yr · South Kensington, United Kingdom
-- [Research Associate in Computational Liver Immunology](https://uk.indeed.com/viewjob?jk=ed992af63103858d) — £49,017–£57,472/yr · Hammersmith, United Kingdom
-- [Research Assistant or Associate](https://uk.indeed.com/viewjob?jk=44ca2d2020aca78a) — £49,017–£57,472/yr · South Kensington, United Kingdom
-- [Research Associate in Multimodal Foundation Models for Healthcare](https://uk.indeed.com/viewjob?jk=307f63ed89b86d74) — £43,863–£57,472/yr · South Kensington, United Kingdom
-- [Venture Manager Healthcare Robotics](https://uk.indeed.com/viewjob?jk=4b367f929cc650f8) — £46,614–£56,345/yr · South Kensington, United Kingdom
-- [Faculty Operations and Projects Officer](https://uk.indeed.com/viewjob?jk=b7bb22acfff6954c) — £46,614–£56,345/yr · South Kensington, United Kingdom
-- [Generative Motion Graphics & Interactive Media Designer](https://uk.indeed.com/viewjob?jk=d3cb8888fc845555) — £46,614–£56,345/yr · South Kensington, United Kingdom
-- [Student Data Officer and Systems Developer (Maternity Cover)](https://uk.indeed.com/viewjob?jk=eb45a33c8b41c2e6) — £46,614–£56,345/yr · South Kensington, United Kingdom
-- [Research Assistant in Intestinal Organ-on-Chip Systems](https://uk.indeed.com/viewjob?jk=7c840340bb33a918) — £43,863–£47,223/yr · Hammersmith, United Kingdom
-- …and 9 more at Imperial College London — see [`jobs.json`](jobs.json)
+- [Senior Platform Engineer](https://job-boards.greenhouse.io/drweng/jobs/7612882) — Backend · London · 🛂 visa sponsor
+- …and 9 more at DRW — see [`jobs.json`](jobs.json)
 
 ### [Squarepoint](https://jobs.winterchill.xyz/?employer=Squarepoint) (29)
 
@@ -462,7 +414,55 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Quant Developer (Python)](https://www.squarepoint-capital.com/open-opportunities?id=1433622&gh_jid=1433622) — Backend · London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore · 🛂 visa sponsor
 - …and 9 more at Squarepoint — see [`jobs.json`](jobs.json)
 
-### [Amazon](https://jobs.winterchill.xyz/?employer=Amazon) (27)
+### [Imperial College London](https://jobs.winterchill.xyz/?employer=Imperial%20College%20London) (28)
+
+- [Assistant Professor within the Department of Life Sciences](https://uk.indeed.com/viewjob?jk=bd44031305267892) — £70,718–£80,148/yr · South Kensington, United Kingdom
+- [Senior Project Manager](https://uk.indeed.com/viewjob?jk=9321a9868514520f) — £69,365–£79,257/yr · London, United Kingdom
+- [PMO Manager](https://uk.indeed.com/viewjob?jk=311387682692fda2) — £57,785–£69,365/yr · South Kensington, United Kingdom
+- [Postgraduate Education Manager](https://uk.indeed.com/viewjob?jk=6dc9e8a25c6d460e) — £57,785–£69,365/yr · South Kensington, United Kingdom
+- [Partner Engagement Manager](https://uk.indeed.com/viewjob?jk=f5a9242102e867cd) — £57,785–£69,365/yr · South Kensington, United Kingdom
+- [Leonardo Honorary Practice Fellowship in Impact Finance (three positions)](https://uk.indeed.com/viewjob?jk=344da9afa5c38410) — £50,851–£66,952/yr (est.) · South Kensington, United Kingdom
+- [Teaching Fellow (x2 positions)](https://uk.indeed.com/viewjob?jk=02181f4f665c9723) — £55,144–£62,433/yr · South Kensington, United Kingdom
+- [Teaching Fellow](https://uk.indeed.com/viewjob?jk=f5efcccabcd6374d) — £55,144–£62,433/yr · South Kensington, United Kingdom · hybrid
+- [Research Associate](https://uk.indeed.com/viewjob?jk=e087c6d6307d6305) — £43,863–£57,582/yr · South Kensington, United Kingdom
+- [Research Associate (Postdoctoral)](https://uk.indeed.com/viewjob?jk=fa842f8f4ec0f160) — £49,017–£57,472/yr · South Kensington, United Kingdom
+- [Research Associate in Soil Holobionts](https://uk.indeed.com/viewjob?jk=b2dcf8b5a1b67e0c) — £49,017–£57,472/yr · South Kensington, United Kingdom · hybrid
+- [Research Associate in Virology](https://uk.indeed.com/viewjob?jk=15dfb013bd78e7b7) — £43,863–£57,472/yr · South Kensington, United Kingdom
+- [Research Associate in Computational Liver Immunology](https://uk.indeed.com/viewjob?jk=ed992af63103858d) — £49,017–£57,472/yr · Hammersmith, United Kingdom
+- [Research Assistant or Associate](https://uk.indeed.com/viewjob?jk=44ca2d2020aca78a) — £49,017–£57,472/yr · South Kensington, United Kingdom
+- [Research Associate in Multimodal Foundation Models for Healthcare](https://uk.indeed.com/viewjob?jk=307f63ed89b86d74) — £43,863–£57,472/yr · South Kensington, United Kingdom
+- [Venture Manager Healthcare Robotics](https://uk.indeed.com/viewjob?jk=4b367f929cc650f8) — £46,614–£56,345/yr · South Kensington, United Kingdom
+- [Faculty Operations and Projects Officer](https://uk.indeed.com/viewjob?jk=b7bb22acfff6954c) — £46,614–£56,345/yr · South Kensington, United Kingdom
+- [Generative Motion Graphics & Interactive Media Designer](https://uk.indeed.com/viewjob?jk=d3cb8888fc845555) — £46,614–£56,345/yr · South Kensington, United Kingdom
+- [Student Data Officer and Systems Developer (Maternity Cover)](https://uk.indeed.com/viewjob?jk=eb45a33c8b41c2e6) — £46,614–£56,345/yr · South Kensington, United Kingdom
+- [Research Assistant in Intestinal Organ-on-Chip Systems](https://uk.indeed.com/viewjob?jk=7c840340bb33a918) — £43,863–£47,223/yr · Hammersmith, United Kingdom
+- …and 8 more at Imperial College London — see [`jobs.json`](jobs.json)
+
+### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (27)
+
+- [Python Developer - Up to £300k](https://www.linkedin.com/jobs/view/4431074420/) — Backend · Up to £300,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4418739255/) — Backend · £190,000–£270,000/yr · London Area, United Kingdom
+- [Senior Data Engineer – Investment Bank – London Hybrid](https://www.linkedin.com/jobs/view/4431081092/) — Data Engineering · £800/day · London Area, United Kingdom · hybrid
+- [Senior Data Engineer – £700–£800/day (Inside IR35) – London Hybrid](https://www.linkedin.com/jobs/view/4428930264/) — Data Engineering · £700–£800/day · London Area, United Kingdom · hybrid
+- [Senior Java Developers - Retail Banking](https://www.linkedin.com/jobs/view/4431504713/) — Backend · £700–£775/day · London Area, United Kingdom
+- [Senior Software Engineer (Python/React)](https://www.linkedin.com/jobs/view/4418745088/) — Backend · £70,000–£160,000/yr · London Area, United Kingdom · hybrid
+- [Head of Engineering](https://www.linkedin.com/jobs/view/4431597945/) — £140,000–£160,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Senior Golang Engineers](https://www.linkedin.com/jobs/view/4432242026/) — Backend · £150,000–£160,000/yr · London Area, United Kingdom · hybrid
+- [Senior Java/FIX Developer](https://www.linkedin.com/jobs/view/4423115617/) — Backend · £100,000–£140,000/yr · London Area, United Kingdom · remote
+- [Senior Frontend Engineer – Up to £120k](https://www.linkedin.com/jobs/view/4418731134/) — Backend · Up to £120,000/yr · London Area, United Kingdom
+- [Engineering Manager](https://www.linkedin.com/jobs/view/4431520064/) — £100,000–£120,000/yr · London Area, United Kingdom · hybrid
+- [Technical Lead](https://www.linkedin.com/jobs/view/4432382534/) — £90,000–£110,000/yr · United Kingdom · remote
+- [Senior Java/Kotlin Engineer](https://www.linkedin.com/jobs/view/4417219445/) — £75,000–£100,000/yr · London Area, United Kingdom · 🛂 visa sponsor
+- [Founding Engineer (TypeScript/AI)](https://www.linkedin.com/jobs/view/4418736096/) — Backend · Up to £100,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Full Stack Engineer - React/TS/Node - £80-100K](https://www.linkedin.com/jobs/view/4430227404/) — Backend · £80,000–£100,000/yr · London Area, United Kingdom · hybrid
+- [Senior Full-Stack Engineer (Python/TypeScript)](https://www.linkedin.com/jobs/view/4430235019/) — Backend · £75,000–£95,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Founding Engineer - £70k-90k + Equity](https://www.linkedin.com/jobs/view/4430231547/) — Backend · £70,000–£90,000/yr · London Area, United Kingdom · hybrid
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4418738145/) — Backend · £60,000–£85,000/yr · London Area, United Kingdom · hybrid
+- [Full Stack Engineer (Node/React)](https://www.linkedin.com/jobs/view/4431522710/) — Backend · £60,000–£70,000/yr · United Kingdom
+- [Founding Engineer - £60k-70k + Equity](https://www.linkedin.com/jobs/view/4430230422/) — Backend · £60,000–£70,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- …and 7 more at Oliver Bernard — see [`jobs.json`](jobs.json)
+
+### [Amazon](https://jobs.winterchill.xyz/?employer=Amazon) (26)
 
 - [Software Engineer, IAM Stores Security](https://www.amazon.jobs/en/jobs/10455021/software-engineer-iam-stores-security) — Backend · £58,000–£114,250/yr (est.) · London, England, GBR · 🛂 visa sponsor
 - [Software Development Engineer, Amazon Fuse](https://www.amazon.jobs/en/jobs/10456823/software-development-engineer-amazon-fuse) — Backend · £58,000–£114,250/yr (est.) · London, England, GBR · 🛂 visa sponsor
@@ -478,15 +478,39 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Development Engineer, Aurora Control Plane, AWS Aurora Control Plane](https://www.amazon.jobs/en/jobs/3202729/senior-software-development-engineer-aurora-control-plane-aws-aurora-control-plane) — Backend · London, England, GBR · 🛂 visa sponsor
 - [System Development Engineer, WW AMZL In House Controls, In-House Controls, World-Wide Central Engineering](https://www.amazon.jobs/en/jobs/10458921/system-development-engineer-ww-amzl-in-house-controls-in-house-controls-world-wide-central-engineering) — Backend · London, England, GBR · 🛂 visa sponsor
 - [Software Development Engineer , Rufus Detail Page](https://www.amazon.jobs/en/jobs/10457728/software-development-engineer-rufus-detail-page) — Backend · London, England, GBR · 🛂 visa sponsor
-- [Software Development Engineer, Fire TV](https://www.amazon.jobs/en/jobs/10454135/software-development-engineer-fire-tv) — Backend · London, England, GBR · 🛂 visa sponsor
 - [System Development Manager, Catalog Engineering Service Support](https://www.amazon.jobs/en/jobs/3198385/system-development-manager-catalog-engineering-service-support) — Backend · London, England, GBR · 🛂 visa sponsor
 - [Senior Software Development Engineer, AWS CloudFront](https://www.amazon.jobs/en/jobs/10406451/senior-software-development-engineer-aws-cloudfront) — Backend · London, England, GBR · 🛂 visa sponsor
 - [Senior Software Development Engineer, CloudFront Control Plane, CloudFront](https://www.amazon.jobs/en/jobs/10373566/senior-software-development-engineer-cloudfront-control-plane-cloudfront) — Backend · London, England, GBR · 🛂 visa sponsor
 - [Software Development Engineer, Prime Video Website Team](https://www.amazon.jobs/en/jobs/10392584/software-development-engineer-prime-video-website-team) — Backend · London, England, GBR · 🛂 visa sponsor
 - [Software Development Engineer, Web & Emerging Modalities, Prime Video](https://www.amazon.jobs/en/jobs/10413231/software-development-engineer-web-emerging-modalities-prime-video) — Backend · London, England, GBR · 🛂 visa sponsor
-- …and 7 more at Amazon — see [`jobs.json`](jobs.json)
+- [Systems Engineer, AWS](https://www.amazon.jobs/en/jobs/3087196/systems-engineer-aws) — Backend · London, England, GBR · 🛂 visa sponsor
+- …and 6 more at Amazon — see [`jobs.json`](jobs.json)
 
-### [Checkout.com](https://jobs.winterchill.xyz/?employer=Checkout.com) (26)
+### [Bloomberg](https://jobs.winterchill.xyz/?employer=Bloomberg) (26)
+
+- [Senior Software Engineer - Login Platform](https://uk.indeed.com/viewjob?jk=9b09736416b30491) — £97,500–£129,500/yr (est.) · London, United Kingdom
+- [Senior Software Engineer - Login Platform](https://www.linkedin.com/jobs/view/4430650381/) — Backend · £97,500–£129,500/yr (est.) · London, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer - Risk Valuation Platform](https://uk.indeed.com/viewjob?jk=2de6d954ef7f562c) — £97,500–£129,500/yr (est.) · London, United Kingdom
+- [Senior Software Engineer - Risk Valuation Platform](https://www.linkedin.com/jobs/view/4430267735/) — Backend · £97,500–£129,500/yr (est.) · London, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer - Platform as a Service (BPaaS)](https://uk.indeed.com/viewjob?jk=ac47fcede650831d) — £97,500–£129,500/yr (est.) · London, United Kingdom
+- [Senior Software Engineer - Platform as a Service (BPaaS)](https://www.linkedin.com/jobs/view/4429864427/) — Backend · £97,500–£129,500/yr (est.) · London, England, United Kingdom · 🛂 visa sponsor
+- [Senior Data Management Professional - Financial Engineering - Securitized Products](https://uk.indeed.com/viewjob?jk=e2171efcc1151da3) — £58,000–£100,000/yr (est.) · London, United Kingdom
+- [Senior Software Engineer - Fixed Income Trading](https://www.linkedin.com/jobs/view/4419647270/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer - DataHub Experience & Control Plane](https://www.linkedin.com/jobs/view/4417249187/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Senior ML Research Engineer - Artificial Intelligence](https://www.linkedin.com/jobs/view/4421186729/) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Product and Index Counsel](https://uk.indeed.com/viewjob?jk=c14c0eb9d0b24ebf) — London, United Kingdom
+- [Team Leader - Funds Data, DL+ - Enterprise Data Product](https://uk.indeed.com/viewjob?jk=019f9b5ac0c16857) — London, United Kingdom
+- [Team Leader - Data Engineering (Shared Infrastructure)](https://www.linkedin.com/jobs/view/4419628691/) — Data Engineering · London, England, United Kingdom · 🛂 visa sponsor
+- [Product Manager - Company Events](https://uk.indeed.com/viewjob?jk=f24d034bb1de43b4) — London, United Kingdom
+- [Enterprise Data- Unstructured Data Product Manager](https://uk.indeed.com/viewjob?jk=692a55bc03a5c773) — London, United Kingdom
+- [PMO Lead, Buy-Side Implementation, Enterprise Services - Financial Solutions](https://uk.indeed.com/viewjob?jk=a67038d559ff983f) — London, United Kingdom
+- [Talent Development Designer](https://uk.indeed.com/viewjob?jk=87f0759a2cc68677) — London, United Kingdom
+- [Port Enterprise Performance & Risk Implementation Lead , Enterprise Services - Financial Solutions](https://uk.indeed.com/viewjob?jk=d2a178a6bfc243ea) — London, United Kingdom
+- [Senior Technical Account Manager - Portfolios (French Speaker)](https://uk.indeed.com/viewjob?jk=c1a6a4745bcd4ba6) — London, United Kingdom
+- [Buyside Risk Sales Specialist – UK & Ireland](https://uk.indeed.com/viewjob?jk=a78e1170dba5fee2) — London, United Kingdom
+- …and 6 more at Bloomberg — see [`jobs.json`](jobs.json)
+
+### [Checkout.com](https://jobs.winterchill.xyz/?employer=Checkout.com) (25)
 
 - [Senior Product Data Scientist](https://jobs.ashbyhq.com/checkout.com/55caf5d6-91a9-46af-be12-237dd47d11df) — London · 🛂 visa sponsor
 - [Front end Engineer](https://jobs.ashbyhq.com/checkout.com/93224ea4-50b2-45b6-b4dc-d878e3f15452) — Backend · London · hybrid · 🛂 visa sponsor
@@ -508,14 +532,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Cloud Platform Engineer](https://jobs.ashbyhq.com/checkout.com/5e8d13b6-632c-41b0-bd5a-ce55143dd493) — DevOps / SRE · London · hybrid · 🛂 visa sponsor
 - [Staff Software Engineer - Streaming](https://jobs.ashbyhq.com/checkout.com/5893908b-16f9-4edf-b9ee-be93f9ce1580) — Backend · London · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer I](https://jobs.ashbyhq.com/checkout.com/e88f77c7-a9bd-4f14-b41a-2350f98a0047) — Backend · London · hybrid · 🛂 visa sponsor
-- …and 6 more at Checkout.com — see [`jobs.json`](jobs.json)
+- …and 5 more at Checkout.com — see [`jobs.json`](jobs.json)
 
 ### [Deliveroo](https://jobs.winterchill.xyz/?employer=Deliveroo) (25)
 
-- [Software Engineer II - Full-Stack](https://jobs.ashbyhq.com/deliveroo/63f0c261-19c1-42c0-9705-30e588b6b4a1) — Backend · £77,700–£99,500/yr (est.) · London - The River Building HQ · 🛂 visa sponsor
 - [Engineering Manager, Agent Experience](https://jobs.ashbyhq.com/deliveroo/010a8eb8-5087-41b7-971d-c2813612210f) — London - The River Building HQ · 🛂 visa sponsor
 - [Senior Data Scientist - Experimentation](https://jobs.ashbyhq.com/deliveroo/e2a26e27-5d65-4add-8732-6a92675145de) — London - The River Building HQ · 🛂 visa sponsor
 - [Senior Data Scientist](https://jobs.ashbyhq.com/deliveroo/62ceead7-8b67-47fd-a386-6a8555575153) — London - The River Building HQ · 🛂 visa sponsor
+- [Software Engineer II - Full-Stack](https://jobs.ashbyhq.com/deliveroo/63f0c261-19c1-42c0-9705-30e588b6b4a1) — Backend · London - The River Building HQ · 🛂 visa sponsor
 - [Senior Analytics Engineering Manager](https://jobs.ashbyhq.com/deliveroo/9b5b8caa-255e-410c-b7b8-9bd32e333d2a) — Data Engineering · London - The River Building HQ · hybrid · 🛂 visa sponsor
 - [Analytics Engineering Director](https://jobs.ashbyhq.com/deliveroo/bd222dde-69c8-47b5-a8c1-6d5a5f7a9fe4) — Data Engineering · London - The River Building HQ · 🛂 visa sponsor
 - [Senior Machine Learning Engineer - Personalisation](https://jobs.ashbyhq.com/deliveroo/fa9e1a6d-0b49-4421-b6e3-8f8b12ded8b1) — Backend · London - The River Building HQ · hybrid · 🛂 visa sponsor
@@ -541,8 +565,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer I – Search and AI Platform](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Senior-Software-Engineer-I---Search-and-AI-Platform_R114443-1) — Backend · €86,900–€144,600/yr · London Wall, United Kingdom · 🛂 visa sponsor
 - [Quality Test Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Quality-Test-Engineer-III_R114805-1) — €71,700–€119,600/yr · London Wall, United Kingdom · 🛂 visa sponsor
 - [Senior Data Scientist II](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Senior-Data-Scientist-II_R114861-1) — £55,000–£100,000/yr (est.) · London Wall, United Kingdom · 🛂 visa sponsor
-- [Software Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Software-Engineer-III_R113023-2) — Backend · £50,000–£83,500/yr (est.) · London Wall, United Kingdom · 🛂 visa sponsor
 - [Customer Support Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Customer-Support-Engineer_R114624-1) — Backend · £58,500–£60,000/yr (est.) · London Wall, United Kingdom · 🛂 visa sponsor
+- [VP Technology - Software Engineering](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/VP-Technology---Software-Engineering_R115378-1) — London Wall, United Kingdom · 🛂 visa sponsor
 - [Principal Data Scientist I](https://relx.wd3.myworkdayjobs.com/relx/job/UK---London-London-Wall/Senior-Principal-Data-Scientist_R107535-1) — UK - London (London Wall), United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer I (JavaScript))](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Senior-Software-Engineer-I--JavaScript--_R109799-1) — Backend · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Platform & Analytics – Senior Engineering Manager](https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/XMLNAME--Data-Platform---Analytics---Senior-Engineering-Manager_R111270-1) — Data Engineering · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
@@ -598,7 +622,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Solutions Engineer](https://job-boards.greenhouse.io/intercom/jobs/8011085) — Full Stack · London, England · remote · 🛂 visa sponsor
 - [Senior Security Engineering Manager](https://job-boards.greenhouse.io/intercom/jobs/7601740) — Engineering Management · London, England · remote · 🛂 visa sponsor
 - [Senior Product Engineer, AI](https://job-boards.greenhouse.io/intercom/jobs/6276021) — Backend · Dublin, Ireland; London, England · remote · 🛂 visa sponsor
-- [Senior Product Engineer](https://job-boards.greenhouse.io/intercom/jobs/5107681) — Backend · London, England · remote · 🛂 visa sponsor
+- [Senior Product Engineer](https://job-boards.greenhouse.io/intercom/jobs/6428372) — Backend · London, England · remote · 🛂 visa sponsor
 - [Senior Full Stack Engineer - Team Web](https://job-boards.greenhouse.io/intercom/jobs/7276257) — Backend · London, England · remote · 🛂 visa sponsor
 - [Senior Forward Deployed Engineer](https://job-boards.greenhouse.io/intercom/jobs/7462098) — Backend · London, England · remote · 🛂 visa sponsor
 - [Senior Engineering Manager - Team Billing](https://job-boards.greenhouse.io/intercom/jobs/7610485) — Engineering Management · London, England · remote · 🛂 visa sponsor
@@ -606,36 +630,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Engineer](https://job-boards.greenhouse.io/intercom/jobs/6386427) — Backend · London, England · remote · 🛂 visa sponsor
 - …and 4 more at Intercom — see [`jobs.json`](jobs.json)
 
-### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (24)
-
-- [Python Developer - Up to £300k](https://www.linkedin.com/jobs/view/4431074420/) — Backend · Up to £300,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [Principal Engineer](https://www.linkedin.com/jobs/view/4418739255/) — Backend · £190,000–£270,000/yr · London Area, United Kingdom
-- [Senior Data Engineer – Investment Bank – London Hybrid](https://www.linkedin.com/jobs/view/4431081092/) — Data Engineering · £800/day · London Area, United Kingdom · hybrid
-- [Senior Data Engineer – £700–£800/day (Inside IR35) – London Hybrid](https://www.linkedin.com/jobs/view/4428930264/) — Data Engineering · £700–£800/day · London Area, United Kingdom · hybrid
-- [Senior Java Developers - Retail Banking](https://www.linkedin.com/jobs/view/4431504713/) — Backend · £700–£775/day · London Area, United Kingdom
-- [Senior Software Engineer (Python/React)](https://www.linkedin.com/jobs/view/4418745088/) — Backend · £70,000–£160,000/yr · London Area, United Kingdom · hybrid
-- [Head of Engineering](https://www.linkedin.com/jobs/view/4431597945/) — £140,000–£160,000/yr · London Area, United Kingdom · 🛂 visa sponsor
-- [Senior Golang Engineers](https://www.linkedin.com/jobs/view/4432242026/) — Backend · £150,000–£160,000/yr · London Area, United Kingdom · hybrid
-- [Senior Java/FIX Developer](https://www.linkedin.com/jobs/view/4423115617/) — Backend · £100,000–£140,000/yr · London Area, United Kingdom · remote
-- [Senior Frontend Engineer – Up to £120k](https://www.linkedin.com/jobs/view/4418731134/) — Backend · Up to £120,000/yr · London Area, United Kingdom
-- [Engineering Manager](https://www.linkedin.com/jobs/view/4431520064/) — £100,000–£120,000/yr · London Area, United Kingdom · hybrid
-- [Founding Engineer (TypeScript/AI)](https://www.linkedin.com/jobs/view/4418736096/) — Backend · Up to £100,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Full Stack Engineer - React/TS/Node - £80-100K](https://www.linkedin.com/jobs/view/4430227404/) — Backend · £80,000–£100,000/yr · London Area, United Kingdom · hybrid
-- [Senior Full-Stack Engineer (Python/TypeScript)](https://www.linkedin.com/jobs/view/4430235019/) — Backend · £75,000–£95,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Founding Engineer - £70k-90k + Equity](https://www.linkedin.com/jobs/view/4430231547/) — Backend · £70,000–£90,000/yr · London Area, United Kingdom · hybrid
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4418738145/) — Backend · £60,000–£85,000/yr · London Area, United Kingdom · hybrid
-- [Full Stack Engineer (Node/React)](https://www.linkedin.com/jobs/view/4431522710/) — Backend · £60,000–£70,000/yr · United Kingdom
-- [Founding Engineer - £60k-70k + Equity](https://www.linkedin.com/jobs/view/4430230422/) — Backend · £60,000–£70,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Product Implementation Associate](https://www.linkedin.com/jobs/view/4432225761/) — Solutions / Customer Engineering · Up to £65,000/yr · London Area, United Kingdom
-- [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4422286459/) — Backend · London Area, United Kingdom · hybrid
-- …and 4 more at Oliver Bernard — see [`jobs.json`](jobs.json)
-
 ### [Jane Street](https://jobs.winterchill.xyz/?employer=Jane%20Street) (23)
 
 - [Compiler Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8594336002) — London, England, United Kingdom · 🛂 visa sponsor
 - [Senior Weather Analyst/ML Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8445154002) — Data Science / Analytics · London, England, United Kingdom · 🛂 visa sponsor
-- [Quantitative Researcher](https://job-boards.greenhouse.io/janestreet/jobs/4808264002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
-- [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/7246339002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Quantitative Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8092053002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Machine Learning Researcher](https://job-boards.greenhouse.io/janestreet/jobs/8576931002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [Windows Engineer](https://job-boards.greenhouse.io/janestreet/jobs/4538451002) — DevOps / SRE · London, England, United Kingdom · 🛂 visa sponsor
 - [Trading Desk Operations Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8080525002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer](https://job-boards.greenhouse.io/janestreet/jobs/4274814002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
@@ -645,7 +645,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Machine Learning Performance Engineer](https://job-boards.greenhouse.io/janestreet/jobs/7449252002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [Machine Learning Engineer](https://job-boards.greenhouse.io/janestreet/jobs/7437779002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [Linux Engineering Manager](https://job-boards.greenhouse.io/janestreet/jobs/6579680002) — Platform / Infrastructure · London, England, United Kingdom · 🛂 visa sponsor
-- [Linux Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8061111002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
+- [Linux Engineer](https://job-boards.greenhouse.io/janestreet/jobs/5372886002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [IT Security Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8220940002) — DevOps / SRE · London, England, United Kingdom · remote · 🛂 visa sponsor
 - [Front End Software Engineer](https://job-boards.greenhouse.io/janestreet/jobs/6236002002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
 - [FPGA Engineer](https://job-boards.greenhouse.io/janestreet/jobs/8061045002) — Backend · London, England, United Kingdom · 🛂 visa sponsor
@@ -656,13 +656,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [ASOS](https://jobs.winterchill.xyz/?employer=ASOS) (22)
 
+- [Applied Scientist](https://jobs.smartrecruiters.com/ASOS/744000135285519) — London, United Kingdom · 🛂 visa sponsor
 - [Senior AI / LLM Engineer](https://jobs.smartrecruiters.com/ASOS/744000135043984) — London, United Kingdom · 🛂 visa sponsor
 - [Machine Learning Engineer (Recommenders)](https://jobs.smartrecruiters.com/ASOS/744000134970488) — London, United Kingdom · 🛂 visa sponsor
 - [Software Engineer (.NET, Azure)](https://jobs.smartrecruiters.com/ASOS/744000134953672) — London, United Kingdom · 🛂 visa sponsor
 - [Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/ASOS/744000134819369) — London, United Kingdom · 🛂 visa sponsor
 - [Principal Engineering Lead (Customer Experience)](https://jobs.smartrecruiters.com/ASOS/744000134783429) — London, United Kingdom · 🛂 visa sponsor
 - [Senior Machine Learning Scientist (Personalisation)](https://jobs.smartrecruiters.com/ASOS/744000127827561) — London, United Kingdom · 🛂 visa sponsor
-- [Applied Scientist](https://jobs.smartrecruiters.com/ASOS/744000131174524) — London, United Kingdom · 🛂 visa sponsor
 - [Senior Data Engineer - Data Science Platform](https://jobs.smartrecruiters.com/ASOS/744000133993459) — Data Engineering · London, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior AI Engineer (AI Platform)](https://jobs.smartrecruiters.com/ASOS/744000133905259) — Backend · London, United Kingdom · 🛂 visa sponsor
 - [Software Engineer (Developer Experience)](https://jobs.smartrecruiters.com/ASOS/744000133640038) — Backend · London, United Kingdom · hybrid · 🛂 visa sponsor
@@ -678,7 +678,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Head of Agentic Systems Engineering](https://jobs.smartrecruiters.com/ASOS/744000132242657) — Data Engineering · London, United Kingdom · hybrid · 🛂 visa sponsor
 - …and 2 more at ASOS — see [`jobs.json`](jobs.json)
 
-### [Depop](https://jobs.winterchill.xyz/?employer=Depop) (21)
+### [Depop](https://jobs.winterchill.xyz/?employer=Depop) (20)
 
 - [Senior Machine Learning Scientist - Search](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Machine-Learning-Scientist---Search_JR4886) — London, UK, United Kingdom · 🛂 visa sponsor
 - [Staff Machine Learning Scientist (Recommendations)](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Staff-Machine-Learning-Scientist--Recommendations-_JR4970) — London, UK, United Kingdom · 🛂 visa sponsor
@@ -698,33 +698,31 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Engineer](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Engineer_JR5465) — Data Engineering · London, UK, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Data Platform Engineer](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Data-Platform-Engineer_JR5548) — Backend · London, UK, United Kingdom · hybrid · 🛂 visa sponsor
 - [Associate Engineer](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Associate-Engineer_JR5567) — Backend · London, UK, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Backend Engineer - AdTech](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Backend-Engineer_JR5509) — Backend · London, UK, United Kingdom · hybrid · 🛂 visa sponsor
 - [Staff iOS Engineer](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Staff-iOS-Engineer_JR4990) — Backend · London, UK, United Kingdom · hybrid · 🛂 visa sponsor
-- …and 1 more at Depop — see [`jobs.json`](jobs.json)
+- [Senior Backend Engineer](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Senior-Backend-Engineer_JR5642) — Backend · London, UK, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Spotify](https://jobs.winterchill.xyz/?employer=Spotify) (21)
+### [Hays Specialist Recruitment Limited](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment%20Limited) (20)
 
-- [Senior Backend Engineer - Subscriptions](https://jobs.lever.co/spotify/c857c37d-9fdc-4103-82cc-f1d252c120c3) — Backend · London · remote · 🛂 visa sponsor
-- [Android Engineer - Experience](https://jobs.lever.co/spotify/2193db3f-77c5-43b8-b030-8f92c9882bf1) — Backend · London · remote · 🛂 visa sponsor
-- [Staff Machine Learning Engineer - Policy & Safety](https://jobs.lever.co/spotify/b441bb85-24c0-4ef4-971a-1372952c1c32) — ML / AI Engineering · London · 🛂 visa sponsor
-- [Staff Machine Learning Engineer - Content Intelligence](https://jobs.lever.co/spotify/f58775f4-574f-40df-8b25-528381203154) — Backend · London · 🛂 visa sponsor
-- [Staff Engineer - Content Intelligence Infrastructure](https://jobs.lever.co/spotify/0841fdc0-1702-4ef6-b665-8a825112696c) — Backend · London · 🛂 visa sponsor
-- [Senior Staff Machine Learning Engineer, Content Platform](https://jobs.lever.co/spotify/47d4eabf-8d5a-4dab-ac72-de7b5b56841c) — Backend · London · 🛂 visa sponsor
-- [Senior Staff Machine Learning Engineer - Content Policy & Safety](https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030) — Backend · London · 🛂 visa sponsor
-- [Senior Software Engineer - TV Playback (C++)](https://jobs.lever.co/spotify/827bfa7b-cc50-46d7-bdac-f642a14fe92b) — Backend · London · 🛂 visa sponsor
-- [Senior Research Scientist - Music](https://jobs.lever.co/spotify/65310b62-58f2-4e15-a93b-ff9682739416) — ML / AI Engineering · London · 🛂 visa sponsor
-- [Senior Machine Learning Engineer - Policy & Safety](https://jobs.lever.co/spotify/d83cbddf-871a-4f9a-9b29-52cd676e2b3c) — Backend · London · 🛂 visa sponsor
-- [Senior Machine Learning Engineer - Messaging Platform](https://jobs.lever.co/spotify/c322d068-5b59-4658-b618-bb2a032eeb9b) — Backend · London · 🛂 visa sponsor
-- [Senior Machine Learning Engineer - Content Intelligence](https://jobs.lever.co/spotify/288ef608-a1e5-4127-b606-3a9981640f91) — Backend · London · 🛂 visa sponsor
-- [Senior Fullstack Engineer - Commerce Platform](https://jobs.lever.co/spotify/0c364c03-4f52-4cbc-9dd1-8e2524d269ab) — Backend · London · 🛂 visa sponsor
-- [Senior Full Stack Engineer - WhoSampled](https://jobs.lever.co/spotify/6cd45243-8674-4313-8405-a5a0734122f6) — Backend · London · 🛂 visa sponsor
-- [Senior Engineer- Mobile iOS Platform](https://jobs.lever.co/spotify/250dc806-7387-492d-b77e-68588f35b34b) — Mobile · London · 🛂 visa sponsor
-- [Senior Applied Research Engineer - Media Quality](https://jobs.lever.co/spotify/69ce7cd5-c137-435f-84bc-9da27389c7e6) — Backend · London · 🛂 visa sponsor
-- [Security Engineer- Product Security](https://jobs.lever.co/spotify/bb9867e6-4b35-4250-a7c4-918198c038e4) — DevOps / SRE · London · 🛂 visa sponsor
-- [Research Scientist - Music](https://jobs.lever.co/spotify/bd54129d-d6d6-4ffd-a25a-dd240374a0ce) — ML / AI Engineering · London · 🛂 visa sponsor
-- [Full Stack Engineer - Audiobooks](https://jobs.lever.co/spotify/eef2e6da-d277-469c-8ba5-3592339506d9) — Backend · London · 🛂 visa sponsor
-- [Frontend Engineer - Music](https://jobs.lever.co/spotify/9ce12867-8c84-40c5-be40-d8831ab98925) — Frontend · London · 🛂 visa sponsor
-- …and 1 more at Spotify — see [`jobs.json`](jobs.json)
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5773793752?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £650–£750/day · London, UK · hybrid
+- [Full Stack Developer](https://www.adzuna.co.uk/jobs/details/5774438397?utm_medium=api&utm_source=a9508167) — Backend · £550–£650/day · London, UK · hybrid
+- [Senior Frontend Developer](https://www.adzuna.co.uk/jobs/details/5769610287?utm_medium=api&utm_source=a9508167) — Backend · £156,000–£169,000/yr · London, UK
+- [Full Stack Developer - .Net](https://www.adzuna.co.uk/jobs/details/5765667181?utm_medium=api&utm_source=a9508167) — Backend · £104,000–£106,600/yr · London, UK · remote
+- [Azure DevOps Engineer - Integrations](https://www.reed.co.uk/jobs/azure-devops-engineer-integrations/57074312) — DevOps / SRE · £65,000–£75,000/yr · London
+- [Senior AI Software Engineer](https://www.reed.co.uk/jobs/senior-ai-software-engineer/56949121) — Backend · £60,000/yr · London · hybrid
+- [DevOps Engineer AWS](https://www.reed.co.uk/jobs/devops-engineer-aws/57076187) — DevOps / SRE · London
+- [Principal Risk Java developer](https://www.reed.co.uk/jobs/principal-risk-java-developer/57055558) — Backend · London · hybrid
+- [Head of Engineering - Java, Javascript, Cloud, Healthcare](https://www.reed.co.uk/jobs/head-of-engineering-java-javascript-cloud-healthcare/56955188) — Backend · London · hybrid
+- [Cloud Platform Engineer - Energy / Oil and Gas, Azure, AWS](https://www.reed.co.uk/jobs/cloud-platform-engineer-energy-oil-and-gas-azure-aws/56941505) — DevOps / SRE · London · remote
+- [Platform Engineer - Active SC, Databricks, Trivy, Azure DevOps](https://www.reed.co.uk/jobs/platform-engineer-active-sc-databricks-trivy-azure-devops/56950940) — DevOps / SRE · London · remote
+- [DevOps Engineer - SC / NPPV3](https://www.reed.co.uk/jobs/devops-engineer-sc-nppv3/56928220) — DevOps / SRE · London
+- [Senior AI Solutions Engineer](https://www.reed.co.uk/jobs/senior-ai-solutions-engineer/56978232) — Backend · London · hybrid
+- [Java Developer - Active SC, Java, Oracle WebLogic](https://www.reed.co.uk/jobs/java-developer-active-sc-java-oracle-weblogic/56946803) — Backend · London · remote
+- [Full Stack Developer - Active SC, NPPV3, Java](https://www.reed.co.uk/jobs/full-stack-developer-active-sc-nppv3-java/56911985) — Backend · London · remote
+- [Java Developer - Active SC, NPPV3, Java](https://www.reed.co.uk/jobs/java-developer-active-sc-nppv3-java/56919575) — Backend · London · remote
+- [Senior Python Quant Developer](https://www.reed.co.uk/jobs/senior-python-quant-developer/57009865) — Backend · London · hybrid
+- [Front End Developer](https://www.reed.co.uk/jobs/front-end-developer/57026818) — Backend · London · remote
+- [Principal .Net Developer](https://www.reed.co.uk/jobs/principal-net-developer/57025226) — Backend · London · hybrid
+- [Senior AI Automation Engineer](https://www.reed.co.uk/jobs/senior-ai-automation-engineer/57029611) — Backend · London · hybrid
 
 ### [Hudson River Trading](https://jobs.winterchill.xyz/?employer=Hudson%20River%20Trading) (20)
 
@@ -772,50 +770,50 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Robotics Simulation & Control Engineer](https://jobs.ashbyhq.com/humanoid/654f3a41-dedb-4871-9bd7-cb416b76de2c) — Embedded / Robotics · UK, London · 🛂 visa sponsor
 - [Senior Dev/ML Ops Engineer](https://jobs.ashbyhq.com/humanoid/9ed64980-46e9-44eb-83f7-fded700be4a3) — Data Engineering · UK, London · 🛂 visa sponsor
 
-### [Randstad Technologies](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies) (20)
+### [Lorien](https://jobs.winterchill.xyz/?employer=Lorien) (20)
 
-- [Quantitative Developer (232979-1)](https://www.reed.co.uk/jobs/quantitative-developer-232979-1/57054066) — Backend · £750–£800/day · East London · hybrid
-- [Data Engineer - London, UK](https://www.adzuna.co.uk/jobs/details/5766731267?utm_medium=api&utm_source=a9508167) — Data Engineering · £130,000–£196,820/yr · London, UK · remote
-- [Java Backend Developer - London, UK (Fully REMOTE)](https://www.adzuna.co.uk/jobs/details/5775038185?utm_medium=api&utm_source=a9508167) — Backend · £169,000–£195,000/yr · London, UK · remote
-- [Backend Engineer (Infrastructure)](https://www.reed.co.uk/jobs/backend-engineer-infrastructure/56923263) — DevOps / SRE · £650/day · London · remote
-- [Fullstack Engineer (Heavy Frontend) - SPFYJP00003550](https://www.adzuna.co.uk/jobs/details/5766915511?utm_medium=api&utm_source=a9508167) — Backend · £143,000–£156,000/yr · London, UK
-- [Software engineering specialist](https://www.adzuna.co.uk/jobs/details/5760608740?utm_medium=api&utm_source=a9508167) — Backend · £143,000–£156,000/yr · London, UK
-- [UiPath RPA Specialist/Developer](https://www.reed.co.uk/jobs/uipath-rpa-specialist-developer/56938331) — £382/day · London · remote
-- [GOG1JP00004398-Software Engineer (II)](https://www.adzuna.co.uk/jobs/land/ad/5747699559?se=3sk-vSdz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=DEDB8E116FDB97FBC76573E584676E43F83E63BD) — Backend · £90,740–£95,940/yr · London, UK
-- [ServiceNow Developer](https://www.reed.co.uk/jobs/servicenow-developer/56964100) — £44/hr · London · remote
-- [GenAI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5760598535?se=mjEeh_Vz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=DE7F9F590C822BD60A50343AAFE981178CD5646C) — Backend · £60,000–£70,000/yr · London, UK · hybrid
-- [Junior FullStack Developer](https://www.reed.co.uk/jobs/junior-fullstack-developer/57068238) — Backend · £40,000–£45,000/yr · London
-- [Backend Engineer](https://www.reed.co.uk/jobs/backend-engineer/57069089) — Backend · London · hybrid
-- [Senior iOS Engineer](https://www.reed.co.uk/jobs/senior-ios-engineer/57065672) — Backend · London · remote
-- [Quantitative Engineer](https://www.reed.co.uk/jobs/quantitative-engineer/57053938) — Backend · London · hybrid
-- [Full Stack Engineer](https://www.reed.co.uk/jobs/full-stack-engineer/57052913) — Backend · London · remote
-- [Azure DevOps Engineer - SC Clearance](https://www.reed.co.uk/jobs/azure-devops-engineer-sc-clearance/56914379) — DevOps / SRE · London · hybrid
-- [Senior Backend Engineer with Content delivery experience](https://www.reed.co.uk/jobs/senior-backend-engineer-with-content-delivery-experience/56942845) — Backend · London · remote
-- [Booking and Messaging Java Developer (COMBJP00001223)](https://www.reed.co.uk/jobs/booking-and-messaging-java-developer-combjp00001223/56989482) — Backend · London · hybrid
-- [Lead AI Red Teaming & QA Engineer](https://www.reed.co.uk/jobs/lead-ai-red-teaming-qa-engineer/56912145) — DevOps / SRE · London
-- [Forward Deployed Engineers](https://www.reed.co.uk/jobs/forward-deployed-engineers/56903019) — Backend · London
+- [Data Engineer](https://www.linkedin.com/jobs/view/4432558621/) — Data Engineering · Up to £90,000/yr · London Area, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Quantexa Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5751935186?se=blemQMxw8RGLSNVmuhUzVg&utm_medium=api&utm_source=a9508167&v=FE1618F7F4B3204D5024DD55BA07C7FCB14AAB98) — Data Engineering · £75,000–£85,000/yr · London, UK
+- [Software Developer (Java / Oracle) - SC Cleared](https://www.reed.co.uk/jobs/software-developer-java-oracle-sc-cleared/57076013) — Backend · London · hybrid
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5783213546?se=uD57TIN18RGwMvuqxXHvVQ&utm_medium=api&utm_source=a9508167&v=002F36E5F4BF3429EF6D78AD6C3B18E1614D61DF) — West Drayton, London
+- [AI Solutions Engineer / Applied AI Engineer](https://www.linkedin.com/jobs/view/4434493894/) — London Area, United Kingdom · hybrid
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4434450989/) — Backend · London Area, United Kingdom
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4433351060/) — Backend · London Area, United Kingdom · hybrid
+- [Software Engineer](https://www.linkedin.com/jobs/view/4432586080/) — Backend · London Area, United Kingdom · hybrid
+- [Core Java Developer](https://www.reed.co.uk/jobs/core-java-developer/57051105) — Backend · London · hybrid
+- [Data Engineer (Snowflake & Kafka)](https://www.linkedin.com/jobs/view/4432286013/) — Backend · London Area, United Kingdom · hybrid
+- [Senior AI DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5768064066?se=uCJEwSdz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=E952F41F6F84AE066C4F3CF72FDB9C8B662BFC37) — Backend · London, UK
+- [Application Support Engineer](https://www.reed.co.uk/jobs/application-support-engineer/56988413) — DevOps / SRE · London · hybrid
+- [Lead Platform Engineer](https://www.reed.co.uk/jobs/lead-platform-engineer/56966338) — Backend · London
+- [Java 17 Developer (Investment Banking, Kafka)](https://www.reed.co.uk/jobs/java-17-developer-investment-banking-kafka/56962385) — Backend · London · hybrid
+- [C# Developer](https://www.reed.co.uk/jobs/c-developer/56971218) — Backend · London · hybrid
+- [Senior Platform Engineer](https://www.reed.co.uk/jobs/senior-platform-engineer/56966477) — Backend · London
+- [Senior Engineering Manager](https://www.adzuna.co.uk/jobs/land/ad/5768066040?se=mOrhwSdz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=ECD0D4B6A27B1E3FD082398A992BED920046494C) — London, UK
+- [Lead AI DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5748036500?se=uCJEwSdz8RGe4ZwL0wNS6w&utm_medium=api&utm_source=a9508167&v=317B032887177FC5F0B0EDC47D1032ED1914E57B) — ML / AI Engineering · London, UK
+- [Senior Machine Learning Engineer](https://www.adzuna.co.uk/jobs/land/ad/5768065725?se=rDOpwCdz8RG03p_b2NRIZw&utm_medium=api&utm_source=a9508167&v=73AF76ED5EF9F70228574F4A7CDFD4380651BDFA) — Backend · London, UK
+- [Lead Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5748037070?se=dpQzwCdz8RGiVqWJe_bADg&utm_medium=api&utm_source=a9508167&v=326824D9EE68888A604CC19E747E003902227645) — Data Engineering · London, UK
 
-### [Deloitte](https://jobs.winterchill.xyz/?employer=Deloitte) (19)
+### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (19)
 
-- [Contract - AI Data Engineer (Azure)](https://uk.indeed.com/viewjob?jk=0e498bef0f3203a3) — £62,500–£85,000/yr (est.) · London, United Kingdom · hybrid
-- [Assistant Manager, Traded and Quantitative Risk](https://www.glassdoor.co.uk/job-listing/assistant-manager-traded-and-quantitative-risk-deloitte-JV_KO0,46_KE47,55.htm?jl=1010173712492) — Backend · £43,000–£55,375/yr (est.) · United Kingdom · hybrid · 🛂 visa sponsor
-- [Assistant Manager/Manager, Traded and Quantitative Risk — CCR/CVA](https://uk.indeed.com/viewjob?jk=d543a812f3fb5198) — £42,625–£55,000/yr (est.) · London, United Kingdom · hybrid
-- [React Developer](https://www.linkedin.com/jobs/view/4428482963/) — Backend · City Of London, England, United Kingdom · 🛂 visa sponsor
-- [Senior Manager -Associate Director, Data Architect, Government & Public Service, AI & Data, Defence & Security](https://www.linkedin.com/jobs/view/4429865193/) — England, United Kingdom · hybrid
-- [AI Data Engineer (Azure)](https://www.linkedin.com/jobs/view/4431517735/) — Data Engineering · London Area, United Kingdom · 🛂 visa sponsor
-- [Consultant - Manager, Fullstack, Engineering, Defence & Security](https://www.linkedin.com/jobs/view/4429865663/) — Backend · England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Associate Director, Public Sector, Major Programmes - Human Capital](https://uk.indeed.com/viewjob?jk=0d07a1197787822b) — London, United Kingdom
-- [Java Software Engineer](https://www.linkedin.com/jobs/view/4433232851/) — Backend · London Area, United Kingdom · 🛂 visa sponsor
-- [Consultant - Manager, Backend Developer, Engineering, Defence & Security](https://www.linkedin.com/jobs/view/4429850185/) — Backend · England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Consultant - Manager, Data Engineer, AI & Data, Defence & Security](https://www.linkedin.com/jobs/view/4429861621/) — Backend · England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Consultant - Manager, Front End Dev, Engineering, Defence & Security](https://www.linkedin.com/jobs/view/4429867061/) — Backend · England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Consultant - Senior Consultant, Palantir Foundry Data Engineer, AI & Data, Defence & Security](https://www.linkedin.com/jobs/view/4429847803/) — Backend · England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Consultant - Manager, Data Science and Machine Learning, AI & Data, Defence & Security](https://www.linkedin.com/jobs/view/4429851692/) — Backend · England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Manager - Financial Services (Investment Management & Wealth), Programme Leadership, Human Capital](https://uk.indeed.com/viewjob?jk=c3bd5029723be328) — London, United Kingdom
-- [Senior Manager - Financial Services (Insurance), Programme Leadership](https://uk.indeed.com/viewjob?jk=b5490870fb3f6fed) — London, United Kingdom
-- [Senior UiPath Developer](https://www.linkedin.com/jobs/view/4390918813/) — Platform / Infrastructure · London, England, United Kingdom · 🛂 visa sponsor
-- [Senior Java / Python Engineer](https://www.linkedin.com/jobs/view/4430009398/) — Backend · City Of London, England, United Kingdom · 🛂 visa sponsor
-- [Senior AI/ML Research Engineer](https://www.linkedin.com/jobs/view/4428485923/) — Backend · City Of London, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineering Manager, AI Platform](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Software-Engineering-Manager--AI-Platform_R113409-1) — Backend · €124,600–€231,500/yr · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer II (Java/ Spring)](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Software-Engineer-II--Java--Spring-_R113764) — Backend · €100,400–€167,300/yr · London Wall, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer I – Search and AI Platform](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Software-Engineer-I---Search-and-AI-Platform_R114443) — Backend · €86,900–€144,600/yr · London Wall, United Kingdom · 🛂 visa sponsor
+- [Quality Test Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Quality-Test-Engineer-III_R114805) — €71,700–€119,600/yr · London Wall, United Kingdom · 🛂 visa sponsor
+- [Software Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Software-Engineer-III_R115044-2) — Backend · £54,000–£100,000/yr (est.) · London Wall, United Kingdom · 🛂 visa sponsor
+- [VP Technology - Software Engineering](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/VP-Technology---Software-Engineering_R115378) — London Wall, United Kingdom · 🛂 visa sponsor
+- [Senior Data Scientist II](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/UK---London-London-Wall/Senior-Data-Scientist-II_R114632-2) — UK - London (London Wall), United Kingdom · 🛂 visa sponsor
+- [Data Scientist II](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/UK---London-London-Wall/Data-Scientist-II_R114630-1) — UK - London (London Wall), United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer I (JavaScript))](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Software-Engineer-I--JavaScript--_R109799) — Backend · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Platform & Analytics – Senior Engineering Manager](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/XMLNAME--Data-Platform---Analytics---Senior-Engineering-Manager_R111270) — Data Engineering · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer II - Data Engineering](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Software-Engineer-II---Data-Engineering_R107822) — Backend · London Wall, United Kingdom · 🛂 visa sponsor
+- [Consulting/Principal Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Consulting-Principal-Software-Engineer_R107421-1) — Backend · London Wall, United Kingdom · 🛂 visa sponsor
+- [Senior Systems Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Systems-Engineer_R113575) — Backend · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
+- [Systems Engineer (AWS)](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Systems-Engineer--AWS-_R112395) — DevOps / SRE · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Systems Engineer (AWS)](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Systems-Engineer--AWS-_R112392) — DevOps / SRE · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
+- [DevOps Engineer IV](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/DevOps-Engineer-IV_R108966-1) — Backend · London Wall, United Kingdom · hybrid · 🛂 visa sponsor
+- [AI Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/AI-Engineer_R114346) — Backend · London Wall, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Software-Engineer_R114509) — Backend · London Wall, United Kingdom · 🛂 visa sponsor
+- [Senior Data Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/London-Wall/Senior-Data-Engineer_R114934) — Backend · London Wall, United Kingdom · 🛂 visa sponsor
 
 ### [Faculty](https://jobs.winterchill.xyz/?employer=Faculty) (19)
 
@@ -839,29 +837,29 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Machine Learning Engineer](https://jobs.ashbyhq.com/faculty/ddaee792-5e2b-4f87-aa60-761798762de5) — Backend · UK - London · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://jobs.ashbyhq.com/faculty/91c88cf4-cf93-43da-8d02-01a4fc8d9da5) — Backend · UK - London · hybrid · 🛂 visa sponsor
 
-### [Hays Specialist Recruitment Limited](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment%20Limited) (19)
+### [Randstad Technologies](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies) (19)
 
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5773793752?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £169,000–£195,000/yr · London, UK · hybrid
-- [Full Stack Developer](https://www.adzuna.co.uk/jobs/details/5774438397?utm_medium=api&utm_source=a9508167) — Backend · £143,000–£169,000/yr · London, UK · hybrid
-- [Senior Frontend Developer](https://www.adzuna.co.uk/jobs/details/5769610287?utm_medium=api&utm_source=a9508167) — Backend · £156,000–£169,000/yr · London, UK
-- [Full Stack Developer - .Net](https://www.adzuna.co.uk/jobs/details/5765667181?utm_medium=api&utm_source=a9508167) — Backend · £104,000–£106,600/yr · London, UK · remote
-- [Azure DevOps Engineer - Integrations](https://www.reed.co.uk/jobs/azure-devops-engineer-integrations/57074312) — DevOps / SRE · £65,000–£75,000/yr · London
-- [Senior AI Software Engineer](https://www.reed.co.uk/jobs/senior-ai-software-engineer/56949121) — Backend · £60,000/yr · London · hybrid
-- [Principal Risk Java developer](https://www.reed.co.uk/jobs/principal-risk-java-developer/57055558) — Backend · London · hybrid
-- [Head of Engineering - Java, Javascript, Cloud, Healthcare](https://www.reed.co.uk/jobs/head-of-engineering-java-javascript-cloud-healthcare/56955188) — Backend · London · hybrid
-- [Cloud Platform Engineer - Energy / Oil and Gas, Azure, AWS](https://www.reed.co.uk/jobs/cloud-platform-engineer-energy-oil-and-gas-azure-aws/56941505) — DevOps / SRE · London · remote
-- [Platform Engineer - Active SC, Databricks, Trivy, Azure DevOps](https://www.reed.co.uk/jobs/platform-engineer-active-sc-databricks-trivy-azure-devops/56950940) — DevOps / SRE · London · remote
-- [DevOps Engineer - SC / NPPV3](https://www.reed.co.uk/jobs/devops-engineer-sc-nppv3/56928220) — DevOps / SRE · London
-- [Senior AI Solutions Engineer](https://www.reed.co.uk/jobs/senior-ai-solutions-engineer/56978232) — Backend · London · hybrid
-- [Java Developer - Active SC, Java, Oracle WebLogic](https://www.reed.co.uk/jobs/java-developer-active-sc-java-oracle-weblogic/56946803) — Backend · London · remote
-- [Full Stack Developer - Active SC, NPPV3, Java](https://www.reed.co.uk/jobs/full-stack-developer-active-sc-nppv3-java/56911985) — Backend · London · remote
-- [Java Developer - Active SC, NPPV3, Java](https://www.reed.co.uk/jobs/java-developer-active-sc-nppv3-java/56919575) — Backend · London · remote
-- [Senior Python Quant Developer](https://www.reed.co.uk/jobs/senior-python-quant-developer/57009865) — Backend · London · hybrid
-- [Front End Developer](https://www.reed.co.uk/jobs/front-end-developer/57026818) — Backend · London · remote
-- [Principal .Net Developer](https://www.reed.co.uk/jobs/principal-net-developer/57025226) — Backend · London · hybrid
-- [Senior AI Automation Engineer](https://www.reed.co.uk/jobs/senior-ai-automation-engineer/57029611) — Backend · London · hybrid
+- [Quantitative Developer (232979-1)](https://www.reed.co.uk/jobs/quantitative-developer-232979-1/57054066) — Backend · £750–£800/day · East London · hybrid
+- [Data Engineer - London, UK](https://www.adzuna.co.uk/jobs/details/5766731267?utm_medium=api&utm_source=a9508167) — Data Engineering · £130,000–£196,820/yr · London, UK · remote
+- [Java Backend Developer - London, UK (Fully REMOTE)](https://www.adzuna.co.uk/jobs/details/5775038185?utm_medium=api&utm_source=a9508167) — Backend · £169,000–£195,000/yr · London, UK · remote
+- [Backend Engineer (Infrastructure)](https://www.reed.co.uk/jobs/backend-engineer-infrastructure/56923263) — DevOps / SRE · £650/day · London · remote
+- [Fullstack Engineer (Heavy Frontend) - SPFYJP00003550](https://www.adzuna.co.uk/jobs/details/5766915511?utm_medium=api&utm_source=a9508167) — Backend · £143,000–£156,000/yr · London, UK
+- [Software engineering specialist](https://www.adzuna.co.uk/jobs/details/5760608740?utm_medium=api&utm_source=a9508167) — Backend · £143,000–£156,000/yr · London, UK
+- [UiPath RPA Specialist/Developer](https://www.reed.co.uk/jobs/uipath-rpa-specialist-developer/56938331) — £382/day · London · remote
+- [GOG1JP00004398-Software Engineer (II)](https://www.adzuna.co.uk/jobs/land/ad/5747699559?se=3sk-vSdz8RG0u_GTNOPotQ&utm_medium=api&utm_source=a9508167&v=DEDB8E116FDB97FBC76573E584676E43F83E63BD) — Backend · £90,740–£95,940/yr · London, UK
+- [ServiceNow Developer](https://www.reed.co.uk/jobs/servicenow-developer/56964100) — £44/hr · London · remote
+- [GenAI Engineer](https://www.adzuna.co.uk/jobs/land/ad/5760598535?se=mjEeh_Vz8RGg8viwX6TQvA&utm_medium=api&utm_source=a9508167&v=DE7F9F590C822BD60A50343AAFE981178CD5646C) — Backend · £60,000–£70,000/yr · London, UK · hybrid
+- [Junior FullStack Developer](https://www.reed.co.uk/jobs/junior-fullstack-developer/57068238) — Backend · £40,000–£45,000/yr · London
+- [Backend Engineer](https://www.reed.co.uk/jobs/backend-engineer/57069089) — Backend · London · hybrid
+- [Senior iOS Engineer](https://www.reed.co.uk/jobs/senior-ios-engineer/57065672) — Backend · London · remote
+- [Quantitative Engineer](https://www.reed.co.uk/jobs/quantitative-engineer/57053938) — Backend · London · hybrid
+- [Full Stack Engineer](https://www.reed.co.uk/jobs/full-stack-engineer/57052913) — Backend · London · remote
+- [Azure DevOps Engineer - SC Clearance](https://www.reed.co.uk/jobs/azure-devops-engineer-sc-clearance/56914379) — DevOps / SRE · London · hybrid
+- [Senior Backend Engineer with Content delivery experience](https://www.reed.co.uk/jobs/senior-backend-engineer-with-content-delivery-experience/56942845) — Backend · London · remote
+- [Booking and Messaging Java Developer (COMBJP00001223)](https://www.reed.co.uk/jobs/booking-and-messaging-java-developer-combjp00001223/56989482) — Backend · London · hybrid
+- [Lead AI Red Teaming & QA Engineer](https://www.reed.co.uk/jobs/lead-ai-red-teaming-qa-engineer/56912145) — DevOps / SRE · London
 
-> …and **2,652 more companies** — see [`jobs.json`](jobs.json) or [browse the full list live](https://jobs.winterchill.xyz/?city=London).
+> …and **2,725 more companies** — see [`jobs.json`](jobs.json) or [browse the full list live](https://jobs.winterchill.xyz/?city=London).
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

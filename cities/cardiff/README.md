@@ -1,14 +1,15 @@
 # Software &amp; IT careers in Cardiff
 
-**157 open roles** · updated 2026-07-01
+**180 open roles** · updated 2026-07-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Ofgem](https://jobs.winterchill.xyz/?employer=Ofgem) (8)
+### [Ofgem](https://jobs.winterchill.xyz/?employer=Ofgem) (9)
 
 - [Principal Developer (Salesforce)](https://uk.indeed.com/viewjob?jk=59239789ea3e68df) — £63,443–£86,547/yr · Cardiff, United Kingdom
+- [Data Protection Specialist](https://uk.indeed.com/viewjob?jk=3e03eca05f129557) — £52,397–£62,699/yr · Cardiff, United Kingdom
 - [Senior Infrastructure Engineer](https://uk.indeed.com/viewjob?jk=54e38c50dc62e698) — £52,397–£62,699/yr · Cardiff, United Kingdom · hybrid
 - [Lead Cyber Security Analyst](https://uk.indeed.com/viewjob?jk=10afb9c0f1ad6c47) — £52,397–£62,699/yr · Cardiff, United Kingdom · hybrid
 - [Security Manager](https://uk.indeed.com/viewjob?jk=9bc0ba51f5129369) — £52,397–£62,699/yr · Cardiff, United Kingdom · hybrid
@@ -27,23 +28,29 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [CIAM Software Engineer](https://www.adzuna.co.uk/jobs/details/5777493203?utm_medium=api&utm_source=a9508167) — Backend · £60,000/yr · Splott, Cardiff
 - [CIAM Engineer](https://www.adzuna.co.uk/jobs/details/5774773510?utm_medium=api&utm_source=a9508167) — £60,000/yr · Cardiff, Cardiff County · remote
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (6)
+### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (5)
 
-- [Tech Lead, Web Core Product & Chrome Extension - Cardiff, United Kingdom](https://uk.indeed.com/viewjob?jk=b041b657b52d0a1b) — Cardiff, United Kingdom · remote
-- [Software Engineer, Platform - Cardiff, United Kingdom](https://uk.indeed.com/viewjob?jk=207724bd5def1c28) — Cardiff, United Kingdom
-- [Software Engineer, Data Infrastructure & Acquisition - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5706058535?utm_medium=api&utm_source=a9508167) — Mobile · Cardiff, Cardiff County
-- [Senior Software Engineer, Core Experiences - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5706058957?utm_medium=api&utm_source=a9508167) — Backend · Cardiff, Cardiff County
-- [Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720907143?utm_medium=api&utm_source=a9508167) — Mobile · Cardiff, Cardiff County
-- [Software Engineer, iOS Core Product - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5711921862?utm_medium=api&utm_source=a9508167) — Mobile · Cardiff, Cardiff County
+- [CXP Staff Engineer (AEM), Fully Remote](https://www.reed.co.uk/jobs/cxp-staff-engineer-aem-fully-remote/56935222) — Backend · £75,000–£84,000/yr · Cardiff · remote
+- [Senior MDM Engineer / Emerging Technical Lead](https://www.reed.co.uk/jobs/senior-mdm-engineer-emerging-technical-lead/57050836) — Backend · £74,000–£75,000/yr · Cardiff · remote
+- [Senior Platform Engineer (DevOps)](https://www.reed.co.uk/jobs/senior-platform-engineer-devops/57037288) — DevOps / SRE · £70,000–£72,000/yr · Cardiff · remote
+- [CIAM Engineer](https://www.reed.co.uk/jobs/ciam-engineer/57046747) — Backend · £50,000–£60,000/yr · Cardiff · remote
+- [Genesys Cloud Engineer](https://www.reed.co.uk/jobs/genesys-cloud-engineer/57030381) — DevOps / SRE · Cardiff
 
-### [Starling](https://jobs.winterchill.xyz/?employer=Starling) (6)
+### [Starling](https://jobs.winterchill.xyz/?employer=Starling) (5)
 
-- [Android Engineer](https://www.linkedin.com/jobs/view/4432543845/) — Backend · Cardiff, Wales, United Kingdom · hybrid
 - [Database Reliability Engineer](https://www.adzuna.co.uk/jobs/details/5693219095?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Cardiff, Cardiff County
 - [Staff Software Engineer (Team Lead) - Engine by Starling](https://www.adzuna.co.uk/jobs/details/5468376223?utm_medium=api&utm_source=a9508167) — Backend · Cardiff, Cardiff County
 - [Senior Java Software Engineer - Customer Services](https://www.adzuna.co.uk/jobs/details/5737422964?utm_medium=api&utm_source=a9508167) — Backend · Cardiff, Cardiff County
 - [Staff Software Engineer - Engine by Starling](https://www.adzuna.co.uk/jobs/details/5700079855?utm_medium=api&utm_source=a9508167) — Cardiff, Cardiff County
 - [Software Engineer (ML Projects)](https://www.adzuna.co.uk/jobs/details/5706075922?utm_medium=api&utm_source=a9508167) — Cardiff, Cardiff County
+
+### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (5)
+
+- [Project Director / Bid Director - Intelligent Infrastructure](https://www.linkedin.com/jobs/view/4416634235/) — Cardiff, Wales, United Kingdom · remote
+- [Technical Director – Geochemistry](https://www.linkedin.com/jobs/view/4434634330/) — Cardiff, Wales, United Kingdom · remote
+- [Associate Director / Technical Director Large Ground Investigation Lead](https://www.linkedin.com/jobs/view/4435156952/) — Cardiff, Wales, United Kingdom
+- [Protection & Control Discipline Lead (Energy)](https://www.linkedin.com/jobs/view/4416425888/) — Cardiff, Wales, United Kingdom
+- [Senior/Principal Reliability (RAM) Engineer - Rail](https://www.linkedin.com/jobs/view/4405450346/) — Cardiff, Wales, United Kingdom
 
 ### [Admiral Group](https://jobs.winterchill.xyz/?employer=Admiral%20Group) (4)
 
@@ -54,24 +61,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [IntaPeople](https://jobs.winterchill.xyz/?employer=IntaPeople) (4)
 
-- [Data Engineer \| 6 months](https://www.adzuna.co.uk/jobs/details/5752101505?utm_medium=api&utm_source=a9508167) — Data Engineering · £104,000–£123,500/yr · Cardiff, Cardiff County · hybrid
-- [Principal/Staff Software Engineer](https://www.adzuna.co.uk/jobs/details/5750713291?utm_medium=api&utm_source=a9508167) — Backend · £55,000–£75,000/yr · Cardiff, Cardiff County
-- [Software Engineer](https://www.adzuna.co.uk/jobs/details/5769209536?utm_medium=api&utm_source=a9508167) — Backend · £40,000–£70,000/yr · Splott, Cardiff
+- [Data Engineer \| 6 months](https://www.adzuna.co.uk/jobs/land/ad/5752101505?se=wjulhIN18RG075onbIWOaw&utm_medium=api&utm_source=a9508167&v=A120CF034A3F19971F791A20868D8268E551B858) — Data Engineering · £104,000–£123,500/yr · Cardiff, Cardiff County · hybrid
+- [Principal/Staff Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5750713291?se=SAkdgoN18RGwMvuqxXHvVQ&utm_medium=api&utm_source=a9508167&v=042227CA94253AA33AF8626537417A221C558DF2) — Backend · £55,000–£75,000/yr · Cardiff, Cardiff County
+- [Senior Data Engineer](https://www.adzuna.co.uk/jobs/details/5783383638?utm_medium=api&utm_source=a9508167) — Data Engineering · £55,000–£60,000/yr · Splott, Cardiff
 - [Data Engineer](https://www.adzuna.co.uk/jobs/details/5776021090?utm_medium=api&utm_source=a9508167) — Data Engineering · Splott, Cardiff
 
-### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (4)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
 
-- [CXP Staff Engineer (AEM), Fully Remote](https://www.reed.co.uk/jobs/cxp-staff-engineer-aem-fully-remote/56935222) — Backend · £75,000–£84,000/yr · Cardiff · remote
-- [Senior Platform Engineer (DevOps)](https://www.reed.co.uk/jobs/senior-platform-engineer-devops/57037288) — DevOps / SRE · £70,000–£72,000/yr · Cardiff · remote
-- [CIAM Engineer](https://www.reed.co.uk/jobs/ciam-engineer/57046747) — Backend · £50,000–£60,000/yr · Cardiff · remote
-- [Genesys Cloud Engineer](https://www.reed.co.uk/jobs/genesys-cloud-engineer/57030381) — DevOps / SRE · Cardiff
-
-### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (4)
-
-- [Reliability (RAM) Engineer (All Levels) - Rail](https://www.linkedin.com/jobs/view/4405649246/) — Cardiff, Wales, United Kingdom · remote
-- [UK&I Digital Project Delivery Lead](https://www.linkedin.com/jobs/view/4422975424/) — Cardiff, Wales, United Kingdom
-- [Senior/Principal Reliability (RAM) Engineer - Rail](https://www.linkedin.com/jobs/view/4405450346/) — Cardiff, Wales, United Kingdom
-- [Senior or Principal Data Scientist](https://www.linkedin.com/jobs/view/4433875613/) — Backend · Cardiff, Wales, United Kingdom
+- [Tech Lead, Web Core Product & Chrome Extension - Cardiff, United Kingdom](https://uk.indeed.com/viewjob?jk=b041b657b52d0a1b) — Cardiff, United Kingdom · remote
+- [Software Engineer, Platform - Cardiff, United Kingdom](https://uk.indeed.com/viewjob?jk=207724bd5def1c28) — Cardiff, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5706058535?utm_medium=api&utm_source=a9508167) — Mobile · Cardiff, Cardiff County
+- [Senior Software Engineer, Core Experiences - Cardiff, United Kingdom](https://www.adzuna.co.uk/jobs/details/5706058957?utm_medium=api&utm_source=a9508167) — Backend · Cardiff, Cardiff County
 
 ### [Yolk Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment%20Ltd) (4)
 
@@ -80,23 +80,35 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4431484029/) — Data Engineering · Cardiff, Wales, United Kingdom · hybrid
 - [Data Scientist](https://www.linkedin.com/jobs/view/4431474957/) — Backend · Cardiff, Wales, United Kingdom · remote
 
+### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (3)
+
+- [Principal Product Manager - Retention](https://www.linkedin.com/jobs/view/4433228528/) — Cardiff, Wales, United Kingdom · hybrid
+- [Principal Product Designer](https://www.linkedin.com/jobs/view/4434106635/) — Cardiff, Wales, United Kingdom
+- [Principal Product Manager - Growth](https://www.linkedin.com/jobs/view/4433227609/) — Cardiff, Wales, United Kingdom
+
+### [Arcadis](https://jobs.winterchill.xyz/?employer=Arcadis) (3)
+
+- [Ground Investigation Consultant](https://uk.indeed.com/viewjob?jk=a5ba84664fa2df40) — Cardiff, United Kingdom
+- [Associate Technical Director - Ecology](https://uk.indeed.com/viewjob?jk=dc71635b895eb939) — Cardiff, United Kingdom
+- [Associate Technical Director - Rail E&P](https://www.linkedin.com/jobs/view/4402483471/) — Cardiff, Wales, United Kingdom
+
 ### [Arup](https://jobs.winterchill.xyz/?employer=Arup) (3)
 
+- [Assistant BIM Designer](https://uk.indeed.com/viewjob?jk=74d4bb1aaf2a8630) — Cardiff, United Kingdom
 - [Facilities Coordinator](https://uk.indeed.com/viewjob?jk=6660319d4f484259) — Cardiff, United Kingdom
-- [Assistant BIM Designer](https://uk.indeed.com/viewjob?jk=945a33369c41d379) — Cardiff, United Kingdom
 - [Principal Process Engineer](https://uk.indeed.com/viewjob?jk=36bbacb8773a8994) — Cardiff, United Kingdom
+
+### [Bridewell](https://jobs.winterchill.xyz/?employer=Bridewell) (3)
+
+- [Academy Penetration Testing Consultant](https://www.linkedin.com/jobs/view/4435562312/) — Cardiff, Wales, United Kingdom · hybrid
+- [Academy IT Analyst](https://www.linkedin.com/jobs/view/4435534399/) — Cardiff, Wales, United Kingdom · hybrid
+- [Junior Security Analyst](https://www.linkedin.com/jobs/view/4433234640/) — Cardiff, Wales, United Kingdom
 
 ### [Creditsafe](https://jobs.winterchill.xyz/?employer=Creditsafe) (3)
 
 - [Data Engineer – Microsoft Fabric & Analytics Platform](https://uk.indeed.com/viewjob?jk=ce1dfa29ef351d50) — Cardiff, United Kingdom
 - [Data Engineer – Microsoft Fabric & Analytics Platform](https://www.linkedin.com/jobs/view/4433085959/) — Data Engineering · Cardiff, Wales, United Kingdom · hybrid
 - [Data Engineer](https://www.adzuna.co.uk/jobs/details/5723450050?utm_medium=api&utm_source=a9508167) — Data Engineering · Splott, Cardiff · hybrid
-
-### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (3)
-
-- [C++ Software Engineer II - ArcGIS Maps SDKs for Native Apps](https://www.adzuna.co.uk/jobs/details/5696595749?utm_medium=api&utm_source=a9508167) — £39,600–£67,320/yr · Cardiff, Cardiff County · 🛂 visa sponsor
-- [GIS Product Engineer II – ArcGIS Maps SDKs for Native Apps](https://www.adzuna.co.uk/jobs/details/5760045178?utm_medium=api&utm_source=a9508167) — Mobile · £37,080–£58,092/yr · Cardiff, Cardiff County · 🛂 visa sponsor
-- [C++ Software Engineer I - ArcGIS Maps SDKs for Native Apps](https://www.adzuna.co.uk/jobs/details/5777924029?utm_medium=api&utm_source=a9508167) — £30,870–£50,400/yr · Cardiff, Cardiff County · 🛂 visa sponsor
 
 ### [LDMS](https://jobs.winterchill.xyz/?employer=LDMS) (3)
 
@@ -110,15 +122,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Security Operations (SOC) Engineer - Engine by Starling](https://apply.workable.com/j/9FA4DF77CB/apply) — DevOps / SRE · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (2)
+### [VIQU IT Recruitment](https://jobs.winterchill.xyz/?employer=VIQU%20IT%20Recruitment) (3)
 
-- [Principal Product Manager - Retention](https://www.linkedin.com/jobs/view/4433228528/) — Cardiff, Wales, United Kingdom · hybrid
-- [Principal Product Designer](https://www.linkedin.com/jobs/view/4434106635/) — Cardiff, Wales, United Kingdom
-
-### [Advanced Secure Technologies | B Corp™](https://jobs.winterchill.xyz/?employer=Advanced%20Secure%20Technologies%20%7C%20B%20Corp%E2%84%A2) (2)
-
-- [Senior Software Developer](https://www.linkedin.com/jobs/view/4434125365/) — Backend · £55,000–£65,000/mo · Cardiff, Wales, United Kingdom · remote
-- [Business Development Executive](https://www.linkedin.com/jobs/view/4434231061/) — £24,800–£28,000/yr · Cardiff, Wales, United Kingdom
+- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5781383996?utm_medium=api&utm_source=a9508167) — Data Engineering · £420–£450/day · Cardiff, Cardiff County · remote
+- [Software Engineering Manager](https://www.reed.co.uk/jobs/software-engineering-manager/57078288) — DevOps / SRE · £70,000–£90,000/yr · Cardiff · hybrid
+- [Head of Software Engineering](https://www.adzuna.co.uk/jobs/details/5783384318?utm_medium=api&utm_source=a9508167) — Engineering Management · £90,000/yr · Groeswen, Cardiff
 
 ### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (2)
 
@@ -130,10 +138,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Solution Architect](https://www.linkedin.com/jobs/view/4400629283/) — Cardiff, Wales, United Kingdom
 - [Systems Engineering Manager](https://www.linkedin.com/jobs/view/4401302727/) — Cardiff, Wales, United Kingdom · hybrid
 
-### [Arcadis](https://jobs.winterchill.xyz/?employer=Arcadis) (2)
+### [ASSA ABLOY Group](https://jobs.winterchill.xyz/?employer=ASSA%20ABLOY%20Group) (2)
 
-- [Associate Technical Director - Mechanical (Water)](https://www.linkedin.com/jobs/view/4385454667/) — Cardiff, Wales, United Kingdom
-- [Associate Technical Director - Rail E&P](https://www.linkedin.com/jobs/view/4402483471/) — Cardiff, Wales, United Kingdom
+- [Staff Engineer Biometrics DevTest](https://uk.indeed.com/viewjob?jk=8bd38bd147deefa9) — Cardiff, United Kingdom
+- [Staff Engineer](https://uk.indeed.com/viewjob?jk=22968eb48cac8c4c) — Cardiff, United Kingdom
+
+### [Bezos.AI](https://jobs.winterchill.xyz/?employer=Bezos.AI) (2)
+
+- [Graduate Business Operations Associate](https://www.linkedin.com/jobs/view/4434315557/) — £30,000–£40,000/yr · Cardiff, Wales, United Kingdom
+- [Business Operations Manager](https://www.linkedin.com/jobs/view/4434454218/) — Cardiff, Wales, United Kingdom
+
+### [Borley Engineering Services](https://jobs.winterchill.xyz/?employer=Borley%20Engineering%20Services) (2)
+
+- [Deputy Estates Manager](https://uk.indeed.com/viewjob?jk=b0298f642cc44312) — £33,000–£36,000/yr · Cardiff, United Kingdom
+- [Estates Assistant](https://uk.indeed.com/viewjob?jk=0640c281814c4af0) — £28,000–£30,000/yr · Cardiff, United Kingdom
 
 ### [F5](https://jobs.winterchill.xyz/?employer=F5) (2)
 
@@ -150,6 +168,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Java Developer](https://www.adzuna.co.uk/jobs/details/5775743791?utm_medium=api&utm_source=a9508167) — Backend · £75,000/yr · Cardiff, Cardiff County
 - [Software Engineer](https://www.adzuna.co.uk/jobs/details/5775167996?utm_medium=api&utm_source=a9508167) — £75,000/yr · Cardiff, Cardiff County
 
+### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (2)
+
+- [Graduate Pricing Analyst](https://www.linkedin.com/jobs/view/4435546190/) — Cardiff, Wales, United Kingdom · remote
+- [Senior Data Engineer (Tech)](https://www.linkedin.com/jobs/view/4435533549/) — Cardiff, Wales, United Kingdom
+
 ### [HM Revenue & Customs](https://jobs.winterchill.xyz/?employer=HM%20Revenue%20%26%20Customs) (2)
 
 - [Deputy Director, Customer Support & Resolution](https://www.linkedin.com/jobs/view/4430617855/) — £81,000/yr · Cardiff, Wales, United Kingdom
@@ -159,6 +182,16 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Edge AI Engineer](https://www.linkedin.com/jobs/view/4432202153/) — Backend · Cardiff, Wales, United Kingdom
 - [Senior FPGA Engineer](https://www.linkedin.com/jobs/view/4430176070/) — Embedded / Robotics · Cardiff, Wales, United Kingdom
+
+### [IntaPeople: STEM Recruitment](https://jobs.winterchill.xyz/?employer=IntaPeople%3A%20STEM%20Recruitment) (2)
+
+- [Client Delivery Manager](https://www.linkedin.com/jobs/view/4431915461/) — £75,000–£80,000/yr · Cardiff, Wales, United Kingdom · hybrid
+- [Lead Web Developer](https://www.linkedin.com/jobs/view/4431588689/) — £55,000–£60,000/yr · Cardiff, Wales, United Kingdom
+
+### [International Baccalaureate](https://jobs.winterchill.xyz/?employer=International%20Baccalaureate) (2)
+
+- [Senior Systems Engineer (Azure)](https://www.linkedin.com/jobs/view/4406605861/) — £40,000–£50,000/yr · Cardiff, Wales, United Kingdom · hybrid
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4433329628/) — Backend · £50,000/yr · Cardiff, Wales, United Kingdom · hybrid
 
 ### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (2)
 
@@ -174,6 +207,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Engineering Leader – Performance Software (UK)](https://www.adzuna.co.uk/jobs/details/5755550610?utm_medium=api&utm_source=a9508167) — Platform / Infrastructure · £60,000–£100,000/yr · Cathays, Cardiff
 - [Software Engineer - Cardiff - United Kingdom](https://www.adzuna.co.uk/jobs/details/5075018436?utm_medium=api&utm_source=a9508167) — Backend · £50,000–£70,000/yr · Cathays, Cardiff
+
+### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (2)
+
+- [Senior / Lead Software Engineer (Python, Django) - Cardiff, UK](https://www.adzuna.co.uk/jobs/land/ad/5783962590?se=SAkdgoN18RGwMvuqxXHvVQ&utm_medium=api&utm_source=a9508167&v=8EEFB94A7D97B7DA469E2E06511A2DEA04FB64AC) — Backend · £156,000–£195,000/yr · Grangetown, Cardiff · hybrid
+- [DevOps Engineer - Azure](https://www.adzuna.co.uk/jobs/land/ad/5748260688?se=pCeAsfVz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=a9508167&v=CE5DB530F243605859CBEA238794D2FA9D9426E4) — DevOps / SRE · £45,000–£65,000/yr · Grangetown, Cardiff · hybrid
 
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (2)
 
@@ -192,40 +230,38 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Stantec](https://jobs.winterchill.xyz/?employer=Stantec) (2)
 
-- [Senior Principal Civil Engineer (Water)](https://www.linkedin.com/jobs/view/4366060853/) — Cardiff, Wales, United Kingdom
+- [Principal Civil Engineer - Water](https://www.linkedin.com/jobs/view/4314768814/) — Cardiff, Wales, United Kingdom
 - [Senior / Principal Structural Engineer](https://www.linkedin.com/jobs/view/4383930501/) — Cardiff, Wales, United Kingdom
-
-### [VIQU IT Recruitment](https://jobs.winterchill.xyz/?employer=VIQU%20IT%20Recruitment) (2)
-
-- [Data Engineer](https://www.adzuna.co.uk/jobs/details/5781383996?utm_medium=api&utm_source=a9508167) — Data Engineering · £109,200–£117,000/yr · Cardiff, Cardiff County · remote
-- [Head of Software Engineering](https://www.adzuna.co.uk/jobs/land/ad/5782304668?se=_DqgTLp08RG2jLGQagABMA&utm_medium=api&utm_source=a9508167&v=8A460DCF4DBACBDA362D96D8AD32FF8865418341) — Engineering Management · £90,000/yr · Nantgarw, Cardiff · hybrid
 
 ### [Vivo Talent](https://jobs.winterchill.xyz/?employer=Vivo%20Talent) (2)
 
-- [Lead Frontend Developer](https://www.adzuna.co.uk/jobs/details/5761469389?utm_medium=api&utm_source=a9508167) — Backend · £40,000–£70,000/yr · Grangetown, Cardiff · hybrid
-- [Senior Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5761469429?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Grangetown, Cardiff · hybrid
+- [Lead Frontend Developer](https://www.adzuna.co.uk/jobs/land/ad/5761469389?se=_OaYg4N18RGwMvuqxXHvVQ&utm_medium=api&utm_source=a9508167&v=F37D6EB856C795B5DB60A65DA4FC6666C1B5924C) — Backend · £40,000–£70,000/yr · Grangetown, Cardiff · hybrid
+- [Senior Cloud Engineer](https://www.adzuna.co.uk/jobs/land/ad/5761469429?se=wjulhIN18RG075onbIWOaw&utm_medium=api&utm_source=a9508167&v=AB0B3BDEFD127006882BFF85B7048C26F3C3DFBA) — DevOps / SRE · Grangetown, Cardiff · hybrid
 
 ### [Welsh Revenue Authority](https://jobs.winterchill.xyz/?employer=Welsh%20Revenue%20Authority) (2)
 
 - [Senior CyberSecurity Analyst - Vulnerabilities Manager](https://uk.indeed.com/viewjob?jk=bcf95d336e226a66) — £47,675–£56,445/yr · Cardiff, United Kingdom
 - [Senior Data Engineer and Data Manager](https://uk.indeed.com/viewjob?jk=d7d777cd0b370bd5) — £47,675–£56,445/yr · Cardiff, United Kingdom
 
-### [Yolk Recruitment](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment) (2)
-
-- [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-yolk-recruitment-cardiff) — Data Engineering · £47,675/yr · Cardiff, Cymru / Wales · hybrid
-- [Dynamics Developer](https://www.adzuna.co.uk/jobs/details/5769209453?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £45,000/yr · Splott, Cardiff
-
 ### [83zero Limited](https://jobs.winterchill.xyz/?employer=83zero%20Limited) (1)
 
 - [Senior JavaScript Developer](https://www.adzuna.co.uk/jobs/details/5733622964?utm_medium=api&utm_source=a9508167) — Backend · £80,000/yr · Cardiff, Cardiff County · hybrid
 
+### [Admiral Group Plc](https://jobs.winterchill.xyz/?employer=Admiral%20Group%20Plc) (1)
+
+- [Graduate Pricing Analyst](https://www.linkedin.com/jobs/view/4434150485/) — Cardiff, Wales, United Kingdom
+
+### [Advanced Secure Technologies | B Corp™](https://jobs.winterchill.xyz/?employer=Advanced%20Secure%20Technologies%20%7C%20B%20Corp%E2%84%A2) (1)
+
+- [Business Development Executive](https://www.linkedin.com/jobs/view/4434231061/) — £24,800–£28,000/yr · Cardiff, Wales, United Kingdom
+
+### [Anna](https://jobs.winterchill.xyz/?employer=Anna) (1)
+
+- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=da4d15972e39da36) — Cardiff, United Kingdom · 🛂 visa sponsor
+
 ### [Arjo](https://jobs.winterchill.xyz/?employer=Arjo) (1)
 
 - [Software Engineer-UK, Cardiff](https://uk.indeed.com/viewjob?jk=87303b9256aa8f5f) — Cardiff, United Kingdom
-
-### [ASSA ABLOY Group](https://jobs.winterchill.xyz/?employer=ASSA%20ABLOY%20Group) (1)
-
-- [Staff Engineer](https://uk.indeed.com/viewjob?jk=22968eb48cac8c4c) — Cardiff, United Kingdom
 
 ### [Azets](https://jobs.winterchill.xyz/?employer=Azets) (1)
 
@@ -243,13 +279,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graduate Business Operations Associate](https://uk.indeed.com/viewjob?jk=d620147ce810a774) — £30,000–£40,000/yr · Cardiff, United Kingdom · remote
 
-### [Bezos.AI](https://jobs.winterchill.xyz/?employer=Bezos.AI) (1)
+### [Box UK Limited](https://jobs.winterchill.xyz/?employer=Box%20UK%20Limited) (1)
 
-- [Business Operations Manager](https://www.linkedin.com/jobs/view/4434454218/) — Cardiff, Wales, United Kingdom
-
-### [Borley Engineering Services](https://jobs.winterchill.xyz/?employer=Borley%20Engineering%20Services) (1)
-
-- [Planner](https://uk.indeed.com/viewjob?jk=d181e207e3e0d69c) — £40,000–£50,000/yr · Cardiff, United Kingdom
+- [Senior Developer - Drupal](https://uk.indeed.com/viewjob?jk=d9d0140d4dafe99e) — Up to £55,000/yr · Cardiff, United Kingdom
 
 ### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (1)
 
@@ -283,6 +315,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Associate, Analyst NAA Operations CoE, Audit and Assurance - 12 Month FTC/ Secondment](https://uk.indeed.com/viewjob?jk=2b5a6ba581f33c87) — Cardiff, United Kingdom
 
+### [Drayton](https://jobs.winterchill.xyz/?employer=Drayton) (1)
+
+- [Operations Director](https://www.linkedin.com/jobs/view/4433304640/) — Cardiff, Wales, United Kingdom
+
 ### [DSV](https://jobs.winterchill.xyz/?employer=DSV) (1)
 
 - [Senior Analytics Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5773747700?se=UhdYd8xw8RGem4TAUNlqXw&utm_medium=api&utm_source=a9508167&v=9362D5615CB188260B82E6058E7931C0DFB5FE65) — Grangetown, Cardiff
@@ -291,17 +327,41 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [SOC Analyst](https://uk.indeed.com/viewjob?jk=7bb75100cd8df6c6) — £52,793–£62,032/yr · Cardiff, United Kingdom
 
+### [ENJET MEDIA](https://jobs.winterchill.xyz/?employer=ENJET%20MEDIA) (1)
+
+- [Web Developer](https://www.glassdoor.com/job-listing/web-developer-enjet-media-JV_IC3788778_KO0,13_KE14,25.htm?jl=1010181023965) — $35–$50/hr · Cardiff-by-the-Sea, CA · hybrid
+
+### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
+
+- [C++ Software Engineer I - ArcGIS Maps SDKs for Native Apps](https://www.adzuna.co.uk/jobs/details/5777924029?utm_medium=api&utm_source=a9508167) — £30,870–£50,400/yr · Cardiff, Cardiff County · 🛂 visa sponsor
+
+### [Expanded](https://jobs.winterchill.xyz/?employer=Expanded) (1)
+
+- [Project Engineer (Site Agent)](https://www.linkedin.com/jobs/view/4375741989/) — Cardiff, Wales, United Kingdom
+
 ### [FitPro Lead Gen](https://jobs.winterchill.xyz/?employer=FitPro%20Lead%20Gen) (1)
 
 - [Marketing & Lead Generation Executive](https://uk.indeed.com/viewjob?jk=35bcd9bdfc26da39) — £27,000–£29,000/yr · Cardiff, United Kingdom
+
+### [g2 Recruitment](https://jobs.winterchill.xyz/?employer=g2%20Recruitment) (1)
+
+- [Graduate Recruiter](https://www.linkedin.com/jobs/view/4431963114/) — £25,000–£26,000/yr · Cardiff, Wales, United Kingdom
 
 ### [Get2Talent](https://jobs.winterchill.xyz/?employer=Get2Talent) (1)
 
 - [Java Full Stack Developer](https://www.adzuna.co.uk/jobs/details/5733889706?utm_medium=api&utm_source=a9508167) — Backend · £70,000/yr · Cardiff, Cardiff County
 
+### [Grosvenor Casinos](https://jobs.winterchill.xyz/?employer=Grosvenor%20Casinos) (1)
+
+- [Trainee Dealer](https://www.linkedin.com/jobs/view/4433845695/) — Cardiff, Wales, United Kingdom
+
 ### [growth-stage PropTech platform](https://jobs.winterchill.xyz/?employer=growth-stage%20PropTech%20platform) (1)
 
 - [Implementation Specialist at growth-stage PropTech platform](https://www.linkedin.com/jobs/view/4419280525/) — Solutions / Customer Engineering · £35,000–£40,000/yr · Cardiff, Wales, United Kingdom
+
+### [Hays](https://jobs.winterchill.xyz/?employer=Hays) (1)
+
+- [Design Manager](https://www.linkedin.com/jobs/view/4431917832/) — Cardiff, Wales, United Kingdom · hybrid
 
 ### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
 
@@ -315,6 +375,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Electrical Engineer](https://www.linkedin.com/jobs/view/4431529044/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
+### [Hugh James](https://jobs.winterchill.xyz/?employer=Hugh%20James) (1)
+
+- [Associate - Commercial Property](https://uk.indeed.com/viewjob?jk=ca209f11373cb5d3) — Cardiff, United Kingdom
+
 ### [Hunter Selection](https://jobs.winterchill.xyz/?employer=Hunter%20Selection) (1)
 
 - [Embedded Software Engineer](https://www.adzuna.co.uk/jobs/details/5761524437?utm_medium=api&utm_source=a9508167) — Embedded / Robotics · £40,000–£45,000/yr · Grangetown, Cardiff
@@ -325,15 +389,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Infosec](https://jobs.winterchill.xyz/?employer=Infosec) (1)
 
-- [Senior AI Software Engineer (GenAI)](https://www.adzuna.co.uk/jobs/details/5782250825?utm_medium=api&utm_source=a9508167) — Backend · £130,000–£182,000/yr · Grangetown, Cardiff
-
-### [IntaPeople: STEM Recruitment](https://jobs.winterchill.xyz/?employer=IntaPeople%3A%20STEM%20Recruitment) (1)
-
-- [Client Delivery Manager](https://www.linkedin.com/jobs/view/4431915461/) — £75,000–£80,000/yr · Cardiff, Wales, United Kingdom · hybrid
-
-### [International Baccalaureate](https://jobs.winterchill.xyz/?employer=International%20Baccalaureate) (1)
-
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4433329628/) — Backend · £50,000/yr · Cardiff, Wales, United Kingdom · hybrid
+- [Senior AI Software Engineer (GenAI)](https://www.adzuna.co.uk/jobs/details/5782396386?utm_medium=api&utm_source=a9508167) — Backend · £130,000–£182,000/yr · Cardiff, Cardiff County
 
 ### [iungo Academy](https://jobs.winterchill.xyz/?employer=iungo%20Academy) (1)
 
@@ -367,13 +423,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Electrical Engineer -Substations](https://www.linkedin.com/jobs/view/4423361927/) — Cardiff, Wales, United Kingdom · hybrid
 
+### [MS-Group Limited](https://jobs.winterchill.xyz/?employer=MS-Group%20Limited) (1)
+
+- [Junior Graphic Designer / Project Manager](https://www.linkedin.com/jobs/view/4433486709/) — Cardiff, Wales, United Kingdom
+
+### [NHS Wales Shared Services Partnership](https://jobs.winterchill.xyz/?employer=NHS%20Wales%20Shared%20Services%20Partnership) (1)
+
+- [Newly Qualified / Junior Inquest Lawyer](https://www.linkedin.com/jobs/view/4434998953/) — Cardiff, Wales, United Kingdom
+
 ### [Opus Recruitment Solutions Ltd](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions%20Ltd) (1)
 
 - [Senior Databricks Engineer](https://www.reed.co.uk/jobs/senior-databricks-engineer/56918307) — Data Engineering · Cardiff · hybrid
-
-### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (1)
-
-- [DevOps Engineer - Azure](https://www.adzuna.co.uk/jobs/land/ad/5748260688?se=pCeAsfVz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=a9508167&v=CE5DB530F243605859CBEA238794D2FA9D9426E4) — DevOps / SRE · £45,000–£65,000/yr · Grangetown, Cardiff · hybrid
 
 ### [Redkite Solicitors](https://jobs.winterchill.xyz/?employer=Redkite%20Solicitors) (1)
 
@@ -407,21 +467,29 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior DevOps Cloud Engineer](https://www.adzuna.co.uk/jobs/details/5723137114?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £50,000/yr · Cardiff, Cardiff County · hybrid
 
+### [Target Group](https://jobs.winterchill.xyz/?employer=Target%20Group) (1)
+
+- [1st Line IT Service Desk & Operations Technician (Shift)](https://www.linkedin.com/jobs/view/4434616418/) — £24,784/yr · Cardiff, Wales, United Kingdom · hybrid
+
 ### [VIQU IT](https://jobs.winterchill.xyz/?employer=VIQU%20IT) (1)
 
-- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5764222561?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £104,000–£130,000/yr · Grangetown, Cardiff · remote
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5764222561?se=wjulhIN18RG075onbIWOaw&utm_medium=api&utm_source=a9508167&v=DB3A7A2622360262BF5C8A8D5A17DFE85DF112E5) — DevOps / SRE · £104,000–£130,000/yr · Grangetown, Cardiff · remote
 
 ### [VIQU Limited](https://jobs.winterchill.xyz/?employer=VIQU%20Limited) (1)
 
 - [Data Engineer](https://www.adzuna.co.uk/jobs/details/5781145535?utm_medium=api&utm_source=a9508167) — Data Engineering · £78,000–£84,500/yr · Grangetown, Cardiff · remote
 
-### [Vulcain Engineering - UK](https://jobs.winterchill.xyz/?employer=Vulcain%20Engineering%20-%20UK) (1)
+### [Walker & Sloan Ltd | Certified B Corp](https://jobs.winterchill.xyz/?employer=Walker%20%26%20Sloan%20Ltd%20%7C%20Certified%20B%20Corp) (1)
 
-- [Principal & Senior Geotechnical Engineer](https://www.linkedin.com/jobs/view/4430214383/) — Cardiff, Wales, United Kingdom
+- [Head of Data and Analytics](https://www.linkedin.com/jobs/view/4431912184/) — Cardiff, Wales, United Kingdom
 
 ### [WILLMOTT DIXON](https://jobs.winterchill.xyz/?employer=WILLMOTT%20DIXON) (1)
 
 - [Senior Planner](https://uk.indeed.com/viewjob?jk=c92670e92393a9a8) — Cardiff, United Kingdom
+
+### [Yolk Recruitment](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment) (1)
+
+- [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-yolk-recruitment-cardiff) — Data Engineering · £47,675/yr · Cardiff, Cymru / Wales · hybrid
 
 ### [Yolk Recruitment Limited](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment%20Limited) (1)
 
