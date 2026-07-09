@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**262 open roles** · updated 2026-07-08
+**263 open roles** · updated 2026-07-09
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -18,8 +18,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal AI Engineer](https://www.linkedin.com/jobs/view/4433482443/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer / Senior Software Developer](https://www.linkedin.com/jobs/view/4432650809/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
-### [Goldman Sachs](https://jobs.winterchill.xyz/?employer=Goldman%20Sachs) (7)
+### [Goldman Sachs](https://jobs.winterchill.xyz/?employer=Goldman%20Sachs) (8)
 
+- [Asset & Wealth Management - Full-Stack (Java) Software Engineer - Associate/Vice President - Birmingham](https://higher.gs.com/roles/173971_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Asset & Wealth Management - Software Engineer - Associate - Birmingham](https://higher.gs.com/roles/154094_GS_EARLY_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Internal Audit - Front End Engineer - Analyst / Associate - Birmingham,](https://higher.gs.com/roles/175475_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Software Engineer \| Associate \| Birmingham \| 2026](https://higher.gs.com/roles/157072_GS_EARLY_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
@@ -28,14 +29,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Asset & Wealth Management - Software Engineer, AI Platform and Services - Associate - Birmingham](https://higher.gs.com/roles/173968_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Asset & Wealth Management - Money Movement & Payment Rails, Software Engineering - Vice President - Birmingham](https://higher.gs.com/roles/173965_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 
-### [Inspired Thinking Group](https://jobs.winterchill.xyz/?employer=Inspired%20Thinking%20Group) (6)
+### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (6)
 
-- [Graduate Data Administrator](https://www.linkedin.com/jobs/view/4435175177/) — Birmingham, England, United Kingdom
-- [Lead Copywriter (SEO & GEO)](https://uk.indeed.com/viewjob?jk=2856a1e8f2404258) — Research / Applied Science · Birmingham, United Kingdom
-- [Solutions Architect](https://www.linkedin.com/jobs/view/4433338700/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Lead Java Developer](https://www.linkedin.com/jobs/view/4433355090/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Lead Java Developer (3-6 Month Contract)](https://www.linkedin.com/jobs/view/4432559633/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Lead Frontend Developer](https://www.linkedin.com/jobs/view/4432558554/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Principal Solutions Engineer](https://www.linkedin.com/jobs/view/4435455379/) — Platform / Infrastructure · £65,000–£75,000/yr · Birmingham, England, United Kingdom
+- [.NET Developer](https://www.linkedin.com/jobs/view/4435453582/) — Backend · £50,000–£60,000/yr · Birmingham, England, United Kingdom
+- [HubSpot Solutions Engineer](https://www.reed.co.uk/jobs/hubspot-solutions-engineer/56942601) — £45,000–£60,000/yr · Birmingham · hybrid
+- [SQL Developer](https://www.linkedin.com/jobs/view/4435463064/) — Backend · £45,000–£50,000/yr · Birmingham, England, United Kingdom
+- [AI Prompt Engineer](https://www.linkedin.com/jobs/view/4435041709/) — Up to £50,000/yr · Birmingham, England, United Kingdom
+- [SQL Support Engineer](https://www.linkedin.com/jobs/view/4433459818/) — £45,000–£50,000/yr · Birmingham, England, United Kingdom
 
 ### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (6)
 
@@ -46,44 +47,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Security-Engineer_JR_17662/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer - AWS](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer---AWS_JR_17658/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 
-### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (5)
+### [Inspired Thinking Group](https://jobs.winterchill.xyz/?employer=Inspired%20Thinking%20Group) (5)
 
-- [Principal Solutions Engineer](https://www.linkedin.com/jobs/view/4435455379/) — Platform / Infrastructure · £65,000–£75,000/yr · Birmingham, England, United Kingdom
-- [.NET Developer](https://www.linkedin.com/jobs/view/4435453582/) — Backend · £50,000–£60,000/yr · Birmingham, England, United Kingdom
-- [HubSpot Solutions Engineer](https://www.reed.co.uk/jobs/hubspot-solutions-engineer/56942601) — £45,000–£60,000/yr · Birmingham · hybrid
-- [SQL Developer](https://www.linkedin.com/jobs/view/4435463064/) — Backend · £45,000–£50,000/yr · Birmingham, England, United Kingdom
-- [AI Prompt Engineer](https://www.linkedin.com/jobs/view/4435041709/) — Up to £50,000/yr · Birmingham, England, United Kingdom
-
-### [NTT Data](https://jobs.winterchill.xyz/?employer=NTT%20Data) (5)
-
-- [Network Engineer](https://nttdata.jobs/vacancies/7273?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
-- [Unix / Linux Engineer](https://nttdata.jobs/vacancies/7313?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
-- [IT Cloud Infrastructure Engineer](https://nttdata.jobs/vacancies/7270?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
-- [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
-- [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
+- [Graduate Data Administrator](https://www.linkedin.com/jobs/view/4435175177/) — Birmingham, England, United Kingdom
+- [Java Developer](https://www.linkedin.com/jobs/view/4432543993/) — Backend · Birmingham, England, United Kingdom
+- [Solutions Architect](https://www.linkedin.com/jobs/view/4433338700/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Lead Java Developer](https://www.linkedin.com/jobs/view/4433355090/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Lead Java Developer (3-6 Month Contract)](https://www.adzuna.co.uk/jobs/details/5741316662?utm_medium=api&utm_source=a9508167) — Backend · Birmingham, West Midlands
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
+- [Software Engineer, iOS Core Product - Birmingham, United Kingdom](https://www.adzuna.co.uk/jobs/details/5711938746?utm_medium=api&utm_source=a9508167) — Mobile · Birmingham, West Midlands
 - [Senior Software Engineer, Core Experiences - Birmingham, United Kingdom](https://www.adzuna.co.uk/jobs/details/5716220391?utm_medium=api&utm_source=a9508167) — Backend · Birmingham, West Midlands
 - [Software Engineer, Platform - Birmingham, United Kingdom](https://www.adzuna.co.uk/jobs/details/5716225051?utm_medium=api&utm_source=a9508167) — Mobile · Birmingham, West Midlands
-- [Software Engineer, iOS Core Product - Birmingham, United Kingdom](https://uk.indeed.com/viewjob?jk=cda07e886082c96a) — Backend · Birmingham, United Kingdom · remote
 - [Senior Software Engineer, Windows/Desktop Applications - Birmingham, United Kingdom](https://www.adzuna.co.uk/jobs/details/5706058145?utm_medium=api&utm_source=a9508167) — Mobile · Birmingham, West Midlands
 - [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://www.adzuna.co.uk/jobs/details/5720904706?utm_medium=api&utm_source=a9508167) — Mobile · Birmingham, West Midlands
-
-### [West Midlands Combined Authority](https://jobs.winterchill.xyz/?employer=West%20Midlands%20Combined%20Authority) (5)
-
-- [Equality, Diversity and Inclusion (EDI) Officer](https://uk.indeed.com/viewjob?jk=1dbca12022e36ab5) — £44,182–£49,061/yr · Birmingham, United Kingdom
-- [Project Officer (OPSI)](https://uk.indeed.com/viewjob?jk=01f1fd0798b13d9a) — £40,539–£45,342/yr · Birmingham, United Kingdom
-- [Technical Writer](https://uk.indeed.com/viewjob?jk=7be5e79c0485a39b) — £40,539–£45,342/yr · Birmingham, United Kingdom
-- [Ticketing Services Executive](https://uk.indeed.com/viewjob?jk=18810e91e23c6f0c) — £30,579–£34,780/yr · Birmingham, United Kingdom
-- [Apprentice Data Engineer](https://uk.indeed.com/viewjob?jk=079fa71858f3dbf2) — Data Engineering · £26,761–£29,624/yr · Birmingham, United Kingdom · hybrid
-
-### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (4)
-
-- [Senior Wastewater Modeller](https://uk.indeed.com/viewjob?jk=1f807e7a10e32691) — Birmingham, United Kingdom · hybrid
-- [Principal Hydrologist](https://uk.indeed.com/viewjob?jk=d5e33ce68782f0fd) — Birmingham, United Kingdom · hybrid
-- [Senior Project Manager (Construction Consultancy)](https://uk.indeed.com/viewjob?jk=8f8b509bcc96a36e) — Birmingham, United Kingdom · hybrid
-- [Relocate to Australia: Data Centre - Electrical Engineering, Associate Director](https://www.adzuna.co.uk/jobs/details/5751289075?utm_medium=api&utm_source=a9508167) — Birmingham, West Midlands · 🛂 visa sponsor
 
 ### [Arup](https://jobs.winterchill.xyz/?employer=Arup) (4)
 
@@ -91,6 +69,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Digital Energy Market Lead](https://www.linkedin.com/jobs/view/4435221471/) — Birmingham, England, United Kingdom
 - [Transport Modeller](https://www.linkedin.com/jobs/view/4435044828/) — Birmingham, England, United Kingdom
 - [Senior Azure Cloud Engineer](https://www.linkedin.com/jobs/view/4416423683/) — DevOps / SRE · Birmingham, England, United Kingdom
+
+### [Birmingham City Council](https://jobs.winterchill.xyz/?employer=Birmingham%20City%20Council) (4)
+
+- [Technical Analyst](https://www.linkedin.com/jobs/view/4435231293/) — £45,091–£53,460/yr · Birmingham, England, United Kingdom
+- [Senior User Research](https://www.linkedin.com/jobs/view/4432610608/) — £45,091–£53,460/yr · Birmingham, England, United Kingdom
+- [Associate Software Engineer](https://www.linkedin.com/jobs/view/4435231306/) — Backend · £28,598–£34,434/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Associate Business Analyst](https://www.linkedin.com/jobs/view/4431468899/) — £28,598–£34,434/yr · Birmingham, England, United Kingdom
+
+### [NTT Data](https://jobs.winterchill.xyz/?employer=NTT%20Data) (4)
+
+- [Network Engineer](https://nttdata.jobs/vacancies/7273?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
+- [Unix / Linux Engineer](https://nttdata.jobs/vacancies/7313?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
+- [IT Cloud Infrastructure Engineer](https://nttdata.jobs/vacancies/7270?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
+- [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (4)
 
@@ -102,8 +94,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [SCC](https://jobs.winterchill.xyz/?employer=SCC) (4)
 
 - [Junior DBA](https://www.linkedin.com/jobs/view/4433035014/) — £35,000–£42,000/yr · Birmingham, England, United Kingdom
-- [Solution Architect - AI Enterprise](https://www.linkedin.com/jobs/view/4424289729/) — Birmingham, England, United Kingdom
 - [Sales Specialist - ENT AI Infrastructure](https://www.linkedin.com/jobs/view/4424301042/) — DevOps / SRE · Birmingham, England, United Kingdom
+- [Solution Architect - AI Enterprise](https://www.linkedin.com/jobs/view/4424026147/) — Birmingham, England, United Kingdom
 - [Data Security Engineer - Cyber](https://www.linkedin.com/jobs/view/4401882063/) — Data Engineering · Birmingham, England, United Kingdom · hybrid
 
 ### [Talan](https://jobs.winterchill.xyz/?employer=Talan) (4)
@@ -113,11 +105,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Data Scientist (Classical ML, LLMs & AI Agents)](https://www.linkedin.com/jobs/view/4436379074/) — Backend · Birmingham, England, United Kingdom
 - [AI Engineer  (LLMs, Agents & Applied Data Science)](https://www.linkedin.com/jobs/view/4436383025/) — Backend · Birmingham, England, United Kingdom
 
-### [Birmingham City Council](https://jobs.winterchill.xyz/?employer=Birmingham%20City%20Council) (3)
+### [The PNC Financial Services Group, Inc.](https://jobs.winterchill.xyz/?employer=The%20PNC%20Financial%20Services%20Group%2C%20Inc.) (4)
 
-- [Technical Analyst](https://www.linkedin.com/jobs/view/4435231293/) — £45,091–£53,460/yr · Birmingham, England, United Kingdom
-- [Senior User Research](https://www.linkedin.com/jobs/view/4432610608/) — £45,091–£53,460/yr · Birmingham, England, United Kingdom
-- [Associate Software Engineer](https://www.linkedin.com/jobs/view/4435231306/) — Backend · £28,598–£34,434/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineering Group Manager - Site Reliability Center](https://www.glassdoor.com/job-listing/software-engineering-group-manager-site-reliability-center-pnc-financial-services-group-JV_IC1127429_KO0,58_KE59,87.htm?jl=1010181465308) — $146,300/yr · Birmingham, AL
+- [Infrastructure Engineer Sr., Network Platform Engineer, CISCO](https://www.glassdoor.com/job-listing/infrastructure-engineer-sr-network-platform-engineer-cisco-pnc-financial-services-group-JV_IC1127429_KO0,58_KE59,87.htm?jl=1010188160135) — $91,000/yr · Birmingham, AL
+- [Software Engineer Lead-3 - Java, Spring boot, Kafka](https://www.glassdoor.com/job-listing/software-engineer-lead-3-java-spring-boot-kafka-pnc-financial-services-group-JV_IC1127429_KO0,47_KE48,76.htm?jl=1010190108836) — $67,500/yr · Birmingham, AL
+- [Business Analytics Consultant Senior](https://www.glassdoor.com/job-listing/business-analytics-consultant-senior-pnc-financial-services-group-JV_IC1127429_KO0,36_KE37,65.htm?jl=1010189602001) — Birmingham, AL · hybrid
+
+### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (4)
+
+- [Assistant Signal Sighting Engineer](https://www.linkedin.com/jobs/view/4414629580/) — Birmingham, England, United Kingdom
+- [Senior Engineer - Clean Water Modelling](https://www.linkedin.com/jobs/view/4426354847/) — Birmingham, England, United Kingdom
+- [Principal Structural Engineer – Underground Structures](https://www.linkedin.com/jobs/view/4340131685/) — Birmingham, England, United Kingdom
+- [PHP Software Developer](https://www.linkedin.com/jobs/view/4433875617/) — Backend · Birmingham, England, United Kingdom
 
 ### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (3)
 
@@ -125,11 +125,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [ServiceNow Developer](https://www.linkedin.com/jobs/view/4435334757/) — Solutions / Customer Engineering · Birmingham, England, United Kingdom · 🛂 visa sponsor
 - [Cloud Native Architect](https://www.linkedin.com/jobs/view/4432030493/) — Backend · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [CODE FIRST GIRLS](https://jobs.winterchill.xyz/?employer=CODE%20FIRST%20GIRLS) (3)
+### [Code First Girls](https://jobs.winterchill.xyz/?employer=Code%20First%20Girls) (3)
 
-- [Python Engineer](https://uk.indeed.com/viewjob?jk=277b21ddc8e0dee2) — Backend · Birmingham, United Kingdom
-- [JavaScript Engineer](https://uk.indeed.com/viewjob?jk=cef1a11ecbae9367) — Backend · Birmingham, United Kingdom
-- [Java Engineer](https://uk.indeed.com/viewjob?jk=1d5b6baff4950952) — Backend · Birmingham, United Kingdom
+- [JavaScript Engineer](https://www.adzuna.co.uk/jobs/details/5671805833?utm_medium=api&utm_source=a9508167) — Deritend, Birmingham
+- [Python Engineer](https://www.adzuna.co.uk/jobs/details/5580332981?utm_medium=api&utm_source=a9508167) — Deritend, Birmingham
+- [Java Engineer](https://www.adzuna.co.uk/jobs/details/5555213099?utm_medium=api&utm_source=a9508167) — Backend · Deritend, Birmingham
 
 ### [eFinancialCareers](https://jobs.winterchill.xyz/?employer=eFinancialCareers) (3)
 
@@ -143,6 +143,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Developer Platforms Specialist](https://www.reed.co.uk/jobs/developer-platforms-specialist/56954261) — DevOps / SRE · £60,000–£65,000/yr · Birmingham
 - [AWS Engineer](https://www.reed.co.uk/jobs/aws-engineer/56987189) — DevOps / SRE · Birmingham · hybrid
 
+### [Jobster](https://jobs.winterchill.xyz/?employer=Jobster) (3)
+
+- [Graduate Technical Business Analyst, Data Warehouse Integration and Reporting, Birmingham - Studentjob.co.uk](https://www.linkedin.com/jobs/view/4435789455/) — Birmingham, England, United Kingdom
+- [Graduate Technical Business Analyst, Insurance Products, Birmingham - Studentjob.co.uk](https://www.linkedin.com/jobs/view/4434384085/) — Birmingham, England, United Kingdom
+- [Graduate Technical Business Analyst, Birmingham - Studentjob.co.uk](https://www.linkedin.com/jobs/view/4434375574/) — Birmingham, England, United Kingdom
+
+### [Robert Walters](https://jobs.winterchill.xyz/?employer=Robert%20Walters) (3)
+
+- [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-robert-walters-birmingham) — Data Engineering · £60,000–£70,000/yr · Birmingham, England · hybrid · 🛂 visa sponsor
+- [Senior Cyber Security Engineer](https://www.reed.co.uk/jobs/senior-cyber-security-engineer/57060116) — Security Engineering · £55,000–£65,000/yr · Birmingham · hybrid · 🛂 visa sponsor
+- [SAP Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5757526026?se=zgAx-6d48RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=E8D13FDECCAF782252F6F7D44BEFE610BEBE28CA) — Data Engineering · Birmingham, West Midlands · remote · 🛂 visa sponsor
+
 ### [RSM](https://jobs.winterchill.xyz/?employer=RSM) (3)
 
 - [Tax Technology Assistant Manager – AI & Automation](https://www.linkedin.com/jobs/view/4272065599/) — Birmingham, England, United Kingdom
@@ -155,28 +167,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Head of Engineering](https://www.reed.co.uk/jobs/head-of-engineering/56947604) — Data Engineering · £85,000–£110,000/yr · Birmingham · hybrid
 - [Head of Data Engineering](https://www.reed.co.uk/jobs/head-of-data-engineering/56951401) — Data Engineering · £95,000–£110,000/yr · Birmingham · remote
 
-### [The PNC Financial Services Group, Inc.](https://jobs.winterchill.xyz/?employer=The%20PNC%20Financial%20Services%20Group%2C%20Inc.) (3)
-
-- [Software Engineering Group Manager - Site Reliability Center](https://www.glassdoor.com/job-listing/software-engineering-group-manager-site-reliability-center-pnc-financial-services-group-JV_IC1127429_KO0,58_KE59,87.htm?jl=1010181465308) — $146,300/yr · Birmingham, AL
-- [Infrastructure Engineer Sr., Network Platform Engineer, CISCO](https://www.glassdoor.com/job-listing/infrastructure-engineer-sr-network-platform-engineer-cisco-pnc-financial-services-group-JV_IC1127429_KO0,58_KE59,87.htm?jl=1010188160135) — $91,000/yr · Birmingham, AL
-- [Business Analytics Consultant Senior](https://www.glassdoor.com/job-listing/business-analytics-consultant-senior-pnc-financial-services-group-JV_IC1127429_KO0,36_KE37,65.htm?jl=1010189602001) — Birmingham, AL · hybrid
-
 ### [VIQU IT Recruitment](https://jobs.winterchill.xyz/?employer=VIQU%20IT%20Recruitment) (3)
 
 - [Cyber Security Engineer](https://www.reed.co.uk/jobs/cyber-security-engineer/57021801) — Security Engineering · Birmingham · hybrid
 - [SQL Database Engineer](https://www.reed.co.uk/jobs/sql-database-engineer/56970289) — DevOps / SRE · Birmingham · hybrid
 - [Cloud Engineer](https://www.reed.co.uk/jobs/cloud-engineer/56941014) — DevOps / SRE · Birmingham · hybrid
 
-### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (3)
+### [West Midlands Combined Authority](https://jobs.winterchill.xyz/?employer=West%20Midlands%20Combined%20Authority) (3)
 
-- [Assistant Signal Sighting Engineer](https://www.linkedin.com/jobs/view/4414629580/) — Birmingham, England, United Kingdom
-- [Senior Engineer - Clean Water Modelling](https://www.linkedin.com/jobs/view/4426354847/) — Birmingham, England, United Kingdom
-- [PHP Software Developer](https://www.linkedin.com/jobs/view/4433875617/) — Backend · Birmingham, England, United Kingdom
-
-### [Applause IT Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Applause%20IT%20Recruitment%20Ltd) (2)
-
-- [Senior Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5761251474?se=pkKG-qd48RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=7DB47A60677DC685E6B512E2F2CD2EDC9ED0BB38) — Backend · £60,000–£70,000/yr · Balsall Heath, Birmingham · hybrid
-- [Software Engineer](https://www.adzuna.co.uk/jobs/details/5776021629?utm_medium=api&utm_source=a9508167) — Backend · £50,000–£60,000/yr · Greet, Birmingham
+- [Equality, Diversity and Inclusion (EDI) Officer](https://uk.indeed.com/viewjob?jk=1dbca12022e36ab5) — £44,182–£49,061/yr · Birmingham, United Kingdom
+- [Ticketing Services Executive](https://uk.indeed.com/viewjob?jk=18810e91e23c6f0c) — £30,579–£34,780/yr · Birmingham, United Kingdom
+- [Apprentice Data Engineer](https://uk.indeed.com/viewjob?jk=079fa71858f3dbf2) — Data Engineering · £26,761–£29,624/yr · Birmingham, United Kingdom · hybrid
 
 ### [Birmingham City University](https://jobs.winterchill.xyz/?employer=Birmingham%20City%20University) (2)
 
@@ -193,15 +194,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [DevOps Platform Engineer - Birmingham](https://www.adzuna.co.uk/jobs/land/ad/5772925107?se=sMMN_Kd48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=82760B127650CFA0470B8AE6369A858680BB3BC3) — DevOps / SRE · £60,000–£70,000/yr · Birmingham, West Midlands
 - [Senior DevOps Engineer - Birmingham](https://www.reed.co.uk/jobs/senior-devops-engineer-birmingham/56955002) — DevOps / SRE · £60,000–£70,000/yr · Birmingham · hybrid
 
+### [Colossus Recruitment](https://jobs.winterchill.xyz/?employer=Colossus%20Recruitment) (2)
+
+- [Cloud Architect](https://www.linkedin.com/jobs/view/4432805350/) — DevOps / SRE · Birmingham, England, United Kingdom
+- [Cloud Engineer](https://www.linkedin.com/jobs/view/4432810165/) — DevOps / SRE · Birmingham, England, United Kingdom
+
 ### [Corriculo Ltd](https://jobs.winterchill.xyz/?employer=Corriculo%20Ltd) (2)
 
 - [AI Software Engineer, Firebase, GCP, COR7557C](https://www.adzuna.co.uk/jobs/details/5775156752?utm_medium=api&utm_source=a9508167) — Backend · £100,000/yr · Birmingham, West Midlands
 - [Cloud Engineer, AWS, Terraform, COR7559D](https://www.adzuna.co.uk/jobs/details/5738950598?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £65,000/yr · Birmingham, West Midlands
-
-### [Department for Transport](https://jobs.winterchill.xyz/?employer=Department%20for%20Transport) (2)
-
-- [Estates Client Manager](https://uk.indeed.com/viewjob?jk=14c005c0aa594e57) — £57,515/yr · Birmingham, United Kingdom · remote
-- [Apprentice Data Engineer](https://uk.indeed.com/viewjob?jk=b9405139efa00f6b) — £30,485/yr · Birmingham, United Kingdom · remote
 
 ### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
 
@@ -233,6 +234,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Developer – ~Perm – Birmingham](https://www.linkedin.com/jobs/view/4423135961/) — Backend · £50,000–£80,000/yr · Birmingham, England, United Kingdom
 - [Senior Full stack Developer - Birmingham - Perm](https://www.adzuna.co.uk/jobs/land/ad/5768352362?se=BIDR-qd48RG_tsMh7GgleQ&utm_medium=api&utm_source=a9508167&v=8EF0FB084A36EBD70F82FF5EDECDF1FD914EA7A8) — Backend · £60,000–£80,000/yr · Balsall Heath, Birmingham
 
+### [Investigo](https://jobs.winterchill.xyz/?employer=Investigo) (2)
+
+- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5756540401?se=zgAx-6d48RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=55C063FB201AA896CAFAB9196E54E3598D8A0AC8) — Data Engineering · £45,000–£50,000/yr · Balsall Heath, Birmingham · 🛂 visa sponsor
+- [Data Architect](https://www.linkedin.com/jobs/view/4433088249/) — Data Engineering · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
 ### [Jacobs](https://jobs.winterchill.xyz/?employer=Jacobs) (2)
 
 - [Principal Renewable Energy Engineer - Energy Advisory](https://www.linkedin.com/jobs/view/4432346858/) — Birmingham, England, United Kingdom · 🛂 visa sponsor
@@ -252,16 +258,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Search Engineer](https://www.glassdoor.com/job-listing/search-engineer-motion-industries-JV_IC1127429_KO0,15_KE16,33.htm?jl=1010183152068) — Backend · Birmingham, AL · hybrid
 - [ML Search Engineer](https://www.glassdoor.com/job-listing/ml-search-engineer-motion-industries-JV_IC1127429_KO0,18_KE19,36.htm?jl=1010183152035) — Backend · Birmingham, AL · hybrid
-
-### [Rebel Recruitment](https://jobs.winterchill.xyz/?employer=Rebel%20Recruitment) (2)
-
-- [Principal Developer](https://www.adzuna.co.uk/jobs/details/5751482852?utm_medium=api&utm_source=a9508167) — Backend · £85,000/yr · Birmingham, West Midlands
-- [QA Engineer](https://www.adzuna.co.uk/jobs/details/5751482851?utm_medium=api&utm_source=a9508167) — QA / Test Automation · £45,000/yr · Birmingham, West Midlands
-
-### [Robert Walters](https://jobs.winterchill.xyz/?employer=Robert%20Walters) (2)
-
-- [Senior Cyber Security Engineer](https://www.reed.co.uk/jobs/senior-cyber-security-engineer/57060116) — Security Engineering · £55,000–£65,000/yr · Birmingham · hybrid · 🛂 visa sponsor
-- [SAP Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5757526026?se=zgAx-6d48RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=E8D13FDECCAF782252F6F7D44BEFE610BEBE28CA) — Data Engineering · Birmingham, West Midlands · remote · 🛂 visa sponsor
 
 ### [SF Partners Admin](https://jobs.winterchill.xyz/?employer=SF%20Partners%20Admin) (2)
 
@@ -288,10 +284,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [CLINICAL RESEARCH COORDINATOR II](https://www.glassdoor.com/job-listing/clinical-research-coordinator-ii-university-of-alabama-at-birmingham-JV_IC1127429_KO0,32_KE33,68.htm?jl=1010184879373) — $50,050–$81,330/yr · Birmingham, AL · hybrid
 - [RESEARCHER ASSISTANT](https://www.glassdoor.com/job-listing/researcher-assistant-university-of-alabama-at-birmingham-JV_IC1127429_KO0,20_KE21,56.htm?jl=1010180169295) — Birmingham, AL
 
-### [VisitBritain](https://jobs.winterchill.xyz/?employer=VisitBritain) (2)
+### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (2)
 
-- [Director of DDaT](https://www.linkedin.com/jobs/view/4433185783/) — Platform / Infrastructure · Birmingham, England, United Kingdom
-- [Business Intelligence and Visualisation Lead](https://www.linkedin.com/jobs/view/4429869964/) — Data Engineering · Birmingham, England, United Kingdom · remote
+- [Inverse Methods and Ionospheric Modelling Research Fellow - School of Engineering - 106995 - Grade 7](https://www.linkedin.com/jobs/view/4431477418/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Publication Data Specialist - Library Services - 107590 - Grade 7](https://www.linkedin.com/jobs/view/4431479014/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [West Midlands Police](https://jobs.winterchill.xyz/?employer=West%20Midlands%20Police) (2)
+
+- [Internet Intelligence Investigators Supervisor - Counter Terrorism Policing](https://www.linkedin.com/jobs/view/4432254911/) — £44,700–£50,949/yr · Birmingham, England, United Kingdom
+- [Strategic Project Delivery Lead](https://www.linkedin.com/jobs/view/4430116137/) — Birmingham, England, United Kingdom
 
 ### [Worldpay](https://jobs.winterchill.xyz/?employer=Worldpay) (2)
 
@@ -320,9 +321,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graduate Technical Business Analyst](https://www.linkedin.com/jobs/view/4433777713/) — Product Engineering · Birmingham, England, United Kingdom
 
-### [Adecco](https://jobs.winterchill.xyz/?employer=Adecco) (1)
+### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (1)
 
-- [Senior Data Engineer](https://www.adzuna.co.uk/jobs/details/5776023123?utm_medium=api&utm_source=a9508167) — Data Engineering · Lozells, Birmingham · 🛂 visa sponsor
+- [Relocate to Australia: Data Centre - Electrical Engineering, Associate Director](https://www.adzuna.co.uk/jobs/details/5751289075?utm_medium=api&utm_source=a9508167) — Birmingham, West Midlands · 🛂 visa sponsor
 
 ### [Agilis Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Agilis%20Recruitment%20Ltd) (1)
 
@@ -331,6 +332,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Alignerr](https://jobs.winterchill.xyz/?employer=Alignerr) (1)
 
 - [Precision Medicine Data Lead](https://www.linkedin.com/jobs/view/4434905722/) — Data Engineering · Birmingham, England, United Kingdom
+
+### [ALTEN LTD - UK](https://jobs.winterchill.xyz/?employer=ALTEN%20LTD%20-%20UK) (1)
+
+- [Model Based Systems Engineer](https://www.linkedin.com/jobs/view/4434127858/) — Birmingham, England, United Kingdom
 
 ### [Alvarez & Marsal](https://jobs.winterchill.xyz/?employer=Alvarez%20%26%20Marsal) (1)
 
@@ -348,6 +353,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Java Full Stack Engineer](https://www.linkedin.com/jobs/view/4408658234/) — Backend · Birmingham, England, United Kingdom
 
+### [Applause IT Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Applause%20IT%20Recruitment%20Ltd) (1)
+
+- [Senior Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5761251474?se=pkKG-qd48RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=7DB47A60677DC685E6B512E2F2CD2EDC9ED0BB38) — Backend · £60,000–£70,000/yr · Balsall Heath, Birmingham · hybrid
+
 ### [Arabian Private Holdings](https://jobs.winterchill.xyz/?employer=Arabian%20Private%20Holdings) (1)
 
 - [Junior UI Engineer](https://www.linkedin.com/jobs/view/4435049652/) — Backend · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
@@ -355,10 +364,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Arch Capital Group](https://jobs.winterchill.xyz/?employer=Arch%20Capital%20Group) (1)
 
 - [Lead Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5783903730?se=BoJ--ad48RG_tsMh7GgleQ&utm_medium=api&utm_source=a9508167&v=0DD6F623047EE3AD5036B0B25984F1E976E66731) — Backend · Birmingham, West Midlands
-
-### [Arriva](https://jobs.winterchill.xyz/?employer=Arriva) (1)
-
-- [Business Analyst](https://uk.indeed.com/viewjob?jk=76b4f29986d9e9bd) — Birmingham, United Kingdom
 
 ### [Arriva Group](https://jobs.winterchill.xyz/?employer=Arriva%20Group) (1)
 
@@ -416,6 +421,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Architect](https://www.linkedin.com/jobs/view/4430550095/) — Backend · Birmingham, England, United Kingdom
 
+### [CRG | TEC Recruitment](https://jobs.winterchill.xyz/?employer=CRG%20%7C%20TEC%20Recruitment) (1)
+
+- [Design Manager](https://www.linkedin.com/jobs/view/4431478908/) — £80,000/yr · Birmingham, England, United Kingdom
+
 ### [Deloitte](https://jobs.winterchill.xyz/?employer=Deloitte) (1)
 
 - [Assistant Manager, Tableau Platform Administrator, IT Business Services](https://uk.indeed.com/viewjob?jk=66e4780ec5cb8e86) — Backend · Birmingham, United Kingdom · hybrid
@@ -436,6 +445,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4432223243/) — Data Engineering · Up to £70,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
+### [Egis](https://jobs.winterchill.xyz/?employer=Egis) (1)
+
+- [Data Steward](https://www.linkedin.com/jobs/view/4434495168/) — Birmingham, England, United Kingdom
+
 ### [Electronic Arts](https://jobs.winterchill.xyz/?employer=Electronic%20Arts) (1)
 
 - [Software Engineer - UI](https://uk.indeed.com/viewjob?jk=cf182e6cd16145ec) — Game Engineering · Birmingham, United Kingdom · hybrid
@@ -448,17 +461,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Embedded Software Engineer - Electric Vehicle Charging - Birmingham - £75,000 to £80,000 + Bonus + EV Salary Sacrifice](https://www.linkedin.com/jobs/view/4435107155/) — £75,000–£80,000/yr · Birmingham, England, United Kingdom
 
-### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
-
-- [Software Engineering Specialist](https://www.adzuna.co.uk/jobs/details/5776019600?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £15,000–£16,500/yr · Deritend, Birmingham
-
 ### [Fdo Consulting Limited](https://jobs.winterchill.xyz/?employer=Fdo%20Consulting%20Limited) (1)
 
 - [Lead Azure Cloud Engineer, Infrastructure, Homebased](https://www.adzuna.co.uk/jobs/details/5765042262?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £95,000/yr · Birmingham, West Midlands · remote
-
-### [First Intuition](https://jobs.winterchill.xyz/?employer=First%20Intuition) (1)
-
-- [Tutor](https://uk.indeed.com/viewjob?jk=e614c7baaf794131) — Birmingham, United Kingdom · hybrid
 
 ### [Flooid](https://jobs.winterchill.xyz/?employer=Flooid) (1)
 
@@ -475,10 +480,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Gowling WLG](https://jobs.winterchill.xyz/?employer=Gowling%20WLG) (1)
 
 - [Legal Engineer](https://www.linkedin.com/jobs/view/4396582915/) — Birmingham, England, United Kingdom · 🛂 visa sponsor
-
-### [HartleyCo](https://jobs.winterchill.xyz/?employer=HartleyCo) (1)
-
-- [GCP Platform Architect](https://www.linkedin.com/jobs/view/4432600356/) — DevOps / SRE · Birmingham, England, United Kingdom · hybrid
 
 ### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (1)
 
@@ -512,6 +513,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Full stack Developer - Birmingham - Perm,](https://www.adzuna.co.uk/jobs/details/5770216165?utm_medium=api&utm_source=a9508167) — Backend · £80,000/yr · Birmingham, West Midlands
 
+### [INRIX](https://jobs.winterchill.xyz/?employer=INRIX) (1)
+
+- [Data Solutions Engineer](https://www.linkedin.com/jobs/view/4310212461/) — £28,000–£31,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
 ### [Instil](https://jobs.winterchill.xyz/?employer=Instil) (1)
 
 - [Flutter Tech Lead (Contract)](https://uk.indeed.com/viewjob?jk=00ef25602639bdc4) — Backend · Birmingham, United Kingdom · hybrid
@@ -520,33 +525,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Flutter Tech Lead (Contract)](https://uk.indeed.com/viewjob?jk=b6d959304b9ba699) — Backend · Birmingham, United Kingdom · hybrid
 
-### [Investigo](https://jobs.winterchill.xyz/?employer=Investigo) (1)
+### [Intellect Group](https://jobs.winterchill.xyz/?employer=Intellect%20Group) (1)
 
-- [Data Engineer](https://www.adzuna.co.uk/jobs/land/ad/5756540401?se=zgAx-6d48RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=55C063FB201AA896CAFAB9196E54E3598D8A0AC8) — Data Engineering · £45,000–£50,000/yr · Balsall Heath, Birmingham · 🛂 visa sponsor
-
-### [Jobster](https://jobs.winterchill.xyz/?employer=Jobster) (1)
-
-- [Graduate Technical Business Analyst, Data Warehouse Integration and Reporting, Birmingham - Studentjob.co.uk](https://www.linkedin.com/jobs/view/4435789455/) — Birmingham, England, United Kingdom
+- [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4437760732/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Joynes & Hunt](https://jobs.winterchill.xyz/?employer=Joynes%20%26%20Hunt) (1)
 
 - [Senior Software Engineer](https://www.adzuna.co.uk/jobs/details/5714834432?utm_medium=api&utm_source=a9508167) — Backend · Birmingham, West Midlands · hybrid
 
-### [JumpCloud](https://jobs.winterchill.xyz/?employer=JumpCloud) (1)
-
-- [Strategic Alliances Manager, EMEA - United Kingdom](https://uk.indeed.com/viewjob?jk=890d47c27abadd33) — Birmingham, United Kingdom · remote
-
 ### [Kainos Software Limited](https://jobs.winterchill.xyz/?employer=Kainos%20Software%20Limited) (1)
 
 - [Lead Software Engineer](https://startup.jobs/lead-software-engineer-kainos-software-limited-8444294) — Backend · Birmingham, England, United Kingdom
 
-### [Keoghs](https://jobs.winterchill.xyz/?employer=Keoghs) (1)
-
-- [Intelligence Analyst](https://www.linkedin.com/jobs/view/4430200458/) — Birmingham, England, United Kingdom
-
 ### [KO2 Embedded Recruitment Solutions Ltd](https://jobs.winterchill.xyz/?employer=KO2%20Embedded%20Recruitment%20Solutions%20Ltd) (1)
 
 - [Electronic Engineer](https://www.linkedin.com/jobs/view/4432792640/) — Embedded / Robotics · £48,000–£60,000/yr · Birmingham, England, United Kingdom
+
+### [KP Law](https://jobs.winterchill.xyz/?employer=KP%20Law) (1)
+
+- [Salesforce Developer](https://www.linkedin.com/jobs/view/4432553342/) — Birmingham, England, United Kingdom
 
 ### [KPMG](https://jobs.winterchill.xyz/?employer=KPMG) (1)
 
@@ -588,10 +585,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Freelance Data Scraping Engineer (Python)](https://www.adzuna.co.uk/jobs/details/5783506417?utm_medium=api&utm_source=a9508167) — ML / AI Engineering · Birmingham, West Midlands · hybrid
 
-### [Mitie](https://jobs.winterchill.xyz/?employer=Mitie) (1)
-
-- [Data Engineer - 12 month fixed term contract](https://uk.indeed.com/viewjob?jk=b5b3b638b0fa41cb) — Data Engineering · Birmingham, United Kingdom · hybrid
-
 ### [Money Advice Trust](https://jobs.winterchill.xyz/?employer=Money%20Advice%20Trust) (1)
 
 - [AI Engineer](https://www.reed.co.uk/jobs/ai-engineer/57034200) — Backend · £50,000/yr · Birmingham · remote
@@ -608,10 +601,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Architect](https://www.linkedin.com/jobs/view/4435804662/) — Data Engineering · Birmingham, England, United Kingdom
 
-### [NHS](https://jobs.winterchill.xyz/?employer=NHS) (1)
-
-- [Band 3 ICT Service Desk Operator - Athena House](https://uk.indeed.com/viewjob?jk=164ef672808e6c2b) — £25,760–£27,476/yr · Birmingham, United Kingdom
-
 ### [NonStop Consulting Ltd](https://jobs.winterchill.xyz/?employer=NonStop%20Consulting%20Ltd) (1)
 
 - [Senior Java Developers - 12 months (Banking/Finance)](https://www.reed.co.uk/jobs/senior-java-developers-12-months-banking-finance/57045490) — Backend · Birmingham · hybrid
@@ -620,9 +609,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Computational Biologist & Co-Founder (Startup)](https://www.linkedin.com/jobs/view/4436109664/) — Birmingham, England, United Kingdom
 
+### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (1)
+
+- [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
+
+### [O'Neal Industries](https://jobs.winterchill.xyz/?employer=O%27Neal%20Industries) (1)
+
+- [Data, Analytics & AI Engineer ONI](https://www.glassdoor.com/job-listing/data-analytics-ai-engineer-oni-o-neal-industries-JV_IC1127429_KO0,30_KE31,48.htm?jl=1010191601046) — Data Engineering · Birmingham, AL
+
 ### [Opus Recruitment Solutions](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions) (1)
 
 - [SC Cleared Mid-Senior Frontend Developer \| £350–£450 \| Inside IR35 \| 12 Months \| Hybrid Remote](https://www.reed.co.uk/jobs/sc-cleared-mid-senior-frontend-developer--350450--inside-ir35--12-months--hybrid-remote/56974016) — Backend · Birmingham · remote
+
+### [Pearl Comms](https://jobs.winterchill.xyz/?employer=Pearl%20Comms) (1)
+
+- [Junior Creative](https://www.linkedin.com/jobs/view/4433840255/) — Solutions / Customer Engineering · £25,000–£30,000/yr · Birmingham, England, United Kingdom
 
 ### [Platform Housing Group](https://jobs.winterchill.xyz/?employer=Platform%20Housing%20Group) (1)
 
@@ -632,10 +633,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [QA Automation / SDET Engineer](https://www.adzuna.co.uk/jobs/details/5743673714?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £104,000–£117,000/yr · Birmingham, West Midlands
 
-### [Public Sector Resourcing](https://jobs.winterchill.xyz/?employer=Public%20Sector%20Resourcing) (1)
-
-- [Senior Data Engineer](https://uk.indeed.com/viewjob?jk=c7788ce042952d4d) — Data Engineering · Birmingham, United Kingdom · hybrid
-
 ### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (1)
 
 - [Senior/Lead Software Engineer(Python, Django)-Birmingham, UK](https://www.adzuna.co.uk/jobs/land/ad/5783961869?se=KtTR-Kd48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=94DDCCF586BA541BB4865EF9CCCF56D7399870CB) — Backend · £156,000–£195,000/yr · Balsall Heath, Birmingham · hybrid
@@ -644,6 +641,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.adzuna.co.uk/jobs/details/5753362194?utm_medium=api&utm_source=a9508167) — Data Engineering · £55,000–£65,000/yr · Balsall Heath, Birmingham
 
+### [Regions Financial Corporation](https://jobs.winterchill.xyz/?employer=Regions%20Financial%20Corporation) (1)
+
+- [Front-End React.js Engineer - DevSecOps](https://www.glassdoor.com/job-listing/front-end-react-js-engineer-devsecops-regions-financial-JV_IC1127429_KO0,37_KE38,55.htm?jl=1010192016544) — Birmingham, AL
+
 ### [Ridge & Partners LLP](https://jobs.winterchill.xyz/?employer=Ridge%20%26%20Partners%20LLP) (1)
 
 - [Software Developer](https://www.linkedin.com/jobs/view/4396334659/) — Birmingham, England, United Kingdom
@@ -651,10 +652,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Ripjar](https://jobs.winterchill.xyz/?employer=Ripjar) (1)
 
 - [Staff Engineer - Labyrinth Screening](https://www.adzuna.co.uk/jobs/details/5606157259?utm_medium=api&utm_source=a9508167) — Birmingham, West Midlands · remote · 🛂 visa sponsor
-
-### [S Merrick LTD](https://jobs.winterchill.xyz/?employer=S%20Merrick%20LTD) (1)
-
-- [Graduate Software Engineer Remote UK C#, PHP, SQL, Azure Training](https://www.adzuna.co.uk/jobs/details/5768066783?utm_medium=api&utm_source=a9508167) — Backend · £24,000/yr · Birmingham, West Midlands · remote
 
 ### [SDS Softwares](https://jobs.winterchill.xyz/?employer=SDS%20Softwares) (1)
 
@@ -676,9 +673,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [SAP BTP Developer](https://www.reed.co.uk/jobs/sap-btp-developer/57021199) — Backend · Birmingham · 🛂 visa sponsor
 
+### [Steadman Brown](https://jobs.winterchill.xyz/?employer=Steadman%20Brown) (1)
+
+- [Salesforce Developer](https://www.linkedin.com/jobs/view/4429864989/) — Birmingham, England, United Kingdom
+
+### [System One](https://jobs.winterchill.xyz/?employer=System%20One) (1)
+
+- [Sr Software Engineer](https://www.glassdoor.com/job-listing/sr-software-engineer-system-one-JV_IC1127429_KO0,20_KE21,31.htm?jl=1010194247148) — Birmingham, AL
+
 ### [TAE Power Solutions](https://jobs.winterchill.xyz/?employer=TAE%20Power%20Solutions) (1)
 
 - [Senior Embedded Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5783213463?se=JFk2fUx28RGfPK6vtb8bDg&utm_medium=api&utm_source=a9508167&v=C55C8B1CBBF12DA50320538B49316DA0ACAF463E) — Birmingham, West Midlands · 🛂 visa sponsor
+
+### [Tech Pipeline](https://jobs.winterchill.xyz/?employer=Tech%20Pipeline) (1)
+
+- [Junior Web Developer](https://www.linkedin.com/jobs/view/4437087434/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [TECHOHANA](https://jobs.winterchill.xyz/?employer=TECHOHANA) (1)
 
@@ -696,6 +705,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Lead Platform Engineer](https://www.linkedin.com/jobs/view/4433252160/) — DevOps / SRE · £70,000–£110,000/yr · Birmingham, England, United Kingdom
 
+### [Turner & Townsend](https://jobs.winterchill.xyz/?employer=Turner%20%26%20Townsend) (1)
+
+- [Project Director - Project Controls & Performance](https://www.linkedin.com/jobs/view/4431492240/) — Birmingham, England, United Kingdom · 🛂 visa sponsor
+
 ### [Turnitin](https://jobs.winterchill.xyz/?employer=Turnitin) (1)
 
 - [Principal Software Engineer Backend Technologies, Platform (UK Remote)](https://www.linkedin.com/jobs/view/4436397421/) — Backend · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
@@ -712,25 +725,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [DevOps Engineer](https://www.adzuna.co.uk/jobs/land/ad/5783857752?se=mjcggEx28RGfPK6vtb8bDg&utm_medium=api&utm_source=a9508167&v=B3641A1478E31722A805EF75EB8A64F43D21751A) — DevOps / SRE · Birmingham, West Midlands · hybrid
 
-### [VIQU IT](https://jobs.winterchill.xyz/?employer=VIQU%20IT) (1)
+### [VisitBritain](https://jobs.winterchill.xyz/?employer=VisitBritain) (1)
 
-- [Senior Software Engineer](https://www.adzuna.co.uk/jobs/details/5776019973?utm_medium=api&utm_source=a9508167) — Backend · £70,000–£75,000/yr · Ladywood, Birmingham
-
-### [Virgin Media O2](https://jobs.winterchill.xyz/?employer=Virgin%20Media%20O2) (1)
-
-- [Lead Enterprise Architect - O2 Business](https://www.linkedin.com/jobs/view/4431484350/) — Birmingham, England, United Kingdom
-
-### [WEG Tech](https://jobs.winterchill.xyz/?employer=WEG%20Tech) (1)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4433083264/) — Backend · £45,000–£53,000/yr · Birmingham, England, United Kingdom · hybrid
+- [Director of DDaT](https://www.linkedin.com/jobs/view/4433185783/) — Platform / Infrastructure · Birmingham, England, United Kingdom
 
 ### [Wesleyan](https://jobs.winterchill.xyz/?employer=Wesleyan) (1)
 
 - [Project Data Architect](https://www.linkedin.com/jobs/view/4436718284/) — Data Engineering · Up to £72,000/yr · Birmingham, England, United Kingdom · hybrid
-
-### [West Midlands Police](https://jobs.winterchill.xyz/?employer=West%20Midlands%20Police) (1)
-
-- [Internet Intelligence Investigators Supervisor - Counter Terrorism Policing](https://www.linkedin.com/jobs/view/4432254911/) — £44,700–£50,949/yr · Birmingham, England, United Kingdom
 
 ### [WMJobs](https://jobs.winterchill.xyz/?employer=WMJobs) (1)
 
