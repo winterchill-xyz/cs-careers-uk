@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**72 open roles** · updated 2026-07-10
+**68 open roles** · updated 2026-07-11
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -15,11 +15,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [C# .NET Developer (Azure) - Sheffield X 2](https://www.linkedin.com/jobs/view/4431591830/) — Backend · £45,000–£65,000/yr · Sheffield, England, United Kingdom
 - [C# Software Engineer](https://www.adzuna.co.uk/jobs/details/5727313561?utm_medium=api&utm_source=a9508167) — Backend · Sheffield, South Yorkshire
 
-### [EWOR GmbH](https://jobs.winterchill.xyz/?employer=EWOR%20GmbH) (3)
+### [Autodesk](https://jobs.winterchill.xyz/?employer=Autodesk) (3)
 
-- [AI Co-Founder / CEO (100 % remote) (m/f/d)](https://uk.indeed.com/viewjob?jk=a7c2e5de898a869a) — Backend · Up to €500,000/yr · Sheffield, United Kingdom · remote
-- [Agentic AI Co-Founder / CTO (100 % remote) (m/f/d)](https://uk.indeed.com/viewjob?jk=fac41caea347d19e) — Backend · Up to €500,000/yr · Sheffield, United Kingdom · remote
-- [Applied AI Co-Founder / COO (100 % remote) (m/f/d)](https://uk.indeed.com/viewjob?jk=fb6fc6c078a5f804) — Backend · Up to €500,000/yr · Sheffield, United Kingdom · remote
+- [Principal Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Principal-Software-Engineer_26WD99427-1) — Backend · Sheffield, GBP, United Kingdom · remote · 🛂 visa sponsor
+- [Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Software-Engineer_26WD99424-1) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Senior-Software-Engineer_26WD99426-1) — Backend · Sheffield, GBP, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Hays Specialist Recruitment](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment) (3)
 
@@ -38,6 +38,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Developer x 2 - C#/.Net/Angular - Up to £55k](https://www.adzuna.co.uk/jobs/land/ad/5756393643?se=muO0Iqh48RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=5C7690B29601CA5EBFAADD833066A4BC7DF6616F) — Backend · £40,000–£55,000/yr · Heeley, Sheffield
 - [C#/ .Net Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5764307635?se=qA-JI6h48RGADYSOXDzpkg&utm_medium=api&utm_source=a9508167&v=F680B7D03632DC91DF617A2D48757F53DF5B5FE3) — Backend · £40,000–£50,000/yr · Heeley, Sheffield
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435438130/) — Backend · Sheffield, England, United Kingdom
+
+### [EWOR GmbH](https://jobs.winterchill.xyz/?employer=EWOR%20GmbH) (2)
+
+- [Agentic AI Co-Founder / CTO (100 % remote) (m/f/d)](https://uk.indeed.com/viewjob?jk=fac41caea347d19e) — Backend · Up to €500,000/yr · Sheffield, United Kingdom · remote
+- [Applied AI Co-Founder / COO (100 % remote) (m/f/d)](https://uk.indeed.com/viewjob?jk=fb6fc6c078a5f804) — Backend · Up to €500,000/yr · Sheffield, United Kingdom · remote
 
 ### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (2)
 
@@ -103,10 +108,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Crew Member](https://www.linkedin.com/jobs/view/4435386204/) — Sheffield, England, United Kingdom
 
-### [British Business Bank](https://jobs.winterchill.xyz/?employer=British%20Business%20Bank) (1)
-
-- [Cloud DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5771082428?utm_medium=api&utm_source=a9508167) — Sheffield, South Yorkshire · hybrid · 🛂 visa sponsor
-
 ### [Connected Search Group](https://jobs.winterchill.xyz/?employer=Connected%20Search%20Group) (1)
 
 - [Software Engineer](https://www.adzuna.co.uk/jobs/details/5785249877?utm_medium=api&utm_source=a9508167) — Backend · £55,000–£65,000/yr · Norton, Sheffield
@@ -115,17 +116,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4437140154/) — Backend · Sheffield, England, United Kingdom · hybrid
 
-### [Dev/Null Security](https://jobs.winterchill.xyz/?employer=Dev/Null%20Security) (1)
-
-- [Network Tools & Observability Architect](https://www.linkedin.com/jobs/view/4434984603/) — Data Engineering · Greater Sheffield Area
-
 ### [Elevation Recruitment Group](https://jobs.winterchill.xyz/?employer=Elevation%20Recruitment%20Group) (1)
 
 - [Founding AI Software Engineer](https://www.linkedin.com/jobs/view/4432792697/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
-
-### [Essential Consulting](https://jobs.winterchill.xyz/?employer=Essential%20Consulting) (1)
-
-- [AI Lead Engineering Practices](https://www.adzuna.co.uk/jobs/land/ad/5780693882?se=BqSe0hV38RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=0D1E3924EAA544B53967FB18D09398211BE6C226) — Sheffield, South Yorkshire · hybrid
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
 
@@ -147,21 +140,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Analytics Engineer (Microsoft Fabric)](https://www.linkedin.com/jobs/view/4436964457/) — Data Engineering · Sheffield, England, United Kingdom
 
-### [Grosvenor Casinos](https://jobs.winterchill.xyz/?employer=Grosvenor%20Casinos) (1)
-
-- [Trainee Dealer](https://www.linkedin.com/jobs/view/4433847388/) — Backend · Greater Sheffield Area
-
 ### [Hays](https://jobs.winterchill.xyz/?employer=Hays) (1)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4436750122/) — Backend · Up to £50,000/yr · Sheffield, England, United Kingdom · 🛂 visa sponsor
-
-### [HOK Consulting - Technical Recruitment Consultancy](https://jobs.winterchill.xyz/?employer=HOK%20Consulting%20-%20Technical%20Recruitment%20Consultancy) (1)
-
-- [Kotlin Developer](https://www.linkedin.com/jobs/view/4433893140/) — Backend · Greater Sheffield Area · hybrid
-
-### [i-confidential](https://jobs.winterchill.xyz/?employer=i-confidential) (1)
-
-- [Agentic AI Cyber Enablement Lead](https://www.linkedin.com/jobs/view/4433885141/) — DevOps / SRE · Sheffield, England, United Kingdom
 
 ### [Insight International (UK) Ltd](https://jobs.winterchill.xyz/?employer=Insight%20International%20%28UK%29%20Ltd) (1)
 

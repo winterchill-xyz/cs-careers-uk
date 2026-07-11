@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Belfast
 
-**333 open roles** · updated 2026-07-10
+**317 open roles** · updated 2026-07-11
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -24,10 +24,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Backend Developer ( Go/Java)](https://www.adzuna.co.uk/jobs/land/ad/5753859993?se=pomAHah48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=0F16CD3D107F4DC6367DFAAA50DC923A0439C07C) — Backend · £100,000/yr · Belfast, Northern Ireland · remote
 - [Staff Python Engineer](https://www.adzuna.co.uk/jobs/land/ad/5766992574?se=5LzoG6h48RGADYSOXDzpkg&utm_medium=api&utm_source=a9508167&v=EF4146875481AEA156347F979F1EB63983441ECC) — Backend · £100,000/yr · Belfast, Northern Ireland
 - [Principal Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5752103032?se=ssJj9t538RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=8ED6BB8AD41A6F1B2E1E3731D079FE0DB86A2CE6) — Backend · £100,000/yr · Belfast, Northern Ireland · remote
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4437978184/) — Backend · £70,000–£90,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 - [Staff Data Engineer](https://www.linkedin.com/jobs/view/4435083538/) — Backend · £80,000–£90,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 - [Backend Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5773081864?se=pomAHah48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=D9D218668AEC2AF18DBC1BA5A2A609ED5E0B2287) — Backend · £90,000/yr · Belfast, Northern Ireland · hybrid
 - [Lead Security Engineer](https://www.adzuna.co.uk/jobs/land/ad/5768175028?se=ElTlHah48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=045CCBA8D0D93DE8EA3A5AD573511EA330BE961D) — Security Engineering · £90,000/yr · Belfast, Northern Ireland · hybrid
-- [Staff Application Security Engineer](https://www.adzuna.co.uk/jobs/land/ad/5768175024?se=pJJ7G6h48RG-cvvra3L-5Q&utm_medium=api&utm_source=a9508167&v=7F824964D9E7D94683E13E2D661EFED8F86BBDD5) — Security Engineering · £85,000/yr · Belfast, Northern Ireland
 - …and 23 more at Ocho — see [`jobs.json`](jobs.json)
 
 ### [MCS Group](https://jobs.winterchill.xyz/?employer=MCS%20Group) (18)
@@ -51,8 +51,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://www.adzuna.co.uk/jobs/details/5758159501?utm_medium=api&utm_source=a9508167) — Backend · £45,000/yr · Belfast, Northern Ireland · hybrid
 - [Junior Software Engineer](https://www.adzuna.co.uk/jobs/land/ad/5777758769?se=5LzoG6h48RGADYSOXDzpkg&utm_medium=api&utm_source=a9508167&v=9F28DE9BA6CE9330BE66BA3E701308ADB64F3F2C) — Backend · £45,000/yr · Belfast, Northern Ireland · hybrid
 
-### [Citi](https://jobs.winterchill.xyz/?employer=Citi) (13)
+### [Citi](https://jobs.winterchill.xyz/?employer=Citi) (15)
 
+- [Equities Technology (Low Latency Developer) - VP](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Equities-Technology--Low-Latency-Developer----VP_26977601) — Backend · Belfast  United Kingdom, United Kingdom · 🛂 visa sponsor
+- [Experienced Java Developers](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Experienced-Java-Developers_26978652) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Java Software Engineer](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Java-Software-Engineer_26975217) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Engineering Lead (Ab Initio), Vice President](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Data-Engineering-Lead--Ab-Initio---Vice-President_26974470-1) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Full Stack Developer, AVP](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Senior-Full-Stack-Developer--AVP_26974934-1) — Backend · Belfast  United Kingdom, United Kingdom · 🛂 visa sponsor
@@ -67,7 +69,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java Software Engineer, Wholesale Credit Risk Analytics - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Java-Software-Engineer--Wholesale-Credit-Risk-Analytics---Assistant-Vice-President_26950936) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Engineering Lead - SVP](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Engineering-Lead---SVP_26955324) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (13)
+### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (12)
 
 - [Senior Software Engineer (C#/.NET)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Software-Engineer--C--NET-_JR_18058-1/apply) — Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer (C#/.Net)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Software-Engineer--C--Net-_JR_18056/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
@@ -77,7 +79,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Applied Innovation](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Software-Engineer--Applied-Innovation_JR_17707-1/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
 - [Senior Java Developer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Java-Developer_JR_17371/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
 - [Cloud Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Cloud-Security-Engineer_JR_16812/apply) — DevOps / SRE · Belfast, United Kingdom · 🛂 visa sponsor
-- [Workday EDM Forward Deployed Engineer (HCM Consultant)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Workday-EDM-Forward-Deployed-Engineer--HCM-Consultant-r_JR_17889/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Dynamics 365 Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Dynamics-365-Engineer_JR_17712/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Power Platform Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Power-Platform-Engineer_JR_17695/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Senior Dynamics 365 Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Dynamics-365-Engineer_JR_17649/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
@@ -136,15 +137,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Test Architect](https://www.linkedin.com/jobs/view/4415986952/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 - [Sana Consultant](https://www.linkedin.com/jobs/view/4431892985/) — Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
-### [Ocho People](https://jobs.winterchill.xyz/?employer=Ocho%20People) (6)
-
-- [Staff Software Engineer](https://www.adzuna.co.uk/jobs/details/5781289120?utm_medium=api&utm_source=a9508167) — Backend · £100,000–£120,000/yr · Ormeau, Belfast · remote
-- [Staff Python Engineer](https://www.adzuna.co.uk/jobs/details/5767345723?utm_medium=api&utm_source=a9508167) — Backend · £100,000–£120,000/yr · Ormeau, Belfast
-- [Senior Full Stack Engineer](https://www.adzuna.co.uk/jobs/details/5781289121?utm_medium=api&utm_source=a9508167) — Backend · £100,000–£110,000/yr · Ormeau, Belfast · remote
-- [Senior Backend Developer ( Go/Java)](https://www.adzuna.co.uk/jobs/details/5753933169?utm_medium=api&utm_source=a9508167) — Backend · £80,000–£100,000/yr · Belfast, Northern Ireland · remote
-- [Senior Typescript Engineer](https://www.adzuna.co.uk/jobs/details/5778383689?utm_medium=api&utm_source=a9508167) — Backend · £50,000–£80,000/yr · Belfast, Northern Ireland · remote
-- [Senior AI Engineer](https://www.adzuna.co.uk/jobs/details/5786484834?utm_medium=api&utm_source=a9508167) — Backend · £50,000–£75,000/yr · Belfast, Northern Ireland · remote
-
 ### [TP ICAP](https://jobs.winterchill.xyz/?employer=TP%20ICAP) (6)
 
 - [Principal Engineer](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Principal-Engineer_R5527-5) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
@@ -170,6 +162,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java/Kotlin Software Engineer - AVP - Developer Enablement - Citi](https://www.reed.co.uk/jobs/java-kotlin-software-engineer-avp-developer-enablement-citi/57049354) — Backend · Belfast · hybrid · 🛂 visa sponsor
 - [Senior Engineer - Vice President - Citi](https://www.reed.co.uk/jobs/senior-engineer-vice-president-citi/56959110) — Backend · Belfast · hybrid · 🛂 visa sponsor
 
+### [Ocho People](https://jobs.winterchill.xyz/?employer=Ocho%20People) (5)
+
+- [Staff Software Engineer](https://www.adzuna.co.uk/jobs/details/5781289120?utm_medium=api&utm_source=a9508167) — Backend · £100,000–£120,000/yr · Ormeau, Belfast · remote
+- [Staff Python Engineer](https://www.adzuna.co.uk/jobs/details/5767345723?utm_medium=api&utm_source=a9508167) — Backend · £100,000–£120,000/yr · Ormeau, Belfast
+- [Senior Full Stack Engineer](https://www.adzuna.co.uk/jobs/details/5781289121?utm_medium=api&utm_source=a9508167) — Backend · £100,000–£110,000/yr · Ormeau, Belfast · remote
+- [Senior Typescript Engineer](https://www.adzuna.co.uk/jobs/details/5778383689?utm_medium=api&utm_source=a9508167) — Backend · £50,000–£80,000/yr · Belfast, Northern Ireland · remote
+- [Senior AI Engineer](https://www.adzuna.co.uk/jobs/details/5786484834?utm_medium=api&utm_source=a9508167) — Backend · £50,000–£75,000/yr · Belfast, Northern Ireland · remote
+
 ### [Symphony Communication Services](https://jobs.winterchill.xyz/?employer=Symphony%20Communication%20Services) (5)
 
 - [Senior Software Engineer, Media](https://www.adzuna.co.uk/jobs/details/5768086204?utm_medium=api&utm_source=a9508167) — Backend · £57,000–£70,000/yr · Belfast, Northern Ireland · 🛂 visa sponsor
@@ -177,13 +177,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Development Engineer in Test (Compliance)](https://www.adzuna.co.uk/jobs/details/5472439788?utm_medium=api&utm_source=a9508167) — QA / Test Automation · £42,000–£60,000/yr · Belfast, Northern Ireland · 🛂 visa sponsor
 - [QAOps Engineer](https://www.adzuna.co.uk/jobs/details/5768148592?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £40,000–£50,000/yr · Belfast, Northern Ireland · 🛂 visa sponsor
 - [Software Development Engineer in Test](https://www.adzuna.co.uk/jobs/details/5758422593?utm_medium=api&utm_source=a9508167) — Backend · £35,000–£47,000/yr · Belfast, Northern Ireland · 🛂 visa sponsor
-
-### [Adepta Partners Limited](https://jobs.winterchill.xyz/?employer=Adepta%20Partners%20Limited) (4)
-
-- [Senior Software Engineer MCP / AI Tooling](https://www.adzuna.co.uk/jobs/land/ad/5750885368?se=4quGyhV38RGw99DSBwaIyw&utm_medium=api&utm_source=a9508167&v=B87F04515BC8B0766CB993D2FB0B6B2CD0827DFB) — Backend · £100,000/yr · Belfast, Northern Ireland
-- [Engineering Manager \| Local player on a global scale \| Hybrid \| Belfast](https://www.adzuna.co.uk/jobs/land/ad/5782361784?se=ElTlHah48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=95067F72C1602CA79C9F9D87D2A4226C935620B2) — Engineering Management · £80,000/yr · Belfast, Northern Ireland · hybrid
-- [Software Engineer - ScaleUp - All Levels](https://www.adzuna.co.uk/jobs/land/ad/5774787698?se=Ht8PG6h48RGADYSOXDzpkg&utm_medium=api&utm_source=a9508167&v=8B43E668D6526D5B06AEA5F8136F9F5FE2D3F792) — Backend · £80,000/yr · Belfast, Northern Ireland
-- [Microsoft Data Engineer - Help Build Out Data Centre of Excellence](https://www.adzuna.co.uk/jobs/land/ad/5773683033?se=SharHKh48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=43402ED7032DF67824372CEA104DA3DF2A6C65F4) — Data Engineering · £65,000/yr · Belfast, Northern Ireland
 
 ### [Allstate Northern Ireland](https://jobs.winterchill.xyz/?employer=Allstate%20Northern%20Ireland) (4)
 
@@ -227,6 +220,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer (Back-End)](https://www.adzuna.co.uk/jobs/land/ad/5772553414?se=Ht8PG6h48RGADYSOXDzpkg&utm_medium=api&utm_source=a9508167&v=6BEC8D73A0A6209D12DEC7B2EECEB237430BBA06) — Belfast, Northern Ireland
 - [Senior Software Engineer (Front End)](https://www.adzuna.co.uk/jobs/land/ad/5761432059?se=Ht8PG6h48RGADYSOXDzpkg&utm_medium=api&utm_source=a9508167&v=821A3F4AC380FD134EADF30AAD6F6C1DECB974F2) — Belfast, Northern Ireland
 
+### [Adepta Partners Limited](https://jobs.winterchill.xyz/?employer=Adepta%20Partners%20Limited) (3)
+
+- [Engineering Manager \| Local player on a global scale \| Hybrid \| Belfast](https://www.adzuna.co.uk/jobs/land/ad/5782361784?se=ElTlHah48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=95067F72C1602CA79C9F9D87D2A4226C935620B2) — Engineering Management · £80,000/yr · Belfast, Northern Ireland · hybrid
+- [Software Engineer - ScaleUp - All Levels](https://www.adzuna.co.uk/jobs/land/ad/5774787698?se=Ht8PG6h48RGADYSOXDzpkg&utm_medium=api&utm_source=a9508167&v=8B43E668D6526D5B06AEA5F8136F9F5FE2D3F792) — Backend · £80,000/yr · Belfast, Northern Ireland
+- [Microsoft Data Engineer - Help Build Out Data Centre of Excellence](https://www.adzuna.co.uk/jobs/land/ad/5773683033?se=SharHKh48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=43402ED7032DF67824372CEA104DA3DF2A6C65F4) — Data Engineering · £65,000/yr · Belfast, Northern Ireland
+
 ### [Black Duck Software](https://jobs.winterchill.xyz/?employer=Black%20Duck%20Software) (3)
 
 - [Senior Engineer, DevOps](https://www.adzuna.co.uk/jobs/details/5788130783?utm_medium=api&utm_source=a9508167) — DevOps / SRE · Belfast, Northern Ireland
@@ -238,12 +237,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Data Engineer - Python](https://www.adzuna.co.uk/jobs/land/ad/5777406974?se=SharHKh48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=7209A34443B9FCB6938D28F20A6131A8F36C9A1C) — Belfast, Northern Ireland
 - [Senior kdb Engineer](https://www.adzuna.co.uk/jobs/land/ad/5756971909?se=SharHKh48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=D63741C17D6C171A955DFA502198BF68CAA2945A) — Data Engineering · Belfast, Northern Ireland
 - [kdb Engineer](https://www.adzuna.co.uk/jobs/land/ad/5756971901?se=SharHKh48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=0F9E1C968CC125742BD519D6FB9B3FD2BD3D9E86) — Backend · Belfast, Northern Ireland
-
-### [Expleo Group](https://jobs.winterchill.xyz/?employer=Expleo%20Group) (3)
-
-- [QA Co-ordinator](https://www.linkedin.com/jobs/view/4415672428/) — QA / Test Automation · Belfast, Northern Ireland, United Kingdom
-- [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4414586399/) — Belfast, Northern Ireland, United Kingdom
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4414590158/) — Backend · Belfast, Northern Ireland, United Kingdom
 
 ### [Huron Consulting Group](https://jobs.winterchill.xyz/?employer=Huron%20Consulting%20Group) (3)
 
@@ -257,23 +250,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Mid-Level Fullstack Engineer (React / TypeScript / Python)](https://www.adzuna.co.uk/jobs/details/5745457268?utm_medium=api&utm_source=a9508167) — Backend · Belfast, Northern Ireland
 - [Python Software Engineer](https://www.adzuna.co.uk/jobs/details/5766878305?utm_medium=api&utm_source=a9508167) — Backend · Belfast, Northern Ireland
 
-### [MCS Group | Your Specialist Recruitment Consultancy](https://jobs.winterchill.xyz/?employer=MCS%20Group%20%7C%20Your%20Specialist%20Recruitment%20Consultancy) (3)
-
-- [Data Modeller / Architect](https://www.linkedin.com/jobs/view/4434988934/) — Data Engineering · £50,000–£60,000/yr · Belfast, Northern Ireland, United Kingdom
-- [Enterprise Data Architect](https://www.linkedin.com/jobs/view/4436730923/) — Data Engineering · Belfast, Northern Ireland, United Kingdom
-- [Data Architect](https://www.linkedin.com/jobs/view/4436343855/) — Data Engineering · Belfast, Northern Ireland, United Kingdom
-
 ### [Response Informatics](https://jobs.winterchill.xyz/?employer=Response%20Informatics) (3)
 
-- [DevOps Engineer](https://www.linkedin.com/jobs/view/4433826176/) — DevOps / SRE · £62,500–£75,000/yr · Belfast, Northern Ireland, United Kingdom
+- [DevOps Engineer](https://www.adzuna.co.uk/jobs/details/5781094634?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £62,500–£75,000/yr · Belfast, Northern Ireland
 - [Automation Tester](https://www.linkedin.com/jobs/view/4436325218/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom
 - [Test Automation Engineer](https://www.linkedin.com/jobs/view/4436331166/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom
-
-### [Symphony](https://jobs.winterchill.xyz/?employer=Symphony) (3)
-
-- [Software Engineer, Back-End](https://www.linkedin.com/jobs/view/4433857035/) — Backend · £45,000–£60,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Software Development Engineer in Test](https://www.linkedin.com/jobs/view/4425499090/) — Backend · £35,000–£47,000/yr · Belfast, Northern Ireland, United Kingdom
-- [Chief Technology Officer, Cloud9](https://www.linkedin.com/jobs/view/4416455315/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [Versant Media](https://jobs.winterchill.xyz/?employer=Versant%20Media) (3)
 
@@ -301,7 +282,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Bazaarvoice](https://jobs.winterchill.xyz/?employer=Bazaarvoice) (2)
 
 - [Senior Staff Software Engineer](https://www.linkedin.com/jobs/view/4368708023/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Staff Data Engineer](https://www.linkedin.com/jobs/view/4374641294/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Staff Data Engineer](https://www.adzuna.co.uk/jobs/details/5519126881?utm_medium=api&utm_source=a9508167) — Data Engineering · Belfast, Northern Ireland · 🛂 visa sponsor
 
 ### [Bazaarvoice Ltd](https://jobs.winterchill.xyz/?employer=Bazaarvoice%20Ltd) (2)
 
@@ -358,6 +339,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Enabling and Optimization Engineer – GPU Compute (Vulkan / Cross-OS) (f/m/d)](https://www.linkedin.com/jobs/view/4435249736/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom
 - [Software Optimization Engineer – GPU / Hardware-Accelerated Media (FFmpeg / HandBrake / Intel® Quick Sync Video) (f/m/d)](https://www.linkedin.com/jobs/view/4435257281/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom
 
+### [MCS Group | Your Specialist Recruitment Consultancy](https://jobs.winterchill.xyz/?employer=MCS%20Group%20%7C%20Your%20Specialist%20Recruitment%20Consultancy) (2)
+
+- [Enterprise Data Architect](https://www.linkedin.com/jobs/view/4436730923/) — Data Engineering · Belfast, Northern Ireland, United Kingdom
+- [Data Architect](https://www.linkedin.com/jobs/view/4436343855/) — Data Engineering · Belfast, Northern Ireland, United Kingdom
+
 ### [Net2Source (N2S)](https://jobs.winterchill.xyz/?employer=Net2Source%20%28N2S%29) (2)
 
 - [Backend Java Developer](https://www.linkedin.com/jobs/view/4435107047/) — Backend · Belfast, Northern Ireland, United Kingdom
@@ -388,20 +374,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer (Product)](https://startup.jobs/senior-software-engineer-product-stora-co-8355933) — Backend · £75,000/yr · Belfast, Northern Ireland, United Kingdom · remote
 - [Software Engineer II - Product (Multiple Roles)](https://startup.jobs/software-engineer-ii-product-multiple-roles-stora-co-8355936) — Backend · £50,000/yr · Belfast, Northern Ireland, United Kingdom · remote
 
+### [Symphony](https://jobs.winterchill.xyz/?employer=Symphony) (2)
+
+- [Software Development Engineer in Test](https://www.linkedin.com/jobs/view/4425499090/) — Backend · £35,000–£47,000/yr · Belfast, Northern Ireland, United Kingdom
+- [Chief Technology Officer, Cloud9](https://www.linkedin.com/jobs/view/4416455315/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+
 ### [Thales](https://jobs.winterchill.xyz/?employer=Thales) (2)
 
 - [Algorithms Engineer - IAS](https://www.linkedin.com/jobs/view/4433311812/) — Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4433358044/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-
-### [Trintech](https://jobs.winterchill.xyz/?employer=Trintech) (2)
-
-- [Senior Software Developer](https://www.linkedin.com/jobs/view/4436760544/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Sr Software Developer](https://www.linkedin.com/jobs/view/4433275641/) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [ViVA Tech Talent](https://jobs.winterchill.xyz/?employer=ViVA%20Tech%20Talent) (2)
-
-- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4438195395/) — Backend · £70,000–£80,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Data Engineer](https://www.linkedin.com/jobs/view/4433875734/) — Data Engineering · £30,000–£40,000/yr · Belfast, Northern Ireland, United Kingdom
 
 ### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (2)
 
@@ -412,25 +393,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Database Administrator](https://www.linkedin.com/jobs/view/4433343328/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom
 
-### [Abacus Careers](https://jobs.winterchill.xyz/?employer=Abacus%20Careers) (1)
-
-- [Cloud Engineer](https://www.linkedin.com/jobs/view/4434948935/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom
-
 ### [Adepta Partners](https://jobs.winterchill.xyz/?employer=Adepta%20Partners) (1)
 
 - [Engineering Manager \| Local player on a Global scale \| Hybrid \| Belfast](https://www.linkedin.com/jobs/view/4435185448/) — Engineering Management · Belfast, Northern Ireland, United Kingdom · hybrid
 
-### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (1)
-
-- [Principal Hydraulic Modeller - Hydrology & Flooding](https://www.linkedin.com/jobs/view/4434151893/) — Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-
 ### [Airbus](https://jobs.winterchill.xyz/?employer=Airbus) (1)
 
 - [Performance Manager A220 Wing Engineering](https://www.adzuna.co.uk/jobs/land/ad/5763230101?se=ElTlHah48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=8A2A7180DED9CAF91D877863853ECA214ECCC8BD) — Belfast, Northern Ireland
-
-### [Andor Technology](https://jobs.winterchill.xyz/?employer=Andor%20Technology) (1)
-
-- [Senior Software QA Developer](https://www.adzuna.co.uk/jobs/land/ad/5778430006?se=iKgLyxV38RG2KsVkLy_hUg&utm_medium=api&utm_source=a9508167&v=593C8405B5ED826F15AF74B3E3B0D9864E450493) — Backend · Belfast, Northern Ireland · 🛂 visa sponsor
 
 ### [Anomali](https://jobs.winterchill.xyz/?employer=Anomali) (1)
 
@@ -440,17 +409,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Staff Platform Engineer](https://www.linkedin.com/jobs/view/4306401099/) — Backend · Belfast, Northern Ireland, United Kingdom
 
-### [AR02 GEA Westfalia Separator Argentina S.A.](https://jobs.winterchill.xyz/?employer=AR02%20GEA%20Westfalia%20Separator%20Argentina%20S.A.) (1)
-
-- [Senior Software Engineer](https://startup.jobs/senior-software-engineer-ar02-gea-westfalia-separator-8672597) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid
-
 ### [BBC](https://jobs.winterchill.xyz/?employer=BBC) (1)
 
 - [Senior Journalist, BBC Northern Ireland](https://www.linkedin.com/jobs/view/4433704742/) — £41,200–£47,126/yr · Belfast, Northern Ireland, United Kingdom
-
-### [Belfast Health and Social Care Trust](https://jobs.winterchill.xyz/?employer=Belfast%20Health%20and%20Social%20Care%20Trust) (1)
-
-- [BHSCT_Principal Social Worker Band 8A](https://www.linkedin.com/jobs/view/4432759290/) — £55,690–£62,682/yr · Belfast, Northern Ireland, United Kingdom
 
 ### [Black Duck](https://jobs.winterchill.xyz/?employer=Black%20Duck) (1)
 
@@ -480,10 +441,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Site Reliability Engineer III](https://www.adzuna.co.uk/jobs/land/ad/5777758818?se=pomAHah48RG-2tHAxNAnZQ&utm_medium=api&utm_source=a9508167&v=EE9F7FE27885206C5ADF8BAF2F7AE3FE879BF914) — Belfast, Northern Ireland
 
-### [Codec](https://jobs.winterchill.xyz/?employer=Codec) (1)
-
-- [AI Business Solution Practice Lead - Belfast](https://www.linkedin.com/jobs/view/4433885447/) — ML / AI Engineering · Belfast, Northern Ireland, United Kingdom · hybrid
-
 ### [Concentrix](https://jobs.winterchill.xyz/?employer=Concentrix) (1)
 
 - [D365 Omnichannel /D365 CCasS Solution Architect](https://www.linkedin.com/jobs/view/4398864277/) — DevOps / SRE · Belfast, Northern Ireland, United Kingdom
@@ -507,6 +464,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [EverQuote](https://jobs.winterchill.xyz/?employer=EverQuote) (1)
 
 - [Senior Software Engineer, Security](https://www.adzuna.co.uk/jobs/details/5714834928?utm_medium=api&utm_source=a9508167) — Belfast, Northern Ireland
+
+### [Expleo Group](https://jobs.winterchill.xyz/?employer=Expleo%20Group) (1)
+
+- [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4414586399/) — Belfast, Northern Ireland, United Kingdom
 
 ### [EY-Parthenon](https://jobs.winterchill.xyz/?employer=EY-Parthenon) (1)
 
@@ -572,10 +533,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graduate STEM Developer (Autumn 2026) - Studentjob.co.uk](https://www.linkedin.com/jobs/view/4435798223/) — Backend · Up to £30,000/yr · Belfast, Northern Ireland, United Kingdom
 
-### [Kainos Software Limited](https://jobs.winterchill.xyz/?employer=Kainos%20Software%20Limited) (1)
-
-- [Senior Software Engineer, Applied Innovation](https://startup.jobs/senior-software-engineer-applied-innovation-kainos-software-limited-8658090) — Backend · Belfast, Northern Ireland, United Kingdom
-
 ### [Liberty Mutual](https://jobs.winterchill.xyz/?employer=Liberty%20Mutual) (1)
 
 - [Senior Engineering Manager](https://www.adzuna.co.uk/jobs/details/5762406816?utm_medium=api&utm_source=a9508167) — Ormeau, Belfast
@@ -596,17 +553,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graduate Actuarial Analyst](https://www.linkedin.com/jobs/view/4431854568/) — Belfast, Northern Ireland, United Kingdom
 
-### [Microchip Technology Inc.](https://jobs.winterchill.xyz/?employer=Microchip%20Technology%20Inc.) (1)
-
-- [RF Device Modelling & Characterisation Engineer](https://www.linkedin.com/jobs/view/4414639818/) — Embedded / Robotics · Belfast, Northern Ireland, United Kingdom
-
 ### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
 
 - [2026 Belfast Graduate Electrical Engineering Career Path: Building Services](https://www.linkedin.com/jobs/view/4436322358/) — Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [Napier AI](https://jobs.winterchill.xyz/?employer=Napier%20AI) (1)
 
-- [Front End Engineer (React)](https://www.linkedin.com/jobs/view/4424944366/) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid
+- [Front End Engineer (React)](https://www.adzuna.co.uk/jobs/details/5755549261?utm_medium=api&utm_source=a9508167) — Frontend · Belfast, Northern Ireland
 
 ### [Ocorian](https://jobs.winterchill.xyz/?employer=Ocorian) (1)
 
@@ -656,10 +609,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Systems Engineer](https://www.linkedin.com/jobs/view/4419649437/) — Belfast, Northern Ireland, United Kingdom
 
-### [TeamFeePay](https://jobs.winterchill.xyz/?employer=TeamFeePay) (1)
-
-- [Software Developer – Ruby on Rails](https://www.adzuna.co.uk/jobs/details/5655700053?utm_medium=api&utm_source=a9508167) — Backend · Belfast, Northern Ireland · hybrid
-
 ### [Telstra Associates](https://jobs.winterchill.xyz/?employer=Telstra%20Associates) (1)
 
 - [Full Stack Java Developer Python](https://www.adzuna.co.uk/jobs/land/ad/5768190627?se=qBhuHKh48RG-cvvra3L-5Q&utm_medium=api&utm_source=a9508167&v=F41F49731755D0DB297B22122840F5CDB0142124) — Backend · £97,500/yr · Belfast, Northern Ireland · hybrid
@@ -676,6 +625,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4435521645/) — Backend · Belfast, Northern Ireland, United Kingdom
 
+### [Trintech](https://jobs.winterchill.xyz/?employer=Trintech) (1)
+
+- [Senior Software Developer](https://www.linkedin.com/jobs/view/4436760544/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+
 ### [Trintech UK Limited](https://jobs.winterchill.xyz/?employer=Trintech%20UK%20Limited) (1)
 
 - [Sr Software Developer](https://www.adzuna.co.uk/jobs/land/ad/5780350615?se=pJJ7G6h48RG-cvvra3L-5Q&utm_medium=api&utm_source=a9508167&v=7A29D2E2FF3533B8F183799AA8E71A248CDECBE1) — Backend · Belfast, Northern Ireland · hybrid
@@ -683,6 +636,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Versant](https://jobs.winterchill.xyz/?employer=Versant) (1)
 
 - [Software Engineer](https://startup.jobs/software-engineer-versant-8684204) — Backend · Belfast, Northern Ireland, United Kingdom
+
+### [ViVA Tech Talent](https://jobs.winterchill.xyz/?employer=ViVA%20Tech%20Talent) (1)
+
+- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4438195395/) — Backend · £70,000–£80,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [VodafoneThree](https://jobs.winterchill.xyz/?employer=VodafoneThree) (1)
 
