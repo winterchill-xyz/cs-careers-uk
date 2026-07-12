@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**165 open roles** · updated 2026-07-11
+**165 open roles** · updated 2026-07-12
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -69,7 +69,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [NHS Business Services Authority](https://jobs.winterchill.xyz/?employer=NHS%20Business%20Services%20Authority) (5)
 
-- [Senior AI (Artificial Intelligence)/ML (Machine Learning) Engineer](https://uk.indeed.com/viewjob?jk=681aadeb1585826e) — Backend · £57,528–£64,750/yr · Newcastle upon Tyne, United Kingdom · hybrid
+- [Senior AI (Artificial Intelligence)/ML (Machine Learning) Engineer](https://uk.indeed.com/viewjob?jk=681aadeb1585826e) — Backend · £57,528–£64,750/yr · Newcastle upon Tyne, United Kingdom · hybrid · 🛂 visa sponsor
 - [AI and Model Governance Specialist](https://www.linkedin.com/jobs/view/4436740350/) — ML / AI Engineering · £57,528–£64,750/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior AI (Artificial Intelligence)/ML (Machine Learning) Engineer](https://www.linkedin.com/jobs/view/4436742260/) — Backend · £57,528–£64,750/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Test and Assurance Lead](https://www.linkedin.com/jobs/view/4435366277/) — Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -89,13 +89,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Business Analyst](https://www.linkedin.com/jobs/view/4435573754/) — Data Engineering · Newcastle Upon Tyne, England, United Kingdom
 - [Java Developer](https://www.linkedin.com/jobs/view/4435559971/) — Backend · Newcastle Upon Tyne, England, United Kingdom
 - [Software & Data Engineer (Newcastle Based)](https://www.adzuna.co.uk/jobs/details/5670675717?utm_medium=api&utm_source=a9508167) — Backend · Newcastle Upon Tyne, Tyne & Wear
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
-
-- [Software Engineer, Data Infrastructure & Acquisition - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5716224897?utm_medium=api&utm_source=a9508167) — Mobile · Newcastle Upon Tyne, Tyne & Wear
-- [Senior Software Engineer, Core Experiences - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5716221212?utm_medium=api&utm_source=a9508167) — Newcastle Upon Tyne, Tyne & Wear
-- [Senior Software Engineer, Windows/Desktop Applications - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5727987133?utm_medium=api&utm_source=a9508167) — Frontend · Newcastle Upon Tyne, Tyne & Wear
-- [Software Engineer, iOS Core Product - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5711921891?utm_medium=api&utm_source=a9508167) — Mobile · Newcastle Upon Tyne, Tyne & Wear
 
 ### [Tech 4](https://jobs.winterchill.xyz/?employer=Tech%204) (4)
 
@@ -139,6 +132,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
 - [Graduate Test Engineer](https://jobs.lever.co/scottlogic/d173c70a-2384-46c2-b55f-7604cee66522) — Backend · Newcastle · remote · 🛂 visa sponsor
 - [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60) — Backend · Newcastle · remote · 🛂 visa sponsor
+
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
+
+- [Software Engineer, Data Infrastructure & Acquisition - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5716224897?utm_medium=api&utm_source=a9508167) — Mobile · Newcastle Upon Tyne, Tyne & Wear
+- [Senior Software Engineer, Core Experiences - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5716221212?utm_medium=api&utm_source=a9508167) — Newcastle Upon Tyne, Tyne & Wear
+- [Senior Software Engineer, Windows/Desktop Applications - Newcastle, United Kingdom](https://www.adzuna.co.uk/jobs/details/5727987133?utm_medium=api&utm_source=a9508167) — Frontend · Newcastle Upon Tyne, Tyne & Wear
 
 ### [Advanced Resource Managers](https://jobs.winterchill.xyz/?employer=Advanced%20Resource%20Managers) (2)
 
@@ -246,9 +245,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Lead Software Engineer](https://www.adzuna.co.uk/jobs/details/5739255483?utm_medium=api&utm_source=a9508167) — Backend · Newcastle Upon Tyne, Tyne & Wear
 
+### [Catalyst](https://jobs.winterchill.xyz/?employer=Catalyst) (1)
+
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-catalyst-newcastle-upon-tyne) — Data Engineering · Newcastle upon Tyne, Tyne & Wear
+
 ### [DVSA](https://jobs.winterchill.xyz/?employer=DVSA) (1)
 
-- [Apprentice Data Engineer](https://www.adzuna.co.uk/jobs/details/5785614971?utm_medium=api&utm_source=a9508167) — Data Engineering · £30,485/yr · Newcastle Upon Tyne, Tyne & Wear
+- [Apprentice Data Engineer](https://www.reed.co.uk/jobs/apprentice-data-engineer/57071103) — Data Engineering · £30,485/yr · Newcastle Upon Tyne
 
 ### [DVSA.GOV](https://jobs.winterchill.xyz/?employer=DVSA.GOV) (1)
 

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**95 open roles** · updated 2026-07-11
+**90 open roles** · updated 2026-07-12
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -84,11 +84,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Java Developer](https://www.adzuna.co.uk/jobs/details/5775743791?utm_medium=api&utm_source=a9508167) — Backend · £75,000/yr · Cardiff, Cardiff County
 - [Software Engineer](https://www.adzuna.co.uk/jobs/details/5775167996?utm_medium=api&utm_source=a9508167) — £75,000/yr · Cardiff, Cardiff County
 
-### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (2)
-
-- [GenAI Senior Product Lead (Transformation)](https://www.linkedin.com/jobs/view/4435781436/) — ML / AI Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-- [Graduate Pricing Analyst](https://www.linkedin.com/jobs/view/4435546190/) — Data Engineering · Cardiff, Wales, United Kingdom · remote · 🛂 visa sponsor
-
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (2)
 
 - [Software Engineer I](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Cardiff/Software-Engineer-I_R112653) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
@@ -152,14 +147,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Pricing Analyst](https://www.linkedin.com/jobs/view/4425807981/) — Data Engineering · Cardiff, Wales, United Kingdom
 
-### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (1)
-
-- [Financial Data Analyst](https://www.linkedin.com/jobs/view/4426076679/) — Data Engineering · Cardiff, Wales, United Kingdom
-
-### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (1)
-
-- [BNG Consultant](https://www.linkedin.com/jobs/view/4435493079/) — Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
 
 - [(RD) Engineering Team Lead (ETL)](https://www.linkedin.com/jobs/view/4435211891/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -167,10 +154,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Bridewell](https://jobs.winterchill.xyz/?employer=Bridewell) (1)
 
 - [Academy Penetration Testing Consultant](https://www.linkedin.com/jobs/view/4435562312/) — Security Engineering · Cardiff, Wales, United Kingdom · hybrid
-
-### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (1)
-
-- [Solution Architect](https://www.linkedin.com/jobs/view/4432711579/) — Platform / Infrastructure · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Circle Recruitment](https://jobs.winterchill.xyz/?employer=Circle%20Recruitment) (1)
 
@@ -187,6 +170,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
 
 - [GIS Product Engineer II – ArcGIS Maps SDKs for Native Apps](https://www.linkedin.com/jobs/view/4417032572/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (1)
+
+- [GenAI Senior Product Lead (Transformation)](https://www.linkedin.com/jobs/view/4435781436/) — ML / AI Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Hays](https://jobs.winterchill.xyz/?employer=Hays) (1)
 
@@ -207,10 +194,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Infosec](https://jobs.winterchill.xyz/?employer=Infosec) (1)
 
 - [Senior AI Software Engineer (GenAI)](https://www.adzuna.co.uk/jobs/details/5782396386?utm_medium=api&utm_source=a9508167) — Backend · £130,000–£182,000/yr · Cardiff, Cardiff County
-
-### [IntaPeople: STEM Recruitment](https://jobs.winterchill.xyz/?employer=IntaPeople%3A%20STEM%20Recruitment) (1)
-
-- [Lead Web Developer](https://www.linkedin.com/jobs/view/4431588689/) — Backend · £55,000–£60,000/yr · Cardiff, Wales, United Kingdom
 
 ### [International Baccalaureate](https://jobs.winterchill.xyz/?employer=International%20Baccalaureate) (1)
 
