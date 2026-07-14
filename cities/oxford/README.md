@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**63 open roles** · updated 2026-07-13
+**60 open roles** · updated 2026-07-14
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -38,12 +38,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Java-Software-Engineer_R112239-1) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Senior Java/Angular/React Full Stack Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Software-Engineer_R105929-1) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (4)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
-- [Principal Investigators (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4439012745/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Bio-ML Scientists (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4438686226/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Research Assistant (Zuercher Lab) - Generative Biology Insititute](https://www.linkedin.com/jobs/view/4435512841/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Postdoctoral Research Fellow - Generative Biology Institute](https://www.linkedin.com/jobs/view/4432963215/) — Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
+- [Software Engineer, iOS Core Product - Oxford, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-oxford-united-kingdom-speechify-7947332) — Backend · Oxford, England, United Kingdom · remote
+- [Senior Software Engineer, Core Experiences - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-oxford-united-kingdom-speechify-7982526) — Backend · Oxford, England, United Kingdom · remote
+- [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
 ### [Alignerr](https://jobs.winterchill.xyz/?employer=Alignerr) (3)
 
@@ -51,27 +52,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Formal Verification Scientist (Lean 4 & Mathlib)](https://www.linkedin.com/jobs/view/4432501006/) — Oxford, England, United Kingdom
 - [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4432489845/) — Backend · Oxford, England, United Kingdom
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (3)
 
-- [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
-- [Software Engineer, iOS Core Product - Oxford, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-oxford-united-kingdom-speechify-7947332) — Backend · Oxford, England, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
+- [Principal Investigators (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4439012745/) — Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Bio-ML Scientists (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4438686226/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Research Assistant (Zuercher Lab) - Generative Biology Insititute](https://www.linkedin.com/jobs/view/4435512841/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (3)
 
 - [Engineering Manager (Experiences)](https://job-boards.greenhouse.io/tripadvisor/jobs/8046533) — Oxford · remote · 🛂 visa sponsor
 - [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
 - [Junior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/6903058) — Backend · Oxford, UK · remote · 🛂 visa sponsor
-
-### [Archangel Autonomy](https://jobs.winterchill.xyz/?employer=Archangel%20Autonomy) (2)
-
-- [Embedded Software Engineer (UAVs)](https://startup.jobs/embedded-software-engineer-uavs-archangel-autonomy-8719365) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Control Systems Engineer](https://www.linkedin.com/jobs/view/4432970878/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (2)
-
-- [Graduate sales & account manager](https://www.linkedin.com/jobs/view/4432198109/) — Backend · Up to £151,436/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Graduate data scientist](https://www.linkedin.com/jobs/view/4434189360/) — Backend · £85,797/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Elsevier Editora Limiteda Company](https://jobs.winterchill.xyz/?employer=Elsevier%20Editora%20Limiteda%20Company) (2)
 
@@ -87,13 +78,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Technical Consultant](https://www.linkedin.com/jobs/view/4434460612/) — £37,324/yr · Oxford, England, United Kingdom
 
+### [Archangel Autonomy](https://jobs.winterchill.xyz/?employer=Archangel%20Autonomy) (1)
+
+- [Embedded Software Engineer (UAVs)](https://startup.jobs/embedded-software-engineer-uavs-archangel-autonomy-8719365) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
 
-- [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4424085531/) — Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [Avazia Ltd](https://jobs.winterchill.xyz/?employer=Avazia%20Ltd) (1)
+### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (1)
 
-- [Graduate / Junior Software & Automation Engineer](https://www.linkedin.com/jobs/view/4436777641/) — Backend · £30,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Graduate sales & account manager](https://www.linkedin.com/jobs/view/4432198109/) — Backend · Up to £151,436/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [CHEManager International](https://jobs.winterchill.xyz/?employer=CHEManager%20International) (1)
 
@@ -101,7 +96,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [develop](https://jobs.winterchill.xyz/?employer=develop) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4435655387/) — Data Engineering · Up to £65,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4435655387/) — Data Engineering · Up to £65,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Flight Club Darts](https://jobs.winterchill.xyz/?employer=Flight%20Club%20Darts) (1)
 
@@ -113,7 +108,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Matterhorn Studio](https://jobs.winterchill.xyz/?employer=Matterhorn%20Studio) (1)
 
-- [Operations Associate (Closed)](https://www.linkedin.com/jobs/view/4439508391/) — Data Engineering · Greater Oxford Area · 🛂 visa sponsor
+- [Machine Learning Scientist (Open)](https://www.linkedin.com/jobs/view/4439508391/) — Data Engineering · Greater Oxford Area · remote · 🛂 visa sponsor
 
 ### [NielsenIQ](https://jobs.winterchill.xyz/?employer=NielsenIQ) (1)
 
@@ -150,10 +145,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RELX India (Pvt) Ltd Els div Company](https://jobs.winterchill.xyz/?employer=RELX%20India%20%28Pvt%29%20Ltd%20Els%20div%20Company) (1)
 
 - [Senior Java/Angular/React Full Stack Software Engineer](https://startup.jobs/senior-java-angular-react-full-stack-software-engineer-relx-india-pvt-ltd-els-div-c-8695528) — Backend · Oxford, England, United Kingdom
-
-### [Venture Up](https://jobs.winterchill.xyz/?employer=Venture%20Up) (1)
-
-- [C++ Software Engineer](https://www.linkedin.com/jobs/view/4435572292/) — Backend · Oxford, England, United Kingdom
 
 ### [Wiley](https://jobs.winterchill.xyz/?employer=Wiley) (1)
 

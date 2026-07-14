@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**29 open roles** · updated 2026-07-13
+**23 open roles** · updated 2026-07-14
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -26,11 +26,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Security Operations (SOC) Engineer - Engine by Starling](https://apply.workable.com/j/9FA4DF77CB/apply) — DevOps / SRE · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Capital on Tap](https://jobs.winterchill.xyz/?employer=Capital%20on%20Tap) (2)
-
-- [Fraud Investigator](https://www.linkedin.com/jobs/view/4430105788/) — Backend · £30,000–£34,000/yr · Cardiff, Wales, United Kingdom
-- [Senior Customer Services Manager](https://www.linkedin.com/jobs/view/4435305542/) — Cardiff, Wales, United Kingdom
-
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (2)
 
 - [Software Engineer I](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Cardiff/Software-Engineer-I_R112653) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
@@ -45,9 +40,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4434958837/) — Data Engineering · £40,596–£44,163/yr · Cardiff, Wales, United Kingdom
 
-### [Admiral Money](https://jobs.winterchill.xyz/?employer=Admiral%20Money) (1)
+### [Capital on Tap](https://jobs.winterchill.xyz/?employer=Capital%20on%20Tap) (1)
 
-- [Senior Pricing Analyst](https://www.linkedin.com/jobs/view/4425807981/) — Data Engineering · Cardiff, Wales, United Kingdom
+- [Fraud Investigator](https://www.linkedin.com/jobs/view/4430105788/) — Backend · £30,000–£34,000/yr · Cardiff, Wales, United Kingdom
 
 ### [Deloitte](https://jobs.winterchill.xyz/?employer=Deloitte) (1)
 
@@ -65,29 +60,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer - Cardiff - United Kingdom](https://startup.jobs/software-engineer-cardiff-united-kingdom-performance-software-8256393) — Backend · £50,000–£70,000/yr · Cardiff, Wales, United Kingdom
 
-### [RBC Brewin Dolphin](https://jobs.winterchill.xyz/?employer=RBC%20Brewin%20Dolphin) (1)
-
-- [Senior Business Insights Associate](https://www.linkedin.com/jobs/view/4436928645/) — Data Engineering · Cardiff, Wales, United Kingdom
-
 ### [Rocket Science Group](https://jobs.winterchill.xyz/?employer=Rocket%20Science%20Group) (1)
 
 - [Platform Data Engineer - Cardiff](https://www.linkedin.com/jobs/view/4432261835/) — Backend · Cardiff, Wales, United Kingdom
 
-### [Sadler Recruitment](https://jobs.winterchill.xyz/?employer=Sadler%20Recruitment) (1)
-
-- [Senior DevOps / Software Engineer (PHP)](https://www.linkedin.com/jobs/view/4413628673/) — Backend · £70,000/yr · Cardiff, Wales, United Kingdom
-
-### [Sonovate](https://jobs.winterchill.xyz/?employer=Sonovate) (1)
-
-- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4434981838/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Vargo Group](https://jobs.winterchill.xyz/?employer=Vargo%20Group) (1)
-
-- [Salesforce Developer](https://www.linkedin.com/jobs/view/4425608995/) — Cardiff, Wales, United Kingdom
-
 ### [Vivo Talent Solutions](https://jobs.winterchill.xyz/?employer=Vivo%20Talent%20Solutions) (1)
 
-- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4437804649/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4437804649/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
