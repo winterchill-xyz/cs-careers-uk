@@ -1,13 +1,14 @@
 # Software &amp; IT careers in Bristol
 
-**116 open roles** · updated 2026-07-14
+**103 open roles** · updated 2026-07-15
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (27)
+### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (30)
 
+- [Senior Software Engineer - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8537660002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Integrated Management System Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8540740002) — Bristol, UK · 🛂 visa sponsor
 - [Hardware Validation & Debug Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8630695002) — Bristol, UK · 🛂 visa sponsor
 - [Staff/Principal Logical Design Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8626165002) — Bristol, UK · 🛂 visa sponsor
@@ -21,14 +22,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Debug Validation Engineer — Multiple Levels](https://job-boards.greenhouse.io/graphcore/jobs/8597205002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Staff Software Engineer - Analysis Tools](https://job-boards.greenhouse.io/graphcore/jobs/8556269002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Staff Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8558651002) — DevOps / SRE · Bristol, UK; Cambridge, UK; Gdańsk, Pomeranian Voivodeship, Poland · 🛂 visa sponsor
-- [Staff Firmware Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8527814002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Software Infrastructure Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8554852002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Software Engineer - Triton](https://job-boards.greenhouse.io/graphcore/jobs/8466438002) — Backend · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
 - [Software Engineer - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8491405002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8557915002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Senior Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8558195002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
-- [Pytorch Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8491548002) — Backend · Bristol, UK · 🛂 visa sponsor
-- …and 7 more at Graphcore — see [`jobs.json`](jobs.json)
+- [Senior Cloud Platform Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8491246002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
+- …and 10 more at Graphcore — see [`jobs.json`](jobs.json)
 
 ### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (9)
 
@@ -63,53 +63,36 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [ML Runtime Engineer (Mid-Level and Senior)](https://job-boards.eu.greenhouse.io/fractile/jobs/4725124101) — Backend · Bristol · hybrid · 🛂 visa sponsor
 - [Developer Experience Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4890205101) — Backend · Bristol · hybrid · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
 - [Senior Software Engineer, Windows/Desktop Applications - Bristol, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-bristol-united-kingdom-speechify-7954855) — Backend · Bristol, England, United Kingdom
 - [Senior Software Engineer, Core Experiences - Bristol, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-bristol-united-kingdom-speechify-7946943) — Backend · Bristol, England, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Bristol, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-bristol-united-kingdom-speechify-7947063) — Backend · Bristol, England, United Kingdom
-- [Software Engineer, Platform - Bristol, United Kingdom](https://startup.jobs/software-engineer-platform-bristol-united-kingdom-speechify-7936596) — Backend · Bristol, England, United Kingdom
-- [Software Engineer, iOS Core Product - Bristol, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-bristol-united-kingdom-speechify-7947162) — Backend · Bristol, England, United Kingdom · remote
 
 ### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (2)
 
 - [Senior Technology Services Consultant - Transportation](https://www.linkedin.com/jobs/view/4432681872/) — Bristol, England, United Kingdom · 🛂 visa sponsor
 - [Data Engineer](https://www.linkedin.com/jobs/view/4434166147/) — Data Engineering · Bristol, England, United Kingdom · 🛂 visa sponsor
 
-### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (2)
-
-- [Product Lead, Network Security Services](https://www.linkedin.com/jobs/view/4431928869/) — Bristol, England, United Kingdom · 🛂 visa sponsor
-- [Test and Integration Engineer - ESN](https://www.linkedin.com/jobs/view/4430236186/) — Bristol, England, United Kingdom · 🛂 visa sponsor
-
 ### [Expleo Group](https://jobs.winterchill.xyz/?employer=Expleo%20Group) (2)
 
 - [Engineering Automation Developer](https://www.linkedin.com/jobs/view/4432400699/) — DevOps / SRE · Bristol, England, United Kingdom
 - [Software Development Engineer (Simulation)](https://www.linkedin.com/jobs/view/4432413464/) — Bristol, England, United Kingdom
 
-### [Florza Resourcing](https://jobs.winterchill.xyz/?employer=Florza%20Resourcing) (2)
+### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (2)
 
-- [Junior Developer](https://www.linkedin.com/jobs/view/4437789953/) — Backend · £35,000–£40,000/yr · City Of Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Developer](https://www.linkedin.com/jobs/view/4436742070/) — Backend · £35,000–£40,000/yr · City Of Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (2)
-
-- [Senior Embedded Engineer](https://www.linkedin.com/jobs/view/4416923807/) — Embedded / Robotics · Bristol, England, United Kingdom · 🛂 visa sponsor
-- [Staff Digital Verification Enginer](https://www.linkedin.com/jobs/view/4433006602/) — Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4438017519/) — Backend · £47,600–£61,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Platform Engineer](https://www.linkedin.com/jobs/view/4429476036/) — DevOps / SRE · Up to £60,000/yr · Bristol, England, United Kingdom
 
 ### [Methods](https://jobs.winterchill.xyz/?employer=Methods) (2)
 
 - [Master Data Management Architect](https://www.linkedin.com/jobs/view/4419277603/) — £75,000–£80,000/yr · Bristol, England, United Kingdom
 - [Data & AI Consultant](https://www.linkedin.com/jobs/view/4307221548/) — Data Engineering · £60,000–£80,000/yr · Bristol, England, United Kingdom
 
-### [Simmons & Simmons](https://jobs.winterchill.xyz/?employer=Simmons%20%26%20Simmons) (2)
+### [One Big Circle Ltd](https://jobs.winterchill.xyz/?employer=One%20Big%20Circle%20Ltd) (2)
 
-- [Senior Infrastructure Analyst](https://www.linkedin.com/jobs/view/4413892143/) — DevOps / SRE · Bristol, England, United Kingdom · 🛂 visa sponsor
-- [Business Applications Engineer – Legal Applications](https://www.linkedin.com/jobs/view/4423951049/) — DevOps / SRE · Bristol, England, United Kingdom · 🛂 visa sponsor
-
-### [Vertical Aerospace](https://jobs.winterchill.xyz/?employer=Vertical%20Aerospace) (2)
-
-- [Vibration & Acoustics Engineer](https://www.linkedin.com/jobs/view/4433365918/) — Bristol, England, United Kingdom
-- [Advanced Thermal Modelling Engineer](https://www.linkedin.com/jobs/view/4389786186/) — Bristol, England, United Kingdom
+- [Junior Application Software Engineer](https://www.linkedin.com/jobs/view/4401631621/) — Backend · £25,000–£32,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
+- [Junior Platform Software Developer](https://www.linkedin.com/jobs/view/4437682948/) — Backend · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
@@ -119,21 +102,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Product Data Analyst](https://www.linkedin.com/jobs/view/4429855327/) — Data Engineering · Up to £63,000/yr · Greater Bristol Area, United Kingdom
 
-### [Amentum](https://jobs.winterchill.xyz/?employer=Amentum) (1)
-
-- [Principal Information Manager - South](https://www.linkedin.com/jobs/view/4413145539/) — Bristol, England, United Kingdom · 🛂 visa sponsor
-
 ### [Arm](https://jobs.winterchill.xyz/?employer=Arm) (1)
 
 - [Principal Verification Engineer (ISP, Display, Video)](https://www.linkedin.com/jobs/view/4406946712/) — Backend · £126,200–£170,800/yr · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [BioImaging North America](https://jobs.winterchill.xyz/?employer=BioImaging%20North%20America) (1)
-
-- [Research Associate in Cryogenic Super-Resolution Microscopy and Immune Cell Imaging](https://www.linkedin.com/jobs/view/4432833005/) — Bristol, England, United Kingdom
-
-### [Boeing](https://jobs.winterchill.xyz/?employer=Boeing) (1)
-
-- [Senior OpenShift Platform Engineer](https://www.linkedin.com/jobs/view/4430297341/) — Bristol, England, United Kingdom
 
 ### [Burges Salmon LLP](https://jobs.winterchill.xyz/?employer=Burges%20Salmon%20LLP) (1)
 
@@ -143,45 +114,29 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Lead Assurance Architect](https://www.linkedin.com/jobs/view/4434186059/) — Bristol, England, United Kingdom
 
-### [Cervus](https://jobs.winterchill.xyz/?employer=Cervus) (1)
-
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4428840002/) — Backend · Up to £65,000/yr · Greater Bristol Area, United Kingdom
-
 ### [Comply365](https://jobs.winterchill.xyz/?employer=Comply365) (1)
 
 - [Senior Mobile Software Engineer – iOS](https://startup.jobs/senior-mobile-software-engineer-ios-comply365-8270274) — Backend · Bristol, England, United Kingdom
-
-### [DNV](https://jobs.winterchill.xyz/?employer=DNV) (1)
-
-- [Oracle APEX Software Developer](https://www.linkedin.com/jobs/view/4430202972/) — Backend · Bristol, England, United Kingdom
 
 ### [ea Change](https://jobs.winterchill.xyz/?employer=ea%20Change) (1)
 
 - [Graduate Business Analyst](https://www.linkedin.com/jobs/view/4432592919/) — Greater Bristol Area, United Kingdom
 
-### [Envitia](https://jobs.winterchill.xyz/?employer=Envitia) (1)
-
-- [DevOps Engineer](https://www.linkedin.com/jobs/view/4432398306/) — DevOps / SRE · Greater Bristol Area, United Kingdom
-
-### [Era4](https://jobs.winterchill.xyz/?employer=Era4) (1)
-
-- [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4423171492/) — DevOps / SRE · Greater Bristol Area, United Kingdom
-
 ### [Ericsson](https://jobs.winterchill.xyz/?employer=Ericsson) (1)
 
 - [Junior RAN Test Engineer](https://www.linkedin.com/jobs/view/4431281071/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 
-### [HaloBraid](https://jobs.winterchill.xyz/?employer=HaloBraid) (1)
+### [Florza Resourcing](https://jobs.winterchill.xyz/?employer=Florza%20Resourcing) (1)
 
-- [Senior Robotics Engineer](https://www.linkedin.com/jobs/view/4433028226/) — Bristol, England, United Kingdom
-
-### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
-
-- [Platform Engineer](https://www.linkedin.com/jobs/view/4429476036/) — DevOps / SRE · Up to £60,000/yr · Bristol, England, United Kingdom
+- [Junior Developer](https://www.linkedin.com/jobs/view/4437789953/) — Backend · £35,000–£40,000/yr · City Of Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (1)
 
 - [Application Security Engineer (London or Bristol)](https://apply.workable.com/j/96ED82800F/apply) — DevOps / SRE · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (1)
+
+- [Senior Embedded Engineer](https://www.linkedin.com/jobs/view/4416923807/) — Embedded / Robotics · Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Inside Travel Group | B Corp™](https://jobs.winterchill.xyz/?employer=Inside%20Travel%20Group%20%7C%20B%20Corp%E2%84%A2) (1)
 
@@ -199,6 +154,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837) — Backend · Bristol · 🛂 visa sponsor
 
+### [Leidos](https://jobs.winterchill.xyz/?employer=Leidos) (1)
+
+- [Junior Application Software Developer](https://www.linkedin.com/jobs/view/4440020872/) — Backend · £47,600/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
 
 - [Lead AI Scientist](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Lead-AI-Scientist_147735-3) — Backend · £90,440–£106,400/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
@@ -206,10 +165,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Matchtech](https://jobs.winterchill.xyz/?employer=Matchtech) (1)
 
 - [Software Team Lead](https://www.linkedin.com/jobs/view/4429829922/) — Greater Bristol Area, United Kingdom
-
-### [Narwhal Labs](https://jobs.winterchill.xyz/?employer=Narwhal%20Labs) (1)
-
-- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4436319973/) — Backend · £80,000–£100,000/yr · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (1)
 
@@ -247,17 +202,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graduate Developer](https://jobs.lever.co/scottlogic/6df674ff-1e32-45ce-b8c2-9c0f5aa8f38d) — Backend · Bristol · remote · 🛂 visa sponsor
 
+### [Simmons & Simmons](https://jobs.winterchill.xyz/?employer=Simmons%20%26%20Simmons) (1)
+
+- [Business Applications Engineer – Legal Applications](https://www.linkedin.com/jobs/view/4423951049/) — DevOps / SRE · Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [Sony Interactive Entertainment](https://jobs.winterchill.xyz/?employer=Sony%20Interactive%20Entertainment) (1)
 
 - [IT Support & Infrastructure Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6110746004) — United Kingdom, Bristol · remote · 🛂 visa sponsor
-
-### [SRT Marine Systems plc](https://jobs.winterchill.xyz/?employer=SRT%20Marine%20Systems%20plc) (1)
-
-- [Software Engineer (Monitoring Platform)](https://www.linkedin.com/jobs/view/4423366508/) — Backend · City Of Bristol, England, United Kingdom
-
-### [Stantec](https://jobs.winterchill.xyz/?employer=Stantec) (1)
-
-- [Building Physics Engineer](https://www.linkedin.com/jobs/view/4383398329/) — Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Stirling Dynamics](https://jobs.winterchill.xyz/?employer=Stirling%20Dynamics) (1)
 

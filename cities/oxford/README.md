@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**60 open roles** · updated 2026-07-14
+**53 open roles** · updated 2026-07-15
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -46,37 +46,26 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
-### [Alignerr](https://jobs.winterchill.xyz/?employer=Alignerr) (3)
-
-- [Principal Clinical Scientist](https://www.linkedin.com/jobs/view/4435357963/) — Oxford, England, United Kingdom
-- [Formal Verification Scientist (Lean 4 & Mathlib)](https://www.linkedin.com/jobs/view/4432501006/) — Oxford, England, United Kingdom
-- [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4432489845/) — Backend · Oxford, England, United Kingdom
-
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (3)
-
-- [Principal Investigators (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4439012745/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Bio-ML Scientists (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4438686226/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Research Assistant (Zuercher Lab) - Generative Biology Insititute](https://www.linkedin.com/jobs/view/4435512841/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (3)
 
 - [Engineering Manager (Experiences)](https://job-boards.greenhouse.io/tripadvisor/jobs/8046533) — Oxford · remote · 🛂 visa sponsor
 - [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
 - [Junior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/6903058) — Backend · Oxford, UK · remote · 🛂 visa sponsor
 
-### [Elsevier Editora Limiteda Company](https://jobs.winterchill.xyz/?employer=Elsevier%20Editora%20Limiteda%20Company) (2)
+### [Alignerr](https://jobs.winterchill.xyz/?employer=Alignerr) (2)
 
-- [Full-Stack Software Engineer III](https://startup.jobs/full-stack-software-engineer-iii-elsevier-editora-limiteda-co-8641677) — Backend · Oxford, England, United Kingdom
-- [Senior Java/Angular/React Full Stack Software Engineer](https://startup.jobs/senior-java-angular-react-full-stack-software-engineer-elsevier-editora-limiteda-co-8477938) — Backend · Oxford, England, United Kingdom
+- [Formal Verification Scientist (Lean 4 & Mathlib)](https://www.linkedin.com/jobs/view/4432501006/) — Oxford, England, United Kingdom
+- [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4432489845/) — Backend · Oxford, England, United Kingdom
+
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (2)
+
+- [Principal Investigators (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4439012745/) — Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Bio-ML Scientists (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4438686226/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (2)
 
 - [Machine Learning Engineer (Forward Deployed)](https://mindfoundry.ai/careers-apply?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Machine Learning Engineer](https://mindfoundry.ai/careers-apply?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [3Keel](https://jobs.winterchill.xyz/?employer=3Keel) (1)
-
-- [Technical Consultant](https://www.linkedin.com/jobs/view/4434460612/) — £37,324/yr · Oxford, England, United Kingdom
 
 ### [Archangel Autonomy](https://jobs.winterchill.xyz/?employer=Archangel%20Autonomy) (1)
 
@@ -94,9 +83,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Bio-ML Scientists (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4438919575/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 
+### [Continuous Intelligence Limited](https://jobs.winterchill.xyz/?employer=Continuous%20Intelligence%20Limited) (1)
+
+- [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4440514725/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [develop](https://jobs.winterchill.xyz/?employer=develop) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4435655387/) — Data Engineering · Up to £65,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Elsevier Editora Limiteda Company](https://jobs.winterchill.xyz/?employer=Elsevier%20Editora%20Limiteda%20Company) (1)
+
+- [Senior Java/Angular/React Full Stack Software Engineer](https://startup.jobs/senior-java-angular-react-full-stack-software-engineer-elsevier-editora-limiteda-co-8477938) — Backend · Oxford, England, United Kingdom
 
 ### [Flight Club Darts](https://jobs.winterchill.xyz/?employer=Flight%20Club%20Darts) (1)
 
@@ -108,47 +105,31 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Matterhorn Studio](https://jobs.winterchill.xyz/?employer=Matterhorn%20Studio) (1)
 
-- [Machine Learning Scientist (Open)](https://www.linkedin.com/jobs/view/4439508391/) — Data Engineering · Greater Oxford Area · remote · 🛂 visa sponsor
+- [Operations Associate (Closed)](https://www.linkedin.com/jobs/view/4439508391/) — Data Engineering · Greater Oxford Area · remote · 🛂 visa sponsor
 
 ### [NielsenIQ](https://jobs.winterchill.xyz/?employer=NielsenIQ) (1)
 
 - [Strategic Insight Lead](https://www.linkedin.com/jobs/view/4424216249/) — Oxford, England, United Kingdom
 
-### [OrganOx](https://jobs.winterchill.xyz/?employer=OrganOx) (1)
+### [ONI](https://jobs.winterchill.xyz/?employer=ONI) (1)
 
-- [Software Quality Engineer](https://www.linkedin.com/jobs/view/4425490164/) — Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer (Front End)](https://www.linkedin.com/jobs/view/4440549846/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 
 - [Scientific Software Engineer](https://startup.jobs/scientific-software-engineer-oxford-biotherapeutics-8168193) — Backend · £60,000–£80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [Oxford Nanopore Technologies](https://jobs.winterchill.xyz/?employer=Oxford%20Nanopore%20Technologies) (1)
+### [Oxford Dynamics](https://jobs.winterchill.xyz/?employer=Oxford%20Dynamics) (1)
 
-- [Tech Transfer Scientist](https://www.linkedin.com/jobs/view/4432650723/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Pab Staffing Solutions Ltd](https://jobs.winterchill.xyz/?employer=Pab%20Staffing%20Solutions%20Ltd) (1)
-
-- [Senior Data Engineer - Microsoft Fabric & Databricks](https://www.linkedin.com/jobs/view/4435146967/) — Data Engineering · £70,000–£80,000/yr · Oxford, England, United Kingdom
+- [Research Engineer](https://www.linkedin.com/jobs/view/4440591636/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Paritas Recruitment](https://jobs.winterchill.xyz/?employer=Paritas%20Recruitment) (1)
 
 - [Financial Systems Manager](https://www.linkedin.com/jobs/view/4430629262/) — Oxford, England, United Kingdom
 
-### [PSI CRO](https://jobs.winterchill.xyz/?employer=PSI%20CRO) (1)
-
-- [Senior SAS Developer (SDTM)](https://www.linkedin.com/jobs/view/4425834498/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-
 ### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
 
 - [Experienced/Senior DevOps Engineer (AWS/Azure) - Tech Team](https://apply.workable.com/j/EC9066B2A2/apply) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
-
-### [RELX India (Pvt) Ltd Els div Company](https://jobs.winterchill.xyz/?employer=RELX%20India%20%28Pvt%29%20Ltd%20Els%20div%20Company) (1)
-
-- [Senior Java/Angular/React Full Stack Software Engineer](https://startup.jobs/senior-java-angular-react-full-stack-software-engineer-relx-india-pvt-ltd-els-div-c-8695528) — Backend · Oxford, England, United Kingdom
-
-### [Wiley](https://jobs.winterchill.xyz/?employer=Wiley) (1)
-
-- [Associate Solutions Owner](https://www.linkedin.com/jobs/view/4431965192/) — Oxford, England, United Kingdom
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
