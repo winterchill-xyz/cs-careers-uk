@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**18 open roles** · updated 2026-07-15
+**15 open roles** · updated 2026-07-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -28,15 +28,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer I](https://relx.wd3.myworkdayjobs.com/relx/job/Cardiff/Software-Engineer-I_R112653-1) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
 - [Full Stack PHP Developer – Mid-level](https://relx.wd3.myworkdayjobs.com/relx/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838-1) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
 
-### [SRT Marine Systems plc](https://jobs.winterchill.xyz/?employer=SRT%20Marine%20Systems%20plc) (2)
-
-- [Senior Unity / C# Developer](https://www.linkedin.com/jobs/view/4435180673/) — Backend · Cardiff, Wales, United Kingdom
-- [Software Engineer - System Monitoring Platform](https://startup.jobs/software-engineer-system-monitoring-platform-srt-marine-systems-plc-8153433) — Backend · Cardiff, Wales, United Kingdom
-
-### [ACT Ltd](https://jobs.winterchill.xyz/?employer=ACT%20Ltd) (1)
-
-- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4434958837/) — Data Engineering · £40,596–£44,163/yr · Cardiff, Wales, United Kingdom
-
 ### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (1)
 
 - [Engineering Manager](https://www.linkedin.com/jobs/view/4430581406/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -49,9 +40,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Enterprise Security Architect (Principal Cyber Security Professional)](https://www.linkedin.com/jobs/view/4429464834/) — DevOps / SRE · £71,725/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Rocket Science Group](https://jobs.winterchill.xyz/?employer=Rocket%20Science%20Group) (1)
+### [SRT Marine Systems plc](https://jobs.winterchill.xyz/?employer=SRT%20Marine%20Systems%20plc) (1)
 
-- [Platform Data Engineer - Cardiff](https://www.linkedin.com/jobs/view/4432261835/) — Backend · Cardiff, Wales, United Kingdom
+- [Software Engineer - System Monitoring Platform](https://startup.jobs/software-engineer-system-monitoring-platform-srt-marine-systems-plc-8153433) — Backend · Cardiff, Wales, United Kingdom
 
 ### [Vivo Talent Solutions](https://jobs.winterchill.xyz/?employer=Vivo%20Talent%20Solutions) (1)
 
