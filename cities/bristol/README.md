@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**83 open roles** · updated 2026-07-16
+**78 open roles** · updated 2026-07-17
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -30,7 +30,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8557915002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - …and 11 more at Graphcore — see [`jobs.json`](jobs.json)
 
-### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (9)
+### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (10)
 
 - [Software Security Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Security-Engineer_R30650) — Security Engineering · £74,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Algorithm Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Senior-Algorithm-Engineer_R29775) — Embedded / Robotics · Up to £65,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
@@ -41,6 +41,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Algorithm Design Engineer - Navigation](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Algorithm-Design-Engineer---Navigation_R33653) — Embedded / Robotics · Up to £55,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Systems Engineer (System Architecting)](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Senior-Systems-Engineer--System-Architecting-_R37206) — £50,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Quality Assurance Engineer - Software Quality](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Principal-Product-Assurance-Engineer---Software_R24528-1) — QA / Test Automation · £40,000–£50,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software DDS Developer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-DDS-Developer_R37853) — Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Fractile](https://jobs.winterchill.xyz/?employer=Fractile) (8)
 
@@ -84,17 +85,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Scientist Associate Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bristol/Data-Sciencetist-Associate-Manager_R00322253-2) — Data Science / Analytics · Bristol, United Kingdom · 🛂 visa sponsor
 
-### [Arm](https://jobs.winterchill.xyz/?employer=Arm) (1)
+### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (1)
 
-- [Principal Verification Engineer (ISP, Display, Video)](https://www.linkedin.com/jobs/view/4406946712/) — Backend · £126,200–£170,800/yr · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [AI Software Engineering Professional](https://www.linkedin.com/jobs/view/4441464501/) — Backend · Bristol, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Comply365](https://jobs.winterchill.xyz/?employer=Comply365) (1)
 
 - [Senior Mobile Software Engineer – iOS](https://startup.jobs/senior-mobile-software-engineer-ios-comply365-8270274) — Backend · Bristol, England, United Kingdom
-
-### [Ericsson](https://jobs.winterchill.xyz/?employer=Ericsson) (1)
-
-- [Junior RAN Test Engineer](https://www.linkedin.com/jobs/view/4431281071/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Florza Resourcing](https://jobs.winterchill.xyz/?employer=Florza%20Resourcing) (1)
 
@@ -103,14 +100,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (1)
 
 - [Application Security Engineer (London or Bristol)](https://apply.workable.com/j/96ED82800F/apply) — DevOps / SRE · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (1)
-
-- [Senior Embedded Engineer](https://www.linkedin.com/jobs/view/4416923807/) — Embedded / Robotics · Bristol, England, United Kingdom · 🛂 visa sponsor
-
-### [Inside Travel Group | B Corp™](https://jobs.winterchill.xyz/?employer=Inside%20Travel%20Group%20%7C%20B%20Corp%E2%84%A2) (1)
-
-- [Data and Analytics Lead](https://www.linkedin.com/jobs/view/4433636240/) — Data Engineering · Bristol, England, United Kingdom
 
 ### [Jump Trading](https://jobs.winterchill.xyz/?employer=Jump%20Trading) (1)
 
@@ -123,14 +112,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
 
 - [Lead AI Scientist](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Lead-AI-Scientist_147735-3) — Backend · £90,440–£106,400/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Matchtech](https://jobs.winterchill.xyz/?employer=Matchtech) (1)
-
-- [Software Team Lead](https://www.linkedin.com/jobs/view/4429829922/) — Greater Bristol Area, United Kingdom
-
-### [Santa Monica Talent](https://jobs.winterchill.xyz/?employer=Santa%20Monica%20Talent) (1)
-
-- [Python Developer - Healthtech AI](https://www.linkedin.com/jobs/view/4436735039/) — Backend · £70,000–£100,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
 
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (1)
 
@@ -155,10 +136,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Wipro](https://jobs.winterchill.xyz/?employer=Wipro) (1)
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4435994117/) — Backend · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
-
-### [Young Nuclear Professionals' Forum (YNPF)](https://jobs.winterchill.xyz/?employer=Young%20Nuclear%20Professionals%27%20Forum%20%28YNPF%29) (1)
-
-- [FPGA and Embedded Software Engineer](https://www.linkedin.com/jobs/view/4434418856/) — Backend · Bristol, England, United Kingdom
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
