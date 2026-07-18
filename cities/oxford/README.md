@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**44 open roles** · updated 2026-07-17
+**42 open roles** · updated 2026-07-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -42,9 +42,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
-### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (4)
+### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (3)
 
-- [Software Engineer II](https://job-boards.greenhouse.io/tripadvisor/jobs/8069637) — Backend · Oxford · remote · 🛂 visa sponsor
 - [Engineering Manager (Experiences)](https://job-boards.greenhouse.io/tripadvisor/jobs/8046533) — Oxford · remote · 🛂 visa sponsor
 - [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
 - [Junior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/6903058) — Backend · Oxford, UK · remote · 🛂 visa sponsor
@@ -78,10 +77,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [develop](https://jobs.winterchill.xyz/?employer=develop) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4435655387/) — Data Engineering · Up to £65,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (1)
-
-- [Principal Investigators (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4439012745/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Elsevier Editora Limiteda Company](https://jobs.winterchill.xyz/?employer=Elsevier%20Editora%20Limiteda%20Company) (1)
 

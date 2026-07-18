@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**3 open roles** · updated 2026-07-17
+**3 open roles** · updated 2026-07-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 

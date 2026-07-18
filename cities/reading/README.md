@@ -1,16 +1,15 @@
 # Software &amp; IT careers in Reading
 
-**41 open roles** · updated 2026-07-17
+**42 open roles** · updated 2026-07-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
 
 - [Senior Software Engineer, Core Experiences - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=9986c88095c42951) — Backend · Reading, United Kingdom · remote
-- [Tech Lead, Android Core Product - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=735efe61fb5c3f73) — Backend · Reading, United Kingdom
-- [Software Engineer, iOS Core Product - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=1dc7dc5f60f11641) — Backend · Reading, United Kingdom
+- [Software Engineer, iOS Core Product - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=1dc7dc5f60f11641) — Backend · Reading, United Kingdom · remote
 - [Software Engineer, Platform - Reading, United Kingdom](https://startup.jobs/software-engineer-platform-reading-united-kingdom-speechify-7947478) — Backend · Reading, England, United Kingdom
 - [Senior Software Engineer, Windows/Desktop Applications - Reading, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-reading-united-kingdom-speechify-7947037) — Backend · Reading, England, United Kingdom
 
@@ -30,11 +29,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Developer (Product Focused) -  up to £80,000 - ID49811](https://www.linkedin.com/jobs/view/4434571140/) — Backend · Up to £80,000/yr · Reading, England, United Kingdom
 - [Product Software Engineer -  up to £80,000 - ID49811](https://www.linkedin.com/jobs/view/4434568238/) — Backend · Up to £80,000/yr · Reading, England, United Kingdom
 
-### [IQVIA](https://jobs.winterchill.xyz/?employer=IQVIA) (2)
-
-- [Data Standards Engineer (CDISC)](https://uk.indeed.com/viewjob?jk=8c5486af058331e0) — Reading, United Kingdom · 🛂 visa sponsor
-- [Head of Patient Science, Instrument Development & Thought Leadership](https://uk.indeed.com/viewjob?jk=a5a174a1caed440d) — Reading, United Kingdom · 🛂 visa sponsor
-
 ### [NewOrbit Space](https://jobs.winterchill.xyz/?employer=NewOrbit%20Space) (2)
 
 - [AOCS Engineer](https://www.linkedin.com/jobs/view/4379948484/) — Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -53,9 +47,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Business Administration - Personal Support](https://uk.indeed.com/viewjob?jk=f1a779a945acd88c) — Up to £40,000/yr · Reading, United Kingdom
 
+### [Baxter](https://jobs.winterchill.xyz/?employer=Baxter) (1)
+
+- [Connectivity Specialist (South West)](https://uk.indeed.com/viewjob?jk=282ce947ff7b2c67) — Reading, United Kingdom · remote
+
 ### [bp](https://jobs.winterchill.xyz/?employer=bp) (1)
 
 - [Senior Technologist - Data Management](https://uk.indeed.com/viewjob?jk=e7eb90eb34043b21) — Data Engineering · Reading, United Kingdom · remote · 🛂 visa sponsor
+
+### [CloudFactory](https://jobs.winterchill.xyz/?employer=CloudFactory) (1)
+
+- [Senior Product Manager](https://uk.indeed.com/viewjob?jk=9d28fe1cab9f86a0) — Reading, United Kingdom
 
 ### Company not listed (1)
 
@@ -69,6 +71,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Account Manager](https://uk.indeed.com/viewjob?jk=d3db6cf7673e8b23) — Reading, United Kingdom
 
+### [Devopster IT Consultants Ltd](https://jobs.winterchill.xyz/?employer=Devopster%20IT%20Consultants%20Ltd) (1)
+
+- [Splunk Admin](https://uk.indeed.com/viewjob?jk=853554a22b4a7895) — £300–£350/day · Reading, United Kingdom · hybrid
+
 ### [Ericsson](https://jobs.winterchill.xyz/?employer=Ericsson) (1)
 
 - [E2E Solution Architect](https://uk.indeed.com/viewjob?jk=5dcacf558baaca98) — Reading, United Kingdom · 🛂 visa sponsor
@@ -81,6 +87,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Cyber Security Architect (DV)](https://uk.indeed.com/viewjob?jk=fd6001e048385d12) — Reading, United Kingdom
 
+### [IQVIA](https://jobs.winterchill.xyz/?employer=IQVIA) (1)
+
+- [Data Standards Engineer (CDISC)](https://uk.indeed.com/viewjob?jk=8c5486af058331e0) — Reading, United Kingdom · 🛂 visa sponsor
+
 ### [Kantar](https://jobs.winterchill.xyz/?employer=Kantar) (1)
 
 - [Senior Data Scientist](https://www.linkedin.com/jobs/view/4425534495/) — Backend · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -92,6 +102,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Objective](https://jobs.winterchill.xyz/?employer=Objective) (1)
 
 - [Business Development Manager](https://uk.indeed.com/viewjob?jk=1e5671469a23f84f) — Reading, United Kingdom · hybrid
+
+### [Opus Recruitment Solutions](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions) (1)
+
+- [Java Software Engineer - Cloud Native - Tech4Good - £70k](https://www.linkedin.com/jobs/view/4440771044/) — Backend · Greater Reading Area
 
 ### [Oxford Quantum Circuits](https://jobs.winterchill.xyz/?employer=Oxford%20Quantum%20Circuits) (1)
 
@@ -132,10 +146,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Wireless Logic mdex GmbH](https://jobs.winterchill.xyz/?employer=Wireless%20Logic%20mdex%20GmbH) (1)
 
 - [Senior QA Engineer](https://uk.indeed.com/viewjob?jk=ef5ad9c84e7682b5) — Backend · Reading, United Kingdom · remote
-
-### [XPS Group](https://jobs.winterchill.xyz/?employer=XPS%20Group) (1)
-
-- [Technical Product Owner](https://uk.indeed.com/viewjob?jk=3b7ad855d88666dd) — Reading, United Kingdom
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
