@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**13 open roles** · updated 2026-07-18
+**14 open roles** · updated 2026-07-19
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -34,6 +34,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Hays](https://jobs.winterchill.xyz/?employer=Hays) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4442110767/) — Data Engineering · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Hays Specialist Recruitment](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment) (1)
+
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-hays-specialist-recruitment-cardiff) — Data Engineering · £50,000–£55,000/yr · Cardiff, Cymru / Wales · hybrid
 
 ### [SRT Marine Systems plc](https://jobs.winterchill.xyz/?employer=SRT%20Marine%20Systems%20plc) (1)
 

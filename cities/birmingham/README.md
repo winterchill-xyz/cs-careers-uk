@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**52 open roles** · updated 2026-07-18
+**50 open roles** · updated 2026-07-19
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -36,13 +36,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
 - [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
-### [ITAC Solutions](https://jobs.winterchill.xyz/?employer=ITAC%20Solutions) (4)
-
-- [Google Cloud / Java - AI Software Engineer](https://www.glassdoor.com/job-listing/google-cloud-java-ai-software-engineer-itac-solutions-JV_IC1127429_KO0,38_KE39,53.htm?jl=1010195693258) — Backend · $130,000–$140,000/yr · Birmingham, AL
-- [API Cloud Engineer](https://www.glassdoor.com/job-listing/api-cloud-engineer-itac-solutions-JV_IC1127429_KO0,18_KE19,33.htm?jl=1010197113998) — Backend · $125,000/yr · Birmingham, AL
-- [React Full Stack Developer](https://www.glassdoor.com/job-listing/react-full-stack-developer-itac-solutions-JV_IC1127429_KO0,26_KE27,41.htm?jl=1010196665350) — Backend · $100,000–$115,000/yr · Birmingham, AL
-- [Sr. Full Stack Engineer - ML / AI Search Engineer](https://www.glassdoor.com/job-listing/sr-full-stack-engineer-ml-ai-search-engineer-itac-solutions-JV_IC1127429_KO0,44_KE45,59.htm?jl=1010195693257) — Backend · Birmingham, AL
-
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (4)
 
 - [Senior Software Engineer - Flights](https://jobs.ashbyhq.com/perk/dd626876-1a3e-468d-bbf8-eb1085d20d8c) — Backend · Birmingham · hybrid · 🛂 visa sponsor
@@ -56,6 +49,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, iOS Core Product - Birmingham, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-birmingham-united-kingdom-speechify-7947150) — Backend · Birmingham, England, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-birmingham-united-kingdom-speechify-7954793) — Backend · Birmingham, England, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-speechify-7960123) — Backend · Birmingham, England, United Kingdom
+
+### [ITAC Solutions](https://jobs.winterchill.xyz/?employer=ITAC%20Solutions) (3)
+
+- [API Cloud Engineer](https://www.glassdoor.com/job-listing/api-cloud-engineer-itac-solutions-JV_IC1127429_KO0,18_KE19,33.htm?jl=1010197113998) — Backend · $125,000/yr · Birmingham, AL
+- [React Full Stack Developer](https://www.glassdoor.com/job-listing/react-full-stack-developer-itac-solutions-JV_IC1127429_KO0,26_KE27,41.htm?jl=1010196665350) — Backend · $100,000–$115,000/yr · Birmingham, AL
+- [Sr. Full Stack Engineer - ML / AI Search Engineer](https://www.glassdoor.com/job-listing/sr-full-stack-engineer-ml-ai-search-engineer-itac-solutions-JV_IC1127429_KO0,44_KE45,59.htm?jl=1010195693257) — Backend · Birmingham, AL
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (2)
 
@@ -100,10 +99,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
 
 - [Senior Quantexa Data Engineer - Birmingham](https://dataengineeringjobs.co.uk/jobs/senior-quantexa-data-engineer-birmingham-noir-birmingham) — Data Engineering · £60,000–£75,000/yr · Birmingham, England · hybrid
-
-### [Robert Walters](https://jobs.winterchill.xyz/?employer=Robert%20Walters) (1)
-
-- [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-robert-walters-birmingham) — Data Engineering · £60,000–£70,000/yr · Birmingham, England · hybrid · 🛂 visa sponsor
 
 ### [System One](https://jobs.winterchill.xyz/?employer=System%20One) (1)
 

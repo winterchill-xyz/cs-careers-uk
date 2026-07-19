@@ -1,20 +1,10 @@
 # Software &amp; IT careers in Oxford
 
-**42 open roles** · updated 2026-07-18
+**39 open roles** · updated 2026-07-19
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
-
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (7)
-
-- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4384233871/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435794718/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435789781/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Data Engineer](https://www.linkedin.com/jobs/view/4431593165/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (6)
 
@@ -33,6 +23,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Full Stack Software Engineer (Java / React )](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Full-Stack-Software-Engineer--Java---React--_R110832-1) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Java-Software-Engineer_R112239-1) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Senior Java/Angular/React Full Stack Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Software-Engineer_R105929-1) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
+
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (5)
+
+- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4384233871/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4431593165/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
@@ -65,10 +63,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [CHEManager International](https://jobs.winterchill.xyz/?employer=CHEManager%20International) (1)
-
-- [Bio-ML Scientists (All Levels) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4438919575/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Continuous Intelligence Limited](https://jobs.winterchill.xyz/?employer=Continuous%20Intelligence%20Limited) (1)
 

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Manchester
 
-**111 open roles** · updated 2026-07-18
+**111 open roles** · updated 2026-07-19
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Manchester)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -133,7 +133,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://startup.jobs/software-engineer-foundation-health-8124135) — Backend · Manchester, England, United Kingdom · hybrid
 - [Senior Software Engineer](https://startup.jobs/senior-software-engineer-foundation-health-8124133) — Backend · Manchester, England, United Kingdom · hybrid
 
-### [Interactive Investor](https://jobs.winterchill.xyz/?employer=Interactive%20Investor) (2)
+### [interactive investor](https://jobs.winterchill.xyz/?employer=interactive%20investor) (2)
 
 - [Software Engineer (Full Stack, Java)](https://startup.jobs/software-engineer-full-stack-java-interactive-investor-8040170) — Backend · £50,000/yr · Manchester, England, United Kingdom · hybrid
 - [Software Engineer (Java Mid)](https://startup.jobs/software-engineer-java-mid-interactive-investor-8040171) — Backend · £50,000/yr · Manchester, England, United Kingdom · hybrid
@@ -229,7 +229,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Chief Technology Officer](https://www.linkedin.com/jobs/view/4441457225/) — DevOps / SRE · £100,000–£130,000/yr · Manchester Area, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Reply](https://jobs.winterchill.xyz/?employer=Reply) (1)
+### [REPLY](https://jobs.winterchill.xyz/?employer=REPLY) (1)
 
 - [Graduate AI Software Developer](https://www.linkedin.com/jobs/view/4437293328/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
 

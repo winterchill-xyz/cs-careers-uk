@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**28 open roles** · updated 2026-07-18
+**28 open roles** · updated 2026-07-19
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
