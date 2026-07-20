@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**28 open roles** · updated 2026-07-19
+**28 open roles** · updated 2026-07-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -19,8 +19,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (5)
 
-- [Senior Test Engineer](https://jobs.lever.co/scottlogic/c0b75d50-8d72-4ccd-ae96-ce658857d13e) — Backend · Newcastle · hybrid · 🛂 visa sponsor
 - [Lead Test Engineer](https://jobs.lever.co/scottlogic/a32bebfc-72f2-4758-be8a-f9803dc53798) — Backend · Newcastle · hybrid · 🛂 visa sponsor
+- [Senior Test Engineer](https://jobs.lever.co/scottlogic/c0b75d50-8d72-4ccd-ae96-ce658857d13e) — Backend · Newcastle · hybrid · 🛂 visa sponsor
 - [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
 - [Graduate Test Engineer](https://jobs.lever.co/scottlogic/d173c70a-2384-46c2-b55f-7604cee66522) — Backend · Newcastle · remote · 🛂 visa sponsor
 - [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60) — Backend · Newcastle · remote · 🛂 visa sponsor

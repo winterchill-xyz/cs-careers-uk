@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Manchester
 
-**111 open roles** · updated 2026-07-19
+**110 open roles** · updated 2026-07-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Manchester)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -37,15 +37,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Engineer, Python, Spark](https://www.weareroku.com/jobs/7916787?gh_jid=7916787) — Backend · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Engineer, Ads Auction Platform](https://www.weareroku.com/jobs/7985396?gh_jid=7985396) — Backend · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Anaplan](https://jobs.winterchill.xyz/?employer=Anaplan) (6)
-
-- [Technical Lead, AI Engineering](https://job-boards.greenhouse.io/anaplan/jobs/8605936002) — Backend · manchester, united kingdom · 🛂 visa sponsor
-- [Senior Business Intelligence Developer/Analyst](https://job-boards.greenhouse.io/anaplan/jobs/8496226002) — Data Science / Analytics · Manchester, United Kingdom · 🛂 visa sponsor
-- [Software Engineer](https://job-boards.greenhouse.io/anaplan/jobs/8395949002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
-- [Principal Software Engineer (Java)](https://job-boards.greenhouse.io/anaplan/jobs/8538803002) — Backend · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Backend Software Engineer (Python)](https://job-boards.greenhouse.io/anaplan/jobs/8579819002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
-- [Data Engineer](https://job-boards.greenhouse.io/anaplan/jobs/8288917002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
-
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (5)
 
 - [Senior Platform Engineer - DevOps](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Senior-Platform-Engineer---DevOps_R00323500) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
@@ -53,6 +44,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [AI Enabled Intermediate Power Platform Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester-2-Circle-Square/AI-Enabled-Intermediate-Power-Platform-Engineer_R00322060) — Backend · Manchester, 2 Circle Square, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - (Frontend, Backend, Full Stack)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Lead-Software-Engineer----Frontend--Backend--Full-Stack-_R00323944) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
 - [Software Engineer - Manchester](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Software-Engineer---Manchester_R00294153) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
+
+### [Anaplan](https://jobs.winterchill.xyz/?employer=Anaplan) (5)
+
+- [Technical Lead, AI Engineering](https://job-boards.greenhouse.io/anaplan/jobs/8605936002) — Backend · manchester, united kingdom · 🛂 visa sponsor
+- [Senior Business Intelligence Developer/Analyst](https://job-boards.greenhouse.io/anaplan/jobs/8496226002) — Data Science / Analytics · Manchester, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://job-boards.greenhouse.io/anaplan/jobs/8395949002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
+- [Principal Software Engineer (Java)](https://job-boards.greenhouse.io/anaplan/jobs/8538803002) — Backend · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Backend Software Engineer (Python)](https://job-boards.greenhouse.io/anaplan/jobs/8579819002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
 
 ### [Matillion](https://jobs.winterchill.xyz/?employer=Matillion) (5)
 
@@ -183,7 +182,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
 
-- [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4439206241/) — Backend · £25,000/yr · Manchester, England, United Kingdom · remote · 🛂 visa sponsor
+- [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4439206241/) — Backend · Manchester, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Interact Software](https://jobs.winterchill.xyz/?employer=Interact%20Software) (1)
 

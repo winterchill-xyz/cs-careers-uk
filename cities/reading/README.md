@@ -1,17 +1,18 @@
 # Software &amp; IT careers in Reading
 
-**42 open roles** · updated 2026-07-19
+**41 open roles** · updated 2026-07-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
 - [Senior Software Engineer, Core Experiences - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=9986c88095c42951) — Backend · Reading, United Kingdom · remote
 - [Software Engineer, Platform - Reading, United Kingdom](https://startup.jobs/software-engineer-platform-reading-united-kingdom-speechify-7947478) — Backend · Reading, England, United Kingdom
 - [Senior Software Engineer, Windows/Desktop Applications - Reading, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-reading-united-kingdom-speechify-7947037) — Backend · Reading, England, United Kingdom
 - [Software Engineer, iOS Core Product - Reading, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-reading-united-kingdom-speechify-7947349) — Backend · Reading, England, United Kingdom · remote
+- [Software Engineer, Data Infrastructure & Acquisition - Reading, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-reading-united-kingdom-speechify-7936576) — Backend · Reading, England, United Kingdom
 
 ### [ECMWF](https://jobs.winterchill.xyz/?employer=ECMWF) (3)
 
@@ -33,11 +34,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [AOCS Engineer](https://www.linkedin.com/jobs/view/4379948484/) — Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Flight Software Engineer](https://www.linkedin.com/jobs/view/4412787685/) — Backend · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Simpro](https://jobs.winterchill.xyz/?employer=Simpro) (2)
-
-- [Senior AI Sales Executive](https://uk.indeed.com/viewjob?jk=77b5a44e4a8484bc) — Reading, United Kingdom
-- [AI Sales Specialist](https://uk.indeed.com/viewjob?jk=a415b26cc2eb39a8) — Reading, United Kingdom
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (1)
 

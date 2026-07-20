@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Belfast
 
-**66 open roles** · updated 2026-07-19
+**66 open roles** · updated 2026-07-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -81,8 +81,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (2)
 
-- [Data Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000138276189) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior AI Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000138273701) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000138276189) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Stora](https://jobs.winterchill.xyz/?employer=Stora) (2)
 

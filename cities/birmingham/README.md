@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**50 open roles** · updated 2026-07-19
+**46 open roles** · updated 2026-07-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -36,25 +36,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
 - [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+
+- [Software Engineer, Platform - Birmingham, United Kingdom](https://startup.jobs/software-engineer-platform-birmingham-united-kingdom-speechify-7954979) — Backend · Birmingham, England, United Kingdom
+- [Software Engineer, iOS Core Product - Birmingham, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-birmingham-united-kingdom-speechify-7947150) — Backend · Birmingham, England, United Kingdom · remote
+- [Senior Software Engineer, Core Experiences - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-birmingham-united-kingdom-speechify-7954793) — Backend · Birmingham, England, United Kingdom · remote
+- [Senior Software Engineer, Windows/Desktop Applications - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-birmingham-united-kingdom-speechify-7936477) — Backend · Birmingham, England, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-speechify-7960123) — Backend · Birmingham, England, United Kingdom
+
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (4)
 
 - [Senior Software Engineer - Flights](https://jobs.ashbyhq.com/perk/dd626876-1a3e-468d-bbf8-eb1085d20d8c) — Backend · Birmingham · hybrid · 🛂 visa sponsor
 - [Staff Software Engineer - Flights](https://jobs.ashbyhq.com/perk/c8e88c1d-f95f-4134-84a4-95640145689d) — Backend · Birmingham · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer - Pay Sustainable Engineering](https://jobs.ashbyhq.com/perk/76e4400f-2436-4908-a605-676b4d9f8aba) — Backend · Birmingham · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer - Financial Platform](https://jobs.ashbyhq.com/perk/4d3763eb-e12a-4593-9c54-b109b957c71f) — Backend · Birmingham · hybrid · 🛂 visa sponsor
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
-
-- [Software Engineer, Platform - Birmingham, United Kingdom](https://startup.jobs/software-engineer-platform-birmingham-united-kingdom-speechify-7954979) — Backend · Birmingham, England, United Kingdom
-- [Software Engineer, iOS Core Product - Birmingham, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-birmingham-united-kingdom-speechify-7947150) — Backend · Birmingham, England, United Kingdom · remote
-- [Senior Software Engineer, Core Experiences - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-birmingham-united-kingdom-speechify-7954793) — Backend · Birmingham, England, United Kingdom · remote
-- [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-speechify-7960123) — Backend · Birmingham, England, United Kingdom
-
-### [ITAC Solutions](https://jobs.winterchill.xyz/?employer=ITAC%20Solutions) (3)
-
-- [API Cloud Engineer](https://www.glassdoor.com/job-listing/api-cloud-engineer-itac-solutions-JV_IC1127429_KO0,18_KE19,33.htm?jl=1010197113998) — Backend · $125,000/yr · Birmingham, AL
-- [React Full Stack Developer](https://www.glassdoor.com/job-listing/react-full-stack-developer-itac-solutions-JV_IC1127429_KO0,26_KE27,41.htm?jl=1010196665350) — Backend · $100,000–$115,000/yr · Birmingham, AL
-- [Sr. Full Stack Engineer - ML / AI Search Engineer](https://www.glassdoor.com/job-listing/sr-full-stack-engineer-ml-ai-search-engineer-itac-solutions-JV_IC1127429_KO0,44_KE45,59.htm?jl=1010195693257) — Backend · Birmingham, AL
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (2)
 
@@ -99,14 +94,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
 
 - [Senior Quantexa Data Engineer - Birmingham](https://dataengineeringjobs.co.uk/jobs/senior-quantexa-data-engineer-birmingham-noir-birmingham) — Data Engineering · £60,000–£75,000/yr · Birmingham, England · hybrid
-
-### [System One](https://jobs.winterchill.xyz/?employer=System%20One) (1)
-
-- [Sr Software Engineer](https://www.glassdoor.com/job-listing/sr-software-engineer-system-one-JV_IC1127429_KO0,20_KE21,31.htm?jl=1010194247148) — Data Engineering · Birmingham, AL
-
-### [The PNC Financial Services Group, Inc.](https://jobs.winterchill.xyz/?employer=The%20PNC%20Financial%20Services%20Group%2C%20Inc.) (1)
-
-- [Software Engineer Senior - SRC First Response](https://www.glassdoor.com/job-listing/software-engineer-senior-src-first-response-pnc-financial-services-group-JV_IC1127429_KO0,43_KE44,72.htm?jl=1010196339998) — $67,500/yr · Birmingham, AL
 
 ### [Thermo Fisher Scientific](https://jobs.winterchill.xyz/?employer=Thermo%20Fisher%20Scientific) (1)
 

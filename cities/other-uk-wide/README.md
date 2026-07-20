@@ -1,12 +1,12 @@
 # Software &amp; IT careers in Other / UK-wide
 
-**2,667 open roles** · updated 2026-07-19
+**1,297 open roles** · updated 2026-07-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=other)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Leonardo](https://jobs.winterchill.xyz/?employer=Leonardo) (48)
+### [Leonardo](https://jobs.winterchill.xyz/?employer=Leonardo) (47)
 
 - [Head of Software Engineering (EW)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Head-of-Software-Engineering--EW-_R0030806) — Engineering Management · £77,760–£117,058/yr · GB - Luton - Cap. Green 300, United Kingdom · hybrid · 🛂 visa sponsor
 - [Chief Systems Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Chief-Systems-Engineer_R0031438) — Platform / Infrastructure · £80,000–£95,000/yr · GB - Southampton, United Kingdom · hybrid · 🛂 visa sponsor
@@ -28,33 +28,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Software Engineer (DevSecOps)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Principal-Software-Engineer--DevSecOps-_R0031286) — DevOps / SRE · £54,000–£70,000/yr · GB - Luton - Cap. Green 300, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI/ML)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Principal-Software-Engineer--AI-ML-_R0031288) — Backend · £54,000–£70,000/yr · GB - Luton - Cap. Green 300, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer – Test Environments (GCAP)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Principal-Software-Engineer---Test-Environments--GCAP-_R0031290) — £54,000–£70,000/yr · GB - Luton - Cap. Green 300, United Kingdom · hybrid · 🛂 visa sponsor
-- …and 28 more at Leonardo — see [`jobs.json`](jobs.json)
+- …and 27 more at Leonardo — see [`jobs.json`](jobs.json)
 
-### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (43)
-
-- [Data & AI GTM Leader & Solution Engineer](https://www.glassdoor.com/job-listing/data-ai-gtm-leader-solution-engineer-capgemini-JV_IC1150505_KO0,36_KE37,46.htm?jl=1010195093903) — Solutions / Customer Engineering · $92,700–$195,000/yr · Seattle, WA · 🛂 visa sponsor
-- [Java Full Stack Senior Developer/Architect](https://www.glassdoor.com/job-listing/java-full-stack-senior-developer-architect-capgemini-JV_IC1128808_KO0,42_KE43,52.htm?jl=1010195972324) — Backend · $82,082–$193,440/yr · Chicago, IL · 🛂 visa sponsor
-- [Senior Software Engineer - Java Microservices](https://www.glassdoor.com/job-listing/senior-software-engineer-java-microservices-capgemini-JV_IC1132348_KO0,43_KE44,53.htm?jl=1010195088192) — Backend · $82,082–$193,440/yr · New York, NY · 🛂 visa sponsor
-- [Senior .Net Developer](https://www.glassdoor.com/job-listing/senior-net-developer-capgemini-JV_IC1140171_KO0,20_KE21,30.htm?jl=1010195094041) — Backend · $73,150–$174,000/yr · Houston, TX · 🛂 visa sponsor
-- [Java lead - Senior Software Engineer](https://www.glassdoor.com/job-listing/java-lead-senior-software-engineer-capgemini-JV_IC1128789_KO0,34_KE35,44.htm?jl=1010195995192) — Backend · $73,150–$174,000/yr · Berwyn, IL · hybrid · 🛂 visa sponsor
-- [Full Stack Technical Lead](https://www.glassdoor.com/job-listing/full-stack-technical-lead-capgemini-JV_IC1139977_KO0,25_KE26,35.htm?jl=1010193130581) — Backend · $73,150–$174,000/yr · Dallas, TX · hybrid · 🛂 visa sponsor
-- [Senior Mobile Developer](https://www.glassdoor.com/job-listing/senior-mobile-developer-capgemini-JV_IC1155583_KO0,23_KE24,33.htm?jl=1010195977995) — Backend · $68,911–$161,544/yr · Atlanta, GA · 🛂 visa sponsor
-- [Senior Web Developer](https://www.glassdoor.com/job-listing/senior-web-developer-capgemini-JV_IC1155583_KO0,20_KE21,30.htm?jl=1010195753605) — Backend · $68,911–$161,544/yr · Atlanta, GA · 🛂 visa sponsor
-- [Senior Data Engineer / Analytics Engineer](https://www.glassdoor.com/job-listing/senior-data-engineer-analytics-engineer-capgemini-JV_IC1128808_KO0,39_KE40,49.htm?jl=1010195754002) — Data Engineering · $110,841–$145,000/yr · Chicago, IL · hybrid · 🛂 visa sponsor
-- [Guidewire Jutro Developer](https://www.glassdoor.com/job-listing/guidewire-jutro-developer-capgemini-JV_IC1132348_KO0,25_KE26,35.htm?jl=1010193166938) — Backend · $110,000–$138,059/yr · New York, NY · 🛂 visa sponsor
-- [Data Engineer with Expert-level SQL](https://www.glassdoor.com/job-listing/data-engineer-with-expert-level-sql-capgemini-JV_IC1132348_KO0,35_KE36,45.htm?jl=1010195752134) — Data Engineering · $100,000–$130,000/yr · New York, NY · 🛂 visa sponsor
-- [Angular Front End Developer in Merrimack, NH](https://www.glassdoor.com/job-listing/angular-front-end-developer-in-merrimack-nh-capgemini-JV_IC1132348_KO0,43_KE44,53.htm?jl=1010195093379) — Backend · $100,000–$130,000/yr · New York, NY · 🛂 visa sponsor
-- [Java_UI Developer](https://www.glassdoor.com/job-listing/java-ui-developer-capgemini-JV_IC1132348_KO0,17_KE18,27.htm?jl=1010195774914) — Backend · $100,000–$130,000/yr · New York, NY · 🛂 visa sponsor
-- [Data Analytics Engineer - Techno functional](https://www.glassdoor.com/job-listing/data-analytics-engineer-techno-functional-capgemini-JV_IC1155583_KO0,41_KE42,51.htm?jl=1010195784123) — Data Engineering · $103,330–$128,656/yr · Atlanta, GA · hybrid · 🛂 visa sponsor
-- [AWS Data Engineer](https://www.glassdoor.com/job-listing/aws-data-engineer-capgemini-JV_IC1155583_KO0,17_KE18,27.htm?jl=1010195981769) — Data Engineering · $103,330–$128,656/yr · Atlanta, GA · hybrid · 🛂 visa sponsor
-- [Data / Database Engineer - SQL, Oracle, PL/SQL, Informatica, ETL, Powercenter](https://www.glassdoor.com/job-listing/data-database-engineer-sql-oracle-pl-sql-informatica-etl-powercenter-capgemini-JV_IC1140006_KO0,68_KE69,78.htm?jl=1010195093337) — Platform / Infrastructure · $103,330–$128,656/yr · Irving, TX · hybrid · 🛂 visa sponsor
-- [Python & AWS Data Engineer](https://www.glassdoor.com/job-listing/python-aws-data-engineer-capgemini-JV_IC1132348_KO0,24_KE25,34.htm?jl=1010195972884) — Data Engineering · $86,129–$127,189/yr · New York, NY · 🛂 visa sponsor
-- [Java React Developer](https://www.glassdoor.com/job-listing/java-react-developer-capgemini-JV_IC1140006_KO0,20_KE21,30.htm?jl=1010195088704) — Backend · $86,129–$127,189/yr · Irving, TX · 🛂 visa sponsor
-- [Guidewire Jutro](https://www.glassdoor.com/job-listing/guidewire-jutro-capgemini-JV_IC1132348_KO0,15_KE16,25.htm?jl=1010195754615) — Platform / Infrastructure · $100,000–$125,000/yr · New York, NY · 🛂 visa sponsor
-- [Senior Data Engineer](https://www.glassdoor.com/job-listing/senior-data-engineer-capgemini-JV_IC1132348_KO0,20_KE21,30.htm?jl=1010195088073) — Platform / Infrastructure · $90,000–$115,000/yr · New York, NY · 🛂 visa sponsor
-- …and 23 more at Capgemini — see [`jobs.json`](jobs.json)
-
-### [Marks & Spencer](https://jobs.winterchill.xyz/?employer=Marks%20%26%20Spencer) (40)
+### [Marks & Spencer](https://jobs.winterchill.xyz/?employer=Marks%20%26%20Spencer) (39)
 
 - [Lead Analytical Engineering and Reporting Analyst](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115704) — Data Engineering · United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineering Manager - Online (Order Management)](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114985) — United Kingdom · hybrid · 🛂 visa sponsor
@@ -75,128 +51,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Head of Software Engineering - Personalisation](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/114168) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer - Customer Platforms](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121537) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer SC&L](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121888) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer - AI](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121311) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
-- …and 20 more at Marks & Spencer — see [`jobs.json`](jobs.json)
-
-### [Tata Consultancy Services Limited](https://jobs.winterchill.xyz/?employer=Tata%20Consultancy%20Services%20Limited) (31)
-
-- [Software Developer](https://www.glassdoor.com/job-listing/software-developer-tata-consultancy-services-JV_IC1138644_KO0,18_KE19,44.htm?jl=1010194592350) — Backend · $90,000–$150,000/yr · Charlotte, NC
-- [Andriod Technical Lead](https://www.glassdoor.com/job-listing/andriod-technical-lead-tata-consultancy-services-JV_KO0,22_KE23,48.htm?jl=1010195541328) — DevOps / SRE · $100,000–$140,000/yr · United States
-- [ReactJS Fullstack Developer](https://www.glassdoor.com/job-listing/reactjs-fullstack-developer-tata-consultancy-services-JV_IC1140006_KO0,27_KE28,53.htm?jl=1010194292923) — Backend · $125,000–$140,000/yr · Irving, TX
-- [Angular Developer](https://www.glassdoor.com/job-listing/angular-developer-tata-consultancy-services-JV_IC1140006_KO0,17_KE18,43.htm?jl=1010193314855) — Backend · $125,000–$140,000/yr · Irving, TX
-- [AI Automation Engineer](https://www.glassdoor.com/job-listing/ai-automation-engineer-tata-consultancy-services-JV_IC1132348_KO0,22_KE23,48.htm?jl=1010193732919) — Backend · $120,000–$135,000/yr · New York, NY
-- [Gen AI Engineer](https://www.glassdoor.com/job-listing/gen-ai-engineer-tata-consultancy-services-JV_IC1139761_KO0,15_KE16,41.htm?jl=1010193005043) — Backend · $70,000–$135,000/yr · Austin, TX
-- [Senior Java Developer](https://www.glassdoor.com/job-listing/senior-java-developer-tata-consultancy-services-JV_IC1138644_KO0,21_KE22,47.htm?jl=1010195217372) — Backend · $120,000–$130,000/yr · Charlotte, NC
-- [Java Full Stack Technical Lead](https://www.glassdoor.com/job-listing/java-full-stack-technical-lead-tata-consultancy-services-JV_IC1138945_KO0,30_KE31,56.htm?jl=1010193314827) — Backend · $110,000–$130,000/yr · Cary, NC
-- [Senior Engineer](https://www.glassdoor.com/job-listing/senior-engineer-tata-consultancy-services-JV_IC1156368_KO0,15_KE16,41.htm?jl=1010194292810) — $100,000–$127,000/yr · New Castle, DE
-- [Java Engineer](https://www.glassdoor.com/job-listing/java-engineer-tata-consultancy-services-JV_IC1140006_KO0,13_KE14,39.htm?jl=1010195828058) — DevOps / SRE · $100,000–$125,000/yr · Irving, TX
-- [Full stack Architect](https://www.glassdoor.com/job-listing/full-stack-architect-tata-consultancy-services-JV_IC1138644_KO0,20_KE21,46.htm?jl=1010195539839) — Backend · $110,000–$125,000/yr · Charlotte, NC
-- [Developer](https://www.glassdoor.com/job-listing/developer-tata-consultancy-services-JV_IC1138644_KO0,9_KE10,35.htm?jl=1010193317784) — $100,000–$125,000/yr · Charlotte, NC
-- [UI Developer](https://www.glassdoor.com/job-listing/ui-developer-tata-consultancy-services-JV_IC1150505_KO0,12_KE13,38.htm?jl=1010194594581) — Backend · $95,000–$125,000/yr · Seattle, WA
-- [Java developer with Docker Mongo DB / Cockroach DB](https://www.glassdoor.com/job-listing/java-developer-with-docker-mongo-db-cockroach-db-tata-consultancy-services-JV_IC1138644_KO0,48_KE49,74.htm?jl=1010191685894) — Backend · $110,000–$125,000/yr · Charlotte, NC
-- [Robotics Engineer - Computer Systems Support](https://www.glassdoor.com/job-listing/robotics-engineer-computer-systems-support-tata-consultancy-services-JV_IC1147422_KO0,42_KE43,68.htm?jl=1010196307177) — $95,000–$120,000/yr · Cupertino, CA
-- [Data Engineer](https://www.glassdoor.com/job-listing/data-engineer-tata-consultancy-services-JV_IC1139944_KO0,13_KE14,39.htm?jl=1010196959497) — Data Engineering · $95,000–$120,000/yr · Addison, TX
-- [Automation Engineer](https://www.glassdoor.com/job-listing/automation-engineer-tata-consultancy-services-JV_IC1140045_KO0,19_KE20,45.htm?jl=1010196962266) — DevOps / SRE · $80,000–$120,000/yr · Plano, TX
-- [Python & Oracle Developer](https://www.glassdoor.com/job-listing/python-oracle-developer-tata-consultancy-services-JV_IC1138644_KO0,23_KE24,49.htm?jl=1010196308277) — Data Engineering · $100,000–$120,000/yr · Charlotte, NC
-- [Java Full Stack Developer](https://www.glassdoor.com/job-listing/java-full-stack-developer-tata-consultancy-services-JV_IC1140045_KO0,25_KE26,51.htm?jl=1010195828275) — $100,000–$120,000/yr · Plano, TX
-- [React and Node.js FSD Engineer](https://www.glassdoor.com/job-listing/react-and-node-js-fsd-engineer-tata-consultancy-services-JV_IC1139977_KO0,30_KE31,56.htm?jl=1010195539677) — Backend · $100,000–$120,000/yr · Dallas, TX
-- …and 11 more at Tata Consultancy Services Limited — see [`jobs.json`](jobs.json)
-
-### [General Dynamics Information Technology, Inc.](https://jobs.winterchill.xyz/?employer=General%20Dynamics%20Information%20Technology%2C%20Inc.) (30)
-
-- [Data Engineer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/data-engineer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1130353_KO0,35_KE36,75.htm?jl=1010191943606) — Backend · $221,000–$299,000/yr · Chantilly, VA
-- [Full Stack Developer (Vue/Node/Ruby) - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/full-stack-developer-vue-node-ruby-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1158535_KO0,56_KE57,96.htm?jl=1010196902068) — Backend · $186,542–$252,379/yr · McLean, VA
-- [Front End Software Engineer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/front-end-software-engineer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1130353_KO0,49_KE50,89.htm?jl=1010196902093) — Backend · $186,542–$252,379/yr · Chantilly, VA
-- [ETL Data Engineer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/etl-data-engineer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1130353_KO0,39_KE40,79.htm?jl=1010195489635) — Backend · $185,300–$250,700/yr · Chantilly, VA
-- [Software Engineer SME](https://www.glassdoor.com/job-listing/software-engineer-sme-general-dynamics-information-technology-JV_IC1161794_KO0,21_KE22,61.htm?jl=1010196902540) — $187,179–$241,500/yr · Camp Smith, HI
-- [Software Integration Engineer 3](https://www.glassdoor.com/job-listing/software-integration-engineer-3-general-dynamics-information-technology-JV_IC1153524_KO0,31_KE32,71.htm?jl=1010193264968) — Backend · $176,800–$239,200/yr · Annapolis Junction, MD
-- [Software Engineer 3](https://www.glassdoor.com/job-listing/software-engineer-3-general-dynamics-information-technology-JV_IC1153524_KO0,19_KE20,59.htm?jl=1010193264603) — Backend · $175,950–$238,050/yr · Annapolis Junction, MD
-- [Java/ETL Developer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/java-etl-developer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1130374_KO0,40_KE41,80.htm?jl=1010196901758) — Backend · $174,250–$235,750/yr · Herndon, VA
-- [Software Integration Engineer](https://www.glassdoor.com/job-listing/software-integration-engineer-general-dynamics-information-technology-JV_IC1153524_KO0,29_KE30,69.htm?jl=1010196902447) — Backend · $170,000–$230,000/yr · Annapolis Junction, MD
-- [Software Engineer 1](https://www.glassdoor.com/job-listing/software-engineer-1-general-dynamics-information-technology-JV_IC1153524_KO0,19_KE20,59.htm?jl=1010193269000) — Backend · $170,000–$230,000/yr · Annapolis Junction, MD
-- [Software Engineer](https://www.glassdoor.com/job-listing/software-engineer-general-dynamics-information-technology-JV_IC1153524_KO0,17_KE18,57.htm?jl=1010196902368) — Backend · $187,179–$230,000/yr · Annapolis Junction, MD
-- [Technical Requirements Systems Engineer](https://www.glassdoor.com/job-listing/technical-requirements-systems-engineer-general-dynamics-information-technology-JV_IC1153524_KO0,39_KE40,79.htm?jl=1010196902446) — Backend · $162,037–$219,227/yr · Annapolis Junction, MD · hybrid
-- [Front End Software Developer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/front-end-software-developer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1158535_KO0,50_KE51,90.htm?jl=1010196901940) — Backend · $162,037–$219,227/yr · McLean, VA
-- [SharePoint Developer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/sharepoint-developer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1158535_KO0,42_KE43,82.htm?jl=1010195489579) — Backend · $162,037–$219,227/yr · McLean, VA
-- [Cloud Software Engineer - TS/SCI w/ Poly](https://www.glassdoor.com/job-listing/cloud-software-engineer-ts-sci-w-poly-general-dynamics-information-technology-JV_IC1130374_KO0,37_KE38,77.htm?jl=1010196901954) — Backend · $158,855–$214,921/yr · Herndon, VA
-- [DevOps Engineer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/devops-engineer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1130374_KO0,37_KE38,77.htm?jl=1010196902005) — DevOps / SRE · $158,855–$214,921/yr · Herndon, VA · hybrid
-- [Full Stack Java Developer (SIGN-ON BONUS!!) - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/full-stack-java-developer-sign-on-bonus-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1130353_KO0,61_KE62,101.htm?jl=1010196901836) — Backend · $158,855–$214,921/yr · Chantilly, VA
-- [DevOps Engineer](https://www.glassdoor.com/job-listing/devops-engineer-general-dynamics-information-technology-JV_IC1130409_KO0,15_KE16,55.htm?jl=1010193264248) — Backend · $164,382–$212,750/yr · Springfield, VA
-- [Full Stack Software Developer - TS/SCI with Polygraph](https://www.glassdoor.com/job-listing/full-stack-software-developer-ts-sci-with-polygraph-general-dynamics-information-technology-JV_IC1153817_KO0,51_KE52,91.htm?jl=1010196901950) — Backend · $153,000–$207,000/yr · Bethesda, MD
-- [Senior Principal AI Full Stack Software Engineer](https://www.glassdoor.com/job-listing/senior-principal-ai-full-stack-software-engineer-general-dynamics-information-technology-JV_IC1138721_KO0,48_KE49,88.htm?jl=1010194535582) — Backend · $146,200–$197,800/yr · Fort Bragg, NC · hybrid
-- …and 10 more at General Dynamics Information Technology, Inc. — see [`jobs.json`](jobs.json)
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (23)
-
-- [Software Engineer, Data Infrastructure & Acquisition - Portland, OR, USA](https://www.glassdoor.com/job-listing/software-engineer-data-infrastructure-acquisition-portland-or-usa-speechify-JV_IC1151614_KO0,65_KE66,75.htm?jl=1010190856241) — Backend · $140,000–$200,000/yr · Portland, OR
-- [Software Engineer, Data Infrastructure & Acquisition - Kirkland, WA, USA](https://www.glassdoor.com/job-listing/software-engineer-data-infrastructure-acquisition-kirkland-wa-usa-speechify-JV_IC1150472_KO0,65_KE66,75.htm?jl=1010194849514) — Backend · $140,000–$200,000/yr · Kirkland, WA
-- [Senior Software Engineer, Core Experiences - Fresno, CA, USA](https://www.glassdoor.com/job-listing/senior-software-engineer-core-experiences-fresno-ca-usa-speechify-JV_IC1146705_KO0,55_KE56,65.htm?jl=1010194960502) — Backend · Fresno, CA · remote
-- [Software Engineer, Platform - Fresno, CA, USA](https://www.glassdoor.com/job-listing/software-engineer-platform-fresno-ca-usa-speechify-JV_IC1146705_KO0,40_KE41,50.htm?jl=1010194849377) — Backend · Fresno, CA
-- [Software Engineer, Platform - Charlotte, NC, USA](https://www.glassdoor.com/job-listing/software-engineer-platform-charlotte-nc-usa-speechify-JV_IC1138644_KO0,43_KE44,53.htm?jl=1010190757836) — Backend · Charlotte, NC
-- [Senior Software Engineer, Core Experiences - College Station, TX, USA](https://www.glassdoor.com/job-listing/senior-software-engineer-core-experiences-college-station-tx-usa-speechify-JV_IC1139900_KO0,64_KE65,74.htm?jl=1010190856153) — Backend · College Station, TX · remote
-- [Tech Lead, Web Core Product & Chrome Extension - St. Petersburg, FL, USA](https://www.glassdoor.com/job-listing/tech-lead-web-core-product-chrome-extension-st-petersburg-fl-usa-speechify-JV_IC1154421_KO0,64_KE65,74.htm?jl=1010190757989) — Backend · Saint Petersburg, FL · remote
-- [Senior Software Engineer, Core Experiences - Portland, OR, USA](https://www.glassdoor.com/job-listing/senior-software-engineer-core-experiences-portland-or-usa-speechify-JV_IC1151614_KO0,57_KE58,67.htm?jl=1010190856118) — Backend · Portland, OR · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Memphis, TN, USA](https://www.glassdoor.com/job-listing/senior-software-engineer-windows-desktop-applications-memphis-tn-usa-speechify-JV_IC1144463_KO0,68_KE69,78.htm?jl=1010190856217) — Backend · Memphis, TN
-- [Software Engineer, Platform - Tampa, FL, USA](https://www.glassdoor.com/job-listing/software-engineer-platform-tampa-fl-usa-speechify-JV_IC1154429_KO0,39_KE40,49.htm?jl=1010194849408) — Backend · Tampa, FL
-- [Software Engineer, iOS Core Product - Honolulu, HI, USA](https://www.glassdoor.com/job-listing/software-engineer-ios-core-product-honolulu-hi-usa-speechify-JV_IC1140656_KO0,50_KE51,60.htm?jl=1010194960754) — Backend · Honolulu, HI · remote
-- [Tech Lead, Web Core Product & Chrome Extension - Gainesville, FL, USA](https://www.glassdoor.com/job-listing/tech-lead-web-core-product-chrome-extension-gainesville-fl-usa-speechify-JV_IC1154062_KO0,62_KE63,72.htm?jl=1010194849658) — Backend · Gainesville, FL · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Orlando, FL, USA](https://www.glassdoor.com/job-listing/senior-software-engineer-windows-desktop-applications-orlando-fl-usa-speechify-JV_IC1154247_KO0,68_KE69,78.htm?jl=1010190856191) — Backend · Orlando, FL
-- [Senior Software Engineer, Windows/Desktop Applications - West Palm Beach, FL, USA](https://www.glassdoor.com/job-listing/senior-software-engineer-windows-desktop-applications-west-palm-beach-fl-usa-speechify-JV_IC1154182_KO0,76_KE77,86.htm?jl=1010190856214) — Backend · West Palm Beach, FL
-- [Senior Software Engineer, Windows/Desktop Applications - Brighton, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-brighton-united-kingdom-speechify-7954854) — Backend · Brighton and Hove, England, United Kingdom
-- [Software Engineer, iOS Core Product - Brighton, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-brighton-united-kingdom-speechify-7947160) — Backend · Brighton and Hove, England, United Kingdom · remote
-- [Software Engineer, iOS Core Product - Nottingham, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-nottingham-united-kingdom-speechify-7947322) — Backend · Nottingham, England, United Kingdom · remote
-- [Software Engineer, Platform - Nottingham, United Kingdom](https://startup.jobs/software-engineer-platform-nottingham-united-kingdom-speechify-7982703) — Backend · Nottingham, England, United Kingdom
-- [Senior Software Engineer, Core Experiences - Brighton, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-brighton-united-kingdom-speechify-7974752) — Backend · Brighton and Hove, England, United Kingdom · remote
-- [Senior Software Engineer, Core Experiences - Nottingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-nottingham-united-kingdom-speechify-7974786) — Backend · Nottingham, England, United Kingdom · remote
-- …and 3 more at Speechify — see [`jobs.json`](jobs.json)
-
-### [Intone Networks, Inc.](https://jobs.winterchill.xyz/?employer=Intone%20Networks%2C%20Inc.) (22)
-
-- [DevOps Architect](https://www.glassdoor.com/job-listing/devops-architect-intone-networks-JV_IC1140045_KO0,16_KE17,32.htm?jl=1010197185539) — DevOps / SRE · Plano, TX
-- [Go Developer](https://www.glassdoor.com/job-listing/go-developer-intone-networks-JV_IC1133904_KO0,12_KE13,28.htm?jl=1010197185542) — Backend · Phoenix, AZ
-- [Data Engineer/Analyst](https://www.glassdoor.com/job-listing/data-engineer-analyst-intone-networks-JV_KO0,21_KE22,37.htm?jl=1010195515238) — Remote · remote
-- [Python Developer Pandas](https://www.glassdoor.com/job-listing/python-developer-pandas-intone-networks-JV_IC1128808_KO0,23_KE24,39.htm?jl=1010195197649) — Backend · Chicago, IL
-- [AS/400 RPG Developer](https://www.glassdoor.com/job-listing/as-400-rpg-developer-intone-networks-JV_KO0,20_KE21,36.htm?jl=1010195515223) — Backend · Remote · remote
-- [Data Quality Automation Engineer](https://www.glassdoor.com/job-listing/data-quality-automation-engineer-intone-networks-JV_IC1139977_KO0,32_KE33,48.htm?jl=1010194279584) — Data Engineering · Dallas, TX · hybrid
-- [Senior Python Developer](https://www.glassdoor.com/job-listing/senior-python-developer-intone-networks-JV_IC1126819_KO0,23_KE24,39.htm?jl=1010196931674) — Backend · Jersey City, NJ
-- [Python developer](https://www.glassdoor.com/job-listing/python-developer-intone-networks-JV_IC1128808_KO0,16_KE17,32.htm?jl=1010194279608) — Backend · Chicago, IL
-- [Sr Angular Developer 18+](https://www.glassdoor.com/job-listing/sr-angular-developer-18-intone-networks-JV_IC1138644_KO0,23_KE24,39.htm?jl=1010196931672) — Backend · Charlotte, NC
-- [Java Developer](https://www.glassdoor.com/job-listing/java-developer-intone-networks-JV_IC1133470_KO0,14_KE15,30.htm?jl=1010194279590) — Backend · Madison, WI
-- [Software Engineer](https://www.glassdoor.com/job-listing/software-engineer-intone-networks-JV_IC1126819_KO0,17_KE18,33.htm?jl=1010194279573) — Backend · Jersey City, NJ
-- [Big Data Engineer](https://www.glassdoor.com/job-listing/big-data-engineer-intone-networks-JV_IC1147442_KO0,17_KE18,33.htm?jl=1010191968891) — Backend · Sunnyvale, CA
-- [Data Engineer](https://www.glassdoor.com/job-listing/data-engineer-intone-networks-JV_KO0,13_KE14,29.htm?jl=1010193293744) — Data Engineering · Remote · remote
-- [Founding AI/ML Engineer](https://www.glassdoor.com/job-listing/founding-ai-ml-engineer-intone-networks-JV_KO0,23_KE24,39.htm?jl=1010193293723) — Backend · Remote · remote
-- [EQD Rapid Application Developer](https://www.glassdoor.com/job-listing/eqd-rapid-application-developer-intone-networks-JV_IC1132348_KO0,31_KE32,47.htm?jl=1010193293728) — Backend · New York, NY
-- [.NET](https://www.glassdoor.com/job-listing/net-intone-networks-JV_IC1149231_KO0,3_KE4,19.htm?jl=1010193293729) — Backend · Ankeny, IA
-- [AWS Data Engineer](https://www.glassdoor.com/job-listing/aws-data-engineer-intone-networks-JV_IC1126906_KO0,17_KE18,33.htm?jl=1010191968894) — Backend · Newark, NJ
-- [Full Stack Software Developer](https://www.glassdoor.com/job-listing/full-stack-software-developer-intone-networks-JV_IC1152990_KO0,29_KE30,45.htm?jl=1010191968910) — Backend · Pittsburgh, PA
-- [Senior Web Developer](https://www.glassdoor.com/job-listing/senior-web-developer-intone-networks-JV_IC1131650_KO0,20_KE21,36.htm?jl=1010194279576) — Backend · Albany, NY
-- [Web Developer w/ Workday](https://www.glassdoor.com/job-listing/web-developer-w-workday-intone-networks-JV_KO0,23_KE24,39.htm?jl=1010194279587) — Backend · Remote · remote
-- …and 2 more at Intone Networks, Inc. — see [`jobs.json`](jobs.json)
-
-### [Booz Allen Hamilton Inc.](https://jobs.winterchill.xyz/?employer=Booz%20Allen%20Hamilton%20Inc.) (21)
-
-- [AI and ML Engineer, Lead](https://www.glassdoor.com/job-listing/ai-and-ml-engineer-lead-booz-allen-hamilton-JV_IC1127653_KO0,23_KE24,43.htm?jl=1010197032238) — Backend · Up to $257,000/yr · Huntsville, AL · hybrid
-- [Software Development Engineer, Lead](https://www.glassdoor.com/job-listing/software-development-engineer-lead-booz-allen-hamilton-JV_IC1158535_KO0,34_KE35,54.htm?jl=1010196947871) — Backend · Up to $257,000/yr · McLean, VA · hybrid
-- [Software Engineer, Lead](https://www.glassdoor.com/job-listing/software-engineer-lead-booz-allen-hamilton-JV_IC1158535_KO0,22_KE23,42.htm?jl=1010193244438) — Backend · Up to $257,000/yr · McLean, VA · hybrid
-- [AI/ML Engineer](https://www.glassdoor.com/job-listing/ai-ml-engineer-booz-allen-hamilton-JV_IC1158535_KO0,14_KE15,34.htm?jl=1010195626857) — Backend · Up to $225,000/yr · McLean, VA · hybrid
-- [AI Front-End Developer, Senior](https://www.glassdoor.com/job-listing/ai-front-end-developer-senior-booz-allen-hamilton-JV_IC1138213_KO0,29_KE30,49.htm?jl=1010196663707) — Backend · Up to $225,000/yr · Washington, DC · hybrid
-- [Test Engineer](https://www.glassdoor.com/job-listing/test-engineer-booz-allen-hamilton-JV_IC1158535_KO0,13_KE14,33.htm?jl=1010196947882) — DevOps / SRE · Up to $198,000/yr · McLean, VA · hybrid
-- [Human-Centered Designer](https://www.glassdoor.com/job-listing/human-centered-designer-booz-allen-hamilton-JV_IC1138213_KO0,23_KE24,43.htm?jl=1010193980330) — Backend · Up to $198,000/yr · Washington, DC · hybrid
-- [Software Engineer and Developer](https://www.glassdoor.com/job-listing/software-engineer-and-developer-booz-allen-hamilton-JV_IC1145937_KO0,31_KE32,51.htm?jl=1010191915642) — Backend · Up to $198,000/yr · Dayton, OH · hybrid
-- [Full-Stack Software Engineer, Senior](https://www.glassdoor.com/job-listing/full-stack-software-engineer-senior-booz-allen-hamilton-JV_IC1138720_KO0,35_KE36,55.htm?jl=1010196946758) — Backend · Up to $198,000/yr · Fayetteville, NC · hybrid
-- [Front-End and REACT Software Engineer, Senior](https://www.glassdoor.com/job-listing/front-end-and-react-software-engineer-senior-booz-allen-hamilton-JV_IC1158535_KO0,44_KE45,64.htm?jl=1010194380330) — Backend · Up to $198,000/yr · McLean, VA · hybrid
-- [Back End Developer](https://www.glassdoor.com/job-listing/back-end-developer-booz-allen-hamilton-JV_IC1158535_KO0,18_KE19,38.htm?jl=1010192998363) — Backend · Up to $198,000/yr · McLean, VA · hybrid
-- [Software Developer, Senior](https://www.glassdoor.com/job-listing/software-developer-senior-booz-allen-hamilton-JV_IC1130374_KO0,25_KE26,45.htm?jl=1010191678835) — Backend · Up to $198,000/yr · Herndon, VA · hybrid
-- [Data Engineer](https://www.glassdoor.com/job-listing/data-engineer-booz-allen-hamilton-JV_IC1147311_KO0,13_KE14,33.htm?jl=1010197032252) — Backend · Up to $176,000/yr · San Diego, CA · hybrid
-- [AI Engineer](https://www.glassdoor.com/job-listing/ai-engineer-booz-allen-hamilton-JV_IC1158535_KO0,11_KE12,31.htm?jl=1010195626860) — Backend · Up to $176,000/yr · McLean, VA · hybrid
-- [DevOps Engineer](https://www.glassdoor.com/job-listing/devops-engineer-booz-allen-hamilton-JV_IC1155093_KO0,15_KE16,35.htm?jl=1010196947913) — DevOps / SRE · Up to $176,000/yr · North Charleston, SC · hybrid
-- [Software Development Engineer](https://www.glassdoor.com/job-listing/software-development-engineer-booz-allen-hamilton-JV_IC1158535_KO0,29_KE30,49.htm?jl=1010193980319) — Backend · Up to $158,000/yr · McLean, VA · hybrid
-- [Application Developer](https://www.glassdoor.com/job-listing/application-developer-booz-allen-hamilton-JV_IC1153524_KO0,21_KE22,41.htm?jl=1010192998267) — Backend · Up to $158,000/yr · Annapolis Junction, MD · hybrid
-- [Front End Developer](https://www.glassdoor.com/job-listing/front-end-developer-booz-allen-hamilton-JV_IC1158535_KO0,19_KE20,39.htm?jl=1010191915636) — Backend · Up to $158,000/yr · McLean, VA · hybrid
-- [Full Stack Developer](https://www.glassdoor.com/job-listing/full-stack-developer-booz-allen-hamilton-JV_IC1140494_KO0,20_KE21,40.htm?jl=1010191329532) — Backend · Up to $158,000/yr · San Antonio, TX · hybrid
-- [MBSE & Digital Threads Engineer](https://www.glassdoor.com/job-listing/mbse-digital-threads-engineer-booz-allen-hamilton-JV_IC1146779_KO0,29_KE30,49.htm?jl=1010195476610) — Backend · Up to $141,000/yr · El Segundo, CA · hybrid
-- …and 1 more at Booz Allen Hamilton Inc. — see [`jobs.json`](jobs.json)
+- [Staff Software Engineer - Commercial Trading](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115240) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
+- …and 19 more at Marks & Spencer — see [`jobs.json`](jobs.json)
 
 ### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (20)
 
@@ -221,96 +77,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Mainframe Systems Programmer (IMS)](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/IMS-Mainframe-Systems-Programmer_JR-0000086783) — DevOps / SRE · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 - [Software Engineer -Frontend](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Software-Engineer--Frontend_JR-0000109295) — Backend · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 
-### [Lockheed Martin Corporation](https://jobs.winterchill.xyz/?employer=Lockheed%20Martin%20Corporation) (20)
-
-- [Software Engineer, Staff / FSE / Secret / Onsite: GA, TX, or CA](https://www.glassdoor.com/job-listing/software-engineer-staff-fse-secret-onsite-ga-tx-or-ca-lockheed-martin-JV_IC1139993_KO0,53_KE54,69.htm?jl=1010195729702) — DevOps / SRE · $113,900–$200,905/yr · Fort Worth, TX
-- [Sr. Software Engineer](https://www.glassdoor.com/job-listing/sr-software-engineer-lockheed-martin-JV_KO0,20_KE21,36.htm?jl=1010195727442) — Backend · $107,300–$185,840/yr · Puerto Rico · remote
-- [Senior DevSecOps Engineer](https://www.glassdoor.com/job-listing/senior-devsecops-engineer-lockheed-martin-JV_IC1148136_KO0,25_KE26,41.htm?jl=1010193127050) — Backend · $97,100–$171,235/yr · Colorado Springs, CO · remote
-- [Full Stack Infrastructure Engineer Sr. (TS/SCI Required)](https://www.glassdoor.com/job-listing/full-stack-infrastructure-engineer-sr-ts-sci-required-lockheed-martin-JV_IC1148194_KO0,53_KE54,69.htm?jl=1010193128289) — Platform / Infrastructure · $93,200–$164,450/yr · Littleton, CO
-- [Software Engineer](https://www.glassdoor.com/job-listing/software-engineer-lockheed-martin-JV_IC1154247_KO0,17_KE18,33.htm?jl=1010193127499) — Backend · $88,000–$152,490/yr · Orlando, FL
-- [Data Lake Software Engineer](https://www.glassdoor.com/job-listing/data-lake-software-engineer-lockheed-martin-JV_IC1148194_KO0,27_KE28,43.htm?jl=1010193449420) — Backend · $76,500–$134,895/yr · Littleton, CO
-- [Apriso Software Engineer, Associate](https://www.glassdoor.com/job-listing/apriso-software-engineer-associate-lockheed-martin-JV_KO0,34_KE35,50.htm?jl=1010191778531) — Backend · $72,200–$125,005/yr · Puerto Rico · remote
-- [SAP Software Engineer, Associate](https://www.glassdoor.com/job-listing/sap-software-engineer-associate-lockheed-martin-JV_KO0,31_KE32,47.htm?jl=1010191405976) — Backend · $72,200–$125,005/yr · Puerto Rico · remote
-- [Systems Engineer - Clearance Required](https://www.glassdoor.com/job-listing/systems-engineer-clearance-required-lockheed-martin-JV_IC1148194_KO0,35_KE36,51.htm?jl=1010195847454) — $70,100–$123,625/yr · Littleton, CO
-- [Augmented Reality Deployment Asc Engineer](https://www.glassdoor.com/job-listing/augmented-reality-deployment-asc-engineer-lockheed-martin-JV_IC1164304_KO0,41_KE42,57.htm?jl=1010194380804) — Backend · $62,700–$110,630/yr · Highlands Ranch, CO · remote
-- [Lead DevSecOps Engineer - Clearance Required](https://www.glassdoor.com/job-listing/lead-devsecops-engineer-clearance-required-lockheed-martin-JV_IC1152620_KO0,42_KE43,58.htm?jl=1010195847474) — Backend · King of Prussia, PA
-- [Senior DevSecOps Engineer - Clearance Required](https://www.glassdoor.com/job-listing/senior-devsecops-engineer-clearance-required-lockheed-martin-JV_IC1152620_KO0,44_KE45,60.htm?jl=1010195847791) — Backend · King of Prussia, PA
-- [Software Engineer Sr](https://www.glassdoor.com/job-listing/software-engineer-sr-lockheed-martin-JV_IC1152620_KO0,20_KE21,36.htm?jl=1010195851572) — Backend · King of Prussia, PA
-- [Senior Software Engineer](https://www.glassdoor.com/job-listing/senior-software-engineer-lockheed-martin-JV_IC1152620_KO0,24_KE25,40.htm?jl=1010195714515) — Backend · King of Prussia, PA · remote
-- [Staff Software Engineer (Frontend Developer)](https://www.glassdoor.com/job-listing/staff-software-engineer-frontend-developer-lockheed-martin-JV_IC1152620_KO0,42_KE43,58.htm?jl=1010195731048) — Backend · King of Prussia, PA · remote
-- [Senior Software Engineer - Level 3](https://www.glassdoor.com/job-listing/senior-software-engineer-level-3-lockheed-martin-JV_IC1139993_KO0,32_KE33,48.htm?jl=1010194382429) — Backend · Fort Worth, TX
-- [Software Engineer (Linux)](https://www.glassdoor.com/job-listing/software-engineer-linux-lockheed-martin-JV_IC1130381_KO0,23_KE24,39.htm?jl=1010191778363) — Backend · Manassas, VA
-- [Software Engineer Asc](https://www.glassdoor.com/job-listing/software-engineer-asc-lockheed-martin-JV_IC1154247_KO0,21_KE22,37.htm?jl=1010191778530) — Backend · Orlando, FL · remote
-- [Software Engineer/Integrator](https://www.glassdoor.com/job-listing/software-engineer-integrator-lockheed-martin-JV_IC1130381_KO0,28_KE29,44.htm?jl=1010191778304) — Backend · Manassas, VA
-- [Classified IT Finance & Planning Full Stack Engineer- Secret - Orlando](https://www.glassdoor.com/job-listing/classified-it-finance-planning-full-stack-engineer-secret-orlando-lockheed-martin-JV_IC1154247_KO0,65_KE66,81.htm?jl=1010190848558) — Orlando, FL
-
-### [The Travelers Companies, Inc.](https://jobs.winterchill.xyz/?employer=The%20Travelers%20Companies%2C%20Inc.) (20)
-
-- [Sr Software Engineer](https://www.glassdoor.com/job-listing/sr-software-engineer-travelers-JV_IC1148399_KO0,20_KE21,30.htm?jl=1010197280564) — Backend · $139,400/yr · Hartford, CT
-- [Senior Software Engineer – AI Agents & Harnesses](https://www.glassdoor.com/job-listing/senior-software-engineer-ai-agents-harnesses-travelers-JV_IC1148399_KO0,44_KE45,54.htm?jl=1010194331120) — Backend · $139,400/yr · Hartford, CT
-- [Senior Software Engineer (AWS, Node)](https://www.glassdoor.com/job-listing/senior-software-engineer-aws-node-travelers-JV_IC1142575_KO0,33_KE34,43.htm?jl=1010194331128) — Backend · $139,400/yr · Saint Paul, MN
-- [Senior Software Engineer - Personal Insurance](https://www.glassdoor.com/job-listing/senior-software-engineer-personal-insurance-travelers-JV_IC1148399_KO0,43_KE44,53.htm?jl=1010191362268) — Backend · $139,400/yr · Hartford, CT
-- [Sr Software Engineer (Engineering Enablement Lead)](https://www.glassdoor.com/job-listing/sr-software-engineer-engineering-enablement-lead-travelers-JV_IC1148399_KO0,48_KE49,58.htm?jl=1010191362097) — Platform / Infrastructure · $139,400/yr · Hartford, CT
-- [Senior Data Engineer (AWS, Databricks)](https://www.glassdoor.com/job-listing/senior-data-engineer-aws-databricks-travelers-JV_IC1148399_KO0,35_KE36,45.htm?jl=1010191362145) — Backend · $139,400/yr · Hartford, CT
-- [Senior Data Engineer, Underwriting Technical Lead](https://www.glassdoor.com/job-listing/senior-data-engineer-underwriting-technical-lead-travelers-JV_IC1148399_KO0,48_KE49,58.htm?jl=1010191362054) — Backend · $139,400/yr · Hartford, CT
-- [Senior Software Engineer - Enterprise AI Products](https://www.glassdoor.com/job-listing/senior-software-engineer-enterprise-ai-products-travelers-JV_IC1148399_KO0,47_KE48,57.htm?jl=1010191362047) — Backend · $139,400/yr · Hartford, CT
-- [Counsel, Claim](https://www.glassdoor.com/job-listing/counsel-claim-travelers-JV_IC1155582_KO0,13_KE14,23.htm?jl=1010197514895) — $132,800/yr · Alpharetta, GA
-- [Data Engineer II (AWS, Databricks, SQL, GenAI)](https://www.glassdoor.com/job-listing/data-engineer-ii-aws-databricks-sql-genai-travelers-JV_IC1148399_KO0,41_KE42,51.htm?jl=1010191362156) — Data Engineering · $126,500/yr · Hartford, CT
-- [Data Engineer II (Tech Lead) - AWS, Ab Initio, Databricks, Snowflake, Teradata](https://www.glassdoor.com/job-listing/data-engineer-ii-tech-lead-aws-ab-initio-databricks-snowflake-teradata-travelers-JV_IC1148399_KO0,70_KE71,80.htm?jl=1010191362120) — Data Engineering · $126,500/yr · Hartford, CT
-- [Software Engineer II](https://www.glassdoor.com/job-listing/software-engineer-ii-travelers-JV_IC1148399_KO0,20_KE21,30.htm?jl=1010196996916) — Backend · $120,400/yr · Hartford, CT
-- [Software Engineer II (AI, Python, Typescript)](https://www.glassdoor.com/job-listing/software-engineer-ii-ai-python-typescript-travelers-JV_IC1148399_KO0,41_KE42,51.htm?jl=1010194331124) — Backend · $120,400/yr · Hartford, CT
-- [Software Engineer II (AWS, Node)](https://www.glassdoor.com/job-listing/software-engineer-ii-aws-node-travelers-JV_IC1148399_KO0,29_KE30,39.htm?jl=1010194331125) — Backend · $120,400/yr · Hartford, CT
-- [Software Engineer II - Guidewire Policy Center Configuration](https://www.glassdoor.com/job-listing/software-engineer-ii-guidewire-policy-center-configuration-travelers-JV_IC1148399_KO0,58_KE59,68.htm?jl=1010191362152) — Backend · $120,400/yr · Hartford, CT
-- [Software Engineer II - AI Assistant Enablement](https://www.glassdoor.com/job-listing/software-engineer-ii-ai-assistant-enablement-travelers-JV_IC1148399_KO0,44_KE45,54.htm?jl=1010191362162) — Backend · $120,400/yr · Hartford, CT
-- [Software Engineer II -- Enterprise AI Products Value Stream](https://www.glassdoor.com/job-listing/software-engineer-ii-enterprise-ai-products-value-stream-travelers-JV_IC1142575_KO0,56_KE57,66.htm?jl=1010191362132) — Backend · $120,400/yr · Saint Paul, MN
-- [Software Engineer I (AI Driven)](https://www.glassdoor.com/job-listing/software-engineer-i-ai-driven-travelers-JV_IC1148399_KO0,29_KE30,39.htm?jl=1010194331131) — Backend · $99,100/yr · Hartford, CT
-- [Software Engineer I - Loss Sensitive (Java, Spring Boot, TypeScript, Node.js, AI)](https://www.glassdoor.com/job-listing/software-engineer-i-loss-sensitive-java-spring-boot-typescript-node-js-ai-travelers-JV_IC1142575_KO0,73_KE74,83.htm?jl=1010191362167) — Backend · $99,100/yr · Saint Paul, MN
-- [General Liability Senior Technical Specialist](https://www.glassdoor.com/job-listing/general-liability-senior-technical-specialist-travelers-JV_IC1146774_KO0,45_KE46,55.htm?jl=1010191362107) — $94,400/yr · Diamond Bar, CA · hybrid
-
-### [NVIDIA Corporation](https://jobs.winterchill.xyz/?employer=NVIDIA%20Corporation) (19)
-
-- [Supply Chain Data Engineer](https://www.glassdoor.com/job-listing/supply-chain-data-engineer-nvidia-JV_IC1147439_KO0,26_KE27,33.htm?jl=1010196920944) — Backend · Santa Clara, CA
-- [Senior Research Engineer - Enterprise Products](https://www.glassdoor.com/job-listing/senior-research-engineer-enterprise-products-nvidia-JV_IC1147439_KO0,44_KE45,51.htm?jl=1010197169537) — Backend · Santa Clara, CA
-- [Senior System Software Engineer](https://www.glassdoor.com/job-listing/senior-system-software-engineer-nvidia-JV_IC1147439_KO0,31_KE32,38.htm?jl=1010005249187) — Backend · Santa Clara, CA
-- [Senior DevOps Engineer, Platform Engineering](https://www.glassdoor.com/job-listing/senior-devops-engineer-platform-engineering-nvidia-JV_IC1147439_KO0,43_KE44,50.htm?jl=1010196270463) — DevOps / SRE · Santa Clara, CA · hybrid
-- [Senior Data Engineer, Engineering Data Analytics](https://www.glassdoor.com/job-listing/senior-data-engineer-engineering-data-analytics-nvidia-JV_IC1147439_KO0,47_KE48,54.htm?jl=1010195799851) — Data Engineering · Santa Clara, CA
-- [Senior Databricks Developer, SAP S/4 Data Products and Governance](https://www.glassdoor.com/job-listing/senior-databricks-developer-sap-s4-data-products-and-governance-nvidia-JV_IC1147439_KO0,63_KE64,70.htm?jl=1010195799414) — Data Engineering · Santa Clara, CA
-- [Senior Platform Service Software Engineer](https://www.glassdoor.com/job-listing/senior-platform-service-software-engineer-nvidia-JV_IC1147439_KO0,41_KE42,48.htm?jl=1010195799668) — Backend · Santa Clara, CA
-- [Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026](https://www.glassdoor.com/job-listing/systems-software-engineer-autonomous-systems-mapping-new-college-graduate-2026-nvidia-JV_IC1147439_KO0,78_KE79,85.htm?jl=1010196923521) — Backend · Santa Clara, CA
-- [Product Evaluations Lead - Gen AI Software](https://www.glassdoor.com/job-listing/product-evaluations-lead-gen-ai-software-nvidia-JV_IC1147439_KO0,40_KE41,47.htm?jl=1010194549922) — Data Engineering · Santa Clara, CA · hybrid
-- [Senior Software Engineer, AI Networking](https://www.glassdoor.com/job-listing/senior-software-engineer-ai-networking-nvidia-JV_IC1150505_KO0,38_KE39,45.htm?jl=1010194549355) — DevOps / SRE · Seattle, WA
-- [Senior Field Application Engineer - AI Compute Systems](https://www.glassdoor.com/job-listing/senior-field-application-engineer-ai-compute-systems-nvidia-JV_KO0,52_KE53,59.htm?jl=1010194550501) — Wisconsin
-- [Senior DevOps Software Engineer, Program Management Productivity Tools](https://www.glassdoor.com/job-listing/senior-devops-software-engineer-program-management-productivity-tools-nvidia-JV_IC1147439_KO0,69_KE70,76.htm?jl=1010194550462) — Backend · Santa Clara, CA
-- [Senior Technical Marketing Engineer, Enterprise AI Software](https://www.glassdoor.com/job-listing/senior-technical-marketing-engineer-enterprise-ai-software-nvidia-JV_IC1147439_KO0,58_KE59,65.htm?jl=1010192966414) — Backend · Santa Clara, CA
-- [ASIC Verification Engineer - New College Grad 2026](https://www.glassdoor.com/job-listing/asic-verification-engineer-new-college-grad-2026-nvidia-JV_IC1147439_KO0,48_KE49,55.htm?jl=1010193280695) — Embedded / Robotics · Santa Clara, CA
-- [Senior Machine Learning Engineer](https://www.glassdoor.com/job-listing/senior-machine-learning-engineer-nvidia-JV_IC1147439_KO0,32_KE33,39.htm?jl=1010191014171) — Backend · Santa Clara, CA
-- [Senior Field Application Engineer - AI Factory Deployment](https://www.glassdoor.com/job-listing/senior-field-application-engineer-ai-factory-deployment-nvidia-JV_IC1147439_KO0,55_KE56,62.htm?jl=1009820370706) — Santa Clara, CA
-- [Senior Engineer - AI Agents and Systems](https://www.glassdoor.com/job-listing/senior-engineer-ai-agents-and-systems-nvidia-JV_IC1147439_KO0,37_KE38,44.htm?jl=1010191955046) — Backend · Santa Clara, CA
-- [Senior Storage Software Engineer, DGXC Data Services](https://www.glassdoor.com/job-listing/senior-storage-software-engineer-dgxc-data-services-nvidia-JV_IC1147439_KO0,51_KE52,58.htm?jl=1010191669810) — Backend · Santa Clara, CA · hybrid
-- [Performance Engineer Intern, Systems Software- Fall 2026](https://www.glassdoor.com/job-listing/performance-engineer-intern-systems-software-fall-2026-nvidia-JV_IC1131270_KO0,54_KE55,61.htm?jl=1010191670405) — Backend · Saint Louis, MO
-
-### [CGI Group Inc.](https://jobs.winterchill.xyz/?employer=CGI%20Group%20Inc.) (18)
-
-- [Senior Systems Engineer](https://www.glassdoor.com/job-listing/senior-systems-engineer-cgi-JV_IC1148136_KO0,23_KE24,27.htm?jl=1010195235297) — Colorado Springs, CO
-- [Senior Technical Writer](https://www.glassdoor.com/job-listing/senior-technical-writer-cgi-JV_IC1148136_KO0,23_KE24,27.htm?jl=1010195235248) — Colorado Springs, CO
-- [Data Engineer - Databricks - Local to Pittsburgh, PA](https://www.glassdoor.com/job-listing/data-engineer-databricks-local-to-pittsburgh-pa-cgi-JV_IC1152990_KO0,47_KE48,51.htm?jl=1010193127351) — Data Engineering · Pittsburgh, PA
-- [Senior Data Analytics Engineer](https://www.glassdoor.com/job-listing/senior-data-analytics-engineer-cgi-JV_IC1130404_KO0,30_KE31,34.htm?jl=1010197603677) — Data Engineering · Reston, VA · hybrid
-- [Data/Cloud Software Engineer](https://www.glassdoor.com/job-listing/data-cloud-software-engineer-cgi-JV_IC1147908_KO0,28_KE29,32.htm?jl=1010192855249) — Backend · Merrimack, NH
-- [Data Engineer and Modeler](https://www.glassdoor.com/job-listing/data-engineer-and-modeler-cgi-JV_IC1138697_KO0,25_KE26,29.htm?jl=1010191483888) — Backend · Durham, NC
-- [EDI EDIFECS Application Developer](https://www.glassdoor.com/job-listing/edi-edifecs-application-developer-cgi-JV_IC1149927_KO0,33_KE34,37.htm?jl=1010197603676) — Backend · Lafayette, LA · hybrid
-- [Senior Software Engineer](https://www.glassdoor.com/job-listing/senior-software-engineer-cgi-JV_IC1153520_KO0,24_KE25,28.htm?jl=1010195235255) — Backend · Aberdeen, MD
-- [Senior Java Fullstack Engineer with Azure](https://www.glassdoor.com/job-listing/senior-java-fullstack-engineer-with-azure-cgi-JV_IC1149927_KO0,41_KE42,45.htm?jl=1010197603675) — Backend · Lafayette, LA · hybrid
-- [Mobile Engineer - React Native](https://www.glassdoor.com/job-listing/mobile-engineer-react-native-cgi-JV_IC1131270_KO0,28_KE29,32.htm?jl=1010191768042) — Backend · Saint Louis, MO · hybrid
-- [Software Developer](https://www.glassdoor.com/job-listing/software-developer-cgi-JV_IC1130337_KO0,18_KE19,22.htm?jl=1010197602450) — Backend · Arlington, VA
-- [Technical Lead](https://www.glassdoor.com/job-listing/technical-lead-cgi-JV_IC1149927_KO0,14_KE15,18.htm?jl=1010193314082) — Backend · Lafayette, LA · hybrid
-- [Mid-Level .NET Developer - Local to Columbus, Ohio](https://www.glassdoor.com/job-listing/mid-level-net-developer-local-to-columbus-ohio-cgi-JV_IC1145913_KO0,46_KE47,50.htm?jl=1010192855240) — Backend · Westerville, OH
-- [Senior Azure Generative AI Engineer - Local to Dallas, TX](https://www.glassdoor.com/job-listing/senior-azure-generative-ai-engineer-local-to-dallas-tx-cgi-JV_IC1139977_KO0,54_KE55,58.htm?jl=1010191483890) — Backend · Dallas, TX
-- [Sr. Front End Developer - Angular, Node.js](https://www.glassdoor.com/job-listing/sr-front-end-developer-angular-node-js-cgi-JV_IC1147908_KO0,38_KE39,42.htm?jl=1010191483887) — Backend · Merrimack, NH
-- [Software Quality Engineer - Automation - Local to Pittsburgh, PA](https://www.glassdoor.com/job-listing/software-quality-engineer-automation-local-to-pittsburgh-pa-cgi-JV_IC1152990_KO0,59_KE60,63.htm?jl=1010191483918) — DevOps / SRE · Pittsburgh, PA
-- [Sr. Full Stack Engineer](https://www.glassdoor.com/job-listing/sr-full-stack-engineer-cgi-JV_IC1138697_KO0,22_KE23,26.htm?jl=1010191483886) — Backend · Durham, NC
-- [Full Stack Engineer](https://www.glassdoor.com/job-listing/full-stack-engineer-cgi-JV_IC1138697_KO0,19_KE20,23.htm?jl=1010191483885) — Backend · Durham, NC
-
-### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (18)
+### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (17)
 
 - [Senior Software Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Senior-Software-Engineer_R14839) — Backend · £40,000–£75,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Embedded Design Team Lead - Electronic Engineering](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Embedded-Design-Team-Lead---Electronic-Engineering_R21087-1) — Embedded / Robotics · Up to £65,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
@@ -320,7 +87,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Systems Engineer - Modelling & Simulation (Seeker)](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Systems-Engineer---Modelling---Simulation--Seeker-_R34781) — Embedded / Robotics · £40,000–£58,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Ground Trials Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Ground-Trials-Engineer_R37956) — £45,000–£57,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [C# Software Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/C--Software-Engineer_R30817-8) — Backend · Up to £57,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
-- [Electronic Engineering Trials Lead](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Electronic-Engineering-Trials-Lead_R37824) — £55,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Network DevOps Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Network-DevOps-Engineer_R37507) — Backend · Up to £55,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Data Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Senior-Data-Engineer_R37092) — Data Engineering · £55,000/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Network Engineer (Integration and Trials)](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Network-Engineer--Integration-and-Trials-_R37788) — Up to £52,500/yr · Stevenage, United Kingdom · remote · 🛂 visa sponsor
@@ -349,76 +115,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Backend Engineer (Ruby), AI Engineering: Duo Agent Platform Tools](https://job-boards.greenhouse.io/gitlab/jobs/8605283002) — Backend · Remote, Canada; Remote, United Kingdom · remote · 🛂 visa sponsor
 - [Customer Success Engineer, EMEA](https://job-boards.greenhouse.io/gitlab/jobs/8583490002) — Developer Experience · Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom · remote · 🛂 visa sponsor
 - [Staff Backend Engineer (Ruby on Rails/AI), Verify](https://job-boards.greenhouse.io/gitlab/jobs/8448283002) — Backend · Remote, United Kingdom · remote · 🛂 visa sponsor
-
-### [Leidos Holdings, Inc.](https://jobs.winterchill.xyz/?employer=Leidos%20Holdings%2C%20Inc.) (16)
-
-- [IDCS Chief Engineer](https://www.glassdoor.com/job-listing/idcs-chief-engineer-leidos-JV_IC1140494_KO0,19_KE20,26.htm?jl=1010194615800) — $154,050/yr · San Antonio, TX
-- [Chief Engineer](https://www.glassdoor.com/job-listing/chief-engineer-leidos-JV_IC1153817_KO0,14_KE15,21.htm?jl=1010194007203) — Backend · $154,050/yr · Bethesda, MD
-- [Senior AI Software Engineer](https://www.glassdoor.com/job-listing/senior-ai-software-engineer-leidos-JV_KO0,27_KE28,34.htm?jl=1010195558623) — Backend · $131,300/yr · Missouri
-- [Data Engineer](https://www.glassdoor.com/job-listing/data-engineer-leidos-JV_KO0,13_KE14,20.htm?jl=1010197199395) — Data Engineering · $107,900/yr · Colorado
-- [Senior Software Engineer](https://www.glassdoor.com/job-listing/senior-software-engineer-leidos-JV_IC1127653_KO0,24_KE25,31.htm?jl=1010192684924) — Backend · $107,900/yr · Huntsville, AL
-- [Sr. Software Engineer](https://www.glassdoor.com/job-listing/sr-software-engineer-leidos-JV_KO0,20_KE21,27.htm?jl=1010192359217) — Backend · $107,900/yr · Maryland
-- [Software Engineer](https://www.glassdoor.com/job-listing/software-engineer-leidos-JV_IC1127653_KO0,17_KE18,24.htm?jl=1010197199391) — Backend · $87,100/yr · Huntsville, AL
-- [DevOps Engineer](https://www.glassdoor.com/job-listing/devops-engineer-leidos-JV_KO0,15_KE16,22.htm?jl=1010196981174) — Backend · $87,100/yr · Missouri
-- [Mid-Level Software Engineer](https://www.glassdoor.com/job-listing/mid-level-software-engineer-leidos-JV_IC1127653_KO0,27_KE28,34.htm?jl=1010192684921) — Backend · $87,100/yr · Huntsville, AL
-- [Lead Software Developer](https://www.glassdoor.com/job-listing/lead-software-developer-leidos-JV_KO0,23_KE24,30.htm?jl=1010193042562) — Backend · $87,100/yr · Maryland · hybrid
-- [Antarctic Research Associate (Alternate)](https://www.glassdoor.com/job-listing/antarctic-research-associate-alternate-leidos-JV_IC1164284_KO0,38_KE39,45.htm?jl=1010196981189) — $77,000–$87,000/yr · Centennial, CO · remote
-- [Desktop Support Engineer](https://www.glassdoor.com/job-listing/desktop-support-engineer-leidos-JV_IC1138213_KO0,24_KE25,31.htm?jl=1010196981166) — $73,450/yr · Washington, DC
-- [Data Scientist](https://www.glassdoor.com/job-listing/data-scientist-leidos-JV_IC1127653_KO0,14_KE15,21.htm?jl=1010195558643) — Backend · $69,550/yr · Huntsville, AL
-- [Software Engineer/Developer](https://www.glassdoor.com/job-listing/software-engineer-developer-leidos-JV_IC1148176_KO0,27_KE28,34.htm?jl=1010196981090) — $69,550/yr · Englewood, CO
-- [Software Developer](https://www.glassdoor.com/job-listing/software-developer-leidos-JV_KO0,18_KE19,25.htm?jl=1010193042575) — Backend · $69,550/yr · Maryland · hybrid
-- [Mid-Level DevSecOps Engineer](https://www.glassdoor.com/job-listing/mid-level-devsecops-engineer-leidos-JV_IC1127653_KO0,28_KE29,35.htm?jl=1010192684922) — DevOps / SRE · $69,550/yr · Huntsville, AL · hybrid
-
-### [CACI International Inc](https://jobs.winterchill.xyz/?employer=CACI%20International%20Inc) (14)
-
-- [Web Application Developer with Polygraph](https://www.glassdoor.com/job-listing/web-application-developer-with-polygraph-caci-international-JV_IC1130374_KO0,40_KE41,59.htm?jl=1010193136865) — Backend · $120,800–$265,800/yr · Herndon, VA
-- [Full Stack Developer, Senior](https://www.glassdoor.com/job-listing/full-stack-developer-senior-caci-international-JV_IC1130353_KO0,27_KE28,46.htm?jl=1010196677486) — Backend · $113,200–$237,800/yr · Chantilly, VA
-- [Systems Administrator](https://www.glassdoor.com/job-listing/systems-administrator-caci-international-JV_IC1148170_KO0,21_KE22,40.htm?jl=1010195728642) — $99,300–$208,600/yr · Denver, CO · hybrid
-- [Sr. DevSecOps Engineer](https://www.glassdoor.com/job-listing/sr-devsecops-engineer-caci-international-JV_IC1130359_KO0,21_KE22,40.htm?jl=1010195895647) — DevOps / SRE · $98,500–$206,800/yr · Fairfax, VA
-- [DevOps Engineer](https://www.glassdoor.com/job-listing/devops-engineer-caci-international-JV_IC1130411_KO0,15_KE16,34.htm?jl=1010196677890) — Backend · $94,400–$198,200/yr · Sterling, VA · hybrid
-- [Systems Engineer](https://www.glassdoor.com/job-listing/systems-engineer-caci-international-JV_IC1130411_KO0,16_KE17,35.htm?jl=1010192767595) — $94,400–$198,200/yr · Sterling, VA
-- [Embedded Software Engineer - Photonics](https://www.glassdoor.com/job-listing/embedded-software-engineer-photonics-caci-international-JV_IC1126766_KO0,36_KE37,55.htm?jl=1010193136186) — $94,400–$198,200/yr · Florham Park, NJ
-- [JIATF 401 System Engineer](https://www.glassdoor.com/job-listing/jiatf-401-system-engineer-caci-international-JV_KO0,25_KE26,44.htm?jl=1010191422982) — $94,400–$198,200/yr · United States
-- [Software Engineer](https://www.glassdoor.com/job-listing/software-engineer-caci-international-JV_IC1128900_KO0,17_KE18,36.htm?jl=1010194096630) — $90,300–$189,600/yr · Lisle, IL
-- [JIATF 401 Data Engineer](https://www.glassdoor.com/job-listing/jiatf-401-data-engineer-caci-international-JV_KO0,23_KE24,42.htm?jl=1010193136919) — Data Engineering · $86,600–$181,800/yr · United States
-- [Senior Infrastructure / DevSecOps Engineer (RF Ground Systems)](https://www.glassdoor.com/job-listing/senior-infrastructure-devsecops-engineer-rf-ground-systems-caci-international-JV_IC1148170_KO0,58_KE59,77.htm?jl=1010193480176) — Backend · $82,100–$172,400/yr · Denver, CO · remote
-- [Server Software Developer](https://www.glassdoor.com/job-listing/server-software-developer-caci-international-JV_IC1148170_KO0,25_KE26,44.htm?jl=1010197047713) — Backend · $69,600–$142,700/yr · Denver, CO
-- [W3 Software Developer, Systems Software](https://www.glassdoor.com/job-listing/w3-software-developer-systems-software-caci-international-JV_IC1161794_KO0,38_KE39,57.htm?jl=1010195306926) — Backend · $55,800–$111,500/yr · Camp Smith, HI
-- [Software Engineering Intern - Fall 2026](https://www.glassdoor.com/job-listing/software-engineering-intern-fall-2026-caci-international-JV_IC1153593_KO0,37_KE38,56.htm?jl=1010195306398) — Backend · $45,900–$91,900/yr · Jessup, MD · remote
-
-### [Clera](https://jobs.winterchill.xyz/?employer=Clera) (14)
-
-- [ML Engineer – Robotics](https://www.glassdoor.com/job-listing/ml-engineer-robotics-clera-JV_IC1147401_KO0,20_KE21,26.htm?jl=1010196679248) — Backend · $220,000–$300,000/yr · San Francisco, CA
-- [Forward Deployed Engineer](https://www.glassdoor.com/job-listing/forward-deployed-engineer-clera-JV_IC1147401_KO0,25_KE26,31.htm?jl=1010196679243) — Backend · $150,000–$250,000/yr · San Francisco, CA · 🛂 visa sponsor
-- [Founding Engineer – Full Stack](https://www.glassdoor.com/job-listing/founding-engineer-full-stack-clera-JV_IC1147401_KO0,28_KE29,34.htm?jl=1010195703760) — Backend · $150,000–$250,000/yr · San Francisco, CA · 🛂 visa sponsor
-- [Founding Engineer](https://www.glassdoor.com/job-listing/founding-engineer-clera-JV_IC1147401_KO0,17_KE18,23.htm?jl=1010194287010) — Backend · $120,000–$250,000/yr · San Francisco, CA
-- [Founding Forward Deployed Engineer](https://www.glassdoor.com/job-listing/founding-forward-deployed-engineer-clera-JV_IC1147401_KO0,34_KE35,40.htm?jl=1010196679230) — $180,000–$210,000/yr · San Francisco, CA · hybrid
-- [Founding Software Engineer](https://www.glassdoor.com/job-listing/founding-software-engineer-clera-JV_IC1132348_KO0,26_KE27,32.htm?jl=1010196679226) — Backend · $150,000–$200,000/yr · New York, NY
-- [Senior iOS/Android Software Engineer](https://www.glassdoor.com/job-listing/senior-ios-android-software-engineer-clera-JV_IC1147401_KO0,36_KE37,42.htm?jl=1010195536132) — Backend · $160,000–$200,000/yr · San Francisco, CA · 🛂 visa sponsor
-- [Founding Engineer (Applied AI)](https://www.glassdoor.com/job-listing/founding-engineer-applied-ai-clera-JV_IC1147401_KO0,28_KE29,34.htm?jl=1010196679316) — Backend · $100,000–$180,000/yr · San Francisco, CA
-- [Founding Engineer (AI/ML)](https://www.glassdoor.com/job-listing/founding-engineer-ai-ml-clera-JV_IC1147401_KO0,23_KE24,29.htm?jl=1010197755116) — Backend · $130,000–$170,000/yr · San Francisco, CA · 🛂 visa sponsor
-- [Founding Full Stack Engineer](https://www.glassdoor.com/job-listing/founding-full-stack-engineer-clera-JV_IC1147401_KO0,28_KE29,34.htm?jl=1010196679227) — Backend · $135,000–$155,000/yr · San Francisco, CA
-- [Neuroscience PhD – Inference Modelling (Founding Role)](https://www.glassdoor.com/job-listing/neuroscience-phd-inference-modelling-founding-role-clera-JV_IC1147401_KO0,50_KE51,56.htm?jl=1010196679245) — Backend · $150,000/yr · San Francisco, CA · remote
-- [Founding Full-Stack iOS Engineer](https://www.glassdoor.com/job-listing/founding-full-stack-ios-engineer-clera-JV_IC1147401_KO0,32_KE33,38.htm?jl=1010196679236) — Backend · $150,000/yr · San Francisco, CA · remote
-- [Voice AI Engineer](https://www.glassdoor.com/job-listing/voice-ai-engineer-clera-JV_IC1147401_KO0,17_KE18,23.htm?jl=1010196679225) — Backend · Up to $72,000/yr · San Francisco, CA · remote
-- [Backend Engineer](https://www.glassdoor.com/job-listing/backend-engineer-clera-JV_IC1147401_KO0,16_KE17,22.htm?jl=1010196679246) — Backend · Up to $72,000/yr · San Francisco, CA · remote
-
-### [Deloitte](https://jobs.winterchill.xyz/?employer=Deloitte) (14)
-
-- [Lead Data Mgt Engineer - CCM/OpenText](https://www.glassdoor.com/job-listing/lead-data-mgt-engineer-ccm-opentext-deloitte-JV_IC1147436_KO0,35_KE36,44.htm?jl=1010195782983) — Data Engineering · $134,500–$265,100/yr · San Jose, CA · hybrid · 🛂 visa sponsor
-- [Lead Applied AI Engineer II](https://www.glassdoor.com/job-listing/lead-applied-ai-engineer-ii-deloitte-JV_IC1126819_KO0,27_KE28,36.htm?jl=1010197160803) — Backend · $118,700–$243,700/yr · Jersey City, NJ · 🛂 visa sponsor
-- [AI Security Engineer Manager](https://www.glassdoor.com/job-listing/ai-security-engineer-manager-deloitte-JV_IC1140656_KO0,28_KE29,37.htm?jl=1010197160739) — DevOps / SRE · $118,700–$243,700/yr · Honolulu, HI · 🛂 visa sponsor
-- [Agentic AI, AI & Data Science Engineer](https://www.glassdoor.com/job-listing/agentic-ai-ai-data-science-engineer-deloitte-JV_IC1133917_KO0,35_KE36,44.htm?jl=1010197160926) — Backend · $122,000–$240,500/yr · Tempe, AZ · hybrid · 🛂 visa sponsor
-- [Software Engineer III- AI & Engineering/Software as a Service](https://www.glassdoor.com/job-listing/software-engineer-iii-ai-engineering-software-as-a-service-deloitte-JV_IC1145705_KO0,58_KE59,67.htm?jl=1010195782788) — Backend · $122,000–$240,500/yr · Cincinnati, OH · hybrid · 🛂 visa sponsor
-- [Senior Python Developer](https://www.glassdoor.com/job-listing/senior-python-developer-deloitte-JV_IC1126819_KO0,23_KE24,32.htm?jl=1010195782599) — Backend · $124,700–$207,800/yr · Jersey City, NJ · hybrid · 🛂 visa sponsor
-- [AI and Data Science Engineer III with TS/SCI Polygraph](https://www.glassdoor.com/job-listing/ai-and-data-science-engineer-iii-with-ts-sci-polygraph-deloitte-JV_IC1153527_KO0,54_KE55,63.htm?jl=1010197160669) — Data Engineering · $119,000–$198,400/yr · Baltimore, MD · 🛂 visa sponsor
-- [Full Stack Software Engineer III w/ TS/SCI Polygraph](https://www.glassdoor.com/job-listing/full-stack-software-engineer-iii-w-ts-sci-polygraph-deloitte-JV_IC1153527_KO0,51_KE52,60.htm?jl=1010197160935) — Backend · $119,000–$198,400/yr · Baltimore, MD · 🛂 visa sponsor
-- [DevOps Software Engineer III with TS/SCI Polygraph](https://www.glassdoor.com/job-listing/devops-software-engineer-iii-with-ts-sci-polygraph-deloitte-JV_IC1153527_KO0,50_KE51,59.htm?jl=1010197160960) — Backend · $119,000–$198,400/yr · Baltimore, MD · 🛂 visa sponsor
-- [Software Engineer III with TS/SCI Polygraph](https://www.glassdoor.com/job-listing/software-engineer-iii-with-ts-sci-polygraph-deloitte-JV_IC1153527_KO0,43_KE44,52.htm?jl=1010197160931) — Backend · $119,000–$198,400/yr · Baltimore, MD · 🛂 visa sponsor
-- [DevSecOps Engineer (Secret Clearance)](https://www.glassdoor.com/job-listing/devsecops-engineer-secret-clearance-deloitte-JV_IC1153527_KO0,35_KE36,44.htm?jl=1010197569672) — DevOps / SRE · $107,925–$188,000/yr · Baltimore, MD · hybrid · 🛂 visa sponsor
-- [Dev Ops Engineer - Project Delivery Specialist Analyst](https://www.glassdoor.com/job-listing/dev-ops-engineer-project-delivery-specialist-analyst-deloitte-JV_IC1126819_KO0,52_KE53,61.htm?jl=1010195782674) — DevOps / SRE · $97,700–$162,800/yr · Jersey City, NJ · hybrid · 🛂 visa sponsor
-- [Data Scientist - National Federal Tax Services](https://www.glassdoor.com/job-listing/data-scientist-national-federal-tax-services-deloitte-JV_IC1155583_KO0,44_KE45,53.htm?jl=1010194528940) — Backend · $84,600–$141,000/yr · Atlanta, GA · hybrid · 🛂 visa sponsor
-- [Senior Java Developer](https://www.glassdoor.com/job-listing/senior-java-developer-deloitte-JV_IC1128808_KO0,21_KE22,30.htm?jl=1010194529610) — Backend · Chicago, IL · hybrid · 🛂 visa sponsor
 
 ### [ClickHouse](https://jobs.winterchill.xyz/?employer=ClickHouse) (13)
 
@@ -468,22 +164,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Engineer (AWS & Java)](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Principal-Engineer--AWS---Java-_R0120037-1) — Backend · GBR-Nottingham-1 Chapel Qtr, United Kingdom · 🛂 visa sponsor
 - [Senior DevOps Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Senior-DevOps-Engineer_R0118900-1) — Data Engineering · GBR-Nottingham-1 Chapel Qtr, United Kingdom · 🛂 visa sponsor
 
-### [Meta](https://jobs.winterchill.xyz/?employer=Meta) (13)
-
-- [Software Engineer Leadership, Machine Learning RecSys](https://www.glassdoor.com/job-listing/software-engineer-leadership-machine-learning-recsys-meta-JV_IC1147442_KO0,52_KE53,57.htm?jl=1010197172096) — Backend · Up to $301,000/yr · Sunnyvale, CA · hybrid
-- [Software Engineer, AI Specialist - Wearables AI (Technical Leadership)](https://www.glassdoor.com/job-listing/software-engineer-ai-specialist-wearables-ai-technical-leadership-meta-JV_IC1147335_KO0,65_KE66,70.htm?jl=1010197172082) — Backend · Up to $301,000/yr · Burlingame, CA
-- [Network Engineer, AI Infrastructure Repair](https://www.glassdoor.com/job-listing/network-engineer-ai-infrastructure-repair-meta-JV_KO0,41_KE42,46.htm?jl=1010192071068) — DevOps / SRE · Up to $271,000/yr · Remote · remote
-- [AI Research Scientist - Surface Inputs AR/VR](https://www.glassdoor.com/job-listing/ai-research-scientist-surface-inputs-ar-vr-meta-JV_IC1150499_KO0,42_KE43,47.htm?jl=1010196108948) — Backend · Up to $257,000/yr · Redmond, WA
-- [Software Engineer, Machine Learning RecSys](https://www.glassdoor.com/job-listing/software-engineer-machine-learning-recsys-meta-JV_IC1132348_KO0,41_KE42,46.htm?jl=1010197172087) — Backend · Up to $257,000/yr · New York, NY · hybrid
-- [Computer Vision Engineer](https://www.glassdoor.com/job-listing/computer-vision-engineer-meta-JV_IC1150499_KO0,24_KE25,29.htm?jl=1010194554449) — Backend · Up to $257,000/yr · Redmond, WA · remote
-- [Software Engineer, Databases](https://www.glassdoor.com/job-listing/software-engineer-databases-meta-JV_IC1150442_KO0,27_KE28,32.htm?jl=1010193686342) — Backend · Up to $257,000/yr · Bellevue, WA
-- [Software Engineer, Systems ML Engineering](https://www.glassdoor.com/job-listing/software-engineer-systems-ml-engineering-meta-JV_IC1147442_KO0,40_KE41,45.htm?jl=1010193285800) — Backend · Up to $257,000/yr · Sunnyvale, CA
-- [EMC Design Engineer](https://www.glassdoor.com/job-listing/emc-design-engineer-meta-JV_IC1147442_KO0,19_KE20,24.htm?jl=1010197107998) — Up to $245,000/yr · Sunnyvale, CA
-- [Nanofabrication Research Engineer, Optical Systems](https://www.glassdoor.com/job-listing/nanofabrication-research-engineer-optical-systems-meta-JV_IC1150499_KO0,49_KE50,54.htm?jl=1010194554434) — Up to $217,000/yr · Redmond, WA
-- [Software Engineer, Systems ML](https://www.glassdoor.com/job-listing/software-engineer-systems-ml-meta-JV_IC1147371_KO0,28_KE29,33.htm?jl=1010193686375) — Backend · Up to $217,000/yr · Menlo Park, CA
-- [Research Engineer, ML H-W/S-W Codesign](https://www.glassdoor.com/job-listing/research-engineer-ml-hwsw-codesign-meta-JV_IC1147442_KO0,34_KE35,39.htm?jl=1010192071005) — Backend · Up to $217,000/yr · Sunnyvale, CA
-- [ASIC Engineer, Design Verification](https://www.glassdoor.com/job-listing/asic-engineer-design-verification-meta-JV_IC1139761_KO0,33_KE34,38.htm?jl=1010192071072) — Embedded / Robotics · Up to $172,000/yr · Austin, TX
-
 ### [Nebius](https://jobs.winterchill.xyz/?employer=Nebius) (13)
 
 - [Staff Backend Engineer / Tech Lead Manager](https://careers.nebius.com/?gh_jid=4724505101) — Backend · Germany; Netherlands; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
@@ -500,40 +180,26 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Customer Engineer EMEA](https://careers.nebius.com/?gh_jid=4858679101) — DevOps / SRE · Finland; France; Germany; Netherlands; Remote - Europe; Sweden; United Kingdom · remote · 🛂 visa sponsor
 - [Application Security Engineer](https://careers.nebius.com/?gh_jid=4537282101) — Backend · Amsterdam, Netherlands; Berlin, Germany; Israel; Prague, Czech Republic; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
 
-### [Samsung Electronics](https://jobs.winterchill.xyz/?employer=Samsung%20Electronics) (12)
+### [Open Cosmos](https://jobs.winterchill.xyz/?employer=Open%20Cosmos) (12)
 
-- [Sr Software Engineer, Ad experience platform](https://www.glassdoor.com/job-listing/sr-software-engineer-ad-experience-platform-samsung-electronics-JV_IC1147431_KO0,43_KE44,63.htm?jl=1010196019326) — Backend · $250,000/yr · Mountain View, CA · 🛂 visa sponsor
-- [Sr. Data Engineer](https://www.glassdoor.com/job-listing/sr-data-engineer-samsung-electronics-JV_IC1147431_KO0,16_KE17,36.htm?jl=1010196019440) — Backend · $210,000/yr · Mountain View, CA · 🛂 visa sponsor
-- [Diffusion Equipment Engineer - Day or Night](https://www.glassdoor.com/job-listing/diffusion-equipment-engineer-day-or-night-samsung-electronics-JV_IC1139799_KO0,41_KE42,61.htm?jl=1010196010978) — $70,480–$179,090/yr · Taylor, TX · 🛂 visa sponsor
-- [Diffusion Equipment Engineer](https://www.glassdoor.com/job-listing/diffusion-equipment-engineer-samsung-electronics-JV_IC1139761_KO0,28_KE29,48.htm?jl=1010196014139) — $70,480–$179,090/yr · Austin, TX · 🛂 visa sponsor
-- [Metals Equipment Engineer](https://www.glassdoor.com/job-listing/metals-equipment-engineer-samsung-electronics-JV_IC1139799_KO0,25_KE26,45.htm?jl=1010196022048) — $70,480–$179,090/yr · Taylor, TX · 🛂 visa sponsor
-- [Implant Equipment Engineer - Day or Night](https://www.glassdoor.com/job-listing/implant-equipment-engineer-day-or-night-samsung-electronics-JV_IC1139799_KO0,39_KE40,59.htm?jl=1010196010833) — $70,480–$179,090/yr · Taylor, TX · 🛂 visa sponsor
-- [Machine Learning and Optimization Engineer](https://www.glassdoor.com/job-listing/machine-learning-and-optimization-engineer-samsung-electronics-JV_IC1139761_KO0,42_KE43,62.htm?jl=1010196010572) — ML / AI Engineering · $76,000–$174,500/yr · Austin, TX · 🛂 visa sponsor
-- [Fault Detection & Classification (FDC) Data Science Engineer](https://www.glassdoor.com/job-listing/fault-detection-classification-fdc-data-science-engineer-samsung-electronics-JV_IC1139761_KO0,56_KE57,76.htm?jl=1010196010441) — $76,000–$174,500/yr · Austin, TX · 🛂 visa sponsor
-- [Software Engineer](https://www.glassdoor.com/job-listing/software-engineer-samsung-electronics-JV_IC1147431_KO0,17_KE18,37.htm?jl=1010196012796) — Backend · $170,000/yr · Mountain View, CA · 🛂 visa sponsor
-- [Senior Staff Engineer, GPU Architect, Machine Learning](https://www.glassdoor.com/job-listing/senior-staff-engineer-gpu-architect-machine-learning-samsung-electronics-JV_IC1147436_KO0,52_KE53,72.htm?jl=1010196987467) — Backend · San Jose, CA · 🛂 visa sponsor
-- [Staff Data Engineer](https://www.glassdoor.com/job-listing/staff-data-engineer-samsung-electronics-JV_IC1147431_KO0,19_KE20,39.htm?jl=1010196011415) — Backend · Mountain View, CA · 🛂 visa sponsor
-- [Staff Software Engineer](https://www.glassdoor.com/job-listing/staff-software-engineer-samsung-electronics-JV_IC1147431_KO0,23_KE24,43.htm?jl=1010196021908) — Backend · Mountain View, CA · 🛂 visa sponsor
-
-### Company not listed (11)
-
-- [Associate Director of Finance – Financial Control](https://uk.indeed.com/viewjob?jk=38f047361b2f5d11) — £100,493–£114,951/yr · Kingston upon Thames, United Kingdom
-- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=9f04136360dcc2a7) — Backend · £95,000–£100,000/yr · Romford, United Kingdom
-- [DevOps Engineer](https://uk.indeed.com/viewjob?jk=27455bbb39380567) — DevOps / SRE · £75,000–£88,000/yr · Chelmsford, United Kingdom · hybrid
-- [Programme Manager- Digital, Data & AI](https://uk.indeed.com/viewjob?jk=28f1efaf1548425b) — £55,000–£60,000/yr · Gatwick Airport, United Kingdom · hybrid
-- [Software Engineer](https://uk.indeed.com/viewjob?jk=859ff81ce97f328f) — Backend · £38,290–£54,700/yr · Harlow, United Kingdom · hybrid · 🛂 visa sponsor
-- [Cloud Infrastructure Engineer](https://uk.indeed.com/viewjob?jk=2aba9d5e5df8cd58) — DevOps / SRE · £36,610–£52,300/yr · Harlow, United Kingdom · hybrid · 🛂 visa sponsor
-- [QA Analyst](https://uk.indeed.com/viewjob?jk=91d1cb2eba5c5e64) — DevOps / SRE · £43,000–£46,000/yr · Chelmsford, United Kingdom
-- [QA Analyst](https://uk.indeed.com/viewjob?jk=139aee78bdcbdce3) — DevOps / SRE · £43,000–£46,000/yr · Milton Keynes, United Kingdom
-- [Junior Data Engineer](https://uk.indeed.com/viewjob?jk=e566088cace72326) — Data Engineering · £35,000–£40,000/yr · Wokingham, United Kingdom · hybrid
-- [Team Leader](https://uk.indeed.com/viewjob?jk=1ef0b8a834e18097) — £26,000–£28,000/yr · Benfleet, United Kingdom
-- [JAVA DEVELOPER – APPLICATION SUPPORT CONSULTANT (M/W)](https://uk.indeed.com/viewjob?jk=2f0593b7290abbf3) — £28,000/yr · Stevenage, United Kingdom
+- [Software Engineer - On Board Processing](https://careers.open-cosmos.com/jobs/7999895-software-engineer-on-board-processing) — Didcot, United Kingdom; Porto, PT; Pallini, GR; Barcelona, ES · 🛂 visa sponsor
+- [Automation Engineer](https://careers.open-cosmos.com/jobs/7958121-automation-engineer) — DevOps / SRE · Didcot, United Kingdom; Porto, PT; Barcelona, ES; Pallini, GR · 🛂 visa sponsor
+- [Junior Frontend Engineer (Ground Segment)](https://careers.open-cosmos.com/jobs/6514932-junior-frontend-engineer-ground-segment) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
+- [Data Software Engineer](https://careers.open-cosmos.com/jobs/7231067-data-software-engineer) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES; Buenos Aires, AR · 🛂 visa sponsor
+- [Senior Software Engineer (Ground Segment)](https://careers.open-cosmos.com/jobs/7231671-senior-software-engineer-ground-segment) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
+- [Cloud Infrastructure Engineering Intern](https://careers.open-cosmos.com/jobs/7487060-cloud-infrastructure-engineering-intern) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
+- [Site Reliability Engineer (DataCosmos)](https://careers.open-cosmos.com/jobs/7647342-site-reliability-engineer-datacosmos) — Data Engineering · Didcot, United Kingdom; Barcelona, ES; Pallini, GR; Porto, PT · 🛂 visa sponsor
+- [Test Engineer (Data)](https://careers.open-cosmos.com/jobs/7720874-test-engineer-data) — Data Engineering · Didcot, United Kingdom; Barcelona, ES; Pallini, GR; Buenos Aires, AR; Palma, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
+- [Backend Engineer (DataCosmos)](https://careers.open-cosmos.com/jobs/7721003-backend-engineer-datacosmos) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; Buenos Aires, AR · 🛂 visa sponsor
+- [Applied AI Engineer: Space & EO (Data)](https://careers.open-cosmos.com/jobs/7721055-applied-ai-engineer-space-eo-data) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT · 🛂 visa sponsor
+- [Earth Observation Presales Engineer](https://careers.open-cosmos.com/jobs/7725009-earth-observation-presales-engineer) — Data Engineering · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT · 🛂 visa sponsor
+- [Senior React Frontend Developer (Data)](https://careers.open-cosmos.com/jobs/7772658-senior-react-frontend-developer-data) — Backend · Didcot, United Kingdom; Porto, PT; Barcelona, ES; Pallini, GR · 🛂 visa sponsor
 
 ### [DXC Technology](https://jobs.winterchill.xyz/?employer=DXC%20Technology) (11)
 
 - [HSS Test Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR-Client-Site-CSC-Location/Analyst-I-Functional-Test-Engineer-2_51551780) — GBR Client Site (CSC Location), United Kingdom · 🛂 visa sponsor
-- [HSS Cloud Platform Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR-Client-Site-CSC-Location/Cloud-Platform-Developer_51553629) — Backend · GBR Client Site (CSC Location), United Kingdom · 🛂 visa sponsor
 - [HSS Cloud Applications Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR-Client-Site-CSC-Location/HSS-Cloud-Applications-Developer_51553637) — Backend · GBR Client Site (CSC Location), United Kingdom · 🛂 visa sponsor
+- [HSS Cloud Platform Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR-Client-Site-CSC-Location/Cloud-Platform-Developer_51553629) — Backend · GBR Client Site (CSC Location), United Kingdom · 🛂 visa sponsor
 - [Software Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/UK875---DXC-Farnborough-UK875/Software-Developer_51584323) — Backend · UK875 - DXC Farnborough (UK875), United Kingdom · hybrid · 🛂 visa sponsor
 - [HSS - LINUX_PaaS Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---GLS---GLOUCESTER/LINUX-PaaS-Engineer-X_51547756) — DevOps / SRE · GBR - GLS - GLOUCESTER, United Kingdom · 🛂 visa sponsor
 - [HSS - Sr Analyst Automation Test Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---ANY-CITY/Sr-Analyst-Automation-Test-Engineer_51551772-1) — QA / Test Automation · GBR - ANY CITY, United Kingdom · 🛂 visa sponsor
@@ -542,34 +208,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [HSS Java Software Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---ANY-CITY/Java-Software-Developer_51564209) — Backend · GBR - ANY CITY, United Kingdom · 🛂 visa sponsor
 - [HSS Senior Security Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR-Client-Site-CSC-Location/Associate-Manager-Security-Engineer_51562734) — DevOps / SRE · GBR Client Site (CSC Location), United Kingdom · 🛂 visa sponsor
 - [AIX Linux Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---LAN---PRESTON/Unix-AIX-Engineer_51563747) — DevOps / SRE · GBR - LAN - PRESTON, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Experis US, Inc](https://jobs.winterchill.xyz/?employer=Experis%20US%2C%20Inc) (11)
-
-- [Lead Data Governance Engineer](https://www.glassdoor.com/job-listing/lead-data-governance-engineer-experis-JV_IC1155583_KO0,29_KE30,37.htm?jl=1010191766081) — Data Engineering · $145,000–$175,000/yr · Atlanta, GA
-- [R&D Technician I](https://www.glassdoor.com/job-listing/rd-technician-i-experis-JV_IC1142575_KO0,15_KE16,23.htm?jl=1010197048629) — Up to $25/hr · Saint Paul, MN
-- [Technology and Data - Software Engineer 4 - Contingent](https://www.glassdoor.com/job-listing/technology-and-data-software-engineer-4-contingent-experis-JV_IC1138644_KO0,50_KE51,58.htm?jl=1010197171219) — Data Engineering · Charlotte, NC
-- [Application Developer](https://www.glassdoor.com/job-listing/application-developer-experis-JV_IC1138644_KO0,21_KE22,29.htm?jl=1010197048630) — Backend · Charlotte, NC
-- [Engineering Manager, Intelligent Automation](https://www.glassdoor.com/job-listing/engineering-manager-intelligent-automation-experis-JV_IC1138960_KO0,42_KE43,50.htm?jl=1010196690673) — Backend · Raleigh, NC · remote
-- [Sr. Engineer, AI and Cloud](https://www.glassdoor.com/job-listing/sr-engineer-ai-and-cloud-experis-JV_IC1140065_KO0,24_KE25,32.htm?jl=1010196935798) — Backend · Southlake, TX
-- [Application Programmer III](https://www.glassdoor.com/job-listing/application-programmer-iii-experis-JV_IC1133878_KO0,26_KE27,34.htm?jl=1010196690610) — Backend · Chandler, AZ
-- [PeopleSoft Application Developer](https://www.glassdoor.com/job-listing/peoplesoft-application-developer-experis-JV_IC1131650_KO0,32_KE33,40.htm?jl=1010196935826) — Albany, NY · hybrid
-- [Actimize Developer](https://www.glassdoor.com/job-listing/actimize-developer-experis-JV_IC1138644_KO0,18_KE19,26.htm?jl=1010194151504) — Backend · Charlotte, NC
-- [Appian UI Developer](https://www.glassdoor.com/job-listing/appian-ui-developer-experis-JV_IC1138644_KO0,19_KE20,27.htm?jl=1010194150639) — Backend · Charlotte, NC
-- [Software Development Engineer IV-](https://www.glassdoor.com/job-listing/software-development-engineer-iv-experis-JV_IC1164302_KO0,32_KE33,40.htm?jl=1010194150637) — Backend · Greenwood Village, CO
-
-### [Information Technology Senior Management Forum](https://jobs.winterchill.xyz/?employer=Information%20Technology%20Senior%20Management%20Forum) (11)
-
-- [Sr. Distinguished Engineer](https://www.glassdoor.com/job-listing/sr-distinguished-engineer-information-technology-senior-management-forum-JV_IC1158535_KO0,25_KE26,72.htm?jl=1009998302532) — Backend · $314,800–$359,300/yr · McLean, VA · 🛂 visa sponsor
-- [Director, Software Engineer](https://www.glassdoor.com/job-listing/director-software-engineer-information-technology-senior-management-forum-JV_IC1158535_KO0,26_KE27,73.htm?jl=1010194494792) — Backend · $269,100–$307,200/yr · McLean, VA · 🛂 visa sponsor
-- [Director, Software Engineer - Card Partnerships](https://www.glassdoor.com/job-listing/director-software-engineer-card-partnerships-information-technology-senior-management-forum-JV_IC1128808_KO0,44_KE45,91.htm?jl=1010191903676) — Backend · $244,700–$279,200/yr · Chicago, IL · 🛂 visa sponsor
-- [Senior Manager, Software Engineering, Full Stack (People Leader)](https://www.glassdoor.com/job-listing/senior-manager-software-engineering-full-stack-people-leader-information-technology-senior-management-forum-JV_IC1158535_KO0,60_KE61,107.htm?jl=1010197142451) — Backend · $229,900–$262,400/yr · McLean, VA · 🛂 visa sponsor
-- [Sr. Lead Software Engineer](https://www.glassdoor.com/job-listing/sr-lead-software-engineer-information-technology-senior-management-forum-JV_IC1158535_KO0,25_KE26,72.htm?jl=1010194494418) — Backend · $229,900–$262,400/yr · McLean, VA · 🛂 visa sponsor
-- [Senior Lead Software Engineer, Full Stack/Back End (Intelligent Foundations and Experiences)](https://www.glassdoor.com/job-listing/senior-lead-software-engineer-full-stack-back-end-intelligent-foundations-and-experiences-information-technology-senior-management-forum-JV_IC1158535_KO0,89_KE90,136.htm?jl=1010194494718) — Backend · $229,900–$262,400/yr · McLean, VA · 🛂 visa sponsor
-- [Senior Lead Data Engineer](https://www.glassdoor.com/job-listing/senior-lead-data-engineer-information-technology-senior-management-forum-JV_IC1128808_KO0,25_KE26,72.htm?jl=1010194494345) — Backend · $209,000–$238,500/yr · Chicago, IL · 🛂 visa sponsor
-- [Manager, Data Scientist](https://www.glassdoor.com/job-listing/manager-data-scientist-information-technology-senior-management-forum-JV_IC1158535_KO0,22_KE23,69.htm?jl=1010193235721) — Backend · $197,300–$225,100/yr · McLean, VA · 🛂 visa sponsor
-- [Director, Full-Stack Engineer](https://www.glassdoor.com/job-listing/director-full-stack-engineer-information-technology-senior-management-forum-JV_IC1132348_KO0,28_KE29,75.htm?jl=1010193235614) — Backend · $225,000/yr · New York, NY
-- [Principal Data Scientist - AI Foundations, Specialist Models](https://www.glassdoor.com/job-listing/principal-data-scientist-ai-foundations-specialist-models-information-technology-senior-management-forum-JV_IC1158535_KO0,57_KE58,104.htm?jl=1010193235673) — Backend · $161,800–$184,600/yr · McLean, VA · 🛂 visa sponsor
-- [Principal Data Scientist - Recommendation & Personalization Systems](https://www.glassdoor.com/job-listing/principal-data-scientist-recommendation-personalization-systems-information-technology-senior-management-forum-JV_IC1158535_KO0,63_KE64,110.htm?jl=1010193242160) — Backend · $161,800–$184,600/yr · McLean, VA · 🛂 visa sponsor
 
 ### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (11)
 
@@ -585,47 +223,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Homeworker---UK/Senior-Software-Engineer_JR_17794/apply) — Backend · Home worker, United Kingdom · 🛂 visa sponsor
 - [Senior Data Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Homeworker---UK/Senior-Data-Engineer_JR_17714/apply) — Data Engineering · Home worker, United Kingdom · 🛂 visa sponsor
 
-### [Open Cosmos](https://jobs.winterchill.xyz/?employer=Open%20Cosmos) (11)
+### Company not listed (10)
 
-- [Automation Engineer](https://careers.open-cosmos.com/jobs/7958121-automation-engineer) — DevOps / SRE · Didcot, United Kingdom; Porto, PT; Barcelona, ES; Pallini, GR · 🛂 visa sponsor
-- [Junior Frontend Engineer (Ground Segment)](https://careers.open-cosmos.com/jobs/6514932-junior-frontend-engineer-ground-segment) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
-- [Data Software Engineer](https://careers.open-cosmos.com/jobs/7231067-data-software-engineer) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES; Buenos Aires, AR · 🛂 visa sponsor
-- [Senior Software Engineer (Ground Segment)](https://careers.open-cosmos.com/jobs/7231671-senior-software-engineer-ground-segment) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
-- [Cloud Infrastructure Engineering Intern](https://careers.open-cosmos.com/jobs/7487060-cloud-infrastructure-engineering-intern) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
-- [Site Reliability Engineer (DataCosmos)](https://careers.open-cosmos.com/jobs/7647342-site-reliability-engineer-datacosmos) — Data Engineering · Didcot, United Kingdom; Barcelona, ES; Pallini, GR; Porto, PT · 🛂 visa sponsor
-- [Test Engineer (Data)](https://careers.open-cosmos.com/jobs/7720874-test-engineer-data) — Data Engineering · Didcot, United Kingdom; Barcelona, ES; Pallini, GR; Buenos Aires, AR; Palma, ES; Porto, PT; La Laguna, ES · 🛂 visa sponsor
-- [Backend Engineer (DataCosmos)](https://careers.open-cosmos.com/jobs/7721003-backend-engineer-datacosmos) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT; Buenos Aires, AR · 🛂 visa sponsor
-- [Applied AI Engineer: Space & EO (Data)](https://careers.open-cosmos.com/jobs/7721055-applied-ai-engineer-space-eo-data) — Backend · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT · 🛂 visa sponsor
-- [Earth Observation Presales Engineer](https://careers.open-cosmos.com/jobs/7725009-earth-observation-presales-engineer) — Data Engineering · Didcot, United Kingdom; Pallini, GR; Barcelona, ES; Porto, PT · 🛂 visa sponsor
-- [Senior React Frontend Developer (Data)](https://careers.open-cosmos.com/jobs/7772658-senior-react-frontend-developer-data) — Backend · Didcot, United Kingdom; Porto, PT; Barcelona, ES; Pallini, GR · 🛂 visa sponsor
-
-### [People Center, Inc.](https://jobs.winterchill.xyz/?employer=People%20Center%2C%20Inc.) (11)
-
-- [Staff Machine Learning Engineer - AI Cloud](https://www.glassdoor.com/job-listing/staff-machine-learning-engineer-ai-cloud-rippling-JV_IC1132348_KO0,40_KE41,49.htm?jl=1010191499352) — Backend · New York, NY
-- [Staff Software Engineer - AI Experiences](https://www.glassdoor.com/job-listing/staff-software-engineer-ai-experiences-rippling-JV_IC1147401_KO0,38_KE39,47.htm?jl=1010195424901) — Backend · San Francisco, CA
-- [Software Engineer II, Backend Full Stack - HR Product](https://www.glassdoor.com/job-listing/software-engineer-ii-backend-full-stack-hr-product-rippling-JV_IC1147401_KO0,50_KE51,59.htm?jl=1010195779014) — Backend · San Francisco, CA
-- [Senior Software Engineer, Backend Full Stack - Data Cloud](https://www.glassdoor.com/job-listing/senior-software-engineer-backend-full-stack-data-cloud-rippling-JV_IC1147401_KO0,54_KE55,63.htm?jl=1010195292667) — Backend · San Francisco, CA
-- [Senior Software Engineer, Backend - Platform](https://www.glassdoor.com/job-listing/senior-software-engineer-backend-platform-rippling-JV_IC1132348_KO0,41_KE42,50.htm?jl=1010195773278) — Backend · New York, NY
-- [Staff Software Engineer - Data Cloud](https://www.glassdoor.com/job-listing/staff-software-engineer-data-cloud-rippling-JV_IC1147401_KO0,34_KE35,43.htm?jl=1010194356348) — Backend · San Francisco, CA
-- [Staff Full Stack Engineer (Frontend) - Time Products](https://www.glassdoor.com/job-listing/staff-full-stack-engineer-frontend-time-products-rippling-JV_IC1150505_KO0,48_KE49,57.htm?jl=1010193174532) — Backend · Seattle, WA
-- [Staff Full Stack Software Engineer (Backend) - Scheduling](https://www.glassdoor.com/job-listing/staff-full-stack-software-engineer-backend-scheduling-rippling-JV_IC1147401_KO0,53_KE54,62.htm?jl=1010193173072) — Backend · San Francisco, CA
-- [Staff Full Stack Software Engineer (Backend) - Time Off Products](https://www.glassdoor.com/job-listing/staff-full-stack-software-engineer-backend-time-off-products-rippling-JV_IC1150505_KO0,60_KE61,69.htm?jl=1010193246523) — Backend · Seattle, WA
-- [Senior Software Engineer, Backend Full Stack - Rippling AI](https://www.glassdoor.com/job-listing/senior-software-engineer-backend-full-stack-rippling-ai-rippling-JV_IC1147401_KO0,55_KE56,64.htm?jl=1010194320996) — Backend · San Francisco, CA
-- [Senior Software Engineer, Backend Full Stack - HR Product](https://www.glassdoor.com/job-listing/senior-software-engineer-backend-full-stack-hr-product-rippling-JV_IC1147401_KO0,54_KE55,63.htm?jl=1010191399316) — Backend · San Francisco, CA
-
-### [Qualcomm Incorporated](https://jobs.winterchill.xyz/?employer=Qualcomm%20Incorporated) (11)
-
-- [Sr Staff Software Engineer, AI Hub](https://www.glassdoor.com/job-listing/sr-staff-software-engineer-ai-hub-qualcomm-JV_IC1150505_KO0,33_KE34,42.htm?jl=1010193321739) — Backend · $278,900/yr · Seattle, WA
-- [GPU Research Engineer](https://www.glassdoor.com/job-listing/gpu-research-engineer-qualcomm-JV_IC1154533_KO0,21_KE22,30.htm?jl=1010197194419) — $242,600/yr · Boxborough, MA
-- [Staff Machine Learning Engineer – On-Device AI/ML](https://www.glassdoor.com/job-listing/staff-machine-learning-engineer-on-device-ai-ml-qualcomm-JV_IC1147311_KO0,47_KE48,56.htm?jl=1010195548435) — Backend · $240,700/yr · San Diego, CA
-- [M/L Compiler Engineer](https://www.glassdoor.com/job-listing/ml-compiler-engineer-qualcomm-JV_IC1147311_KO0,20_KE21,29.htm?jl=1010194604114) — Backend · $211,200/yr · San Diego, CA
-- [Gen AI Transformation Engineer – Embedded Software & Engineering Productivity](https://www.glassdoor.com/job-listing/gen-ai-transformation-engineer-embedded-software-engineering-productivity-qualcomm-JV_IC1147311_KO0,73_KE74,82.htm?jl=1010195835513) — Backend · $202,200/yr · San Diego, CA
-- [Software Engineer, Core AI Software](https://www.glassdoor.com/job-listing/software-engineer-core-ai-software-qualcomm-JV_IC1147311_KO0,34_KE35,43.htm?jl=1010195835761) — Backend · $184,200/yr · San Diego, CA
-- [Full Stack Engineer / FrontEnd Engineer, Qualcomm AI SW Stack](https://www.glassdoor.com/job-listing/full-stack-engineer-frontend-engineer-qualcomm-ai-sw-stack-qualcomm-JV_IC1147311_KO0,58_KE59,67.htm?jl=1010195836174) — Backend · $184,200/yr · San Diego, CA
-- [QGOV Security Software Engineer](https://www.glassdoor.com/job-listing/qgov-security-software-engineer-qualcomm-JV_IC1147311_KO0,31_KE32,40.htm?jl=1010196972409) — Backend · $141,200/yr · San Diego, CA
-- [#Windows Power Optimization Engineer, Sr.](https://www.glassdoor.com/job-listing/windows-power-optimization-engineer-sr-qualcomm-JV_IC1147311_KO0,38_KE39,47.htm?jl=1010193322549) — Backend · $141,200/yr · San Diego, CA
-- [#Engineer](https://www.glassdoor.com/job-listing/engineer-qualcomm-JV_IC1147311_KO0,8_KE9,17.htm?jl=1010193322516) — Backend · $141,200/yr · San Diego, CA
-- [#Video Software Engineer](https://www.glassdoor.com/job-listing/video-software-engineer-qualcomm-JV_IC1147311_KO0,23_KE24,32.htm?jl=1010191696170) — Backend · $141,200/yr · San Diego, CA
+- [Associate Director of Finance – Financial Control](https://uk.indeed.com/viewjob?jk=38f047361b2f5d11) — £100,493–£114,951/yr · Kingston upon Thames, United Kingdom
+- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=9f04136360dcc2a7) — Backend · £95,000–£100,000/yr · Romford, United Kingdom
+- [DevOps Engineer](https://uk.indeed.com/viewjob?jk=27455bbb39380567) — DevOps / SRE · £75,000–£88,000/yr · Chelmsford, United Kingdom · hybrid
+- [Programme Manager- Digital, Data & AI](https://uk.indeed.com/viewjob?jk=28f1efaf1548425b) — £55,000–£60,000/yr · Gatwick Airport, United Kingdom · hybrid
+- [Software Engineer](https://uk.indeed.com/viewjob?jk=859ff81ce97f328f) — Backend · £38,290–£54,700/yr · Harlow, United Kingdom · hybrid · 🛂 visa sponsor
+- [Cloud Infrastructure Engineer](https://uk.indeed.com/viewjob?jk=2aba9d5e5df8cd58) — DevOps / SRE · £36,610–£52,300/yr · Harlow, United Kingdom · hybrid · 🛂 visa sponsor
+- [QA Analyst](https://uk.indeed.com/viewjob?jk=91d1cb2eba5c5e64) — DevOps / SRE · £43,000–£46,000/yr · Chelmsford, United Kingdom
+- [QA Analyst](https://uk.indeed.com/viewjob?jk=139aee78bdcbdce3) — DevOps / SRE · £43,000–£46,000/yr · Milton Keynes, United Kingdom
+- [Junior Data Engineer](https://uk.indeed.com/viewjob?jk=e566088cace72326) — Data Engineering · £35,000–£40,000/yr · Wokingham, United Kingdom · hybrid
+- [Team Leader](https://uk.indeed.com/viewjob?jk=1ef0b8a834e18097) — £26,000–£28,000/yr · Benfleet, United Kingdom
 
 ### [Revolut](https://jobs.winterchill.xyz/?employer=Revolut) (10)
 
@@ -640,6 +249,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Mid/Senior Software Engineer (Java)](https://www.linkedin.com/jobs/view/4377936593/) — Backend · United Kingdom · 🛂 visa sponsor
 - [Software Engineer (Python) - AutoDL](https://www.linkedin.com/jobs/view/4406538054/) — Backend · United Kingdom · 🛂 visa sponsor
 
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (10)
+
+- [Senior Software Engineer, Windows/Desktop Applications - Brighton, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-brighton-united-kingdom-speechify-7954854) — Backend · Brighton and Hove, England, United Kingdom
+- [Software Engineer, iOS Core Product - Brighton, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-brighton-united-kingdom-speechify-7947160) — Backend · Brighton and Hove, England, United Kingdom · remote
+- [Software Engineer, iOS Core Product - Nottingham, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-nottingham-united-kingdom-speechify-7947322) — Backend · Nottingham, England, United Kingdom · remote
+- [Software Engineer, Platform - Brighton, United Kingdom](https://startup.jobs/software-engineer-platform-brighton-united-kingdom-speechify-7936595) — Backend · Brighton and Hove, England, United Kingdom
+- [Software Engineer, Platform - Nottingham, United Kingdom](https://startup.jobs/software-engineer-platform-nottingham-united-kingdom-speechify-7982703) — Backend · Nottingham, England, United Kingdom
+- [Senior Software Engineer, Core Experiences - Brighton, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-brighton-united-kingdom-speechify-7974752) — Backend · Brighton and Hove, England, United Kingdom · remote
+- [Senior Software Engineer, Core Experiences - Nottingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-nottingham-united-kingdom-speechify-7974786) — Backend · Nottingham, England, United Kingdom · remote
+- [Senior Software Engineer, Windows/Desktop Applications - Nottingham, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-nottingham-united-kingdom-speechify-7982581) — Backend · Nottingham, England, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Nottingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-nottingham-united-kingdom-speechify-7960158) — Backend · Nottingham, England, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Brighton, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-brighton-united-kingdom-speechify-7974872) — Backend · Brighton and Hove, England, United Kingdom
+
 ### [WTW](https://jobs.winterchill.xyz/?employer=WTW) (10)
 
 - [QA Engineer](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/202604329) — Backend · Reigate, Surrey, United Kingdom · hybrid · 🛂 visa sponsor
@@ -653,54 +275,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Director of Engineering](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/202603140) — Reigate, Surrey, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior DevOps Engineer](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/202602848) — DevOps / SRE · Reigate, Surrey, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Advanced Micro Devices, Inc.](https://jobs.winterchill.xyz/?employer=Advanced%20Micro%20Devices%2C%20Inc.) (9)
-
-- [Lead Systems Debug Engineer - Data Center GPU](https://www.glassdoor.com/job-listing/lead-systems-debug-engineer-data-center-gpu-amd-JV_IC1139761_KO0,43_KE44,47.htm?jl=1010196303734) — Austin, TX · hybrid
-- [Applied Research Scientist](https://www.glassdoor.com/job-listing/applied-research-scientist-amd-JV_IC1147436_KO0,26_KE27,30.htm?jl=1010196303737) — Backend · San Jose, CA · hybrid
-- [GenAI Software Development Engineer](https://www.glassdoor.com/job-listing/genai-software-development-engineer-amd-JV_IC1147439_KO0,35_KE36,39.htm?jl=1010196303732) — Backend · Santa Clara, CA · hybrid
-- [Senior Data Center Automation Engineer](https://www.glassdoor.com/job-listing/senior-data-center-automation-engineer-amd-JV_IC1139761_KO0,38_KE39,42.htm?jl=1010195312462) — DevOps / SRE · Austin, TX · hybrid
-- [ML Systems Research Engineer, RL / Inference / Evaluation](https://www.glassdoor.com/job-listing/ml-systems-research-engineer-rl-inference-evaluation-amd-JV_IC1147439_KO0,52_KE53,56.htm?jl=1010195312535) — Backend · Santa Clara, CA
-- [Applied AI Engineer, Top Hardware Priorities](https://www.glassdoor.com/job-listing/applied-ai-engineer-top-hardware-priorities-amd-JV_IC1147439_KO0,43_KE44,47.htm?jl=1010195312546) — Backend · Santa Clara, CA
-- [AI/ML Platform Engineer](https://www.glassdoor.com/job-listing/ai-ml-platform-engineer-amd-JV_IC1147439_KO0,23_KE24,27.htm?jl=1010195312541) — Backend · Santa Clara, CA
-- [Forward Deployed AI Engineer](https://www.glassdoor.com/job-listing/forward-deployed-ai-engineer-amd-JV_IC1147439_KO0,28_KE29,32.htm?jl=1010193719448) — Backend · Santa Clara, CA · hybrid
-- [AI Data Engineer – Platform & Analytics](https://www.glassdoor.com/job-listing/ai-data-engineer-platform-analytics-amd-JV_IC1147439_KO0,35_KE36,39.htm?jl=1010194477393) — Data Engineering · Santa Clara, CA
-
-### [Centrica](https://jobs.winterchill.xyz/?employer=Centrica) (9)
-
-- [Research & Innovation Manager (Automation)](https://www.linkedin.com/jobs/view/4439057968/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineer (Mobile)](https://www.linkedin.com/jobs/view/4439409698/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineering (Azure and Integration)](https://uk.indeed.com/viewjob?jk=f2e8be28e6f8e782) — Backend · Windsor, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineer (Mobile)](https://uk.indeed.com/viewjob?jk=f0d888a946ee972f) — Backend · Windsor, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineering (Azure and Integration)](https://www.linkedin.com/jobs/view/4439417532/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Cyber Security Incident Response Analyst](https://uk.indeed.com/viewjob?jk=fabd75f2e6cdcff7) — DevOps / SRE · Windsor, United Kingdom · hybrid · 🛂 visa sponsor
-- [Research & Innovation Manager (Automation)](https://uk.indeed.com/viewjob?jk=ef53749af56c9526) — Backend · Windsor, United Kingdom · hybrid · 🛂 visa sponsor
-- [AI Software Engineer](https://www.linkedin.com/jobs/view/4437911441/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer (React Native)](https://www.linkedin.com/jobs/view/4437056541/) — Backend · Windsor, England, United Kingdom · 🛂 visa sponsor
-
-### [General Motors Corporation](https://jobs.winterchill.xyz/?employer=General%20Motors%20Corporation) (9)
-
-- [Senior AI Tooling Engineer](https://www.glassdoor.com/job-listing/senior-ai-tooling-engineer-general-motors-gm-JV_IC1147442_KO0,26_KE27,44.htm?jl=1010197169918) — Backend · $144,700–$261,300/yr · Sunnyvale, CA
-- [Senior Software Engineer - High Voltage Electrification](https://www.glassdoor.com/job-listing/senior-software-engineer-high-voltage-electrification-general-motors-gm-JV_IC1134695_KO0,53_KE54,71.htm?jl=1010197169946) — Milford, MI · hybrid · 🛂 visa sponsor
-- [Cost Engineer](https://www.glassdoor.com/job-listing/cost-engineer-general-motors-gm-JV_IC1134741_KO0,13_KE14,31.htm?jl=1010195800774) — Warren, MI · hybrid
-- [Safety Performance Integration Engineer - Occupant Performance](https://www.glassdoor.com/job-listing/safety-performance-integration-engineer-occupant-performance-general-motors-gm-JV_IC1134741_KO0,60_KE61,78.htm?jl=1010195800505) — Warren, MI · hybrid
-- [Senior Software Engineer - Inventory](https://www.glassdoor.com/job-listing/senior-software-engineer-inventory-general-motors-gm-JV_IC1139761_KO0,34_KE35,52.htm?jl=1010195800679) — Backend · Austin, TX · hybrid
-- [Sr Software Engineer](https://www.glassdoor.com/job-listing/sr-software-engineer-general-motors-gm-JV_IC1139761_KO0,20_KE21,38.htm?jl=1010195800686) — Backend · Austin, TX · hybrid
-- [Senior Business Intelligence Data Engineer](https://www.glassdoor.com/job-listing/senior-business-intelligence-data-engineer-general-motors-gm-JV_IC1134741_KO0,42_KE43,60.htm?jl=1010194256527) — Data Engineering · Warren, MI · hybrid
-- [Senior Software Engineer](https://www.glassdoor.com/job-listing/senior-software-engineer-general-motors-gm-JV_IC1139761_KO0,24_KE25,42.htm?jl=1010194256578) — Backend · Austin, TX · hybrid · 🛂 visa sponsor
-- [Lead Full-Stack Developer](https://www.glassdoor.com/job-listing/lead-full-stack-developer-general-motors-gm-JV_IC1134695_KO0,25_KE26,43.htm?jl=1010193281847) — Backend · Milford, MI · hybrid
-
-### [KBR](https://jobs.winterchill.xyz/?employer=KBR) (9)
-
-- [Systems Engineer Technical Advisor](https://www.glassdoor.com/job-listing/systems-engineer-technical-advisor-kbr-JV_IC1152620_KO0,34_KE35,38.htm?jl=1010192744547) — $162,000–$243,000/yr · King of Prussia, PA · 🛂 visa sponsor
-- [Mid Software Developer](https://www.glassdoor.com/job-listing/mid-software-developer-kbr-JV_IC1148136_KO0,22_KE23,26.htm?jl=1010195132440) — Backend · $142,800–$214,200/yr · Colorado Springs, CO · 🛂 visa sponsor
-- [Firmware Developer](https://www.glassdoor.com/job-listing/firmware-developer-kbr-JV_IC1154599_KO0,18_KE19,22.htm?jl=1010195129602) — $126,900–$190,400/yr · Lexington, MA · hybrid
-- [Senior DevOps Engineer](https://www.glassdoor.com/job-listing/senior-devops-engineer-kbr-JV_IC1148136_KO0,22_KE23,26.htm?jl=1010195133703) — Backend · $173,300/yr · Colorado Springs, CO · hybrid · 🛂 visa sponsor
-- [Associate DevOps Engineer](https://www.glassdoor.com/job-listing/associate-devops-engineer-kbr-JV_IC1148136_KO0,25_KE26,29.htm?jl=1010195132657) — Backend · $76,700–$115,000/yr · Colorado Springs, CO · hybrid · 🛂 visa sponsor
-- [Lead Technical Safety Engineer](https://www.glassdoor.co.uk/job-listing/lead-technical-safety-engineer-kbr-JV_IC3294267_KO0,30_KE31,34.htm?jl=1010198522022) — £36,400–£50,270/yr (est.) · Leatherhead, England · hybrid
-- [Senior Security Principal, Identity Security](https://uk.indeed.com/viewjob?jk=fc92b0ddada11cc8) — Leatherhead, United Kingdom · hybrid
-- [SQL/ Python Developer](https://www.glassdoor.com/job-listing/sql-python-developer-kbr-JV_IC3778075_KO0,20_KE21,24.htm?jl=1010195135562) — Wiltshire, TN
-- [Software Engineer 3](https://www.glassdoor.com/job-listing/software-engineer-3-kbr-JV_IC1141041_KO0,19_KE20,23.htm?jl=1010195130117) — Backend · Sioux Falls, SD
-
 ### [Kraken](https://jobs.winterchill.xyz/?employer=Kraken) (9)
 
 - [Site Reliability Engineer - Cloudflare & Ingress - Core Infrastructure](https://jobs.ashbyhq.com/kraken.com/3892704c-15bf-49e1-aa59-bd183613b52f) — DevOps / SRE · $100,000–$130,000/yr · United Kingdom · hybrid · 🛂 visa sponsor
@@ -713,88 +287,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Data Platform Engineering Manager](https://jobs.ashbyhq.com/kraken.com/cf14a771-0586-41de-b379-fe301c3c8120) — Data Engineering · United Kingdom · remote · 🛂 visa sponsor
 - [Mobile Design Engineer](https://jobs.ashbyhq.com/kraken.com/95b0206c-8168-49d5-8e6c-e0c5ff885cf6) — Frontend · United Kingdom · 🛂 visa sponsor
 
-### [Lenovo Group Limited](https://jobs.winterchill.xyz/?employer=Lenovo%20Group%20Limited) (9)
-
-- [Advisory AI Engineer](https://www.glassdoor.com/job-listing/advisory-ai-engineer-lenovo-JV_IC1128808_KO0,20_KE21,27.htm?jl=1010196823581) — Backend · $200,000–$250,000/yr · Chicago, IL · hybrid
-- [Embedded Software Engineer, AI Wearables](https://www.glassdoor.com/job-listing/embedded-software-engineer-ai-wearables-lenovo-JV_IC1128808_KO0,39_KE40,46.htm?jl=1010192893567) — Backend · $110,000–$170,000/yr · Chicago, IL
-- [Sr. Engineer, AI Hardware](https://www.glassdoor.com/job-listing/sr-engineer-ai-hardware-lenovo-JV_IC1138956_KO0,23_KE24,30.htm?jl=1010196081082) — Morrisville, NC
-- [Product Security Engineer – PSIRT](https://www.glassdoor.com/job-listing/product-security-engineer-psirt-lenovo-JV_IC1138956_KO0,31_KE32,38.htm?jl=1010195446527) — DevOps / SRE · Morrisville, NC
-- [Advisory Software Engineer](https://www.glassdoor.com/job-listing/advisory-software-engineer-lenovo-JV_IC1138956_KO0,26_KE27,33.htm?jl=1010197129664) — Backend · Morrisville, NC · hybrid
-- [Engineer, AI-Accelerated Application & Systems Development](https://www.glassdoor.com/job-listing/engineer-ai-accelerated-application-systems-development-lenovo-JV_IC1138956_KO0,55_KE56,62.htm?jl=1010196854400) — Backend · Morrisville, NC · hybrid
-- [AI Application Development Engineer](https://www.glassdoor.com/job-listing/ai-application-development-engineer-lenovo-JV_IC1138956_KO0,35_KE36,42.htm?jl=1010195446272) — Backend · Morrisville, NC · hybrid
-- [AI Algorithm Engineer](https://www.glassdoor.com/job-listing/ai-algorithm-engineer-lenovo-JV_IC1138956_KO0,21_KE22,28.htm?jl=1010195446454) — Backend · Morrisville, NC · hybrid
-- [Advisory AI Prototyping Engineer](https://www.glassdoor.com/job-listing/advisory-ai-prototyping-engineer-lenovo-JV_IC1138956_KO0,32_KE33,39.htm?jl=1010194206990) — Backend · Morrisville, NC
-
-### [Logic](https://jobs.winterchill.xyz/?employer=Logic) (9)
-
-- [Secure AI Engineer Manager](https://www.glassdoor.com/job-listing/secure-ai-engineer-manager-logic-JV_IC1155583_KO0,26_KE27,32.htm?jl=1010194728018) — Backend · $94,400–$293,800/yr · Atlanta, GA
-- [AI & HPC Infrastructure Engineer](https://www.glassdoor.com/job-listing/ai-hpc-infrastructure-engineer-logic-JV_IC1131270_KO0,30_KE31,36.htm?jl=1010194728035) — Backend · $94,400–$266,300/yr · Saint Louis, MO · hybrid
-- [Java Developer - 6386052](https://www.glassdoor.com/job-listing/java-developer-6386052-logic-JV_IC1138644_KO0,22_KE23,28.htm?jl=1010195971105) — Backend · $44–$54/hr · Charlotte, NC
-- [Java Fullstack Engineer - 6357277](https://www.glassdoor.com/job-listing/java-fullstack-engineer-6357277-logic-JV_IC1138644_KO0,31_KE32,37.htm?jl=1010194728922) — Backend · $44–$54/hr · Charlotte, NC
-- [Clickhouse Starburst Database JAVA Developer - 6376087](https://www.glassdoor.com/job-listing/clickhouse-starburst-database-java-developer-6376087-logic-JV_IC1132348_KO0,52_KE53,58.htm?jl=1010194728143) — Backend · New York, NY · hybrid
-- [Data Engineer - 6370645](https://www.glassdoor.com/job-listing/data-engineer-6370645-logic-JV_IC1126891_KO0,21_KE22,27.htm?jl=1010191789407) — Backend · Morristown, NJ
-- [^AI Implementation Engineer Lead 6362071](https://www.glassdoor.com/job-listing/ai-implementation-engineer-lead-6362071-logic-JV_IC1147417_KO0,39_KE40,45.htm?jl=1010192118612) — Backend · Walnut Creek, CA · hybrid
-- [Custom Software Engineer 6321038](https://www.glassdoor.com/job-listing/custom-software-engineer-6321038-logic-JV_IC1147417_KO0,32_KE33,38.htm?jl=1010192118613) — Backend · Walnut Creek, CA
-- [Custom Software Engineer Python - 6365276](https://www.glassdoor.com/job-listing/custom-software-engineer-python-6365276-logic-JV_IC1126891_KO0,39_KE40,45.htm?jl=1010192118680) — Backend · Morristown, NJ · hybrid
-
-### [Oracle Corporation](https://jobs.winterchill.xyz/?employer=Oracle%20Corporation) (9)
-
-- [Software Developer](https://www.glassdoor.com/job-listing/software-developer-oracle-JV_IC1144541_KO0,18_KE19,25.htm?jl=1010197148598) — Nashville, TN · 🛂 visa sponsor
-- [Applications Developer](https://www.glassdoor.com/job-listing/applications-developer-oracle-JV_IC1139761_KO0,22_KE23,29.htm?jl=1010195788268) — Backend · Austin, TX · 🛂 visa sponsor
-- [Principal Data Engineer](https://www.glassdoor.com/job-listing/principal-data-engineer-oracle-JV_IC1144541_KO0,23_KE24,30.htm?jl=1010197148608) — Data Engineering · Nashville, TN · 🛂 visa sponsor
-- [Senior Principal Software Engineer](https://www.glassdoor.com/job-listing/senior-principal-software-engineer-oracle-JV_IC1150505_KO0,34_KE35,41.htm?jl=1010196476220) — Backend · Seattle, WA · 🛂 visa sponsor
-- [Senior Software Developer (OCI - Health Infrastructure)](https://www.glassdoor.com/job-listing/senior-software-developer-oci-health-infrastructure-oracle-JV_IC1144541_KO0,51_KE52,58.htm?jl=1010196114650) — Backend · Nashville, TN · 🛂 visa sponsor
-- [Senior Software Engineer](https://www.glassdoor.com/job-listing/senior-software-engineer-oracle-JV_IC1144541_KO0,24_KE25,31.htm?jl=1010196473600) — Backend · Nashville, TN · 🛂 visa sponsor
-- [Principal Software Developer](https://www.glassdoor.com/job-listing/principal-software-developer-oracle-JV_IC1139761_KO0,28_KE29,35.htm?jl=1010011480384) — Backend · Austin, TX · hybrid · 🛂 visa sponsor
-- [Principal Machine Learning Engineer](https://www.glassdoor.com/job-listing/principal-machine-learning-engineer-oracle-JV_IC1150505_KO0,35_KE36,42.htm?jl=1010194504984) — Backend · Seattle, WA · 🛂 visa sponsor
-- [Senior Platform Software Engineer](https://www.glassdoor.com/job-listing/senior-platform-software-engineer-oracle-JV_IC1139761_KO0,33_KE34,40.htm?jl=1010191911796) — Backend · Austin, TX · 🛂 visa sponsor
-
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (9)
 
 - [Software Engineer Apprentice](https://relx.wd3.myworkdayjobs.com/relx/job/Grosvernor-House/Software-Engineer-Apprentice_R115941-3) — Backend · Grosvernor House, United Kingdom · 🛂 visa sponsor
-- [Data Scientist III](https://relx.wd3.myworkdayjobs.com/relx/job/United-Kingdom/Data-Scientist-III_R114916) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Data Scientist I](https://relx.wd3.myworkdayjobs.com/relx/job/United-Kingdom/Senior-Data-Scientist-I_R114918-1) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Scientist III](https://relx.wd3.myworkdayjobs.com/relx/job/United-Kingdom/Data-Scientist-III_R114916) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
 - [Security Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/Home-Based---United-Kingdom/Security-Engineer-III_R112063-2) — DevOps / SRE · Home Based - United Kingdom, United Kingdom · 🛂 visa sponsor
 - [Principal Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Richmond/Principal-Software-Engineer_R109403-1) — Backend · UK - Richmond, United Kingdom · 🛂 visa sponsor
 - [Director Software Engineering](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Grosvenor-House-Southampton/Director-Software-Engineering_R113445-2) — Data Engineering · UK - Grosvenor House (Southampton), United Kingdom · 🛂 visa sponsor
 - [Senior Data Engineer- Customer Data Platform](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Sutton-Carshalton/Technical-Consultant--Oracle-Unity-CDP_R111894-1) — Data Engineering · UK - Sutton (Carshalton), United Kingdom · 🛂 visa sponsor
 - [Apprentice Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-2) — Backend · UK - Grosvenor House (Southampton), United Kingdom · 🛂 visa sponsor
 - [Software Engineering Lead](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Grosvenor-House-Southampton/Software-Engineering-Lead_R112664-3) — Backend · UK - Grosvenor House (Southampton), United Kingdom · 🛂 visa sponsor
-
-### [Science Applications International Corporation, Inc.](https://jobs.winterchill.xyz/?employer=Science%20Applications%20International%20Corporation%2C%20Inc.) (9)
-
-- [AI Engineer - SETA](https://www.glassdoor.com/job-listing/ai-engineer-seta-saic-JV_IC1153546_KO0,16_KE17,21.htm?jl=1010192203964) — Backend · $240,001–$280,000/yr · Columbia, MD · remote
-- [Senior Software Engineer](https://www.glassdoor.com/job-listing/senior-software-engineer-saic-JV_IC1146779_KO0,24_KE25,29.htm?jl=1010197225122) — Backend · $160,001–$200,000/yr · El Segundo, CA · hybrid
-- [AI Solutions Engineer](https://www.glassdoor.com/job-listing/ai-solutions-engineer-saic-JV_KO0,21_KE22,26.htm?jl=1010195911092) — $160,001–$200,000/yr · United States
-- [Senior Java Engineer](https://www.glassdoor.com/job-listing/senior-java-engineer-saic-JV_KO0,20_KE21,25.htm?jl=1010195911098) — Backend · $160,001–$200,000/yr · United States · remote
-- [Principal Software Engineer](https://www.glassdoor.com/job-listing/principal-software-engineer-saic-JV_KO0,27_KE28,32.htm?jl=1010197225124) — Backend · $120,001–$160,000/yr · North Carolina · remote
-- [Web Software Developer](https://www.glassdoor.com/job-listing/web-software-developer-saic-JV_IC1129522_KO0,22_KE23,27.htm?jl=1010194923643) — $120,001–$160,000/yr · Scott Air Force Base, IL · remote
-- [Back-End Software Developer](https://www.glassdoor.com/job-listing/back-end-software-developer-saic-JV_IC1130337_KO0,27_KE28,32.htm?jl=1010195911102) — Backend · $120,001–$160,000/yr · Arlington, VA
-- [Embedded Software Engineer](https://www.glassdoor.com/job-listing/embedded-software-engineer-saic-JV_KO0,26_KE27,31.htm?jl=1010191852485) — $120,001–$160,000/yr · United States · remote
-- [React Developer Senior](https://www.glassdoor.com/job-listing/react-developer-senior-saic-JV_IC1130338_KO0,22_KE23,27.htm?jl=1010191852496) — Backend · $120,001–$160,000/yr · Ashburn, VA · hybrid
-
-### [Scout Motors Inc](https://jobs.winterchill.xyz/?employer=Scout%20Motors%20Inc) (9)
-
-- [Senior Staff Software Engineer-Frontend](https://www.glassdoor.com/job-listing/senior-staff-software-engineer-frontend-scout-motors-JV_IC1147355_KO0,39_KE40,52.htm?jl=1010194476377) — Backend · $198,000–$242,000/yr · Fremont, CA · remote
-- [Senior Staff Software Engineer-Backend](https://www.glassdoor.com/job-listing/senior-staff-software-engineer-backend-scout-motors-JV_IC1147355_KO0,38_KE39,51.htm?jl=1010194399481) — Backend · $198,000–$242,000/yr · Fremont, CA · remote
-- [Staff Software Engineer-Android](https://www.glassdoor.com/job-listing/staff-software-engineer-android-scout-motors-JV_IC1147355_KO0,31_KE32,44.htm?jl=1010194103497) — Backend · $181,500–$220,000/yr · Fremont, CA · remote
-- [Staff Software Engineer-Backend](https://www.glassdoor.com/job-listing/staff-software-engineer-backend-scout-motors-JV_IC1147355_KO0,31_KE32,44.htm?jl=1010194201691) — Backend · $181,500–$220,000/yr · Fremont, CA · remote
-- [Senior Software Engineer-Backend](https://www.glassdoor.com/job-listing/senior-software-engineer-backend-scout-motors-JV_IC1147355_KO0,32_KE33,45.htm?jl=1010194399482) — Backend · $154,000–$187,000/yr · Fremont, CA · remote
-- [Senior Software Engineer-Frontend](https://www.glassdoor.com/job-listing/senior-software-engineer-frontend-scout-motors-JV_IC1147355_KO0,33_KE34,46.htm?jl=1010194201697) — Backend · $154,000–$187,000/yr · Fremont, CA · remote
-- [Staff Software Engineer-Frontend](https://www.glassdoor.com/job-listing/staff-software-engineer-frontend-scout-motors-JV_IC1147355_KO0,32_KE33,45.htm?jl=1010195393469) — Backend · $165,000/yr · Fremont, CA · remote
-- [Staff Software Engineer-iOS](https://www.glassdoor.com/job-listing/staff-software-engineer-ios-scout-motors-JV_IC1147355_KO0,27_KE28,40.htm?jl=1010194103494) — Backend · $165,000/yr · Fremont, CA · remote
-- [Senior Software Engineer (iOS) – Digital Products](https://www.glassdoor.com/job-listing/senior-software-engineer-ios-digital-products-scout-motors-JV_IC1147355_KO0,45_KE46,58.htm?jl=1010195705751) — Backend · $140,000/yr · Fremont, CA
-
-### [ASGN Incorporated](https://jobs.winterchill.xyz/?employer=ASGN%20Incorporated) (8)
-
-- [Senior Firmware Engineer - Remote!](https://www.glassdoor.com/job-listing/senior-firmware-engineer-remote-asgn-incorporated-JV_IC1130404_KO0,31_KE32,49.htm?jl=1010193164105) — DevOps / SRE · $145,000–$190,000/yr · Reston, VA · remote
-- [Principal UI Engineer](https://www.glassdoor.com/job-listing/principal-ui-engineer-asgn-incorporated-JV_IC1139761_KO0,21_KE22,39.htm?jl=1010193164051) — Backend · $140,000–$175,000/yr · Austin, TX · remote
-- [AI Automation Engineer](https://www.glassdoor.com/job-listing/ai-automation-engineer-asgn-incorporated-JV_IC1146821_KO0,22_KE23,40.htm?jl=1010197077229) — Backend · $125,000–$145,000/yr · Los Angeles, CA · hybrid
-- [Programmer](https://www.glassdoor.com/job-listing/programmer-asgn-incorporated-JV_IC1146748_KO0,10_KE11,28.htm?jl=1010194427882) — $38–$55/hr · Azusa, CA
-- [Contract - Full-Stack Engineer](https://www.glassdoor.com/job-listing/contract-full-stack-engineer-asgn-incorporated-JV_KO0,28_KE29,46.htm?jl=1010195669558) — Backend · Up to $40/hr · United States · remote
-- [Founding Fullstack Engineer - Hybrid](https://www.glassdoor.com/job-listing/founding-fullstack-engineer-hybrid-asgn-incorporated-JV_IC1146779_KO0,34_KE35,52.htm?jl=1010193164158) — Backend · El Segundo, CA · hybrid
-- [Android Software Engineer](https://www.glassdoor.com/job-listing/android-software-engineer-asgn-incorporated-JV_IC1133456_KO0,25_KE26,43.htm?jl=1010194427916) — Backend · Cottage Grove, WI
-- [Firmware Engineer](https://www.glassdoor.com/job-listing/firmware-engineer-asgn-incorporated-JV_IC1154702_KO0,17_KE18,35.htm?jl=1010193164139) — Walpole, MA
 
 ### [Ashby](https://jobs.winterchill.xyz/?employer=Ashby) (8)
 
@@ -806,39 +309,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Design Engineer - UK](https://jobs.ashbyhq.com/ashby/cb45928e-c7c7-4163-84d0-a962755a3593) — Backend · £55,000–£137,000/yr · United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer, Product Engineering - UK](https://jobs.ashbyhq.com/ashby/472eef28-6e52-43b4-9bff-9113522890f5) — Backend · £103,000–£137,000/yr · United Kingdom · 🛂 visa sponsor
 - [Product Support Engineer - EMEA](https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4) — Research / Applied Science · €48,000–€104,000/yr · United Kingdom · 🛂 visa sponsor
-
-### [GE Vernova](https://jobs.winterchill.xyz/?employer=GE%20Vernova) (8)
-
-- [Lead CNC Programmer 2nd Shift](https://www.glassdoor.com/job-listing/lead-cnc-programmer-2nd-shift-ge-vernova-JV_IC1155193_KO0,29_KE30,40.htm?jl=1010197626043) — Greenville, SC · 🛂 visa sponsor
-- [AI Adoption & Enablement Leader](https://www.glassdoor.com/job-listing/ai-adoption-enablement-leader-ge-vernova-JV_IC1155193_KO0,29_KE30,40.htm?jl=1010195841031) — Greenville, SC · 🛂 visa sponsor
-- [Engineering Transformation Leader (AI & Lean)](https://www.glassdoor.com/job-listing/engineering-transformation-leader-ai-lean-ge-vernova-JV_IC1155193_KO0,41_KE42,52.htm?jl=1010195226484) — Greenville, SC · 🛂 visa sponsor
-- [Sr. Build & Release Engineer](https://www.glassdoor.com/job-listing/sr-build-release-engineer-ge-vernova-JV_IC1154286_KO0,25_KE26,36.htm?jl=1010193739896) — DevOps / SRE · Melbourne, FL · hybrid
-- [Senior Software Engineer – Edge Intelligence & Decentralized Grid Operations](https://www.glassdoor.com/job-listing/senior-software-engineer-edge-intelligence-decentralized-grid-operations-ge-vernova-JV_IC1154286_KO0,72_KE73,83.htm?jl=1010194308660) — Backend · Melbourne, FL · 🛂 visa sponsor
-- [AI/ML Software Principal Engineer](https://www.linkedin.com/jobs/view/4438250372/) — Stafford, England, United Kingdom · remote · 🛂 visa sponsor
-- [Sr Manufacturing Engineer - Fixture & Part Movement](https://www.glassdoor.com/job-listing/sr-manufacturing-engineer-fixture-part-movement-ge-vernova-JV_IC1155193_KO0,47_KE48,58.htm?jl=1010193325314) — Greenville, SC · 🛂 visa sponsor
-- [Principal Engineer - HVDC Control System, Platform & Tools](https://www.linkedin.com/jobs/view/4437823044/) — Stafford, England, United Kingdom · 🛂 visa sponsor
-
-### [GRVTY](https://jobs.winterchill.xyz/?employer=GRVTY) (8)
-
-- [Enterprise Data Engineer](https://www.glassdoor.com/job-listing/enterprise-data-engineer-grvty-JV_IC1130353_KO0,24_KE25,30.htm?jl=1010196363005) — Backend · Chantilly, VA
-- [Data Scientist](https://www.glassdoor.com/job-listing/data-scientist-grvty-JV_IC1158535_KO0,14_KE15,20.htm?jl=1010195713211) — Backend · McLean, VA · remote
-- [Software Developer (Systems Software)](https://www.glassdoor.com/job-listing/software-developer-systems-software-grvty-JV_IC1130353_KO0,35_KE36,41.htm?jl=1010195713440) — Chantilly, VA · remote · 🛂 visa sponsor
-- [Full Stack Developer](https://www.glassdoor.com/job-listing/full-stack-developer-grvty-JV_IC1130353_KO0,20_KE21,26.htm?jl=1010195711411) — Backend · Chantilly, VA · remote
-- [DoD MLOps Software Engineer](https://www.glassdoor.com/job-listing/dod-mlops-software-engineer-grvty-JV_IC1140656_KO0,27_KE28,33.htm?jl=1010196969849) — Backend · Honolulu, HI
-- [HAI - DoD MLOps Software Engineer](https://www.glassdoor.com/job-listing/hai-dod-mlops-software-engineer-grvty-JV_KO0,31_KE32,37.htm?jl=1010197025700) — Backend · Hawaii
-- [Senior Software Engineer](https://www.glassdoor.com/job-listing/senior-software-engineer-grvty-JV_IC1130353_KO0,24_KE25,30.htm?jl=1010193381075) — Backend · Chantilly, VA · remote
-- [Software Developer](https://www.glassdoor.com/job-listing/software-developer-grvty-JV_IC1158535_KO0,18_KE19,24.htm?jl=1010190860971) — Backend · McLean, VA
-
-### [Logistics Management Institute](https://jobs.winterchill.xyz/?employer=Logistics%20Management%20Institute) (8)
-
-- [Sr. Vantage Developer - Clearance Required](https://www.glassdoor.com/job-listing/sr-vantage-developer-clearance-required-lmi-JV_KO0,39_KE40,43.htm?jl=1010194517913) — Backend · $112,000–$190,000/yr · Remote · remote
-- [Jr. Vantage Developer - Clearance Required](https://www.glassdoor.com/job-listing/jr-vantage-developer-clearance-required-lmi-JV_IC1130337_KO0,39_KE40,43.htm?jl=1010193254938) — Backend · $85,000–$105,000/yr · Arlington, VA
-- [Forward-Deployed AI Engineer for Federal Deployments](https://www.glassdoor.com/job-listing/forward-deployed-ai-engineer-for-federal-deployments-lmi-JV_IC1158535_KO0,52_KE53,56.htm?jl=1010197043880) — Backend · McLean, VA
-- [Forward Deployed Engineer - Clearance Required](https://www.glassdoor.com/job-listing/forward-deployed-engineer-clearance-required-lmi-JV_IC1140656_KO0,44_KE45,48.htm?jl=1010197064533) — Backend · Honolulu, HI · hybrid
-- [Hybrid Modeling & Simulation Analyst for DoD AI/Cloud](https://www.glassdoor.com/job-listing/hybrid-modeling-simulation-analyst-for-dod-ai-cloud-lmi-JV_IC1130361_KO0,51_KE52,55.htm?jl=1010195742074) — Data Engineering · Falls Church, VA · hybrid
-- [Remote Forward Deployed Engineer for DoD AI/ML](https://www.glassdoor.com/job-listing/remote-forward-deployed-engineer-for-dod-ai-ml-lmi-JV_IC1158535_KO0,46_KE47,50.htm?jl=1010195746149) — McLean, VA · remote
-- [Forward Deployed Engineer - TS/SCI with Polygraph Required](https://www.glassdoor.com/job-listing/forward-deployed-engineer-ts-sci-with-polygraph-required-lmi-JV_IC1158535_KO0,56_KE57,60.htm?jl=1010195971904) — Backend · McLean, VA · hybrid
-- [Developer (E-Learning)](https://www.glassdoor.com/job-listing/developer-e-learning-lmi-JV_IC1130353_KO0,20_KE21,24.htm?jl=1010194517914) — Backend · Chantilly, VA
 
 ### [NHS](https://jobs.winterchill.xyz/?employer=NHS) (8)
 
@@ -862,29 +332,806 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Analytics Engineer](https://job-boards.eu.greenhouse.io/prolific/jobs/4571081101) — Data Engineering · Remote, UK · remote · 🛂 visa sponsor
 - [Lead Software Engineer](https://job-boards.eu.greenhouse.io/prolific/jobs/4862531101) — Backend · Remote, UK · remote · 🛂 visa sponsor
 
-### [Salesforce](https://jobs.winterchill.xyz/?employer=Salesforce) (8)
+### [AlphaSense](https://jobs.winterchill.xyz/?employer=AlphaSense) (7)
 
-- [Principal Software Engineer, Full Stack](https://www.glassdoor.com/job-listing/principal-software-engineer-full-stack-salesforce-JV_IC1147401_KO0,38_KE39,49.htm?jl=1010196887968) — DevOps / SRE · $237,700–$344,700/yr · San Francisco, CA · remote · 🛂 visa sponsor
-- [Lead Software Engineer](https://www.glassdoor.com/job-listing/lead-software-engineer-salesforce-JV_IC1150442_KO0,22_KE23,33.htm?jl=1010192248908) — Backend · $172,500–$260,100/yr · Bellevue, WA · 🛂 visa sponsor
-- [Software Engineering SMTS - Agentforce Reasoning Engine](https://www.glassdoor.com/job-listing/software-engineering-smts-agentforce-reasoning-engine-salesforce-JV_IC1147401_KO0,53_KE54,64.htm?jl=1010197152013) — Backend · $178,900–$246,000/yr · San Francisco, CA · 🛂 visa sponsor
-- [Full-Stack Developer - Platform Services SMTS](https://www.glassdoor.com/job-listing/full-stack-developer-platform-services-smts-salesforce-JV_IC1147401_KO0,43_KE44,54.htm?jl=1010196887973) — Backend · $178,900–$246,000/yr · San Francisco, CA · 🛂 visa sponsor
-- [Senior Software Engineer - AI Tooling & Automation](https://www.glassdoor.com/job-listing/senior-software-engineer-ai-tooling-automation-salesforce-JV_IC1147401_KO0,46_KE47,57.htm?jl=1010191917138) — Backend · $178,900–$246,000/yr · San Francisco, CA · 🛂 visa sponsor
-- [Software Engineering MTS](https://www.glassdoor.com/job-listing/software-engineering-mts-salesforce-JV_IC1150442_KO0,24_KE25,35.htm?jl=1010195474886) — Backend · $141,200–$194,200/yr · Bellevue, WA · 🛂 visa sponsor
-- [Software Engineering MTS - Full-Stack/Agentic AI Engineer](https://www.glassdoor.com/job-listing/software-engineering-mts-full-stack-agentic-ai-engineer-salesforce-JV_IC1147401_KO0,55_KE56,66.htm?jl=1010194512178) — Backend · $141,200–$194,200/yr · San Francisco, CA · 🛂 visa sponsor
-- [DevOps Engineering AMTS](https://www.glassdoor.com/job-listing/devops-engineering-amts-salesforce-JV_IC1130374_KO0,23_KE24,34.htm?jl=1010197152011) — Backend · $111,000–$122,000/yr · Herndon, VA · 🛂 visa sponsor
+- [Staff Software Engineer, Cloud Developer Experience](https://job-boards.greenhouse.io/alphasense/jobs/8628007002) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Principal Software Engineer - Product Platforms](https://job-boards.greenhouse.io/alphasense/jobs/8623855002) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Staff Engineer, iOS](https://job-boards.greenhouse.io/alphasense/jobs/8509533002) — Full Stack · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Senior Staff Engineer, iOS](https://job-boards.greenhouse.io/alphasense/jobs/8578347002) — Mobile · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Senior Staff Engineer, Android](https://job-boards.greenhouse.io/alphasense/jobs/8509538002) — Mobile · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Principal Design Engineer](https://job-boards.greenhouse.io/alphasense/jobs/8511573002) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Head of Engineering Productivity & Experience](https://job-boards.greenhouse.io/alphasense/jobs/8482553002) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
 
-### [Siemens AG](https://jobs.winterchill.xyz/?employer=Siemens%20AG) (8)
+### [Centrica](https://jobs.winterchill.xyz/?employer=Centrica) (7)
 
-- [Product Engineer – AI-Driven Analog Chip Design - Santa Clara*](https://www.glassdoor.com/job-listing/product-engineer-ai-driven-analog-chip-design-santa-clara-siemens-JV_IC1147439_KO0,57_KE58,65.htm?jl=1010194635498) — $135,800–$217,300/yr · Santa Clara, CA · hybrid
-- [Senior Software Developer – Algorithms and AI for Chip Design Automation - Santa Clara*](https://www.glassdoor.com/job-listing/senior-software-developer-algorithms-and-ai-for-chip-design-automation-santa-clara-siemens-JV_IC1147439_KO0,82_KE83,90.htm?jl=1010194635505) — Backend · $135,800–$217,300/yr · Santa Clara, CA · hybrid
-- [R&D Director / Sr. Principle Engineer, Semiconductor Process and Device Simulations](https://www.glassdoor.com/job-listing/rd-director-sr-principle-engineer-semiconductor-process-and-device-simulations-siemens-JV_IC1147439_KO0,78_KE79,86.htm?jl=1010197209054) — Santa Clara, CA · hybrid
-- [Principal Software Engineer](https://www.glassdoor.com/job-listing/principal-software-engineer-siemens-JV_IC1147439_KO0,27_KE28,35.htm?jl=1010197209078) — Backend · Santa Clara, CA
-- [Research Scientist, Physics x AI](https://www.glassdoor.com/job-listing/research-scientist-physics-x-ai-siemens-JV_IC1127179_KO0,31_KE32,39.htm?jl=1010195863324) — Princeton, NJ
-- [Senior Applied Scientist](https://www.glassdoor.com/job-listing/senior-applied-scientist-siemens-JV_IC1132348_KO0,24_KE25,32.htm?jl=1010193351046) — Backend · New York, NY
-- [Software Engineer](https://www.glassdoor.com/job-listing/software-engineer-siemens-JV_IC1132348_KO0,17_KE18,25.htm?jl=1010193351031) — Backend · New York, NY
-- [Senior Software Engineer – Cloud Native Applications](https://www.glassdoor.com/job-listing/senior-software-engineer-cloud-native-applications-siemens-JV_IC1138644_KO0,50_KE51,58.htm?jl=1010191742084) — Backend · Charlotte, NC · hybrid
+- [Research & Innovation Manager (Automation)](https://www.linkedin.com/jobs/view/4439057968/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineer (Mobile)](https://www.linkedin.com/jobs/view/4439409698/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineering (Azure and Integration)](https://uk.indeed.com/viewjob?jk=f2e8be28e6f8e782) — Backend · Windsor, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineer (Mobile)](https://uk.indeed.com/viewjob?jk=f0d888a946ee972f) — Backend · Windsor, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineering (Azure and Integration)](https://www.linkedin.com/jobs/view/4439417532/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [AI Software Engineer](https://www.linkedin.com/jobs/view/4437911441/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer (React Native)](https://www.linkedin.com/jobs/view/4437056541/) — Backend · Windsor, England, United Kingdom · 🛂 visa sponsor
 
-> …and **1,221 more companies** — see [`jobs.json`](jobs.json) or [browse the full list live](https://jobs.winterchill.xyz/?city=other).
+### [Connells Group](https://jobs.winterchill.xyz/?employer=Connells%20Group) (7)
+
+- [Group BI & Reporting Lead](https://uk.indeed.com/viewjob?jk=97ae615466cf2cba) — Milton Keynes, United Kingdom · hybrid
+- [Group Data & AI Governance Lead](https://uk.indeed.com/viewjob?jk=ed19019261dbca0c) — Data Engineering · Milton Keynes, United Kingdom
+- [Contract Data Engineer](https://uk.indeed.com/viewjob?jk=a64206375d19aab1) — Data Engineering · Milton Keynes, United Kingdom · hybrid
+- [Data Architect](https://uk.indeed.com/viewjob?jk=a698def08932653d) — Data Engineering · Milton Keynes, United Kingdom · hybrid
+- [Data Engineer](https://uk.indeed.com/viewjob?jk=4887daaf8d2247f0) — Data Engineering · Milton Keynes, United Kingdom · hybrid
+- [Contract Data Platform Engineer](https://uk.indeed.com/viewjob?jk=ea17dd2426c97bff) — Milton Keynes, United Kingdom
+- [Full Stack Software Engineer](https://uk.indeed.com/viewjob?jk=ce78c816d41e42c4) — Backend · Milton Keynes, United Kingdom · hybrid
+
+### [CrowdStrike](https://jobs.winterchill.xyz/?employer=CrowdStrike) (7)
+
+- [Sr. Data Scientist - GenAI (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Data-Scientist-II--GenAI--Remote--ROU-_R28331) — Backend · United Kingdom - Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Technical Operations Engineer (Remote, GBR)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Technical-Operations-Engineer--Remote--GBR-_R27373) — DevOps / SRE · United Kingdom - Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Corporate Sales Engineer (Remote, GBR)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Corporate-Sales-Engineer--Remote--GBR-_R28642) — Solutions / Customer Engineering · United Kingdom - Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Corporate Sales Engineer, Benelux (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Corporate-Sales-Engineer--Benelux--Remote--GBR-_R28644) — Solutions / Customer Engineering · United Kingdom - Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Automation Engineer II, Falcon Complete (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Automation-Engineer-II--Falcon-Complete--Remote-_R28541) — Backend · United Kingdom - Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Sr. Engineer, iAuto (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Engineer--iAuto--Remote-_R29039) — Backend · United Kingdom - Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Corporate Sales Engineer, Nordics](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Corporate-Sales-Engineer--Remote-_R27788) — Solutions / Customer Engineering · United Kingdom - Remote, United Kingdom · remote · 🛂 visa sponsor
+
+### [easyJet](https://jobs.winterchill.xyz/?employer=easyJet) (7)
+
+- [Platform Chapter Lead](https://uk.indeed.com/viewjob?jk=e53c2b270e82f779) — DevOps / SRE · Luton Airport, United Kingdom
+- [Product Adoption Lead](https://uk.indeed.com/viewjob?jk=b7dcff151143095c) — Luton Airport, United Kingdom · hybrid
+- [Data Analytics Engineer](https://uk.indeed.com/viewjob?jk=63fb2204be7c4033) — Data Engineering · Luton Airport, United Kingdom · hybrid
+- [Data Scientist Senior Manager](https://uk.indeed.com/viewjob?jk=273052cdeeef7506) — Luton Airport, United Kingdom · hybrid
+- [Technical Specialist – Baggage Operations](https://uk.indeed.com/viewjob?jk=826a4ff27b270bd9) — Luton Airport, United Kingdom · hybrid
+- [Lead Data Engineer](https://www.linkedin.com/jobs/view/4439301445/) — Data Engineering · Luton, England, United Kingdom · hybrid
+- [Tech Lead - Optimisation Engineering](https://www.linkedin.com/jobs/view/4404839068/) — Backend · Luton, England, United Kingdom · hybrid
+
+### [GitHub](https://jobs.winterchill.xyz/?employer=GitHub) (7)
+
+- [Senior Software Engineer](https://www.github.careers/careers-home/jobs/5584) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Solutions Engineer](https://www.github.careers/careers-home/jobs/5152) — Developer Experience · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Engineering Manager](https://www.github.careers/careers-home/jobs/5159) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Staff Software Engineer, Code Search](https://www.github.careers/careers-home/jobs/5380) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Principal Software Engineering Manager](https://www.github.careers/careers-home/jobs/5389) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Staff Software Engineer, Traffic Team](https://www.github.careers/careers-home/jobs/5367) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Staff Software Engineer, Git Storage](https://www.github.careers/careers-home/jobs/5458) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [Grafana Labs](https://jobs.winterchill.xyz/?employer=Grafana%20Labs) (7)
+
+- [Staff Software Engineer - Databases, Tempo \| United Kingdom \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6112830004) — Backend · £103,958–£124,750/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+- [Staff Backend Engineer - Alerting \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6105876004) — Backend · £103,958–£124,750/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+- [Staff Software Engineer - Databases SRE \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6101637004) — Backend · £103,958–£124,750/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+- [Staff AI Engineer - 2nd Horizon \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6117339004) — Backend · £100,000–£124,000/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+- [Staff Software Engineer – Identity and Access, Identity Squads \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6105600004) — Backend · £100,000–£124,000/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+- [Senior Software Engineer - Grafana Cloud Observability Provider \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/6101597004) — Backend · £91,755–£110,106/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+- [Senior Software Engineer - Grafana Databases, Managed Services \| UK \| Remote](https://job-boards.greenhouse.io/grafanalabs/jobs/5989631004) — Backend · £91,755–£110,106/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+
+### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (7)
+
+- [Lead Software Engineer - Full Stack C#/.Net / React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210763921) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer - JavaScript](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210765532) — Backend · BOURNEMOUTH, DORSET, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Software Engineer - Cloud/Java-Python/AI-ML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210759503) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
+- [Principal Software Engineer - Executive Director](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210737007) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
+- [Director of Software Engineering - Executive Director](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210714433) — Backend · United Kingdom · 🛂 visa sponsor
+- [Applied AI ML Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210740354) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
+- [Data Engineer II - Adabas](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210760111) — Data Engineering · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
+
+### [Menlo Security](https://jobs.winterchill.xyz/?employer=Menlo%20Security) (7)
+
+- [Senior Engineer I(UK region)](https://jobs.ashbyhq.com/menlosecurity/f6e658d0-1388-463b-8109-2716a64335a3) — Backend · EMEA - UK · remote · 🛂 visa sponsor
+- [Principal Platform Infrastructure Engineer (SRE Enablement)](https://jobs.ashbyhq.com/menlosecurity/e41e7613-f4a0-40f6-8aea-f895af9f021f) — DevOps / SRE · EMEA - Distributed (UK) · 🛂 visa sponsor
+- [Senior Software Engineer I(UK region)](https://jobs.ashbyhq.com/menlosecurity/97d9ba33-d740-4a14-8d1b-6e20fb06f7f0) — Backend · EMEA - UK · remote · 🛂 visa sponsor
+- [Platform Infrastructure Engineer (SRE Core)](https://jobs.ashbyhq.com/menlosecurity/632abdc5-6cae-406b-b3ae-623d2575b8fb) — DevOps / SRE · EMEA - Distributed (UK) · 🛂 visa sponsor
+- [Senior Security Engineer(UK region)](https://jobs.ashbyhq.com/menlosecurity/4e016b77-4704-47ac-af85-1100d7037117) — DevOps / SRE · EMEA - UK · hybrid · 🛂 visa sponsor
+- [Senior Engineer I](https://jobs.ashbyhq.com/menlosecurity/3b3a8777-b124-41d5-98b5-fb8bb2221915) — Backend · EMEA - UK · remote · 🛂 visa sponsor
+- [Principal Engineer I](https://jobs.ashbyhq.com/menlosecurity/2183a0cd-3cc5-45f8-bedd-db3ef65fe6d5) — Backend · EMEA - Distributed (UK) · 🛂 visa sponsor
+
+### [Nationwide Building Society](https://jobs.winterchill.xyz/?employer=Nationwide%20Building%20Society) (7)
+
+- [Lakehouse deployments Engineer E3](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3798) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
+- [Red Hat Linux Infrastructure Engineer - E2](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3820) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
+- [Engineer - E1](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3809) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Finance Analyst - SAS Developer](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3427) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Data Engineer - E2](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3790) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
+- [Power Platform Lead Engineer - E3](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3862) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
+- [Technical SAP Engineer](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2886) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [NVIDIA](https://jobs.winterchill.xyz/?employer=NVIDIA) (7)
+
+- [Senior Quantum Algorithm Researcher](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Quantum-Algorithm-Researcher_JR2012666-1) — ML / AI Engineering · UK, Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Developer Relations Manager - Artificial Intelligence](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Developer-Relations-Manager---Artificial-Intelligence_JR2007878) — Developer Relations / Technical Content · UK, Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Deep Learning Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Deep-Learning-Engineer_JR2013341) — Backend · UK, Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Developer Relations Manager – Financial Services](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Developer-Relations-Manager---Capital-Markets_JR2016616-1) — Developer Relations / Technical Content · UK, Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Developer Relations Manager, Physical AI Metropolis](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Developer-Relations-Manager--Physical-AI-Metropolis_JR2017823) — Developer Relations / Technical Content · UK, Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Quantum Systems Engineer - Quantum Computing](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Quantum-Systems-Engineer---Quantum-Computing_JR2019153) — Embedded / Robotics · UK, Remote, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Developer Relations Manager, ISV](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Developer-Relations-Manager---ISV_JR2007929-1) — Developer Relations / Technical Content · UK, Remote, United Kingdom · remote · 🛂 visa sponsor
+
+### [Paddle](https://jobs.winterchill.xyz/?employer=Paddle) (7)
+
+- [Engineering Manager (Platform - Application Excellence)](https://jobs.ashbyhq.com/paddle/f0a9f480-26c1-489c-bb26-310ca8c7dabb) — Backend · UK · 🛂 visa sponsor
+- [Senior Analytics Engineer - Marketing](https://jobs.ashbyhq.com/paddle/e0aaf687-4dd6-44b5-ad05-891df9a51e4b) — Data Engineering · UK · 🛂 visa sponsor
+- [Site Reliability Engineer](https://jobs.ashbyhq.com/paddle/39358ffd-7b34-4336-8e49-54ac703e0323) — Backend · UK · 🛂 visa sponsor
+- [Head of Analytics Engineering](https://jobs.ashbyhq.com/paddle/972ec054-8bad-4b84-bb97-9c4198391db0) — Data Engineering · UK · 🛂 visa sponsor
+- [Senior Frontend Engineer](https://jobs.ashbyhq.com/paddle/18a95452-e913-4d55-af72-8700eb640b93) — Backend · UK · 🛂 visa sponsor
+- [Software Engineer - Go](https://jobs.ashbyhq.com/paddle/de7ac3e5-16db-4a59-989d-5e7840b019b6) — Backend · UK · 🛂 visa sponsor
+- [Senior Software Engineer - Go](https://jobs.ashbyhq.com/paddle/461578a0-a996-4468-a2dc-5055fa08503e) — Backend · UK · 🛂 visa sponsor
+
+### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (7)
+
+- [Senior Online Developer (JavaScript)](https://apply.workable.com/j/CC6520005F/apply) — Backend · Warwick, United Kingdom · hybrid · 🛂 visa sponsor
+- [Animation Programmer (C++)](https://apply.workable.com/j/B57FD23C09/apply) — Embedded / Robotics · Warwick, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Animation Programmer](https://apply.workable.com/j/D58E53C5D9/apply) — Embedded / Robotics · Warwick, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Engine Programmer](https://apply.workable.com/j/9F297EAFAD/apply) — Embedded / Robotics · Warwick, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Game Security Engineer](https://apply.workable.com/j/98FDF5BB20/apply) — Embedded / Robotics · Runcorn, United Kingdom · hybrid · 🛂 visa sponsor
+- [Experienced/Senior Online Developer - Tech Team](https://apply.workable.com/j/A109731EA7/apply) — Backend · Warwick, United Kingdom · hybrid · 🛂 visa sponsor
+- [Experienced/Senior Gameplay Programmer](https://apply.workable.com/j/61FF9282A8/apply) — Embedded / Robotics · Warwick, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (7)
+
+- [Senior Cheat Software Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7804421003) — Developer Experience · Dundee, Scotland, United Kingdom · 🛂 visa sponsor
+- [UI Tools Programmer](https://job-boards.greenhouse.io/rockstargames/jobs/6502182003) — Backend · Dundee, Scotland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734376003) — Backend · Dundee, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Web Developer - Tools](https://job-boards.greenhouse.io/rockstargames/jobs/7741310003) — Backend · Dundee, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Network Programmer](https://job-boards.greenhouse.io/rockstargames/jobs/6593343003) — Developer Experience · Dundee, Scotland, United Kingdom · 🛂 visa sponsor
+- [Game Systems Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7631284003) — Backend · Dundee, Scotland, United Kingdom · 🛂 visa sponsor
+- [Application Security Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7644897003) — Developer Experience · Dundee, Scotland, United Kingdom · 🛂 visa sponsor
+
+### [Twilio](https://jobs.winterchill.xyz/?employer=Twilio) (7)
+
+- [Senior Engineering Manager V&V Media](https://job-boards.greenhouse.io/twilio/jobs/8067147) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Security Engineer, Incident Response](https://job-boards.greenhouse.io/twilio/jobs/8055481) — DevOps / SRE · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Staff Enterprise Security Engineer, AI Security](https://job-boards.greenhouse.io/twilio/jobs/7904291) — DevOps / SRE · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Senior Manager, Presales Engineering](https://job-boards.greenhouse.io/twilio/jobs/7988973) — Solutions / Customer Engineering · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Principal Presales Engineer (German Speaking)](https://job-boards.greenhouse.io/twilio/jobs/8000178) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Principal Presales Engineer](https://job-boards.greenhouse.io/twilio/jobs/7894914) — Full Stack · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Frontend Software Engineer](https://job-boards.greenhouse.io/twilio/jobs/7946608) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+
+### [Brighton & Hove City Council](https://jobs.winterchill.xyz/?employer=Brighton%20%26%20Hove%20City%20Council) (6)
+
+- [Asset Disposal Programme Manager](https://uk.indeed.com/viewjob?jk=cc0fde7bd3c1593c) — £57,755–£63,123/yr · Hove, United Kingdom · 🛂 visa sponsor
+- [Senior Estates Surveyor Disposals](https://uk.indeed.com/viewjob?jk=0cacbad6e6deb4c4) — £48,226–£51,356/yr · Hove, United Kingdom · 🛂 visa sponsor
+- [Asset Disposal Project Manager](https://uk.indeed.com/viewjob?jk=097d521841c527e6) — £44,075–£47,181/yr · Hove, United Kingdom · 🛂 visa sponsor
+- [Digital Developer](https://uk.indeed.com/viewjob?jk=b0fef0c22329edfc) — Backend · £34,434–£39,152/yr · Hove, United Kingdom · remote · 🛂 visa sponsor
+- [Housing Solutions Officer](https://uk.indeed.com/viewjob?jk=0dc48477a1ff626b) — Backend · £32,061–£33,699/yr · Hove, United Kingdom · hybrid · 🛂 visa sponsor
+- [Housing Estates Response Technician](https://uk.indeed.com/viewjob?jk=59fc92c14211d338) — £28,142–£28,598/yr · Brighton, United Kingdom · 🛂 visa sponsor
+
+### [Hill's Pet Nutrition](https://jobs.winterchill.xyz/?employer=Hill%27s%20Pet%20Nutrition) (6)
+
+- [Commercial Capab. & Excellence Sr Mgr](https://uk.indeed.com/viewjob?jk=bf25a36c3e19fe25) — £59,400–£66,000/yr · United Kingdom · hybrid · 🛂 visa sponsor
+- [Manager, CDM PurePlay](https://uk.indeed.com/viewjob?jk=b7930b868c8e1421) — £59,400–£66,000/yr · United Kingdom · hybrid · 🛂 visa sponsor
+- [ODG Digital Engagement Manager](https://uk.indeed.com/viewjob?jk=c08eb3d1d8d46d69) — Solutions / Customer Engineering · £53,100–£59,000/yr · United Kingdom · 🛂 visa sponsor
+- [eMerchandiser Pure Play](https://uk.indeed.com/viewjob?jk=211d40ef7d64dd8e) — £53,100–£59,000/yr · United Kingdom · hybrid · 🛂 visa sponsor
+- [Retail Media Manager](https://uk.indeed.com/viewjob?jk=e08c1599452772b1) — £53,100–£59,000/yr · United Kingdom · hybrid · 🛂 visa sponsor
+- [ODG Marketing Analyst](https://uk.indeed.com/viewjob?jk=58b9bcbd9801ae0d) — Data Engineering · £40,050–£44,500/yr · United Kingdom · 🛂 visa sponsor
+
+### [Hire Feed](https://jobs.winterchill.xyz/?employer=Hire%20Feed) (6)
+
+- [Machine Learning (AI) Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4441940138/) — Backend · $200,000–$500,000/yr · United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Frontend Software Engineer (Typescript)  (Remote)](https://www.linkedin.com/jobs/view/4441931419/) — Backend · $30–$90/hr · United Kingdom · remote · 🛂 visa sponsor
+- [Java Developer - AI/ML (Remote)](https://www.linkedin.com/jobs/view/4441941161/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Full-Stack Developer (Remote)](https://www.linkedin.com/jobs/view/4441935436/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Engineering Manager (Remote)](https://www.linkedin.com/jobs/view/4441927614/) — United Kingdom · remote · 🛂 visa sponsor
+- [STEM Researcher (Remote)](https://www.linkedin.com/jobs/view/4441929555/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (6)
+
+- [Software Engineer Apprentice](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Grosvernor-House/Software-Engineer-Apprentice_R115941-2) — Backend · Grosvernor House, United Kingdom · 🛂 visa sponsor
+- [Apprentice Software Engineer](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1) — Backend · UK - Grosvenor House (Southampton), United Kingdom · 🛂 visa sponsor
+- [Director Software Engineering](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Grosvenor-House-Southampton/Director-Software-Engineering_R113445-1) — UK - Grosvenor House (Southampton), United Kingdom · 🛂 visa sponsor
+- [Senior Data Engineer- Customer Data Platform](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Sutton-Carshalton/Technical-Consultant--Oracle-Unity-CDP_R111894) — Data Engineering · UK - Sutton (Carshalton), United Kingdom · 🛂 visa sponsor
+- [Software Engineering Lead](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Grosvenor-House-Southampton/Software-Engineering-Lead_R112664-2) — Backend · UK - Grosvenor House (Southampton), United Kingdom · 🛂 visa sponsor
+- [Software Engineer III](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Grosvenor-House-Southampton/Software-Engineer-III_R113023-1) — Backend · UK - Grosvenor House (Southampton), United Kingdom · 🛂 visa sponsor
+
+### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (6)
+
+- [Consumer Electronics Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000138275629) — Melbourn, United Kingdom · 🛂 visa sponsor
+- [Lead Hardware Design Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000138275720) — Melbourn, United Kingdom · 🛂 visa sponsor
+- [Embedded Software Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000138275809) — Backend · Melbourn, United Kingdom · 🛂 visa sponsor
+- [Software Engineer - C++/Rust](https://jobs.smartrecruiters.com/PAConsulting/744000121403047) — Backend · Melbourn, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead RF Design Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000130221449) — Melbourn, United Kingdom · 🛂 visa sponsor
+- [Solution Architect (Technical Pre-Sales and Field Applications Engineer)](https://jobs.smartrecruiters.com/PAConsulting/744000131683399) — Melbourn, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Primer](https://jobs.winterchill.xyz/?employer=Primer) (6)
+
+- [Staff Engineer, FE - Account Experience](https://jobs.ashbyhq.com/primer.io/f0962ddd-df6b-45de-bd4e-839809eebe2b) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Senior DevEx Engineer - Infrastructure](https://jobs.ashbyhq.com/primer.io/fff14e2f-8335-461e-8b09-532a5371b579) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Director of Engineering](https://jobs.ashbyhq.com/primer.io/d866ee36-8073-4bef-ab6e-b5f8d71abb41) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Engineering Manager - Account Experience](https://jobs.ashbyhq.com/primer.io/5a1ecb51-8f81-4562-92ac-582e2fc70ed8) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Engineering Manager - Orchestration](https://jobs.ashbyhq.com/primer.io/a02e475c-29d7-4ca6-bd6d-8ce828d4cfb4) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Associate Solutions Engineer](https://jobs.ashbyhq.com/primer.io/fa6a464b-5d17-4f14-b5eb-7ee1b4b87f3e) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (6)
+
+- [Frontend Engineer - Engine by Starling](https://apply.workable.com/j/2285872A2C/apply) — Backend · £59,500–£85,000/yr (est.) · Southampton, United Kingdom · hybrid · 🛂 visa sponsor
+- [Information Security Engineer - Vulnerability Management](https://apply.workable.com/j/CE9458EF8A/apply) — Data Engineering · Southampton, United Kingdom · hybrid · 🛂 visa sponsor
+- [Staff Software Engineer - Engine by Starling](https://apply.workable.com/j/73802C665F/apply) — Backend · Southampton, United Kingdom · hybrid · 🛂 visa sponsor
+- [Staff Software Engineer (Team Lead) - Engine by Starling](https://apply.workable.com/j/4256CD9067/apply) — Backend · Southampton, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer (ML Projects)](https://apply.workable.com/j/5D5584B013/apply) — Backend · Southampton, United Kingdom · hybrid · 🛂 visa sponsor
+- [Database Reliability Engineer](https://apply.workable.com/j/CCC0F3F287/apply) — Backend · Southampton, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Allianz](https://jobs.winterchill.xyz/?employer=Allianz) (5)
+
+- [Workspace Operations Officer](https://uk.indeed.com/viewjob?jk=a80aaef2f6b9858c) — £60,000/yr · Guildford, United Kingdom · hybrid
+- [Digital Content Specialist](https://uk.indeed.com/viewjob?jk=fef623a4301b3012) — £35,000–£40,000/yr · Guildford, United Kingdom · hybrid
+- [Senior Pricing Analyst](https://uk.indeed.com/viewjob?jk=1ed030f3e87b6a5e) — Guildford, United Kingdom · hybrid
+- [Head of Brand](https://uk.indeed.com/viewjob?jk=4b60e9025b79874e) — Guildford, United Kingdom · hybrid
+- [Lead Data Scientist](https://www.linkedin.com/jobs/view/4436710863/) — Data Engineering · Guildford, England, United Kingdom
+
+### [Bupa](https://jobs.winterchill.xyz/?employer=Bupa) (5)
+
+- [Workday Integration Engineer](https://bupa.wd3.myworkdayjobs.com/ext_career/job/Salford-Quays/Workday-Integration-Engineer_R1223936) — £60,000/yr · Salford Quays, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Data Platform Engineer](https://bupa.wd3.myworkdayjobs.com/ext_career/job/Staines/Senior-Data-Platform-Engineer_R1208829) — Data Engineering · Staines, United Kingdom · hybrid · 🛂 visa sponsor
+- [IAM Lead Engineer](https://bupa.wd3.myworkdayjobs.com/ext_career/job/Staines/IAM-Lead-Engineer_R1215795) — Staines, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Data Platform Engineer - Snowflake](https://bupa.wd3.myworkdayjobs.com/ext_career/job/Staines/Senior-Data-Platform-Engineer---Snowflake_R1189203) — Data Engineering · Staines, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Platform Engineer](https://bupa.wd3.myworkdayjobs.com/ext_career/job/Staines/Data-Platform-Engineer_R1221458) — Data Engineering · Staines, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Climax Studios](https://jobs.winterchill.xyz/?employer=Climax%20Studios) (5)
+
+- [Software Engineer - Backend Services - MPG - Fully remote from the UK or](https://apply.workable.com/j/F677984CC8/apply) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Rendering Engineer - MPG - Fully remote from the UK or the EU](https://apply.workable.com/j/62E00B7CE4/apply) — Game Engineering · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Backend Engineer - MPG - Fully remote from the UK or the EU](https://apply.workable.com/j/A03E9A31FE/apply) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Principal Rendering Engineer - MPG - Fully remote from the UK or the EU](https://apply.workable.com/j/45E83EE087/apply) — Game Engineering · United Kingdom · remote · 🛂 visa sponsor
+- [Principal Backend Engineer - MPG - Fully remote from the UK or the EU](https://apply.workable.com/j/F9D290E94D/apply) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (5)
+
+- [Engineering Director](https://www.linkedin.com/jobs/view/4429616718/) — £120,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Graduate Programme 2027: Software Engineer (Java)](https://www.linkedin.com/jobs/view/4427244974/) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
+- [Platform Engineering Manager](https://www.linkedin.com/jobs/view/4441317150/) — DevOps / SRE · Wallingford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Internship Programme 2027: Software Engineer (Java)](https://www.linkedin.com/jobs/view/4429227768/) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
+- [Front end developer](https://www.linkedin.com/jobs/view/4371573316/) — Backend · United Kingdom · 🛂 visa sponsor
+
+### [Jobgether](https://jobs.winterchill.xyz/?employer=Jobgether) (5)
+
+- [Head of AI](https://www.linkedin.com/jobs/view/4438923673/) — Backend · £180,000–£250,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Hands-on CTO — AI-First Engineering](https://www.linkedin.com/jobs/view/4439806439/) — Backend · $10,000–$15,000/mo · United Kingdom · remote · 🛂 visa sponsor
+- [Frontend Engineer](https://www.linkedin.com/jobs/view/4440620840/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Frontend Engineer (React)](https://www.linkedin.com/jobs/view/4439993744/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Engineering Manager (Data Direction)](https://www.linkedin.com/jobs/view/4437052486/) — Data Engineering · United Kingdom · remote · 🛂 visa sponsor
+
+### [National Health Service](https://jobs.winterchill.xyz/?employer=National%20Health%20Service) (5)
+
+- [Clinical Scientist](https://www.glassdoor.co.uk/job-listing/clinical-scientist-nhs-JV_IC5023257_KO0,18_KE19,22.htm?jl=1010198980986) — £55,524–£62,652/yr · Sutton Surrey
+- [Biomedical Scientist](https://www.glassdoor.co.uk/job-listing/biomedical-scientist-nhs-JV_IC5023257_KO0,20_KE21,24.htm?jl=1010199753450) — £45,953–£54,254/yr · Sutton Surrey
+- [Assistant Ophthalmic Vision Science Practitioner - Stratford](https://www.glassdoor.co.uk/job-listing/assistant-ophthalmic-vision-science-practitioner-stratford-nhs-JV_IC3319863_KO0,58_KE59,62.htm?jl=1010203258965) — £31,554–£33,270/yr · Stratford-upon-Avon, England
+- [Band 3 - Dispensary Pharmacy Assistant, Pharmacy](https://www.glassdoor.co.uk/job-listing/band-3-dispensary-pharmacy-assistant-pharmacy-nhs-JV_IC2670717_KO0,45_KE46,49.htm?jl=1010202364879) — £27,106–£28,850/yr · Watford, East of England, England
+- [Senior Paediatric Audiologist](https://www.glassdoor.co.uk/job-listing/senior-paediatric-audiologist-nhs-JV_IC3527308_KO0,29_KE30,33.htm?jl=1010198980482) — Tottenham, England
+
+### [Sophos](https://jobs.winterchill.xyz/?employer=Sophos) (5)
+
+- [Senior Threat Researcher (UK)](https://jobs.lever.co/sophos/57e9436a-3d75-4801-a634-838efdbb7019) — DevOps / SRE · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Threat Behavior Researcher (UK)](https://jobs.lever.co/sophos/ef8d9554-2606-4752-b052-49742851692d) — DevOps / SRE · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Sales Engineer - New Logo/Enterprise](https://jobs.lever.co/sophos/25b87cda-37ef-49cb-b099-a56e90f063e1) — DevOps / SRE · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Identity Engineer](https://jobs.lever.co/sophos/e58db459-4b8b-4771-9374-6e29f584d12d) — DevOps / SRE · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Director, Engineering- X-Ops Platform](https://jobs.lever.co/sophos/805c6374-bef0-486d-8a77-814284ab5127) — DevOps / SRE · United Kingdom · remote · 🛂 visa sponsor
+
+### [Tesco](https://jobs.winterchill.xyz/?employer=Tesco) (5)
+
+- [Product Developer - Food](https://uk.indeed.com/viewjob?jk=ccc796f189d49080) — £25,600–£35,963/yr (est.) · Welwyn Garden City, United Kingdom
+- [Technical Programme Manager – Live Incident Response](https://uk.indeed.com/viewjob?jk=899aea30e290aed8) — Welwyn Garden City, United Kingdom
+- [Data Analytics Manager](https://www.linkedin.com/jobs/view/4439432192/) — Data Engineering · Welwyn Garden City, England, United Kingdom · hybrid
+- [Software Development Manager - Customer API](https://www.linkedin.com/jobs/view/4437985289/) — Backend · Welwyn Garden City, England, United Kingdom
+- [Data Scientist](https://www.linkedin.com/jobs/view/4437048528/) — Backend · Welwyn Garden City, England, United Kingdom · hybrid
+
+### [BAE Systems](https://jobs.winterchill.xyz/?employer=BAE%20Systems) (4)
+
+- [Data Analyst – Parametric Estimator](https://uk.indeed.com/viewjob?jk=a9d47cf207d621c6) — Data Engineering · £40,000/yr · Rochester, United Kingdom · 🛂 visa sponsor
+- [Mission Operations Engineer](https://uk.indeed.com/viewjob?jk=db62865a0696098c) — Alton, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Technologist Artificial Intelligence R&D](https://www.linkedin.com/jobs/view/4216583945/) — Backend · Chelmsford, England, United Kingdom · 🛂 visa sponsor
+- [Test & Engineering Manager](https://www.linkedin.com/jobs/view/4431771058/) — Engineering Management · Surrey, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Bank of America](https://jobs.winterchill.xyz/?employer=Bank%20of%20America) (4)
+
+- [Senior Quantitative Engineer](https://uk.indeed.com/viewjob?jk=caadc5f3b1eb50a6) — Backend · Bromley, United Kingdom
+- [Senior Delivery Lead](https://www.linkedin.com/jobs/view/4437821901/) — Bromley, England, United Kingdom
+- [Senior Delivery Lead - Technology](https://www.linkedin.com/jobs/view/4437822583/) — Bromley, England, United Kingdom
+- [Software Engineer III - UI Development Team](https://www.linkedin.com/jobs/view/4410988992/) — Backend · Bromley, England, United Kingdom
+
+### [bp](https://jobs.winterchill.xyz/?employer=bp) (4)
+
+- [Staff Machine Learing Engineer](https://uk.indeed.com/viewjob?jk=88e0fb1dcb1c8e6c) — Backend · Sunbury, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Machine Learning Engineer](https://uk.indeed.com/viewjob?jk=ae19eb68e20c80bc) — Backend · Sunbury, United Kingdom · hybrid · 🛂 visa sponsor
+- [Dev Ops Lead – Virtual Assistant and Automation](https://www.linkedin.com/jobs/view/4437631878/) — DevOps / SRE · Sunbury-On-Thames, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Dev Ops Lead – Virtual Assistant and Automation](https://uk.indeed.com/viewjob?jk=7078d1e94209c1b3) — DevOps / SRE · Sunbury, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Capital One](https://jobs.winterchill.xyz/?employer=Capital%20One) (4)
+
+- [Lead Data Platform Engineer - DataOps](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Lead-Site-Reliability-Engineer---DataOps_R232017-1) — Data Engineering · Nottingham,  Eng, United Kingdom · hybrid · 🛂 visa sponsor
+- [Network Engineer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Network-Engineer_R246747) — Nottingham,  Eng, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data and AI Developer](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Data-and-AI-Developer_R244185-1) — Nottingham,  Eng, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Development Engineer - Amazon Connect](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Senior-Software-Development-Engineer---Amazon-Connect_R246731-1) — Backend · Nottingham,  Eng, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Compare the Market](https://jobs.winterchill.xyz/?employer=Compare%20the%20Market) (4)
+
+- [Software Development Engineer in Test Apprentice](https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/100326) — Backend · £74,000–£84,000/yr (est.) · Peterborough, Cambridgeshire, United Kingdom · 🛂 visa sponsor
+- [SDET -  Software Development Engineer in Test](https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/100319) — Backend · Peterborough, Cambridgeshire, United Kingdom · hybrid · 🛂 visa sponsor
+- [Engineering Manager](https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/100321) — Backend · Peterborough, Cambridgeshire, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Salesforce Engineer](https://ebet.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/100238) — Peterborough, Cambridgeshire, United Kingdom · 🛂 visa sponsor
+
+### [Datadog](https://jobs.winterchill.xyz/?employer=Datadog) (4)
+
+- [Senior Software Engineer - REDAPL Graph Engine](https://careers.datadoghq.com/detail/7959966/?gh_jid=7959966) — Backend · France, Remote; Germany, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote; United Kingdom, Remote · remote · 🛂 visa sponsor
+- [Senior Sales Engineer - Majors (UK/Nordics/Netherlands)](https://careers.datadoghq.com/detail/7904634/?gh_jid=7904634) — Solutions / Customer Engineering · Denmark, Remote; Sweden, Remote; The Netherlands, Remote; United Kingdom, Remote · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer - Linux/eBPF](https://careers.datadoghq.com/detail/7957460/?gh_jid=7957460) — Backend · Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; United Kingdom, Remote · remote · 🛂 visa sponsor
+- [Enterprise Sales Engineer - UK](https://careers.datadoghq.com/detail/7487353/?gh_jid=7487353) — Solutions / Customer Engineering · United Kingdom, Remote · remote · 🛂 visa sponsor
+
+### [Dex](https://jobs.winterchill.xyz/?employer=Dex) (4)
+
+- [Senior Engineering Manager (up to £250k)](https://www.linkedin.com/jobs/view/4440383768/) — Backend · Up to £250,000/yr · United Kingdom · 🛂 visa sponsor
+- [Principal Software Engineer (up to £200k)](https://www.linkedin.com/jobs/view/4439788098/) — Backend · Up to £200,000/yr · United Kingdom · 🛂 visa sponsor
+- [Staff Software Engineer, AI (up to £200k)](https://www.linkedin.com/jobs/view/4440897650/) — Backend · Up to £200,000/yr · United Kingdom · 🛂 visa sponsor
+- [Engineering Manager (up to £150k)](https://www.linkedin.com/jobs/view/4439517585/) — Backend · Up to £150,000/yr · United Kingdom · 🛂 visa sponsor
+
+### [Dotmatics](https://jobs.winterchill.xyz/?employer=Dotmatics) (4)
+
+- [Senior Full Stack Engineer \| GraphPad](https://www.dotmatics.com/jobs/apply?gh_jid=4706789005) — Backend · £67,628–£91,496/yr · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Senior Scientific Support Engineer](https://www.dotmatics.com/jobs/apply?gh_jid=4700654005) — Solutions / Customer Engineering · £48,187–£69,270/yr · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Performance Test Engineer](https://www.dotmatics.com/jobs/apply?gh_jid=4684763005) — DevOps / SRE · £50,462–£68,273/yr · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Staff Engineer - Graphpad](https://www.dotmatics.com/jobs/apply?gh_jid=4690294005) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+
+### [Imperial College London](https://jobs.winterchill.xyz/?employer=Imperial%20College%20London) (4)
+
+- [Hong Kong Jockey Club Chair in Health Emergencies](https://uk.indeed.com/viewjob?jk=b10b48c140ae85f8) — ML / AI Engineering · £94,829/yr · White City, United Kingdom
+- [Research Associate](https://uk.indeed.com/viewjob?jk=f8db1f8b543dc982) — ML / AI Engineering · £49,017–£57,472/yr · White City, United Kingdom
+- [Clinical Data Programmer](https://uk.indeed.com/viewjob?jk=76e9a76711d17ad5) — £46,614–£56,345/yr · White City, United Kingdom · hybrid
+- [Staff Hub Administrator](https://uk.indeed.com/viewjob?jk=78bcf7dd852a401c) — £37,108–£40,166/yr · White City, United Kingdom · hybrid
+
+### [Kingston University](https://jobs.winterchill.xyz/?employer=Kingston%20University) (4)
+
+- [Senior Server and Storage Specialist - Fixed term contract](https://uk.indeed.com/viewjob?jk=7c23c0c2922f8761) — £50,160–£59,306/yr · Kingston upon Thames, United Kingdom · 🛂 visa sponsor
+- [Senior Server and Storage Specialist - Permanent](https://uk.indeed.com/viewjob?jk=d7aa647d88c45d31) — £50,160–£59,306/yr · Kingston upon Thames, United Kingdom · 🛂 visa sponsor
+- [Lecturer in Foundation Fashion - Part Time](https://uk.indeed.com/viewjob?jk=4e7753d39d1adf3b) — £45,025–£48,820/yr · Kingston upon Thames, United Kingdom · 🛂 visa sponsor
+- [Lecturer in Foundation Fashion (Pathway Leader) - Part Time](https://uk.indeed.com/viewjob?jk=e29dec980eda3a23) — £45,025–£48,820/yr · Kingston upon Thames, United Kingdom · 🛂 visa sponsor
+
+### [Lighthouse Games](https://jobs.winterchill.xyz/?employer=Lighthouse%20Games) (4)
+
+- [Senior Rendering Engineer](https://apply.workable.com/j/4BED14CF76/apply) — Game Engineering · Royal Leamington Spa, United Kingdom · 🛂 visa sponsor
+- [Senior Gameplay Engineer](https://apply.workable.com/j/93E2AB0C40/apply) — Game Engineering · Royal Leamington Spa, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Build Engineer](https://apply.workable.com/j/D10725E81C/apply) — DevOps / SRE · Royal Leamington Spa, United Kingdom · 🛂 visa sponsor
+- [Gameplay Engineer](https://apply.workable.com/j/7573FDBA56/apply) — Game Engineering · Royal Leamington Spa, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [M Group](https://jobs.winterchill.xyz/?employer=M%20Group) (4)
+
+- [Desktop Supervisor](https://uk.indeed.com/viewjob?jk=f28c4c73dda72c97) — £30,000–£34,000/yr · Dartford, United Kingdom
+- [Utility Service Coordinator](https://uk.indeed.com/viewjob?jk=b19a5303f9903c18) — Dartford, United Kingdom · hybrid
+- [Supervisor](https://uk.indeed.com/viewjob?jk=d9379dff19c99f22) — Dartford, United Kingdom
+- [Specialist Engineer](https://uk.indeed.com/viewjob?jk=73f0ff86c3d6d311) — Stevenage, United Kingdom
+
+### [Microsoft](https://jobs.winterchill.xyz/?employer=Microsoft) (4)
+
+- [Principal Account Aligned FDE - Software Engineer](https://www.linkedin.com/jobs/view/4440560097/) — Backend · £161,800/yr · United Kingdom · 🛂 visa sponsor
+- [Member of Technical Staff - Privacy Engineer, Health](https://www.linkedin.com/jobs/view/4439065522/) — Backend · £161,800/yr · Enfield, England, United Kingdom · 🛂 visa sponsor
+- [Senior Data Engineer (contract)](https://www.linkedin.com/jobs/view/4427708831/) — Data Engineering · £280/day · Atherstone, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Engineer (contract)](https://www.linkedin.com/jobs/view/4427715136/) — Data Engineering · Up to £195/day · Atherstone, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Network Rail](https://jobs.winterchill.xyz/?employer=Network%20Rail) (4)
+
+- [Senior Asset Management Business Planner](https://uk.indeed.com/viewjob?jk=c02ccabf389db1e5) — £55,596–£67,813/yr · Blackfriars Station, United Kingdom · hybrid
+- [Graphic Designer](https://uk.indeed.com/viewjob?jk=4feac665b2468e27) — £35,582–£57,012/yr · Milton Keynes, United Kingdom · hybrid
+- [Assurance Analysis Specialist](https://uk.indeed.com/viewjob?jk=598279f8333f9268) — £35,582–£43,400/yr · Blackfriars Station, United Kingdom
+- [Team Organiser](https://uk.indeed.com/viewjob?jk=c63b3d1c25e805b1) — £25,409–£39,545/yr · Milton Keynes, United Kingdom
+
+### [Northrop Grumman](https://jobs.winterchill.xyz/?employer=Northrop%20Grumman) (4)
+
+- [Principal Software Engineer](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-Kingdom-Cheltenham/Principal-Software-Engineer_R10222022) — £80,200–£120,400/yr · United Kingdom-Cheltenham, United Kingdom · 🛂 visa sponsor
+- [Lead Cloud Solutions Engineer](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-Kingdom-Cheltenham/Lead-Cloud-Solutions-Engineer_R10233596-1) — DevOps / SRE · £68,000–£102,000/yr · United Kingdom-Cheltenham, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Software Engineer](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-Kingdom-Cheltenham/Lead-Software-Engineer_R10218254) — Backend · £63,300–£94,900/yr · United Kingdom-Cheltenham, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Support Engineer](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-Kingdom-Cheltenham/Senior-Support-Engineer_R10210042-13) — £42,000–£64,000/yr · United Kingdom-Cheltenham, United Kingdom · 🛂 visa sponsor
+
+### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (4)
+
+- [Engineering Manager](https://www.linkedin.com/jobs/view/4434871364/) — Backend · Up to £135,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Platform Manager](https://www.linkedin.com/jobs/view/4438087131/) — £100,000–£130,000/yr · Staines-Upon-Thames, England, United Kingdom · hybrid
+- [Senior Backend Engineer (Node/TS) - Fully Remote](https://www.linkedin.com/jobs/view/4435994306/) — Backend · £85,000–£90,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Software Engineer (Node.js)](https://www.linkedin.com/jobs/view/4434845849/) — Backend · Up to £90,000/yr · United Kingdom · remote · 🛂 visa sponsor
+
+### [Owkin](https://jobs.winterchill.xyz/?employer=Owkin) (4)
+
+- [Senior AI Scientist/Lead AI Scientist](https://jobs.ashbyhq.com/owkin/ca1a3d15-8e59-4a6d-8256-20a01c6ec715) — Backend · UK · 🛂 visa sponsor
+- [Senior Software Engineer (Platform)](https://jobs.ashbyhq.com/owkin/2ed52b8a-8786-4013-b018-52a732f6550b) — Backend · UK · 🛂 visa sponsor
+- [Forward Deployed Engineer](https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87) — Backend · UK · remote · 🛂 visa sponsor
+- [Senior Forward Deployed Engineer](https://jobs.ashbyhq.com/owkin/d2467bc5-6e95-4a4f-8164-061e0262ab19) — Backend · UK · remote · 🛂 visa sponsor
+
+### [Reddit](https://jobs.winterchill.xyz/?employer=Reddit) (4)
+
+- [Staff Site Reliability Engineer - Site Experience](https://job-boards.greenhouse.io/reddit/jobs/7956443) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Staff Machine Learning Engineer, ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8018527) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Senior Machine Learning Engineer, Ads Foundational Representations](https://job-boards.greenhouse.io/reddit/jobs/8018513) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+- [Machine Learning Systems Engineer, Ads ML Platform](https://job-boards.greenhouse.io/reddit/jobs/8022937) — Backend · Remote - United Kingdom · remote · 🛂 visa sponsor
+
+### [Reka](https://jobs.winterchill.xyz/?employer=Reka) (4)
+
+- [Member of Technical Staff (Data Intelligence)](https://jobs.ashbyhq.com/reka/32f1d782-9a49-4a2e-8842-ac90d002bc8d) — Backend · US, UK, Singapore, Remote · remote · 🛂 visa sponsor
+- [Member of Technical Staff (Applied AI)](https://jobs.ashbyhq.com/reka/e059e019-b7f1-4ccb-a53b-1db4f821621c) — Backend · US, UK, Remote · remote · 🛂 visa sponsor
+- [Member of Technical Staff (ML)](https://jobs.ashbyhq.com/reka/731e2ebc-2e66-458a-9962-0bc880016941) — Backend · US, UK, Remote · remote · 🛂 visa sponsor
+- [Member of Technical Staff (GPU Performance Engineer)](https://jobs.ashbyhq.com/reka/6595a48b-8dfc-479d-ba2a-0bf9d188ec4d) — DevOps / SRE · US, UK, Singapore, Remote · remote · 🛂 visa sponsor
+
+### [Retable](https://jobs.winterchill.xyz/?employer=Retable) (4)
+
+- [Frontend Developer Intern](https://www.linkedin.com/jobs/view/4439749872/) — Backend · Kingston Upon Thames, England, United Kingdom · remote · 🛂 visa sponsor
+- [Backend Developer](https://www.linkedin.com/jobs/view/4439767153/) — Backend · Kingston Upon Thames, England, United Kingdom · remote
+- [Backend Developer Intern](https://www.linkedin.com/jobs/view/4439756580/) — Backend · Kingston Upon Thames, England, United Kingdom · remote · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4439754673/) — Backend · Kingston Upon Thames, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Ultra](https://jobs.winterchill.xyz/?employer=Ultra) (4)
+
+- [Senior Software Engineer](https://startup.jobs/senior-software-engineer-ultra-group-8559627) — Backend · Cheltenham, England, United Kingdom · hybrid
+- [Principal C/C++ Software Engineer](https://startup.jobs/principal-c-c-software-engineer-ultra-group-8559631) — Backend · Cheltenham, England, United Kingdom · hybrid
+- [Software Engineer](https://startup.jobs/software-engineer-ultra-group-8559615) — Backend · Maidenhead, England, United Kingdom
+- [Principal Software Engineer](https://startup.jobs/principal-software-engineer-ultra-group-8559614) — Backend · Maidenhead, England, United Kingdom
+
+### [Zilch](https://jobs.winterchill.xyz/?employer=Zilch) (4)
+
+- [Senior Data Engineer: Finance](https://jobs.ashbyhq.com/zilch/bdd27ef9-d827-4275-8cfa-7d95af042cd2) — Data Engineering · Zilch UK · hybrid · 🛂 visa sponsor
+- [Senior Platform Engineer](https://jobs.ashbyhq.com/zilch/2af5d2ce-a657-4f1a-999d-8221d5f15acb) — Backend · Zilch UK · hybrid · 🛂 visa sponsor
+- [Engineering Manager II](https://jobs.ashbyhq.com/zilch/926c7c77-07e7-445d-ad97-6f554235e523) — Zilch UK · hybrid · 🛂 visa sponsor
+- [Software Engineer III](https://jobs.ashbyhq.com/zilch/f53b1d89-e884-4f38-8a8b-2fcf525de8e1) — Backend · Zilch UK · hybrid · 🛂 visa sponsor
+
+### [2K](https://jobs.winterchill.xyz/?employer=2K) (3)
+
+- [Senior Rendering Engineer](https://job-boards.greenhouse.io/2k/jobs/7766934003) — Game Engineering · Brighton, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Gameplay and Animation Engineer](https://job-boards.greenhouse.io/2k/jobs/7533066003) — Backend · Brighton, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Animation Engineer](https://job-boards.greenhouse.io/2k/jobs/7763604003) — Backend · Brighton, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Aker Systems](https://jobs.winterchill.xyz/?employer=Aker%20Systems) (3)
+
+- [Lead Software Engineer (eDV)](https://startup.jobs/lead-software-engineer-edv-aker-systems-8321238) — Backend · United Kingdom
+- [Lead Software Engineer (SC & eDV)](https://startup.jobs/lead-software-engineer-sc-edv-aker-systems-8321242) — Backend · United Kingdom
+- [Lead Software Engineer](https://startup.jobs/lead-software-engineer-aker-systems-8321234) — Backend · United Kingdom
+
+### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (3)
+
+- [Senior Azure Platform Engineer (Contract)](https://apply.workable.com/j/9FEF5ED4B0/apply) — DevOps / SRE · United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Full Stack Developer - 12 Month FTC](https://apply.workable.com/j/BC99C060AA/apply) — Backend · Aberdeen, United Kingdom · remote · 🛂 visa sponsor
+- [Contract AWS Connect Engineer](https://apply.workable.com/j/BC8F6160B5/apply) — Backend · United Kingdom · 🛂 visa sponsor
+
+### [Civil Aviation Authority](https://jobs.winterchill.xyz/?employer=Civil%20Aviation%20Authority) (3)
+
+- [Airspace Regulator (Navigation)](https://uk.indeed.com/viewjob?jk=4996774ae551485f) — £70,000–£75,000/yr · Gatwick Airport, United Kingdom · hybrid · 🛂 visa sponsor
+- [Solution Architect](https://uk.indeed.com/viewjob?jk=5c106fcb41f767cc) — DevOps / SRE · Up to £70,000/yr · Gatwick Airport, United Kingdom · 🛂 visa sponsor
+- [Inspecting Officer (Dangerous Goods)](https://uk.indeed.com/viewjob?jk=6aa8707b29bee690) — £41,092/yr · Gatwick Airport, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [DualEntry](https://jobs.winterchill.xyz/?employer=DualEntry) (3)
+
+- [Hardcore Engineer (All Levels)](https://www.linkedin.com/jobs/view/4429132252/) — Full Stack · $200,000–$400,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Senior/Staff Backend Engineer (Remote)](https://www.linkedin.com/jobs/view/4420457293/) — Backend · $140,000–$250,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Senior/Staff Frontend Engineer (Remote)](https://www.linkedin.com/jobs/view/4420442895/) — Backend · $130,000–$220,000/yr · United Kingdom · remote · 🛂 visa sponsor
+
+### [Elastic](https://jobs.winterchill.xyz/?employer=Elastic) (3)
+
+- [Business Strategy Developer - International](https://jobs.elastic.co/jobs?gh_jid=8050499&gh_jid=8050499) — Backend · United Kingdom · 🛂 visa sponsor
+- [Senior Java Engineer - Distributed Systems - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=7734552&gh_jid=7734552) — Backend · United Kingdom · 🛂 visa sponsor
+- [Senior Developer Advocate (Video Content Creator)](https://jobs.elastic.co/jobs?gh_jid=7190130&gh_jid=7190130) — Backend · United Kingdom · 🛂 visa sponsor
+
+### [European Bioinformatics Institute | EMBL-EBI](https://jobs.winterchill.xyz/?employer=European%20Bioinformatics%20Institute%20%7C%20EMBL-EBI) (3)
+
+- [Software Development Project Lead](https://www.linkedin.com/jobs/view/4437722632/) — Backend · £4,395/mo · England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Full Stack Software Developer](https://www.linkedin.com/jobs/view/4438561614/) — Backend · £3,425/mo · England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Bioinformatician](https://www.linkedin.com/jobs/view/4432080180/) — Data Engineering · England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Firstup](https://jobs.winterchill.xyz/?employer=Firstup) (3)
+
+- [Sr. Software Engineer, Frontend (UK)](https://startup.jobs/sr-software-engineer-frontend-uk-firstup-7935227) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Sr. Software Engineer, Fullstack (UK)](https://startup.jobs/sr-software-engineer-fullstack-uk-firstup-7985064) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Software Engineer, Fullstack (UK)](https://startup.jobs/software-engineer-fullstack-uk-firstup-8008197) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [Harnham](https://jobs.winterchill.xyz/?employer=Harnham) (3)
+
+- [Senior AI Engineer - Product Design Systems (Remote Start-up)](https://www.linkedin.com/jobs/view/4430460378/) — Backend · £95,000–£130,000/yr · United Kingdom · remote
+- [Product Analyst](https://www.linkedin.com/jobs/view/4423399653/) — Data Engineering · £80,000–£90,000/yr · East Midlands, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Scientist - Major UK Retailer](https://www.linkedin.com/jobs/view/4441446390/) — Data Engineering · £45,000–£48,000/yr · Knowsley, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [HCRG Care Group](https://jobs.winterchill.xyz/?employer=HCRG%20Care%20Group) (3)
+
+- [Digital Learning and Skills Lead](https://uk.indeed.com/viewjob?jk=60e429fc67b066d0) — £46,000/yr · Northfleet, United Kingdom · remote
+- [eLearning Developer](https://uk.indeed.com/viewjob?jk=37a35089d9d841cb) — Backend · £34,000–£36,000/yr · Guildford, United Kingdom · remote
+- [Band 6 Health Visitor](https://uk.indeed.com/viewjob?jk=43efb69fcce0e671) — Harlow, United Kingdom
+
+### [IBM](https://jobs.winterchill.xyz/?employer=IBM) (3)
+
+- [AI Developer](https://www.linkedin.com/jobs/view/4438018583/) — Backend · Markham, Wales, United Kingdom · hybrid · 🛂 visa sponsor
+- [Graduate Software Developer](https://www.linkedin.com/jobs/view/4437294047/) — Backend · Hursley, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Associate Engineer](https://www.linkedin.com/jobs/view/4432283189/) — Backend · Cheltenham, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Kuehne+Nagel](https://jobs.winterchill.xyz/?employer=Kuehne%2BNagel) (3)
+
+- [Global Bid Specialist, International Supply Chain](https://uk.indeed.com/viewjob?jk=ca959cceff48d0aa) — Uxbridge, United Kingdom
+- [AI & Cloud Developer - Financial IT](https://www.linkedin.com/jobs/view/4441205932/) — Backend · Milton Keynes, England, United Kingdom · remote · 🛂 visa sponsor
+- [Global Customs Development Head](https://www.linkedin.com/jobs/view/4411646874/) — Backend · Uxbridge, England, United Kingdom · 🛂 visa sponsor
+
+### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (3)
+
+- [CCM Developer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000138351939) — Backend · Brighton and Hove, United Kingdom · 🛂 visa sponsor
+- [Inspire Scaler Developer (Quadient)](https://jobs.smartrecruiters.com/LegalAndGeneral/744000138128929) — Backend · Brighton and Hove, United Kingdom · 🛂 visa sponsor
+- [Senior Dynamics Platform Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000135951049) — Data Engineering · Brighton and Hove, United Kingdom · 🛂 visa sponsor
+
+### [Lenovo](https://jobs.winterchill.xyz/?employer=Lenovo) (3)
+
+- [Lenovo 360 Circle Allyship Manager](https://uk.indeed.com/viewjob?jk=a8590110947a8670) — Farnborough, United Kingdom · remote
+- [Channel Technical Advisor – ISG, UK & Ireland](https://uk.indeed.com/viewjob?jk=37c20cc40deecf40) — Farnborough, United Kingdom · hybrid
+- [Sustainability Performance & Value Manager - International Markets](https://uk.indeed.com/viewjob?jk=6905e49feb2bebe8) — Farnborough, United Kingdom · remote
+
+### [Lockheed Martin](https://jobs.winterchill.xyz/?employer=Lockheed%20Martin) (3)
+
+- [Information Security Engineer – Classified Systems](https://uk.indeed.com/viewjob?jk=e1a60e753c0ae4c6) — £54,000–£67,000/yr · Ampthill, United Kingdom · 🛂 visa sponsor
+- [Senior Manufacturing Engineer](https://uk.indeed.com/viewjob?jk=667ea5b5b79dc047) — £53,000–£57,000/yr · Ampthill, United Kingdom · 🛂 visa sponsor
+- [Systems Engineer](https://uk.indeed.com/viewjob?jk=705c74751c67b5e9) — Ampthill, United Kingdom · 🛂 visa sponsor
+
+### [Mews](https://jobs.winterchill.xyz/?employer=Mews) (3)
+
+- [Director of Product & Engineering - Operations (m/f/d)](https://www.mews.com/en/careers/jobs/4902795101?gh_jid=4902795101) — Backend · £105,000–£155,000/yr · Czechia; Germany; Ireland; Sweden; United Kingdom; United States · remote · 🛂 visa sponsor
+- [Director of Product and Engineering, Support](https://www.mews.com/en/careers/jobs/4895465101?gh_jid=4895465101) — Backend · £103,000–£150,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Director of Product & Engineering, Long Stays](https://www.mews.com/en/careers/jobs/4880234101?gh_jid=4880234101) — Backend · £103,000–£114,000/yr · Ireland; Spain; United Kingdom; United States · remote · 🛂 visa sponsor
+
+### [micro1](https://jobs.winterchill.xyz/?employer=micro1) (3)
+
+- [(Research Engineering) Member of Technical Staff](https://www.linkedin.com/jobs/view/4441955997/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [(Frontier AI) Member of Technical Staff](https://www.linkedin.com/jobs/view/4441952950/) — Data Engineering · United Kingdom · remote · 🛂 visa sponsor
+- [(Enterprise, AI) Member of Technical Staff](https://www.linkedin.com/jobs/view/4441973145/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [Mozilla](https://jobs.winterchill.xyz/?employer=Mozilla) (3)
+
+- [Senior Software Engineer, Firefox Desktop](https://startup.jobs/senior-software-engineer-firefox-desktop-mozilla-8730777) — Backend · £66,000–£87,000/yr · United Kingdom · remote
+- [Senior Software Engineer, Firefox Security](https://startup.jobs/senior-software-engineer-firefox-security-mozilla-8592526) — Backend · £66,000–£87,000/yr · United Kingdom · remote
+- [Senior Software Engineer - Engineering Workflow and CI](https://startup.jobs/senior-software-engineer-engineering-workflow-and-ci-mozilla-7940664) — Backend · £65,000–£87,000/yr · United Kingdom · remote
+
+### [n8n](https://jobs.winterchill.xyz/?employer=n8n) (3)
+
+- [Senior/Staff Engineer, n8n Labs](https://www.linkedin.com/jobs/view/4441997354/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Senior/Staff PM, n8n Labs](https://www.linkedin.com/jobs/view/4442100225/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Head of Solutions Engineering](https://www.linkedin.com/jobs/view/4440836384/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [Netrolynx AI](https://jobs.winterchill.xyz/?employer=Netrolynx%20AI) (3)
+
+- [UI Developer](https://www.linkedin.com/jobs/view/4441939515/) — Backend · United Kingdom · 🛂 visa sponsor
+- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4440638972/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4440399679/) — Backend · United Kingdom · 🛂 visa sponsor
+
+### [Roche](https://jobs.winterchill.xyz/?employer=Roche) (3)
+
+- [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4404077482/) — Backend · Welwyn, England, United Kingdom
+- [Machine Learning Scientist - Quantum Chemistry](https://www.linkedin.com/jobs/view/4430990339/) — Backend · Welwyn, England, United Kingdom · 🛂 visa sponsor
+- [Machine Learning Scientist - Small Molecule Drug Design](https://www.linkedin.com/jobs/view/4430993330/) — Backend · Welwyn, England, United Kingdom
+
+### [Samsara](https://jobs.winterchill.xyz/?employer=Samsara) (3)
+
+- [Senior Security Engineer](https://www.samsara.com/company/careers/roles/8038153?gh_jid=8038153) — DevOps / SRE · Remote - UK · remote · 🛂 visa sponsor
+- [Sr. Software Engineer, Cloud Platform](https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387) — Backend · Remote - UK · remote · 🛂 visa sponsor
+- [Senior Software Engineer II, Developer Experience / Operational Excellence](https://www.samsara.com/company/careers/roles/7717540?gh_jid=7717540) — Backend · Remote - UK · remote · 🛂 visa sponsor
+
+### [Tesco Technology](https://jobs.winterchill.xyz/?employer=Tesco%20Technology) (3)
+
+- [Data Analytics Manager](https://www.linkedin.com/jobs/view/4439431165/) — Data Engineering · Welwyn Garden City, England, United Kingdom · hybrid
+- [Software Development Manager - Customer API](https://www.linkedin.com/jobs/view/4437970967/) — Backend · Welwyn Garden City, England, United Kingdom
+- [Data Scientist](https://www.linkedin.com/jobs/view/4437052180/) — Backend · Welwyn Garden City, England, United Kingdom · hybrid
+
+### [Uniting Ambition](https://jobs.winterchill.xyz/?employer=Uniting%20Ambition) (3)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4441496874/) — Backend · Up to £90,000/yr · Welwyn Garden City, England, United Kingdom · hybrid
+- [Engineering Team Lead](https://www.linkedin.com/jobs/view/4438725213/) — Backend · Hounslow, England, United Kingdom · hybrid
+- [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4440661341/) — Backend · Hertfordshire, England, United Kingdom · hybrid
+
+### [Universal Quantum](https://jobs.winterchill.xyz/?employer=Universal%20Quantum) (3)
+
+- [ASIC Layout Engineer](https://apply.workable.com/j/F2C2F0F12A/apply) — Haywards Heath, United Kingdom · 🛂 visa sponsor
+- [Software Engineer (Modelling & Simulations)](https://apply.workable.com/j/D95825FA3D/apply) — Backend · Haywards Heath, United Kingdom · 🛂 visa sponsor
+- [Software Engineer (Compilers)](https://apply.workable.com/j/CD21078172/apply) — Backend · Haywards Heath, United Kingdom · 🛂 visa sponsor
+
+### [University Hospitals Sussex NHS Foundation Trust](https://jobs.winterchill.xyz/?employer=University%20Hospitals%20Sussex%20NHS%20Foundation%20Trust) (3)
+
+- [Senior Pharmacy Technician – Cancer Services](https://uk.indeed.com/viewjob?jk=354e3a4ace08d4a6) — £39,959–£48,117/yr · Brighton, United Kingdom · 🛂 visa sponsor
+- [Physiotherapy Technical Instructor](https://uk.indeed.com/viewjob?jk=f2a78d08119c46c1) — £25,760–£27,476/yr · Haywards Heath, United Kingdom · 🛂 visa sponsor
+- [Senior Assistant Technical Officer](https://uk.indeed.com/viewjob?jk=06ca9abe26220fe2) — £25,760–£27,476/yr · Worthing, United Kingdom · 🛂 visa sponsor
+
+### [Viridien](https://jobs.winterchill.xyz/?employer=Viridien) (3)
+
+- [Software Developer - Data Platform & Distributed Systems](https://www.linkedin.com/jobs/view/4396753580/) — Backend · Crawley, England, United Kingdom · hybrid
+- [HPC Services Team Leader](https://www.linkedin.com/jobs/view/4420129996/) — Haywards Heath, England, United Kingdom · 🛂 visa sponsor
+- [Software Developer – High-Performance I/O & Storage Systems](https://www.linkedin.com/jobs/view/4399770164/) — Backend · Crawley, England, United Kingdom · 🛂 visa sponsor
+
+### [Visa](https://jobs.winterchill.xyz/?employer=Visa) (3)
+
+- [Senior Manager, Sales Engineering – Visa Value Added Services (VAS), Issuing solutions (Pismo)](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Remote---GBR/Senior-Manager--Sales-Engineering---Visa-Value-Added-Services--VAS---Issuing-solutions--Pismo-_REF078063W) — Platform / Infrastructure · GB - Remote - GBR, United Kingdom · remote · 🛂 visa sponsor
+- [Software Engineer/ SRE (Linux)](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W) — DevOps / SRE · GB - Basingstoke, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
+- [Infrastructure Engineer (Storage/Backup)](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/PS3-Engineer_REF077027W) — DevOps / SRE · GB - Basingstoke, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [100 Everfox Holdings, LLC](https://jobs.winterchill.xyz/?employer=100%20Everfox%20Holdings%2C%20LLC) (2)
+
+- [Software Engineer](https://startup.jobs/software-engineer-100-everfox-holdings-llc-8765306) — £32,600–£53,600/yr · England, United Kingdom
+- [Software Engineer I](https://startup.jobs/software-engineer-i-100-everfox-holdings-llc-8697278) — Backend · £32,600–£53,600/yr · England, United Kingdom · hybrid
+
+### [Abnormal Security](https://jobs.winterchill.xyz/?employer=Abnormal%20Security) (2)
+
+- [Senior Software Engineer - Behavioral Security Products](https://abnormal.ai/careers/jobs/7551263003?gh_jid=7551263003) — Backend · Remote - UK · remote · 🛂 visa sponsor
+- [Enterprise Sales Engineer, UKI](https://abnormal.ai/careers/jobs/7714763003?gh_jid=7714763003) — Security Engineering · Remote - UK · remote · 🛂 visa sponsor
+
+### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (2)
+
+- [Threat Hunting and Detection Engineering Analyst - Cheltenham](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cheltenham/Detection---Threat-Hunt-Lead-Analyst---Cheltenham_R00308878) — Backend · Cheltenham, United Kingdom · 🛂 visa sponsor
+- [Cloud Operations Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cheltenham/Cloud-Operations-Engineer_R00306597) — DevOps / SRE · Cheltenham, United Kingdom · 🛂 visa sponsor
+
+### [Acorn Group](https://jobs.winterchill.xyz/?employer=Acorn%20Group) (2)
+
+- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4440386844/) — Backend · £65,000–£75,000/yr · Liverpool, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4417335830/) — Backend · £45,000–£55,000/yr · Liverpool, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (2)
+
+- [Associate Director - Town Planning](https://uk.indeed.com/viewjob?jk=86f62bd522f7aeaa) — Basingstoke, United Kingdom · hybrid · 🛂 visa sponsor
+- [Civil Engineer Apprentice - Aviation Engineering (Basingstoke)](https://uk.indeed.com/viewjob?jk=70c2f95f8adf3bc0) — Basingstoke, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Affirm](https://jobs.winterchill.xyz/?employer=Affirm) (2)
+
+- [Manager, Machine Learning Engineering (Repayment & Recovery)](https://www.linkedin.com/jobs/view/4431404317/) — Backend · £142,000–£190,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Software Engineer, Backend (Payments)](https://startup.jobs/senior-software-engineer-backend-payments-affirm-2-7985557) — Backend · £120,000–£168,000/yr · United Kingdom · remote · 🛂 visa sponsor
+
+### [Akkodis](https://jobs.winterchill.xyz/?employer=Akkodis) (2)
+
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-akkodis-1) — Data Engineering · £400–£440/day · Hertfordshire · hybrid
+- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4434847603/) — Backend · Harwell, England, United Kingdom · 🛂 visa sponsor
+
+### [Allwyn UK](https://jobs.winterchill.xyz/?employer=Allwyn%20UK) (2)
+
+- [Senior Data Engineer - 12 Months FTC](https://uk.indeed.com/viewjob?jk=a67bb2565f3934d3) — Data Engineering · £42,753–£56,000/yr (est.) · Watford, United Kingdom
+- [Senior Data Engineer - 12 Months FTC](https://www.linkedin.com/jobs/view/4441189009/) — Data Engineering · £42,753–£56,000/yr (est.) · Watford, England, United Kingdom · 🛂 visa sponsor
+
+### [American Express](https://jobs.winterchill.xyz/?employer=American%20Express) (2)
+
+- [Director of Global Treasury Operations EMEA](https://uk.indeed.com/viewjob?jk=2a420fb01e09954f) — Burgess Hill, United Kingdom · hybrid · 🛂 visa sponsor
+- [Staff Architect](https://www.linkedin.com/jobs/view/4438349210/) — Backend · Burgess Hill, England, United Kingdom · 🛂 visa sponsor
+
+### [Beijing Bytedance Technology Co., Ltd](https://jobs.winterchill.xyz/?employer=Beijing%20Bytedance%20Technology%20Co.%2C%20Ltd) (2)
+
+- [Senior Backend Software Engineer (AI Infrastructure / Artifact Management) – Developer Services](https://www.glassdoor.com/job-listing/senior-backend-software-engineer-ai-infrastructure-artifact-management-developer-services-bytedance-JV_IC2363570_KO0,89_KE90,99.htm?jl=1010202343689) — Backend · £83,250–£108,900/yr (est.) · Manila
+- [AI Creator Operations Intern (CapCut) - 2026 Start](https://www.glassdoor.co.uk/job-listing/ai-creator-operations-intern-capcut-2026-start-bytedance-JV_KO0,46_KE47,56.htm?jl=1010203502942) — Research / Applied Science · £24/hr · United Kingdom · remote
+
+### [Boston Ltd](https://jobs.winterchill.xyz/?employer=Boston%20Ltd) (2)
+
+- [Installation Engineer](https://uk.indeed.com/viewjob?jk=7bda24c6a7265b40) — St Albans, United Kingdom
+- [Help Desk Engineer – Datacentre / Server Hardware & Storage Solutions](https://uk.indeed.com/viewjob?jk=30873b1efc25995f) — St Albans, United Kingdom · remote
+
+### [BP p.l.c.](https://jobs.winterchill.xyz/?employer=BP%20p.l.c.) (2)
+
+- [Senior Machine Learning Engineer](https://www.glassdoor.co.uk/job-listing/senior-machine-learning-engineer-bp-JV_IC3294064_KO0,32_KE33,35.htm?jl=1010203193154) — Backend · £90,000–£144,000/yr (est.) · Sunbury, England · hybrid
+- [Staff Machine Learing Engineer](https://www.glassdoor.co.uk/job-listing/staff-machine-learing-engineer-bp-JV_IC3294064_KO0,30_KE31,33.htm?jl=1010203192867) — Backend · £42,800–£96,250/yr (est.) · Sunbury, England · hybrid
+
+### [Buckinghamshire Healthcare NHS Trust](https://jobs.winterchill.xyz/?employer=Buckinghamshire%20Healthcare%20NHS%20Trust) (2)
+
+- [Associate Director of AI Implementation](https://uk.indeed.com/viewjob?jk=4b0ec4ac4bc1a157) — £94,356–£108,814/yr · Aylesbury, United Kingdom · 🛂 visa sponsor
+- [Senior Building Manager](https://uk.indeed.com/viewjob?jk=92dcaeea6c914e5e) — £57,528–£64,750/yr · Aylesbury, United Kingdom · 🛂 visa sponsor
+
+### [Cadence](https://jobs.winterchill.xyz/?employer=Cadence) (2)
+
+- [Software Engineer II - Computational Fluid Dynamics (CFD)](https://www.linkedin.com/jobs/view/4441110521/) — Backend · Harrow, England, United Kingdom
+- [Software Engineer I - Computational Fluid Dynamics (CFD)](https://www.linkedin.com/jobs/view/4441109533/) — Backend · Harrow, England, United Kingdom
+
+### [CBSbutler Holdings Limited trading as CBSbutler](https://jobs.winterchill.xyz/?employer=CBSbutler%20Holdings%20Limited%20trading%20as%20CBSbutler) (2)
+
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-cbsbutler-holdings-limited-trading-as-cbsbutler-corsham) — Data Engineering · £550/day · Corsham, Wiltshire · hybrid
+- [Data Engineer - - 3+ months - SC Clearance](https://dataengineeringjobs.co.uk/jobs/data-engineer-3-months-sc-clearance-cbsbutler-holdings-limited-trading-as-cbsbutler-corsham) — Data Engineering · £400–£525/day · Corsham, Wiltshire · hybrid
+
+### [CELA REMIT LIMITED](https://jobs.winterchill.xyz/?employer=CELA%20REMIT%20LIMITED) (2)
+
+- [Software Engineer](https://www.glassdoor.co.uk/job-listing/software-engineer-cela-remit-limited-JV_IC3315414_KO0,17_KE18,36.htm?jl=1010203695373) — Backend · £38,290–£54,700/yr · Harlow, England · hybrid · 🛂 visa sponsor
+- [Cloud Infrastructure Engineer](https://www.glassdoor.co.uk/job-listing/cloud-infrastructure-engineer-cela-remit-limited-JV_IC3315414_KO0,29_KE30,48.htm?jl=1010203695880) — DevOps / SRE · £36,610–£52,300/yr · Harlow, England · hybrid · 🛂 visa sponsor
+
+### [Centaur Health Holdings](https://jobs.winterchill.xyz/?employer=Centaur%20Health%20Holdings) (2)
+
+- [Leo Cancer Care: Senior Software Engineer – Interoperability](https://startup.jobs/leo-cancer-care-senior-software-engineer-interoperability-centaur-health-holdings-8736972) — Crawley, England, United Kingdom
+- [Leo Cancer Care: Software Engineer Embedded Firmware Level I/II](https://startup.jobs/leo-cancer-care-software-engineer-embedded-firmware-level-i-ii-centaur-health-holdings-8167199) — Embedded / Robotics · Crawley, England, United Kingdom · hybrid
+
+### [Centrica plc](https://jobs.winterchill.xyz/?employer=Centrica%20plc) (2)
+
+- [Principal Software Engineering (Azure and Integration)](https://www.glassdoor.co.uk/job-listing/principal-software-engineering-azure-and-integration-centrica-JV_IC3254459_KO0,52_KE53,61.htm?jl=1010198523635) — Backend · £38,000–£60,550/yr (est.) · Windsor, South East England, England · hybrid
+- [Principal Software Engineer (Mobile)](https://www.glassdoor.co.uk/job-listing/principal-software-engineer-mobile-centrica-JV_IC3254459_KO0,34_KE35,43.htm?jl=1010198523792) — Backend · £38,000–£60,550/yr (est.) · Windsor, South East England, England · hybrid
+
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (2)
+
+- [Java Developers (all levels)](https://www.linkedin.com/jobs/view/4440315405/) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
+- [Front End Developer (Angular)](https://www.linkedin.com/jobs/view/4427307383/) — Backend · Leatherhead, England, United Kingdom · hybrid
+
+### [Chainalysis](https://jobs.winterchill.xyz/?employer=Chainalysis) (2)
+
+- [Staff Security Engineer, Product Security](https://jobs.ashbyhq.com/chainalysis-careers/59319ac8-2eba-4b86-9d34-3ecc082e98d1) — Backend · United Kingdom · 🛂 visa sponsor
+- [Engineering Manager, Platform](https://jobs.ashbyhq.com/chainalysis-careers/88b6647e-9dc6-41ae-888d-197f0c949682) — Backend · United Kingdom · 🛂 visa sponsor
+
+### [Charles River Laboratories](https://jobs.winterchill.xyz/?employer=Charles%20River%20Laboratories) (2)
+
+- [Senior Technical Specialist - DMPK](https://uk.indeed.com/viewjob?jk=241b9890ff5b7ed2) — Saffron Walden, United Kingdom
+- [Laboratory Support - DMPK](https://uk.indeed.com/viewjob?jk=78755f3bf30b19d6) — Saffron Walden, United Kingdom · remote
+
+### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (2)
+
+- [Director of Engineering SaaS](https://www.linkedin.com/jobs/view/4440006227/) — Backend · Up to £200,000/yr · Reigate, England, United Kingdom · remote
+- [Principal AI Platform Engineer- Fintech](https://www.linkedin.com/jobs/view/4440581358/) — Backend · Up to £130,000/yr · Reigate, England, United Kingdom · remote
+
+### [Colgate-Palmolive](https://jobs.winterchill.xyz/?employer=Colgate-Palmolive) (2)
+
+- [ODG Digital Engagement Manager (175001)](https://uk.indeed.com/viewjob?jk=6de7355856eb8bc3) — £53,100–£59,000/yr · United Kingdom · 🛂 visa sponsor
+- [ODG Marketing Analyst (174975)](https://uk.indeed.com/viewjob?jk=8f2d6fefc8264860) — £40,050–£44,500/yr · United Kingdom · 🛂 visa sponsor
+
+### [Content Guru](https://jobs.winterchill.xyz/?employer=Content%20Guru) (2)
+
+- [Software Engineering Manager](https://startup.jobs/software-engineering-manager-content-guru-8161381) — Engineering Management · Bracknell, England, United Kingdom
+- [Software Engineer](https://startup.jobs/software-engineer-content-guru-8161382) — Backend · Bracknell, England, United Kingdom
+
+### [Cresta](https://jobs.winterchill.xyz/?employer=Cresta) (2)
+
+- [Solutions Engineer, EMEA](https://job-boards.greenhouse.io/cresta/jobs/5021027008) — ML / AI Engineering · $145,000–$162,500/yr · United Kingdom (Remote) · remote · 🛂 visa sponsor
+- [Senior Forward Deployed Engineer (AI Agent) - UK](https://job-boards.greenhouse.io/cresta/jobs/5097513008) — Backend · United Kingdom (Remote) · remote · 🛂 visa sponsor
+
+### [Depop](https://jobs.winterchill.xyz/?employer=Depop) (2)
+
+- [Senior iOS Engineer - Decision Experience](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/Depop---Remote-UK/Senior-iOS-Engineer_JR5722) — Backend · Depop - Remote, UK, United Kingdom · remote · 🛂 visa sponsor
+- [Platform Engineer](https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/Depop---Remote-UK/Platform-Engineer_JR5677) — Backend · Depop - Remote, UK, United Kingdom · remote · 🛂 visa sponsor
+
+### [Elanco](https://jobs.winterchill.xyz/?employer=Elanco) (2)
+
+- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4400816430/) — Data Engineering · Hook, England, United Kingdom · hybrid
+- [Lead Engineer](https://www.linkedin.com/jobs/view/4400196246/) — Backend · Hook, England, United Kingdom · hybrid
+
+### [ElevenLabs](https://jobs.winterchill.xyz/?employer=ElevenLabs) (2)
+
+- [Forward Deployed Engineering Recruiter](https://jobs.ashbyhq.com/elevenlabs/fc24cc63-43de-46e1-a1aa-2910013f5e7f) — Full Stack · United Kingdom · remote · 🛂 visa sponsor
+- [Full-Stack Growth Engineer](https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [Enigma](https://jobs.winterchill.xyz/?employer=Enigma) (2)
+
+- [Research Engineer \| CUDA \| GPU \| PhD \| Python \| Remote, UK](https://www.linkedin.com/jobs/view/4441314419/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Machine Learning Engineer \| Python \| PyTorch \| Machine Learning \| Large Language Models \| RAG \| Remote, UK and EU](https://www.linkedin.com/jobs/view/4441315340/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+
+### [Envisics](https://jobs.winterchill.xyz/?employer=Envisics) (2)
+
+- [Senior C++ Software Engineer (Image Processing)](https://startup.jobs/senior-c-software-engineer-image-processing-envisics-company-8368542) — Backend · Milton Keynes, England, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Software Engineer C++](https://startup.jobs/senior-software-engineer-c-envisics-company-8368546) — Backend · Milton Keynes, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Evolve Dynamics LTD](https://jobs.winterchill.xyz/?employer=Evolve%20Dynamics%20LTD) (2)
+
+- [Senior Software Engineer – Deployment & Support](https://uk.indeed.com/viewjob?jk=578ec4f6b08b8bde) — Backend · Farnham, United Kingdom · remote
+- [Senior GCS Software Engineer – C++ / Qt](https://uk.indeed.com/viewjob?jk=d028217e1215d1ac) — Backend · Farnham, United Kingdom · remote
+
+### [Fireblocks](https://jobs.winterchill.xyz/?employer=Fireblocks) (2)
+
+- [Sales Engineer, Banking](https://www.fireblocks.com/careers/4684189006?gh_jid=4684189006) — Security Engineering · €80,000–€110,000/yr · Berlin, Berlin, Germany; Netherlands, Netherlands; United Kingdom; Zürich, Switzerland · 🛂 visa sponsor
+- [Senior QA Engineer (Financial Apps)](https://www.fireblocks.com/careers/4682157006?gh_jid=4682157006) — Backend · Belgrade, Belgrade, Serbia; Berlin, Berlin, Germany; Georgia; Praha, Prague, Czech Republic; United Kingdom; Warszawa, Masovian Voivodeship, Poland · 🛂 visa sponsor
+
+### [Flexera](https://jobs.winterchill.xyz/?employer=Flexera) (2)
+
+- [Senior Software Engineer](https://startup.jobs/senior-software-engineer-flexera-8416620) — Backend · United Kingdom · hybrid
+- [Manager, Software Engineering - UI](https://startup.jobs/manager-software-engineering-ui-flexera-8416616) — Backend · United Kingdom · remote
+
+### [Foresters Financial](https://jobs.winterchill.xyz/?employer=Foresters%20Financial) (2)
+
+- [Front-End Developer (React/React Native)](https://www.adzuna.co.uk/jobs/details/5794008351?utm_medium=api&utm_source=a9508167) — Backend · £47,000–£78,000/yr · Shortlands, Bromley
+- [Front-End Developer (React and React Native)](https://uk.indeed.com/viewjob?jk=da0ebb696db1e491) — Backend · Bromley, United Kingdom · hybrid
+
+### [Free-Work UK](https://jobs.winterchill.xyz/?employer=Free-Work%20UK) (2)
+
+- [Lead Backend Engineer](https://www.linkedin.com/jobs/view/4441696976/) — Backend · £80,000–£90,000/yr · City Of Westminster, England, United Kingdom · hybrid
+- [Graduate Software Developer Programme](https://www.linkedin.com/jobs/view/4438122588/) — Backend · City Of Westminster, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Frontier Resourcing](https://jobs.winterchill.xyz/?employer=Frontier%20Resourcing) (2)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4441449788/) — Backend · Farnborough, England, United Kingdom · 🛂 visa sponsor
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4440588283/) — Backend · Farnborough, England, United Kingdom · 🛂 visa sponsor
+
+### [GE Vernova](https://jobs.winterchill.xyz/?employer=GE%20Vernova) (2)
+
+- [AI/ML Software Principal Engineer](https://www.linkedin.com/jobs/view/4438250372/) — Stafford, England, United Kingdom · remote · 🛂 visa sponsor
+- [Principal Engineer - HVDC Control System, Platform & Tools](https://www.linkedin.com/jobs/view/4437823044/) — Stafford, England, United Kingdom · 🛂 visa sponsor
+
+### [Grundfos Pumps](https://jobs.winterchill.xyz/?employer=Grundfos%20Pumps) (2)
+
+- [Sales Manager-External Sales](https://uk.indeed.com/viewjob?jk=c4e4fb24830de560) — Leighton Buzzard, United Kingdom · 🛂 visa sponsor
+- [Sales Engineer, Water Utility - Digital](https://uk.indeed.com/viewjob?jk=8e19d508ab126b88) — Tadworth, United Kingdom · remote · 🛂 visa sponsor
+
+### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (2)
+
+- [Analytics Engineer Manager](https://dataengineeringjobs.co.uk/jobs/analytics-engineer-manager-harnham-data-and-analytics-recruitment-netherlands) — Data Engineering · €100,000–€115,000/yr · Netherlands, England · hybrid
+- [Senior Cloud Engineer](https://dataengineeringjobs.co.uk/jobs/senior-cloud-engineer-harnham-data-and-analytics-recruitment-abingdon) — DevOps / SRE · £60,000–£75,000/yr · Abingdon, England · hybrid
+
+### [Hawk-Eye Innovations](https://jobs.winterchill.xyz/?employer=Hawk-Eye%20Innovations) (2)
+
+- [Principal Java Engineer - Backend Platform](https://www.linkedin.com/jobs/view/4437461273/) — Backend · £76,340–£100,340/yr · Basingstoke, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Director of Platform Engineering](https://www.linkedin.com/jobs/view/4441989738/) — DevOps / SRE · United Kingdom · 🛂 visa sponsor
+
+> …and **495 more companies** — see [`jobs.json`](jobs.json) or [browse the full list live](https://jobs.winterchill.xyz/?city=other).
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
