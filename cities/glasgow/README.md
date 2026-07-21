@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Glasgow
 
-**81 open roles** · updated 2026-07-20
+**80 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Glasgow)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -30,7 +30,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Software Engineer - Java, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210746384) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - …and 10 more at JPMorgan — see [`jobs.json`](jobs.json)
 
-### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (17)
+### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (16)
 
 - [Senior  Data Platform Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior--Data-Platform-Developer_JR-0000099275-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Software Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Software-Engineer_JR-0000108348-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
@@ -39,7 +39,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Java-Developer_JR-0000089019) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [UI Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AVP---Java-Fullstack-Engineer_JR-0000044643-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Fullstack Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Fullstack-Developer_JR-0000101713-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
-- [ServiceNow Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/ServiceNow-Developer_JR-0000083958) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [HR and BI Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Workforce-and-Financial-Analyst_JR-0000113932) — Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Forward Deployed AI Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Forward-Deployed-AI-Engineer_JR-0000101663) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Machine Learning Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Machine-Learning-Engineer_JR-0000098991-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
@@ -60,14 +59,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Cryptography Infrastructure Engineer (Cybersecurity)](https://morganstanley.eightfold.ai/careers/job/549797336744) — DevOps / SRE · Glasgow, United Kingdom; Glasgow, Scotland, GB · 🛂 visa sponsor
 - [Infrastructure Security Engineer (Windows)](https://morganstanley.eightfold.ai/careers/job/549797298414) — DevOps / SRE · Glasgow, United Kingdom; Glasgow, Scotland, GB · 🛂 visa sponsor
 - [Senior Platform Engineer](https://morganstanley.eightfold.ai/careers/job/549798279798) — DevOps / SRE · Glasgow, United Kingdom; Glasgow, Scotland, GB · hybrid · 🛂 visa sponsor
-
-### [Capco](https://jobs.winterchill.xyz/?employer=Capco) (5)
-
-- [Senior Data Engineer - AWS](https://job-boards.greenhouse.io/capco/jobs/7675088) — Data Engineering · UK - Glasgow  · hybrid · 🛂 visa sponsor
-- [Principal Backend Developer (Java)](https://job-boards.greenhouse.io/capco/jobs/7681743) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
-- [Principal AWS Data Engineer](https://job-boards.greenhouse.io/capco/jobs/7681747) — Data Engineering · UK - Glasgow  · hybrid · 🛂 visa sponsor
-- [Lead AI Engineer](https://job-boards.greenhouse.io/capco/jobs/7712769) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
-- [Engineering Director](https://job-boards.greenhouse.io/capco/jobs/7675152) — Platform / Infrastructure · UK - Glasgow  · hybrid · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
@@ -92,6 +83,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Quality Engineering Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Glasgow/QA-Automation-Engineer---Scotland_R00322280) — Backend · Glasgow, United Kingdom · 🛂 visa sponsor
 - [Software Engineer - Scotland](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Glasgow/Software-Engineer---Scotland_R00325439) — Backend · Glasgow, United Kingdom · 🛂 visa sponsor
 
+### [Capco](https://jobs.winterchill.xyz/?employer=Capco) (4)
+
+- [Principal Backend Developer (Java)](https://job-boards.greenhouse.io/capco/jobs/7681743) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
+- [Principal AWS Data Engineer](https://job-boards.greenhouse.io/capco/jobs/7681747) — Data Engineering · UK - Glasgow  · hybrid · 🛂 visa sponsor
+- [Lead AI Engineer](https://job-boards.greenhouse.io/capco/jobs/7712769) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
+- [Engineering Director](https://job-boards.greenhouse.io/capco/jobs/7675152) — Platform / Infrastructure · UK - Glasgow  · hybrid · 🛂 visa sponsor
+
 ### [Motorola Solutions](https://jobs.winterchill.xyz/?employer=Motorola%20Solutions) (2)
 
 - [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4410973803/) — Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
@@ -109,6 +107,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Cruinn Consulting](https://jobs.winterchill.xyz/?employer=Cruinn%20Consulting) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4442164066/) — Data Engineering · £80,000/yr · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [ScottishPower](https://jobs.winterchill.xyz/?employer=ScottishPower) (1)
+
+- [AI Principal Developer](https://www.linkedin.com/jobs/view/4440134191/) — Backend · Up to £88,500/yr · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [Wissen Technology](https://jobs.winterchill.xyz/?employer=Wissen%20Technology) (1)
 

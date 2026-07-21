@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**32 open roles** · updated 2026-07-20
+**30 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -22,19 +22,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Technology - ML Ops Engineer](https://apply.workable.com/j/E801329139/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
-
-- [Senior Software Engineer, Core Experiences - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-leeds-united-kingdom-speechify-7946962) — Backend · Leeds, England, United Kingdom · remote
-- [Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-leeds-united-kingdom-speechify-7947083) — Backend · Leeds, England, United Kingdom
-- [Software Engineer, Platform - Leeds, United Kingdom](https://startup.jobs/software-engineer-platform-leeds-united-kingdom-speechify-7960207) — Backend · Leeds, England, United Kingdom
-- [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-leeds-united-kingdom-speechify-7947278) — Backend · Leeds, England, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-leeds-united-kingdom-speechify-7960083) — Backend · Leeds, England, United Kingdom
-
 ### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (3)
 
 - [Senior Data Scientist, Game Analytics](https://job-boards.greenhouse.io/rockstargames/jobs/7638027003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Analytics Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7650920003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
+
+- [Software Engineer, Platform - Leeds, United Kingdom](https://startup.jobs/software-engineer-platform-leeds-united-kingdom-speechify-7960207) — Backend · Leeds, England, United Kingdom
+- [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-leeds-united-kingdom-speechify-7947278) — Backend · Leeds, England, United Kingdom · remote
+- [Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-leeds-united-kingdom-speechify-7960083) — Backend · Leeds, England, United Kingdom
 
 ### [Fanatics Betting & Gaming](https://jobs.winterchill.xyz/?employer=Fanatics%20Betting%20%26%20Gaming) (2)
 

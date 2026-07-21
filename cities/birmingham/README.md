@@ -1,12 +1,12 @@
 # Software &amp; IT careers in Birmingham
 
-**46 open roles** · updated 2026-07-20
+**45 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Goldman Sachs](https://jobs.winterchill.xyz/?employer=Goldman%20Sachs) (8)
+### [Goldman Sachs](https://jobs.winterchill.xyz/?employer=Goldman%20Sachs) (9)
 
 - [Asset & Wealth Management - Full-Stack (Java) Software Engineer - Associate/Vice President - Birmingham](https://higher.gs.com/roles/173971_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Asset & Wealth Management - Software Engineer - Associate - Birmingham](https://higher.gs.com/roles/154094_GS_EARLY_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
@@ -15,6 +15,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Corporate Treasury - DevOps Engineer - Associate - Birmingham](https://higher.gs.com/roles/170574_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Asset & Wealth Management - Software Engineer - Vice President - Birmingham](https://higher.gs.com/roles/168774_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Asset & Wealth Management - Software Engineer, AI Platform and Services - Associate - Birmingham](https://higher.gs.com/roles/173968_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
+- [Controllers - Software Engineer - Associate / Vice President - Birmingham](https://higher.gs.com/roles/165223_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Asset & Wealth Management - Money Movement & Payment Rails, Software Engineering - Vice President - Birmingham](https://higher.gs.com/roles/173965_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 
 ### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (8)
@@ -27,14 +28,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior AI Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-AI-Engineer_JR_17716/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Security-Engineer_JR_17662/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer - AWS](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer---AWS_JR_17658/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
-
-### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (5)
-
-- [Network Engineer](https://nttdata.jobs/vacancies/7273?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
-- [Unix / Linux Engineer](https://nttdata.jobs/vacancies/7313?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
-- [IT Cloud Infrastructure Engineer](https://nttdata.jobs/vacancies/7270?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
-- [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
-- [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
@@ -66,6 +59,16 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Airflow/ Cloud Engineer (Workload Automation)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-Airflow--Cloud-Engineer--Workload-Automation-_R0441573-1) — DevOps / SRE · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior ServiceNow Developer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-ServiceNow-Developer_R0423603-1) — Backend · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [NTT Data](https://jobs.winterchill.xyz/?employer=NTT%20Data) (2)
+
+- [Network Engineer](https://nttdata.jobs/vacancies/7273?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
+- [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
+
+### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (2)
+
+- [Unix / Linux Engineer](https://nttdata.jobs/vacancies/7313?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
+- [IT Cloud Infrastructure Engineer](https://nttdata.jobs/vacancies/7270?utm_medium=phenom&utm_source=OneNTTCareerPage) — Birmingham, United Kingdom · 🛂 visa sponsor
+
 ### [Worldpay](https://jobs.winterchill.xyz/?employer=Worldpay) (2)
 
 - [Senior Web Developer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/BIRMINGHAM--UNITED-KINGDOM/Senior-Web-Developer_JR0610173-1) — Backend · BIRMINGHAM, , UNITED KINGDOM, United Kingdom · hybrid · 🛂 visa sponsor
@@ -82,10 +85,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
 
 - [Analytics Engineer](https://dataengineeringjobs.co.uk/jobs/analytics-engineer-hays-technology-birmingham) — £36,636–£46,049/yr · Birmingham, West Midlands (county) · hybrid
-
-### [Intellect Group](https://jobs.winterchill.xyz/?employer=Intellect%20Group) (1)
-
-- [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4437760732/) — Backend · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Lovey](https://jobs.winterchill.xyz/?employer=Lovey) (1)
 

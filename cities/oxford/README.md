@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**39 open roles** · updated 2026-07-20
+**37 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -71,14 +71,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [develop](https://jobs.winterchill.xyz/?employer=develop) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4435655387/) — Data Engineering · Up to £65,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Elsevier Editora Limiteda Company](https://jobs.winterchill.xyz/?employer=Elsevier%20Editora%20Limiteda%20Company) (1)
-
-- [Senior Java/Angular/React Full Stack Software Engineer](https://startup.jobs/senior-java-angular-react-full-stack-software-engineer-elsevier-editora-limiteda-co-8477938) — Backend · Oxford, England, United Kingdom
-
-### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
-
-- [Senior Azure Cloud Engineer](https://dataengineeringjobs.co.uk/jobs/senior-azure-cloud-engineer-harnham-data-and-analytics-recruitment-oxford) — DevOps / SRE · £70,000–£80,000/yr · Oxford, England · hybrid
 
 ### [Matterhorn Studio](https://jobs.winterchill.xyz/?employer=Matterhorn%20Studio) (1)
 

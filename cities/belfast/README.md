@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Belfast
 
-**66 open roles** · updated 2026-07-20
+**64 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -59,10 +59,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior QA Engineer](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-QA-Engineer_R5498) — DevOps / SRE · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer (Back-End)](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-Software-Engineer--Back-End-_R5500) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
-- [Software Engineer, Platform - Belfast, United Kingdom](https://startup.jobs/software-engineer-platform-belfast-united-kingdom-speechify-7947441) — Backend · Belfast, Northern Ireland, United Kingdom
-- [Senior Software Engineer, Windows/Desktop Applications - Belfast, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-belfast-united-kingdom-speechify-7947002) — Backend · Belfast, Northern Ireland, United Kingdom
 - [Software Engineer, iOS Core Product - Belfast, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-belfast-united-kingdom-speechify-7947141) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Belfast, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-belfast-united-kingdom-speechify-7982490) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Belfast, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-belfast-united-kingdom-speechify-7982607) — Backend · Belfast, Northern Ireland, United Kingdom

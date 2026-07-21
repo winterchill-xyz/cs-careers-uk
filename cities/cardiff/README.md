@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**16 open roles** · updated 2026-07-20
+**15 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -44,10 +44,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [SRT Marine Systems plc](https://jobs.winterchill.xyz/?employer=SRT%20Marine%20Systems%20plc) (1)
 
 - [Software Engineer - System Monitoring Platform](https://startup.jobs/software-engineer-system-monitoring-platform-srt-marine-systems-plc-8153433) — Backend · Cardiff, Wales, United Kingdom
-
-### [Vivo Talent Solutions](https://jobs.winterchill.xyz/?employer=Vivo%20Talent%20Solutions) (1)
-
-- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4437804649/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

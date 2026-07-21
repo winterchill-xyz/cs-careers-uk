@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**28 open roles** · updated 2026-07-20
+**26 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -19,8 +19,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (5)
 
-- [Lead Test Engineer](https://jobs.lever.co/scottlogic/a32bebfc-72f2-4758-be8a-f9803dc53798) — Backend · Newcastle · hybrid · 🛂 visa sponsor
 - [Senior Test Engineer](https://jobs.lever.co/scottlogic/c0b75d50-8d72-4ccd-ae96-ce658857d13e) — Backend · Newcastle · hybrid · 🛂 visa sponsor
+- [Lead Test Engineer](https://jobs.lever.co/scottlogic/a32bebfc-72f2-4758-be8a-f9803dc53798) — Backend · Newcastle · hybrid · 🛂 visa sponsor
 - [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
 - [Graduate Test Engineer](https://jobs.lever.co/scottlogic/d173c70a-2384-46c2-b55f-7604cee66522) — Backend · Newcastle · remote · 🛂 visa sponsor
 - [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60) — Backend · Newcastle · remote · 🛂 visa sponsor
@@ -49,7 +49,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
 
-- [Frontend Developer](https://www.linkedin.com/jobs/view/4441980005/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4441980005/) — Backend · £60,000–£85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Rise Technical Recruitment](https://jobs.winterchill.xyz/?employer=Rise%20Technical%20Recruitment) (1)
 
@@ -58,14 +58,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Scrumconnect Consulting](https://jobs.winterchill.xyz/?employer=Scrumconnect%20Consulting) (1)
 
 - [Lead Software developer (Angular & Node.js)](https://www.linkedin.com/jobs/view/4438714306/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [Siemens Gamesa](https://jobs.winterchill.xyz/?employer=Siemens%20Gamesa) (1)
-
-- [Digitalisation Intern](https://www.linkedin.com/jobs/view/4437378924/) — £26,436/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
-
-- [Data Engineer - May 2026](https://dataengineeringjobs.co.uk/jobs/data-engineer-may-2026-tenth-revolution-group-newcastle-upon-tyne) — Data Engineering · £45,000–£50,000/yr · Newcastle upon Tyne, England · hybrid
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

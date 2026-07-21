@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**78 open roles** · updated 2026-07-20
+**77 open roles** · updated 2026-07-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -66,11 +66,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior DevSecOps Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Senior-DevSecOps-Engineer_R0005323) — DevOps / SRE · GB - Bristol - Coldharbour Lane, United Kingdom · hybrid · 🛂 visa sponsor
 - [Graduate Platform Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Graduate-Platform-Engineer_R0022728) — DevOps / SRE · GB - Bristol - Coldharbour Lane, United Kingdom · remote · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
 - [Senior Software Engineer, Windows/Desktop Applications - Bristol, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-bristol-united-kingdom-speechify-7954855) — Backend · Bristol, England, United Kingdom
-- [Senior Software Engineer, Core Experiences - Bristol, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-bristol-united-kingdom-speechify-7946943) — Backend · Bristol, England, United Kingdom · remote
-- [Software Engineer, Data Infrastructure & Acquisition - Bristol, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-bristol-united-kingdom-speechify-7947063) — Backend · Bristol, England, United Kingdom
 - [Software Engineer, Platform - Bristol, United Kingdom](https://startup.jobs/software-engineer-platform-bristol-united-kingdom-speechify-7936596) — Backend · Bristol, England, United Kingdom
 - [Software Engineer, iOS Core Product - Bristol, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-bristol-united-kingdom-speechify-7947162) — Backend · Bristol, England, United Kingdom · remote
 
@@ -107,6 +105,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Jump Trading](https://jobs.winterchill.xyz/?employer=Jump%20Trading) (1)
 
 - [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837) — Backend · Bristol · 🛂 visa sponsor
+
+### [Just Eat Takeaway.com](https://jobs.winterchill.xyz/?employer=Just%20Eat%20Takeaway.com) (1)
+
+- [Android Engineer](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Bristol-Office/Android-Engineer_R_051535) — Backend · Bristol Office, United Kingdom · 🛂 visa sponsor
 
 ### [Leidos](https://jobs.winterchill.xyz/?employer=Leidos) (1)
 
