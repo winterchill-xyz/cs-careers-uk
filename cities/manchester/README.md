@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Manchester
 
-**104 open roles** · updated 2026-07-21
+**102 open roles** · updated 2026-07-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Manchester)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -57,8 +57,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Staff Front End Engineer](https://jobs.lever.co/matillion/f559c761-16c5-498e-951d-e3f8ff31743a) — Frontend · £76,000–£114,000/yr · Manchester · hybrid · 🛂 visa sponsor
 - [Senior Staff Software Engineer](https://jobs.lever.co/matillion/aef0cd87-6885-4a30-9e53-aee671edddd6) — Backend · £76,000–£114,000/yr · Manchester · hybrid · 🛂 visa sponsor
-- [Staff QA Engineer (AI)](https://jobs.lever.co/matillion/d08101cc-3465-4694-b0b5-1602338a9978) — ML / AI Engineering · £66,000–£99,000/yr · Manchester · hybrid · 🛂 visa sponsor
 - [Senior Java Developer](https://jobs.lever.co/matillion/e3f4ab6c-b513-4024-9bb0-39f42ce913b4) — Backend · £59,600–£89,400/yr · Manchester · hybrid · 🛂 visa sponsor
+- [Associate Software Engineer](https://jobs.lever.co/matillion/62ae3359-b2ea-43bc-bed7-574e939f66e2) — Backend · £32,240–£48,360/yr · Manchester · hybrid · 🛂 visa sponsor
 - [Senior AI Engineering Manager](https://jobs.lever.co/matillion/70915dd3-0012-4708-9870-6be6acbf72f1) — Backend · Manchester · 🛂 visa sponsor
 
 ### [Auto Trader](https://jobs.winterchill.xyz/?employer=Auto%20Trader) (4)
@@ -156,13 +156,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Java Software Engineer II - Backend (for Temp workers)](https://www.linkedin.com/jobs/view/4440900357/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
 
-### [DXC Technology](https://jobs.winterchill.xyz/?employer=DXC%20Technology) (1)
-
-- [Cloud Applications Developer HSS](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---LAN---MANCHESTER/Cloud-Applications-Developer-HSS_51553716) — Backend · GBR - LAN - MANCHESTER, United Kingdom · 🛂 visa sponsor
-
 ### [Envitia](https://jobs.winterchill.xyz/?employer=Envitia) (1)
 
 - [Software Engineer - Security & Intelligence](https://startup.jobs/software-engineer-security-intelligence-envitia-8214812) — Backend · Manchester, England, United Kingdom
+
+### [Forward Role](https://jobs.winterchill.xyz/?employer=Forward%20Role) (1)
+
+- [Data Engineering Manager - Manchester](https://dataengineeringjobs.co.uk/jobs/data-engineering-manager-manchester-forward-role-manchester) — Data Engineering · £75,000–£88,000/yr · Manchester, England · hybrid
 
 ### [GBV Ltd](https://jobs.winterchill.xyz/?employer=GBV%20Ltd) (1)
 
@@ -188,10 +188,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [TEST Software Engineer I](https://jobs.ashbyhq.com/krakentech/97c79eb2-b3e8-43ad-946d-6652cc7388aa) — Backend · Manchester, UK · 🛂 visa sponsor
 
-### [Manchester Digital](https://jobs.winterchill.xyz/?employer=Manchester%20Digital) (1)
-
-- [Director of Engineering - Home Office - SCS2](https://www.linkedin.com/jobs/view/4436557708/) — Manchester, England, United Kingdom · 🛂 visa sponsor
-
 ### [MONY Group PLC](https://jobs.winterchill.xyz/?employer=MONY%20Group%20PLC) (1)
 
 - [Senior Software Engineer (Frontend)](https://www.linkedin.com/jobs/view/4438259470/) — Backend · Manchester Area, United Kingdom · hybrid · 🛂 visa sponsor
@@ -215,10 +211,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Recann](https://jobs.winterchill.xyz/?employer=Recann) (1)
 
 - [Chief Technology Officer](https://www.linkedin.com/jobs/view/4441457225/) — DevOps / SRE · £100,000–£130,000/yr · Manchester Area, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [REPLY](https://jobs.winterchill.xyz/?employer=REPLY) (1)
-
-- [Graduate AI Software Developer](https://www.linkedin.com/jobs/view/4437293328/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
 
 ### [See Change](https://jobs.winterchill.xyz/?employer=See%20Change) (1)
 

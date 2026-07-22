@@ -1,19 +1,21 @@
 # Software &amp; IT careers in Reading
 
-**37 open roles** · updated 2026-07-21
+**33 open roles** · updated 2026-07-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [ECMWF](https://jobs.winterchill.xyz/?employer=ECMWF) (3)
+### [ECMWF](https://jobs.winterchill.xyz/?employer=ECMWF) (4)
 
 - [User Services Specialist](https://uk.indeed.com/viewjob?jk=aead98d34f9da1c4) — Research / Applied Science · £76,384–£91,754/yr · Reading, United Kingdom · hybrid
 - [Cloud Platform Engineer](https://uk.indeed.com/viewjob?jk=8047a3f850302016) — DevOps / SRE · £72,471–£76,384/yr · Reading, United Kingdom · hybrid
+- [Research Software Engineer - Scientific Data Encoding and Decoding](https://uk.indeed.com/viewjob?jk=972bb2aff78a912e) — Backend · Reading, United Kingdom
 - [AI & Automation Specialist](https://uk.indeed.com/viewjob?jk=ad9cc32a96470218) — ML / AI Engineering · Reading, United Kingdom · hybrid
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
 
+- [Go-to-Market - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=bc42957b0d5b784b) — Backend · Reading, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=4da5cd97f30011cf) — Backend · Reading, United Kingdom
 - [Senior Software Engineer, Core Experiences - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=9986c88095c42951) — Backend · Reading, United Kingdom · remote
 - [Software Engineer, iOS Core Product - Reading, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-reading-united-kingdom-speechify-7947349) — Backend · Reading, England, United Kingdom · remote
@@ -22,16 +24,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Junior Prompt Engineer](https://www.linkedin.com/jobs/view/4437986510/) — Backend · £45,000–£60,000/yr · Reading, England, United Kingdom · hybrid
 - [Junior AI Engineer](https://www.linkedin.com/jobs/view/4437991416/) — Backend · £40,000–£55,000/yr · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Humand Talent](https://jobs.winterchill.xyz/?employer=Humand%20Talent) (2)
-
-- [Software Developer (Product Focused) -  up to £80,000 - ID49811](https://www.linkedin.com/jobs/view/4434571140/) — Backend · Up to £80,000/yr · Reading, England, United Kingdom
-- [Product Software Engineer -  up to £80,000 - ID49811](https://www.linkedin.com/jobs/view/4434568238/) — Backend · Up to £80,000/yr · Reading, England, United Kingdom
-
-### [NewOrbit Space](https://jobs.winterchill.xyz/?employer=NewOrbit%20Space) (2)
-
-- [AOCS Engineer](https://www.linkedin.com/jobs/view/4379948484/) — Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Flight Software Engineer](https://www.linkedin.com/jobs/view/4412787685/) — Backend · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (1)
 
@@ -45,10 +37,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Connectivity Specialist (South West)](https://uk.indeed.com/viewjob?jk=282ce947ff7b2c67) — Reading, United Kingdom · remote
 
-### [bp](https://jobs.winterchill.xyz/?employer=bp) (1)
-
-- [Senior Technologist - Data Management](https://uk.indeed.com/viewjob?jk=e7eb90eb34043b21) — Data Engineering · Reading, United Kingdom · remote · 🛂 visa sponsor
-
 ### [CloudFactory](https://jobs.winterchill.xyz/?employer=CloudFactory) (1)
 
 - [Senior Product Manager](https://uk.indeed.com/viewjob?jk=9d28fe1cab9f86a0) — Reading, United Kingdom
@@ -61,10 +49,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Sr. Corporate Sales Engineer](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Reading/Sr-Corporate-Sales-Engineer_R29269) — Solutions / Customer Engineering · United Kingdom - Reading, United Kingdom · 🛂 visa sponsor
 
-### [CyberSentriq](https://jobs.winterchill.xyz/?employer=CyberSentriq) (1)
-
-- [Account Manager](https://uk.indeed.com/viewjob?jk=d3db6cf7673e8b23) — Reading, United Kingdom
-
 ### [Devopster IT Consultants Ltd](https://jobs.winterchill.xyz/?employer=Devopster%20IT%20Consultants%20Ltd) (1)
 
 - [Splunk Admin](https://uk.indeed.com/viewjob?jk=853554a22b4a7895) — £300–£350/day · Reading, United Kingdom · hybrid
@@ -76,10 +60,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [IQVIA](https://jobs.winterchill.xyz/?employer=IQVIA) (1)
 
 - [Data Standards Engineer (CDISC)](https://uk.indeed.com/viewjob?jk=8c5486af058331e0) — Reading, United Kingdom · 🛂 visa sponsor
-
-### [Kantar](https://jobs.winterchill.xyz/?employer=Kantar) (1)
-
-- [Senior Data Scientist](https://www.linkedin.com/jobs/view/4425534495/) — Backend · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Mondelēz International](https://jobs.winterchill.xyz/?employer=Mondel%C4%93z%20International) (1)
 
@@ -116,6 +96,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [SSE PLC](https://jobs.winterchill.xyz/?employer=SSE%20PLC) (1)
 
 - [Senior Security Architect](https://uk.indeed.com/viewjob?jk=8fe6577e09173b2b) — DevOps / SRE · £59,800–£89,800/yr · Reading, United Kingdom
+
+### [Super Micro Computer, Inc.](https://jobs.winterchill.xyz/?employer=Super%20Micro%20Computer%2C%20Inc.) (1)
+
+- [(Sr.) Sales Manager](https://uk.indeed.com/viewjob?jk=70e16f00ebe1e4b9) — Reading, United Kingdom
 
 ### [Toca.io](https://jobs.winterchill.xyz/?employer=Toca.io) (1)
 

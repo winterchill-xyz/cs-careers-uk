@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**15 open roles** · updated 2026-07-21
+**16 open roles** · updated 2026-07-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -13,6 +13,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Core Experiences - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-cardiff-united-kingdom-speechify-7936427) — Backend · Cardiff, Wales, United Kingdom · remote
 - [Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-cardiff-united-kingdom-speechify-7960063) — Backend · Cardiff, Wales, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Cardiff, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-cardiff-united-kingdom-speechify-7936542) — Backend · Cardiff, Wales, United Kingdom
+
+### [Hays Specialist Recruitment](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment) (2)
+
+- [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-specialist-recruitment-cardiff) — £70,000–£80,000/yr · Cardiff, Cymru / Wales · hybrid
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-hays-specialist-recruitment-cardiff) — Data Engineering · £50,000–£55,000/yr · Cardiff, Cymru / Wales · hybrid
 
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (2)
 
@@ -36,10 +41,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Hays](https://jobs.winterchill.xyz/?employer=Hays) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4442110767/) — Data Engineering · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Hays Specialist Recruitment](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment) (1)
-
-- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-hays-specialist-recruitment-cardiff) — Data Engineering · £50,000–£55,000/yr · Cardiff, Cymru / Wales · hybrid
 
 ### [SRT Marine Systems plc](https://jobs.winterchill.xyz/?employer=SRT%20Marine%20Systems%20plc) (1)
 

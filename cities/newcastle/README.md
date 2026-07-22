@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**26 open roles** · updated 2026-07-21
+**25 open roles** · updated 2026-07-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -38,10 +38,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Security Firmware/FPGA Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Security-Firmware-FPGA-Engineer_R0026984) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Electronic Engineers - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Electronic-Engineers---all-levels_R0015649) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Embedded Design Engineer -  FPGA Academy](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Catalyst](https://jobs.winterchill.xyz/?employer=Catalyst) (1)
-
-- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-catalyst-newcastle-upon-tyne) — Data Engineering · Newcastle upon Tyne, Tyne & Wear
 
 ### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (1)
 
