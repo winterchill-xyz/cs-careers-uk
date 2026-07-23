@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**16 open roles** · updated 2026-07-22
+**16 open roles** · updated 2026-07-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -36,7 +36,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (1)
 
-- [Engineering Manager](https://www.linkedin.com/jobs/view/4430581406/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Engineering Manager](https://www.linkedin.com/jobs/view/4430581406/) — Engineering Management · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Hays](https://jobs.winterchill.xyz/?employer=Hays) (1)
 

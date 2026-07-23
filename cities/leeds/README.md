@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**30 open roles** · updated 2026-07-22
+**29 open roles** · updated 2026-07-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -18,7 +18,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [NLP Data Scientist - Customer Intelligence](https://apply.workable.com/j/88E539A7B2/apply) — Data Engineering · £60,000–£75,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [QA Test Engineer](https://apply.workable.com/j/E1AC3F578F/apply) — Frontend · Up to £55,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [IT Support Engineer](https://apply.workable.com/j/4D88E2C545/apply) — £35,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Machine Learning Operations Engineer](https://apply.workable.com/j/C0F4CEE583/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Technology - ML Ops Engineer](https://apply.workable.com/j/E801329139/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
@@ -42,7 +42,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (2)
 
 - [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Microsoft 365 Engineer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Microsoft-365-Engineer_JR0657) — Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Microsoft 365 Engineer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Microsoft-365-Engineer_JR0657) — Enterprise / Business Systems Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
@@ -59,10 +59,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 
 - [Senior Python Developer](https://www.linkedin.com/jobs/view/4431175694/) — Backend · Leeds, England, United Kingdom · hybrid
-
-### [Corecom Consulting](https://jobs.winterchill.xyz/?employer=Corecom%20Consulting) (1)
-
-- [Director of Engineering](https://www.linkedin.com/jobs/view/4436617738/) — £120,000–£150,000/yr · Greater Leeds Area · remote · 🛂 visa sponsor
 
 ### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (1)
 
@@ -82,7 +78,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [TechShack](https://jobs.winterchill.xyz/?employer=TechShack) (1)
 
-- [Principal Engineer](https://www.linkedin.com/jobs/view/4441936905/) — £90,000–£110,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4441936905/) — Solutions / Customer Engineering · £90,000–£110,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
