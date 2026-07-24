@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**43 open roles** · updated 2026-07-23
+**40 open roles** · updated 2026-07-24
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -17,10 +17,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Asset & Wealth Management - Software Engineer, AI Platform and Services - Associate - Birmingham](https://higher.gs.com/roles/173968_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Controllers - Software Engineer - Associate / Vice President - Birmingham](https://higher.gs.com/roles/165223_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 
-### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (8)
+### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (7)
 
 - [Platform Engineer (Platform Academy) - Birmingham](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Platform-Engineer--Platform-Academy----Birmingham_JR_18077/apply) — Platform / Infrastructure · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
-- [Senior Platform Engineer - Azure](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer---Azure_JR_18054/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Principal AI Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Principal-AI-Engineer_JR_17994/apply) — ML / AI Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Test Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Test-Engineer_JR_17990/apply) — QA / Test Automation · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer (GCP)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer--GCP-_JR_17829/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
@@ -36,7 +35,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Windows/Desktop Applications - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-birmingham-united-kingdom-speechify-7936477) — Backend · Birmingham, England, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-speechify-7960123) — Backend · Birmingham, England, United Kingdom
 
-### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (4)
+### [NTT Data](https://jobs.winterchill.xyz/?employer=NTT%20Data) (4)
 
 - [Unix / Linux Engineer](https://nttdata.jobs/vacancies/7313?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
 - [IT Cloud Infrastructure Engineer](https://nttdata.jobs/vacancies/7270?utm_medium=phenom&utm_source=OneNTTCareerPage) — Platform / Infrastructure · Birmingham, United Kingdom · 🛂 visa sponsor
@@ -76,10 +75,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer C++](https://startup.jobs/software-engineer-c-autodesk-canada-co-8786897) — Birmingham, England, United Kingdom
 
-### [BullionByPost](https://jobs.winterchill.xyz/?employer=BullionByPost) (1)
-
-- [Software Developer](https://www.linkedin.com/jobs/view/4440948778/) — Backend · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
-
 ### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
 
 - [Analytics Engineer](https://dataengineeringjobs.co.uk/jobs/analytics-engineer-hays-technology-birmingham) — £36,636–£46,049/yr · Birmingham, West Midlands (county) · hybrid
@@ -88,13 +83,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graduate Full Stack Software Engineer](https://startup.jobs/graduate-full-stack-software-engineer-lovey-8366953) — Backend · Up to £30,000/yr · Birmingham, England, United Kingdom · hybrid
 
-### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
+### [Rise Technical Recruitment](https://jobs.winterchill.xyz/?employer=Rise%20Technical%20Recruitment) (1)
 
-- [Senior Quantexa Data Engineer - Birmingham](https://dataengineeringjobs.co.uk/jobs/senior-quantexa-data-engineer-birmingham-noir-birmingham) — Data Engineering · £60,000–£75,000/yr · Birmingham, England · hybrid
-
-### [Thermo Fisher Scientific](https://jobs.winterchill.xyz/?employer=Thermo%20Fisher%20Scientific) (1)
-
-- [AI Developer](https://www.linkedin.com/jobs/view/4435959045/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Industrial Software Engineer](https://dataengineeringjobs.co.uk/jobs/industrial-software-engineer-rise-technical-recruitment-birmingham) — £40,000–£45,000/yr · Birmingham, England
 
 ### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
 

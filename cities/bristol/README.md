@@ -1,13 +1,15 @@
 # Software &amp; IT careers in Bristol
 
-**65 open roles** · updated 2026-07-23
+**70 open roles** · updated 2026-07-24
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (24)
+### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (26)
 
+- [Hardware System Test Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8646834002) — QA / Test Automation · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
+- [Principal Hardware System Test Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8646786002) — QA / Test Automation · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
 - [PyTorch Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8630718002) — Backend · Bristol, UK · 🛂 visa sponsor
 - [Senior Software Engineer - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8537660002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Silicon Verification Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8617852002) — Embedded / Robotics · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
@@ -18,17 +20,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Hardware System Test Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8605424002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Debug Validation Engineer — Multiple Levels](https://job-boards.greenhouse.io/graphcore/jobs/8597205002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Staff Software Engineer - Analysis Tools](https://job-boards.greenhouse.io/graphcore/jobs/8556269002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
-- [Staff Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8558651002) — DevOps / SRE · Bristol, UK; Cambridge, UK; Gdańsk, Pomeranian Voivodeship, Poland · 🛂 visa sponsor
 - [Software Infrastructure Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8554852002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Software Engineer - Triton](https://job-boards.greenhouse.io/graphcore/jobs/8466438002) — Backend · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
-- [Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8557915002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
-- [Senior Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8558195002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
+- [Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8556059002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
+- [Staff Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8558195002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
+- [Senior Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8557872002) — DevOps / SRE · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
 - [Senior Cloud Platform Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8491246002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Senior Cloud Network Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8532823002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Senior Cloud Engineer (K8S)](https://job-boards.greenhouse.io/graphcore/jobs/8532820002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
-- [Post Silicon Validation Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8223577002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
-- [Engineering Lab Infrastructure Lead](https://job-boards.greenhouse.io/graphcore/jobs/8539141002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
-- …and 4 more at Graphcore — see [`jobs.json`](jobs.json)
+- …and 6 more at Graphcore — see [`jobs.json`](jobs.json)
 
 ### [Leonardo](https://jobs.winterchill.xyz/?employer=Leonardo) (8)
 
@@ -90,6 +90,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Mobile Software Engineer – iOS](https://startup.jobs/senior-mobile-software-engineer-ios-comply365-8270274) — Backend · Bristol, England, United Kingdom
 
+### [Computershare UK](https://jobs.winterchill.xyz/?employer=Computershare%20UK) (1)
+
+- [Senior Test Manager](https://www.linkedin.com/jobs/view/4442633885/) — Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (1)
 
 - [Application Security Engineer (London or Bristol)](https://apply.workable.com/j/96ED82800F/apply) — DevOps / SRE · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
@@ -114,6 +118,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Lead Full Stack Software Developer](https://dataengineeringjobs.co.uk/jobs/lead-full-stack-software-developer-spectrum-it-recruitment-bristol) — Backend · £80,000–£100,000/yr · Bristol, England · hybrid
 
+### [Tria](https://jobs.winterchill.xyz/?employer=Tria) (1)
+
+- [Full Stack Developer](https://www.linkedin.com/jobs/view/4443838539/) — Backend · £55,000–£60,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [Tumelo](https://jobs.winterchill.xyz/?employer=Tumelo) (1)
 
 - [Software Engineer (Data)](https://startup.jobs/software-engineer-data-tumelo-8172817) — Backend · £50,000–£65,000/yr · Bristol, England, United Kingdom · remote · 🛂 visa sponsor
@@ -121,6 +129,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Valtech](https://jobs.winterchill.xyz/?employer=Valtech) (1)
 
 - [Head of Mobile Engineering](https://job-boards.eu.greenhouse.io/valtech/jobs/4894760101) — Mobile · Bristol · 🛂 visa sponsor
+
+### [Viper Innovations Ltd](https://jobs.winterchill.xyz/?employer=Viper%20Innovations%20Ltd) (1)
+
+- [Operations Manager](https://www.linkedin.com/jobs/view/4438629390/) — City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

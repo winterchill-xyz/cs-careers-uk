@@ -1,18 +1,10 @@
 # Software &amp; IT careers in Leeds
 
-**29 open roles** · updated 2026-07-23
+**28 open roles** · updated 2026-07-24
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
-
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (5)
-
-- [Lead Google Cloud Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) — DevOps / SRE · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Engineering Lead (Cryptography lab))](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Engineering-Lead--Cryptography-lab--_159018-1) — Platform / Infrastructure · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Azure Landing Zone Site Reliability Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud---AWS-Senior-Infrastructure-Engineer_151031) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Lead Quality Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Quality-Engineer_160228-1) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer - Cyber Security Configuration Assurance](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Senior-Software-Engineer---Cyber-Security-Configuration-Assurance_158334) — Backend · £63,152–£78,940/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (5)
 
@@ -21,6 +13,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Machine Learning Operations Engineer](https://apply.workable.com/j/C0F4CEE583/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Technology - ML Ops Engineer](https://apply.workable.com/j/E801329139/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (4)
+
+- [Lead Google Cloud Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) — DevOps / SRE · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Engineering Lead (Cryptography lab))](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Engineering-Lead--Cryptography-lab--_159018-1) — Platform / Infrastructure · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Azure Landing Zone Site Reliability Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud---AWS-Senior-Infrastructure-Engineer_151031) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Quality Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Quality-Engineer_160228-1) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (3)
 
@@ -56,21 +55,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4438321718/) — Data Engineering · £55,280–£62,190/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
+### [Homes England](https://jobs.winterchill.xyz/?employer=Homes%20England) (1)
 
-- [Senior Python Developer](https://www.linkedin.com/jobs/view/4431175694/) — Backend · Leeds, England, United Kingdom · hybrid
+- [Senior Product Manager](https://www.linkedin.com/jobs/view/4439253015/) — Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (1)
 
 - [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4419286687/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
-
-- [Senior Quantexa Data Engineer - Leeds](https://dataengineeringjobs.co.uk/jobs/senior-quantexa-data-engineer-leeds-noir-leeds) — Data Engineering · £60,000–£75,000/yr · Leeds, England · hybrid
-
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (1)
 
 - [Senior Data Engineer](https://jobs.lever.co/scottlogic/f8f7d9c1-af87-45cb-ab9b-c5ba358e244b) — Data Engineering · Leeds · 🛂 visa sponsor
+
+### [Scrumconnect Consulting](https://jobs.winterchill.xyz/?employer=Scrumconnect%20Consulting) (1)
+
+- [Senior PHP Developer](https://www.linkedin.com/jobs/view/4439219560/) — Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Simpro Software](https://jobs.winterchill.xyz/?employer=Simpro%20Software) (1)
 

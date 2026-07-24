@@ -1,30 +1,30 @@
 # UK Software &amp; IT Careers — daily index
 
-> A daily snapshot of **8,800 live software &amp; IT roles across the UK**, curated from **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/)** — a live board of high-paying, visa-sponsor UK tech jobs.
+> A daily snapshot of **8,476 live software &amp; IT roles across the UK**, curated from **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/)** — a live board of high-paying, visa-sponsor UK tech jobs.
 
 ### 👉 Browse the full live board: https://jobs.winterchill.xyz/
 
-_Updated 2026-07-23. Job titles link to the original posting; visit the board for full descriptions, salary estimates, visa-sponsorship signals, and to apply._
+_Updated 2026-07-24. Job titles link to the original posting; visit the board for full descriptions, salary estimates, visa-sponsorship signals, and to apply._
 
 ## Cities
 
 | City | Open roles | Index | Live |
 | --- | ---: | --- | --- |
-| London | 6,850 | [`cities/london/`](cities/london/) | [browse](https://jobs.winterchill.xyz/?city=London) |
-| Manchester | 98 | [`cities/manchester/`](cities/manchester/) | [browse](https://jobs.winterchill.xyz/?city=Manchester) |
-| Birmingham | 43 | [`cities/birmingham/`](cities/birmingham/) | [browse](https://jobs.winterchill.xyz/?city=Birmingham) |
-| Leeds | 29 | [`cities/leeds/`](cities/leeds/) | [browse](https://jobs.winterchill.xyz/?city=Leeds) |
-| Bristol | 65 | [`cities/bristol/`](cities/bristol/) | [browse](https://jobs.winterchill.xyz/?city=Bristol) |
-| Edinburgh | 88 | [`cities/edinburgh/`](cities/edinburgh/) | [browse](https://jobs.winterchill.xyz/?city=Edinburgh) |
+| London | 6,544 | [`cities/london/`](cities/london/) | [browse](https://jobs.winterchill.xyz/?city=London) |
+| Manchester | 96 | [`cities/manchester/`](cities/manchester/) | [browse](https://jobs.winterchill.xyz/?city=Manchester) |
+| Birmingham | 40 | [`cities/birmingham/`](cities/birmingham/) | [browse](https://jobs.winterchill.xyz/?city=Birmingham) |
+| Leeds | 28 | [`cities/leeds/`](cities/leeds/) | [browse](https://jobs.winterchill.xyz/?city=Leeds) |
+| Bristol | 70 | [`cities/bristol/`](cities/bristol/) | [browse](https://jobs.winterchill.xyz/?city=Bristol) |
+| Edinburgh | 87 | [`cities/edinburgh/`](cities/edinburgh/) | [browse](https://jobs.winterchill.xyz/?city=Edinburgh) |
 | Glasgow | 80 | [`cities/glasgow/`](cities/glasgow/) | [browse](https://jobs.winterchill.xyz/?city=Glasgow) |
-| Cambridge | 208 | [`cities/cambridge/`](cities/cambridge/) | [browse](https://jobs.winterchill.xyz/?city=Cambridge) |
-| Oxford | 34 | [`cities/oxford/`](cities/oxford/) | [browse](https://jobs.winterchill.xyz/?city=Oxford) |
+| Cambridge | 203 | [`cities/cambridge/`](cities/cambridge/) | [browse](https://jobs.winterchill.xyz/?city=Cambridge) |
+| Oxford | 33 | [`cities/oxford/`](cities/oxford/) | [browse](https://jobs.winterchill.xyz/?city=Oxford) |
 | Reading | 30 | [`cities/reading/`](cities/reading/) | [browse](https://jobs.winterchill.xyz/?city=Reading) |
 | Cardiff | 16 | [`cities/cardiff/`](cities/cardiff/) | [browse](https://jobs.winterchill.xyz/?city=Cardiff) |
 | Belfast | 68 | [`cities/belfast/`](cities/belfast/) | [browse](https://jobs.winterchill.xyz/?city=Belfast) |
-| Newcastle | 26 | [`cities/newcastle/`](cities/newcastle/) | [browse](https://jobs.winterchill.xyz/?city=Newcastle) |
-| Sheffield | 4 | [`cities/sheffield/`](cities/sheffield/) | [browse](https://jobs.winterchill.xyz/?city=Sheffield) |
-| Other / UK-wide | 1,161 | [`cities/other-uk-wide/`](cities/other-uk-wide/) | [browse](https://jobs.winterchill.xyz/?city=other) |
+| Newcastle | 27 | [`cities/newcastle/`](cities/newcastle/) | [browse](https://jobs.winterchill.xyz/?city=Newcastle) |
+| Sheffield | 3 | [`cities/sheffield/`](cities/sheffield/) | [browse](https://jobs.winterchill.xyz/?city=Sheffield) |
+| Other / UK-wide | 1,151 | [`cities/other-uk-wide/`](cities/other-uk-wide/) | [browse](https://jobs.winterchill.xyz/?city=other) |
 
 ## Formats
 
