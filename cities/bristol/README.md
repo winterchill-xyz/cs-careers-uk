@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**70 open roles** · updated 2026-07-24
+**67 open roles** · updated 2026-07-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -68,11 +68,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Platform - Bristol, United Kingdom](https://startup.jobs/software-engineer-platform-bristol-united-kingdom-speechify-7936596) — Backend · Bristol, England, United Kingdom
 - [Software Engineer, iOS Core Product - Bristol, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-bristol-united-kingdom-speechify-7947162) — Backend · Bristol, England, United Kingdom · remote
 
-### [One Big Circle Ltd](https://jobs.winterchill.xyz/?employer=One%20Big%20Circle%20Ltd) (2)
-
-- [Junior Application Software Engineer](https://www.linkedin.com/jobs/view/4401631621/) — Backend · £25,000–£32,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
-- [Junior Platform Software Developer](https://www.linkedin.com/jobs/view/4437682948/) — Backend · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
-
 ### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (2)
 
 - [Google Cloud Platform Data Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000137837249) — Backend · Bristol, United Kingdom · 🛂 visa sponsor
@@ -82,17 +77,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Scientist Associate Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bristol/Data-Sciencetist-Associate-Manager_R00322253-2) — Data Science / Analytics · Bristol, United Kingdom · 🛂 visa sponsor
 
-### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (1)
-
-- [AI Software Engineering Professional](https://www.linkedin.com/jobs/view/4441464501/) — Backend · Bristol, England, United Kingdom · remote · 🛂 visa sponsor
-
 ### [Comply365](https://jobs.winterchill.xyz/?employer=Comply365) (1)
 
 - [Senior Mobile Software Engineer – iOS](https://startup.jobs/senior-mobile-software-engineer-ios-comply365-8270274) — Backend · Bristol, England, United Kingdom
 
-### [Computershare UK](https://jobs.winterchill.xyz/?employer=Computershare%20UK) (1)
+### [Florza Resourcing](https://jobs.winterchill.xyz/?employer=Florza%20Resourcing) (1)
 
-- [Senior Test Manager](https://www.linkedin.com/jobs/view/4442633885/) — Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Junior Developer](https://www.linkedin.com/jobs/view/4441818359/) — Backend · £28,000–£35,000/yr · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (1)
 
@@ -105,6 +96,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Just Eat Takeaway.com](https://jobs.winterchill.xyz/?employer=Just%20Eat%20Takeaway.com) (1)
 
 - [Android Engineer](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Bristol-Office/Android-Engineer_R_051535) — Backend · Bristol Office, United Kingdom · 🛂 visa sponsor
+
+### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
+
+- [Principal Data Scientist](https://www.linkedin.com/jobs/view/4443960215/) — Data Engineering · Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (1)
 
@@ -129,10 +124,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Valtech](https://jobs.winterchill.xyz/?employer=Valtech) (1)
 
 - [Head of Mobile Engineering](https://job-boards.eu.greenhouse.io/valtech/jobs/4894760101) — Mobile · Bristol · 🛂 visa sponsor
-
-### [Viper Innovations Ltd](https://jobs.winterchill.xyz/?employer=Viper%20Innovations%20Ltd) (1)
-
-- [Operations Manager](https://www.linkedin.com/jobs/view/4438629390/) — City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

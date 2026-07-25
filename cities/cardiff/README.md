@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**16 open roles** · updated 2026-07-24
+**15 open roles** · updated 2026-07-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -16,7 +16,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Hays Specialist Recruitment](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment) (2)
 
-- [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-specialist-recruitment-cardiff) — £70,000–£80,000/yr · Cardiff, Cymru / Wales · hybrid
+- [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-specialist-recruitment-cardiff) — Data Engineering · £70,000–£80,000/yr · Cardiff, Cymru / Wales · hybrid
 - [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-hays-specialist-recruitment-cardiff) — Data Engineering · £50,000–£55,000/yr · Cardiff, Cymru / Wales · hybrid
 
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (2)
@@ -34,13 +34,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Java Software Engineer - Customer Services](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (1)
+### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
 
-- [Engineering Manager](https://www.linkedin.com/jobs/view/4430581406/) — Engineering Management · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Hays](https://jobs.winterchill.xyz/?employer=Hays) (1)
-
-- [Data Engineer](https://www.linkedin.com/jobs/view/4442110767/) — Data Engineering · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
+- [(RD) Engineering Team Lead (ETL)](https://www.linkedin.com/jobs/view/4435211891/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Vargo Group](https://jobs.winterchill.xyz/?employer=Vargo%20Group) (1)
 

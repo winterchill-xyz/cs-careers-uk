@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**33 open roles** · updated 2026-07-24
+**29 open roles** · updated 2026-07-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -60,25 +60,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [Global Canopy](https://jobs.winterchill.xyz/?employer=Global%20Canopy) (1)
-
-- [Research Associate - Nature Opportunities (x2)](https://www.linkedin.com/jobs/view/4443382466/) — £50,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Matterhorn Studio](https://jobs.winterchill.xyz/?employer=Matterhorn%20Studio) (1)
-
-- [Machine Learning Scientist (Open)](https://www.linkedin.com/jobs/view/4439508391/) — Data Engineering · Greater Oxford Area · remote · 🛂 visa sponsor
-
-### [ONI](https://jobs.winterchill.xyz/?employer=ONI) (1)
-
-- [Senior Software Engineer (Front End)](https://www.linkedin.com/jobs/view/4440549846/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 
 - [Scientific Software Engineer](https://startup.jobs/scientific-software-engineer-oxford-biotherapeutics-8168193) — Backend · £60,000–£80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Oxford Dynamics](https://jobs.winterchill.xyz/?employer=Oxford%20Dynamics) (1)
-
-- [Research Engineer](https://www.linkedin.com/jobs/view/4440591636/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
 

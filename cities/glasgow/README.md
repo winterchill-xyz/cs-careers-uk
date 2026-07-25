@@ -1,13 +1,18 @@
 # Software &amp; IT careers in Glasgow
 
-**80 open roles** · updated 2026-07-24
+**82 open roles** · updated 2026-07-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Glasgow)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (37)
+### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (41)
 
+- [Python Lead Software Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773428) — Backend · £76,500–£120,000/yr (est.) · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773786) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer - Java, React, AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773843) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Senior Lead Software Engineer - Java, React, AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773835) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Context Plane Python Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773809) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Java Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210761144) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Software Engineer II - Python](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210737203) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Site Reliability Engineer III - Chief Technology Office](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210757281) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
@@ -23,14 +28,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer III-GoLang, AWS & Kubernetes](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210763146) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - Java and Kafka](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210765485) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - Application Owner & Release Manager](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210757091) — Data Engineering · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer - Go / Python](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768580) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Senior Lead Software Engineer - Java](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210764980) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Lead Site Reliability Engineer – Operations Excellence](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210762282) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer - Trading Platforms](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210763862) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer - AWS / GCP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210757979) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- …and 17 more at JPMorgan — see [`jobs.json`](jobs.json)
+- …and 21 more at JPMorgan — see [`jobs.json`](jobs.json)
 
-### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (13)
+### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (12)
 
 - [Platform Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Platform-Engineer_JR-0000116479-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Senior  Data Platform Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior--Data-Platform-Developer_JR-0000099275-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
@@ -42,7 +42,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Forward Deployed AI Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Forward-Deployed-AI-Engineer_JR-0000101663) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Site Reliability Engineer (SRE)](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Site-Reliability-Engineer--SRE-_JR-0000102279-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Site Reliability Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Site-Reliability-Engineer_JR-0000111681) — Platform / Infrastructure · Glasgow Campus, United Kingdom · 🛂 visa sponsor
-- [Salesforce Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Salesforce-Developer_JR-0000101936) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Senior Full Stack Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Full-Stack-Engineer_JR-0000118735-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 - [Senior ServiceNow Developer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-ServiceNow-Developer_JR-0000089944-1) — Backend · Glasgow Campus, United Kingdom · 🛂 visa sponsor
 
@@ -89,10 +88,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer (.NET)](https://job-boards.eu.greenhouse.io/xdesign/jobs/4903567101) — Backend · Glasgow · hybrid · 🛂 visa sponsor
 - [Lead Software Engineer (.NET)](https://job-boards.eu.greenhouse.io/xdesign/jobs/4903633101) — Backend · Glasgow · hybrid · 🛂 visa sponsor
-
-### [Cruinn Consulting](https://jobs.winterchill.xyz/?employer=Cruinn%20Consulting) (1)
-
-- [Data Engineer](https://www.linkedin.com/jobs/view/4442164066/) — Data Engineering · £80,000/yr · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [ScottishPower](https://jobs.winterchill.xyz/?employer=ScottishPower) (1)
 

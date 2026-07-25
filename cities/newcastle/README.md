@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**27 open roles** · updated 2026-07-24
+**25 open roles** · updated 2026-07-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,8 +8,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (10)
 
-- [AI Software Engineering Associate Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/AI-Software-Engineering-Associate-Director_R00346145) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [Junior AI Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Junior-AI-Software-Engineer_R00346108) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
+- [AI Software Engineering Associate Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/AI-Software-Engineering-Associate-Director_R00346145) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [Senior Java Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-Java-Developer---Newcastle_R00337654) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-DevOps-Engineer---Newcastle_R00316554) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/DevOps-Engineer---Newcastle_R00289640) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
@@ -45,17 +45,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4415773612/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
-### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
-
-- [ICT Infrastructure Engineer](https://www.linkedin.com/jobs/view/4442188548/) — Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
 
-- [Frontend Developer](https://www.linkedin.com/jobs/view/4441980005/) — Backend · £60,000–£85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [Scrumconnect Consulting](https://jobs.winterchill.xyz/?employer=Scrumconnect%20Consulting) (1)
-
-- [Lead Software developer (Angular & Node.js)](https://www.linkedin.com/jobs/view/4438714306/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4444949860/) — Backend · £60,000–£85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

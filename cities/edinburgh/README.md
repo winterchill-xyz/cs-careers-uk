@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**87 open roles** · updated 2026-07-24
+**84 open roles** · updated 2026-07-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -45,15 +45,16 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java Engineer, Associate](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Edinburgh-Scotland/Java-Engineer--Aladdin-Engineering--Associate_R260209) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
 - [AI/ML - Platform Engineering, Associate](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Edinburgh-Scotland/AI-ML---Platform-Engineering--Vice-President_R263260) — Backend · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
 
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (8)
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (9)
 
-- [Lead Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Lead-Software-Engineer_157493-2) — Backend · £92,701–£169,043/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Data Scientist](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Lead-Data-Scientist_159847-2) — Backend · £92,701–£109,060/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Data Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Lead-Data-Engineer_159842-1) — Data Engineering · £92,701–£109,060/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Lead-Software-Engineer_157493-2) — Backend · £69,624–£104,436/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Senior-Software-Engineer_156606-1) — DevOps / SRE · £63,152–£94,728/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Infrastructure Engineer - Crypto Lab](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Infrastructure-Engineer---Crypto-Lab_159153-1) — DevOps / SRE · £48,987–£54,430/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Infrastructure Engineer (ZTNA)](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Infrastructure-Engineer--ZTNA-_159497-2) — DevOps / SRE · £48,987–£54,430/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [People Systems Power Apps Developer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/People-Systems-Power-Apps-Developer_159773-3) — £44,901–£49,890/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Engineer - Compliance Engineering](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Data-Engineer---Compliance-Engineering_158781-1) — Data Engineering · £36,224–£38,130/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Market Risk Engineering Developer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Market-Risk-Engineering-Developer_158275-2) — Backend · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
@@ -110,14 +111,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal AI Engineer, Edinburgh](https://jobs.ashbyhq.com/Multiverse/ea9bad61-4eed-4d07-ac00-35902f100bea) — Backend · Edinburgh · hybrid · 🛂 visa sponsor
 - [Senior AI Engineer, Edinburgh](https://jobs.ashbyhq.com/Multiverse/daa3c281-5ffc-467d-a831-5ea6e146ef4a) — Backend · Edinburgh · hybrid · 🛂 visa sponsor
 
-### [Capco](https://jobs.winterchill.xyz/?employer=Capco) (1)
-
-- [Backend Developer (Java)](https://job-boards.greenhouse.io/capco/jobs/7681740) — Backend · UK - Edinburgh · hybrid · 🛂 visa sponsor
-
-### [Change Digital – Digital & Tech Recruitment](https://jobs.winterchill.xyz/?employer=Change%20Digital%20%E2%80%93%20Digital%20%26%20Tech%20Recruitment) (1)
-
-- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4437660913/) — Data Engineering · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Ciena](https://jobs.winterchill.xyz/?employer=Ciena) (1)
 
 - [Software Engineering Intern (3-12 Months)](https://startup.jobs/software-engineering-intern-3-12-months-ciena-8785673) — Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
@@ -133,14 +126,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [LSEG](https://jobs.winterchill.xyz/?employer=LSEG) (1)
 
 - [Software Engineer - DevOps](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-Edinburgh-5th-Floor-Exchange-Tower/Software-Engineer---Python_R0112200) — Backend · GBR-Edinburgh-5th Floor, Exchange Tower, United Kingdom · 🛂 visa sponsor
-
-### [Malted](https://jobs.winterchill.xyz/?employer=Malted) (1)
-
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4440586219/) — Backend · £75,000–£125,000/yr · City Of Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
-
-### [Motorola Solutions](https://jobs.winterchill.xyz/?employer=Motorola%20Solutions) (1)
-
-- [Junior Back End Engineer](https://www.linkedin.com/jobs/view/4422655530/) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (1)
 

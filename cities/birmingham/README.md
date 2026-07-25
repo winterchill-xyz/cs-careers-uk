@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**40 open roles** · updated 2026-07-24
+**38 open roles** · updated 2026-07-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -47,11 +47,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Solution Director: Engineering](https://apply.workable.com/j/6E6FCDCD91/apply) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Lead Data Engineer](https://apply.workable.com/j/17CAB0E4CA/apply) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 
-### [Chapman Tate Associates](https://jobs.winterchill.xyz/?employer=Chapman%20Tate%20Associates) (2)
-
-- [Director of Software Engineering](https://www.linkedin.com/jobs/view/4438016749/) — Engineering Management · Up to £120,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Director of Technology](https://www.linkedin.com/jobs/view/4437278970/) — Full Stack · Up to £120,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
 ### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
 
 - [Senior Airflow/ Cloud Engineer (Workload Automation)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-Airflow--Cloud-Engineer--Workload-Automation-_R0441573-1) — DevOps / SRE · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
@@ -75,21 +70,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer C++](https://startup.jobs/software-engineer-c-autodesk-canada-co-8786897) — Birmingham, England, United Kingdom
 
-### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
+### [Cornerstone Group Holdings](https://jobs.winterchill.xyz/?employer=Cornerstone%20Group%20Holdings) (1)
 
-- [Analytics Engineer](https://dataengineeringjobs.co.uk/jobs/analytics-engineer-hays-technology-birmingham) — £36,636–£46,049/yr · Birmingham, West Midlands (county) · hybrid
+- [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4444389056/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Lovey](https://jobs.winterchill.xyz/?employer=Lovey) (1)
 
 - [Graduate Full Stack Software Engineer](https://startup.jobs/graduate-full-stack-software-engineer-lovey-8366953) — Backend · Up to £30,000/yr · Birmingham, England, United Kingdom · hybrid
 
+### [PwC](https://jobs.winterchill.xyz/?employer=PwC) (1)
+
+- [Data Engineer - Manager](https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Birmingham/Data-Engineer---Manager_714688WD/apply) — Data Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
+
 ### [Rise Technical Recruitment](https://jobs.winterchill.xyz/?employer=Rise%20Technical%20Recruitment) (1)
 
-- [Industrial Software Engineer](https://dataengineeringjobs.co.uk/jobs/industrial-software-engineer-rise-technical-recruitment-birmingham) — £40,000–£45,000/yr · Birmingham, England
-
-### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
-
-- [Senior Front End Developer (React)](https://www.linkedin.com/jobs/view/4437215905/) — Backend · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Industrial Software Engineer](https://dataengineeringjobs.co.uk/jobs/industrial-software-engineer-rise-technical-recruitment-birmingham) — Backend · £40,000–£45,000/yr · Birmingham, England
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
