@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Reading
 
-**28 open roles** · updated 2026-07-26
+**27 open roles** · updated 2026-07-27
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -44,13 +44,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Corporate Tax Associate Director](https://uk.indeed.com/viewjob?jk=d2d1d261a3a5835d) — Reading, United Kingdom
 
-### [CloudFactory](https://jobs.winterchill.xyz/?employer=CloudFactory) (1)
+### Company not listed (1)
 
-- [Senior Product Manager](https://uk.indeed.com/viewjob?jk=9d28fe1cab9f86a0) — Reading, United Kingdom
-
-### [Devopster IT Consultants Ltd](https://jobs.winterchill.xyz/?employer=Devopster%20IT%20Consultants%20Ltd) (1)
-
-- [Splunk Admin](https://uk.indeed.com/viewjob?jk=853554a22b4a7895) — DevOps / SRE · £300–£350/day · Reading, United Kingdom · hybrid
+- [Software Engineer](https://uk.indeed.com/viewjob?jk=37babdd6e8e98e78) — Backend · £38,000–£54,000/yr · Reading, United Kingdom
 
 ### [Dexory](https://jobs.winterchill.xyz/?employer=Dexory) (1)
 
