@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Reading
 
-**27 open roles** · updated 2026-07-27
+**28 open roles** · updated 2026-07-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -35,6 +35,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (1)
 
 - [Senior Data Engineer](https://apply.workable.com/j/3E21DF7A2A/apply) — Backend · Reading, United Kingdom · 🛂 visa sponsor
+
+### [AWE](https://jobs.winterchill.xyz/?employer=AWE) (1)
+
+- [Portfolio Analyst](https://uk.indeed.com/viewjob?jk=0caa4530de70f939) — Data Engineering · £39,500–£59,350/yr · Reading, United Kingdom
 
 ### [bcn group](https://jobs.winterchill.xyz/?employer=bcn%20group) (1)
 
@@ -72,9 +76,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Sales Engineer, UKI](https://uk.indeed.com/viewjob?jk=447bf955ee6735e9) — Solutions / Customer Engineering · Reading, United Kingdom
 
-### [SSE PLC](https://jobs.winterchill.xyz/?employer=SSE%20PLC) (1)
+### [Visa](https://jobs.winterchill.xyz/?employer=Visa) (1)
 
-- [Senior Security Architect](https://uk.indeed.com/viewjob?jk=8fe6577e09173b2b) — DevOps / SRE · £59,800–£89,800/yr · Reading, United Kingdom
+- [Software Engineer (Mid-Level)](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Senior-Software-Engineer_REF078607W) — Backend · GB - Reading, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Wireless Logic](https://jobs.winterchill.xyz/?employer=Wireless%20Logic) (1)
 

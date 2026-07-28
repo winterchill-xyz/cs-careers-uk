@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**35 open roles** · updated 2026-07-27
+**37 open roles** · updated 2026-07-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -54,6 +54,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Web Developer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/BIRMINGHAM--UNITED-KINGDOM/Senior-Web-Developer_JR0610173-1) — Backend · BIRMINGHAM, , UNITED KINGDOM, United Kingdom · hybrid · 🛂 visa sponsor
 - [Payment Terminal Software Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/BIRMINGHAM--UNITED-KINGDOM/Payment-Terminal-Software-Engineer_JR0610171) — Backend · BIRMINGHAM, , UNITED KINGDOM, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
+
+- [Cloud DevOps Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Birmingham/Cloud-DevOps-Engineer_R00347196) — DevOps / SRE · Birmingham, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Autodesk](https://jobs.winterchill.xyz/?employer=Autodesk) (1)
 
 - [Software Engineer C++](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1) — Backend · Birmingham, GBR, United Kingdom · hybrid · 🛂 visa sponsor
@@ -68,7 +72,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Dentro Talent](https://jobs.winterchill.xyz/?employer=Dentro%20Talent) (1)
 
-- [Salesforce Developer](https://www.linkedin.com/jobs/view/4443790490/) — £65,000–£75,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Salesforce Developer](https://www.linkedin.com/jobs/view/4443790490/) — Backend · £65,000–£75,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (1)
 
@@ -85,6 +89,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rise Technical Recruitment](https://jobs.winterchill.xyz/?employer=Rise%20Technical%20Recruitment) (1)
 
 - [Industrial Software Engineer](https://dataengineeringjobs.co.uk/jobs/industrial-software-engineer-rise-technical-recruitment-birmingham) — Backend · £40,000–£45,000/yr · Birmingham, England · hybrid
+
+### [TRIA](https://jobs.winterchill.xyz/?employer=TRIA) (1)
+
+- [Python Developer](https://www.linkedin.com/jobs/view/4442864607/) — Backend · £45,000–£50,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
