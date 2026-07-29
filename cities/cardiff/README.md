@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**12 open roles** · updated 2026-07-28
+**12 open roles** · updated 2026-07-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -26,9 +26,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Infrastructure Engineer (Database)](https://www.linkedin.com/jobs/view/4441584776/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Hays Specialist Recruitment](https://jobs.winterchill.xyz/?employer=Hays%20Specialist%20Recruitment) (1)
+### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (1)
 
-- [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-specialist-recruitment-cardiff) — Data Engineering · £70,000–£80,000/yr · Cardiff, Cymru / Wales · hybrid
+- [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
 
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (1)
 

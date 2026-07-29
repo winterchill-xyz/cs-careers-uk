@@ -1,17 +1,18 @@
 # Software &amp; IT careers in Oxford
 
-**29 open roles** · updated 2026-07-28
+**30 open roles** · updated 2026-07-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (6)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (7)
 
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4384233871/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435794718/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435789781/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4368089749/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 

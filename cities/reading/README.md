@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Reading
 
-**28 open roles** · updated 2026-07-28
+**34 open roles** · updated 2026-07-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -14,6 +14,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Data Infrastructure & Acquisition - Reading, United Kingdom](https://uk.indeed.com/viewjob?jk=4da5cd97f30011cf) — Backend · Reading, United Kingdom
 - [Software Engineer, iOS Core Product - Reading, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-reading-united-kingdom-speechify-7947349) — Backend · Reading, England, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Reading, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-reading-united-kingdom-speechify-7982528) — Backend · Reading, England, United Kingdom · remote
+
+### [ECMWF](https://jobs.winterchill.xyz/?employer=ECMWF) (3)
+
+- [Team Leader - Ensemble Modelling](https://uk.indeed.com/viewjob?jk=7c075fd13c0ecedb) — £94,251–£113,224/yr · Reading, United Kingdom
+- [Scientist for Ensemble Modelling](https://uk.indeed.com/viewjob?jk=0eeac696d593b244) — Reading, United Kingdom
+- [Research Software Engineer - Scientific Data Encoding and Decoding](https://uk.indeed.com/viewjob?jk=972bb2aff78a912e) — Backend · Reading, United Kingdom
 
 ### [Oxford Quantum Circuits](https://jobs.winterchill.xyz/?employer=Oxford%20Quantum%20Circuits) (3)
 
@@ -56,17 +62,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://uk.indeed.com/viewjob?jk=d9ab66b939cc6a0d) — Data Engineering · £40,000–£66,750/yr (est.) · Reading, United Kingdom
 
-### [ECMWF](https://jobs.winterchill.xyz/?employer=ECMWF) (1)
-
-- [Research Software Engineer - Scientific Data Encoding and Decoding](https://uk.indeed.com/viewjob?jk=972bb2aff78a912e) — Backend · Reading, United Kingdom
-
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
 
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4442626147/) — Backend · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Guide Dogs for the Blind Association](https://jobs.winterchill.xyz/?employer=Guide%20Dogs%20for%20the%20Blind%20Association) (1)
+
+- [Data Engineer - CRM](https://uk.indeed.com/viewjob?jk=e48fbc32248f5a57) — £27,566–£30,404/yr · Reading, United Kingdom
+
+### [Leep Utilities](https://jobs.winterchill.xyz/?employer=Leep%20Utilities) (1)
+
+- [Sales Support Administrator](https://uk.indeed.com/viewjob?jk=f148fb188d523cc9) — Up to £26,500/yr · Reading, United Kingdom
+
 ### [NewOrbit Space](https://jobs.winterchill.xyz/?employer=NewOrbit%20Space) (1)
 
 - [Lead Flight Software Engineer](https://uk.indeed.com/viewjob?jk=d17f1b960162bea1) — Backend · Reading, United Kingdom · 🛂 visa sponsor
+
+### [Oxford Quantum Circuits (OQC)](https://jobs.winterchill.xyz/?employer=Oxford%20Quantum%20Circuits%20%28OQC%29) (1)
+
+- [Associate Scientific Software Engineer](https://www.linkedin.com/jobs/view/4444945285/) — Backend · Reading, England, United Kingdom
 
 ### [Pexip](https://jobs.winterchill.xyz/?employer=Pexip) (1)
 
@@ -75,6 +89,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Proofpoint](https://jobs.winterchill.xyz/?employer=Proofpoint) (1)
 
 - [Sales Engineer, UKI](https://uk.indeed.com/viewjob?jk=447bf955ee6735e9) — Solutions / Customer Engineering · Reading, United Kingdom
+
+### [Qorvo](https://jobs.winterchill.xyz/?employer=Qorvo) (1)
+
+- [Senior Principal Analog/RF Design Engineer (m/f/d)](https://uk.indeed.com/viewjob?jk=c9926bf6ed62be9c) — Reading, United Kingdom
 
 ### [Visa](https://jobs.winterchill.xyz/?employer=Visa) (1)
 

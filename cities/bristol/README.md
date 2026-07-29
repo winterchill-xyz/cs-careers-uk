@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**67 open roles** · updated 2026-07-28
+**68 open roles** · updated 2026-07-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -76,6 +76,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Data Scientist Associate Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bristol/Data-Sciencetist-Associate-Manager_R00322253-2) — Data Science / Analytics · Bristol, United Kingdom · 🛂 visa sponsor
+
+### [Arm](https://jobs.winterchill.xyz/?employer=Arm) (1)
+
+- [Staff Verification Engineer (IP verification)](https://www.linkedin.com/jobs/view/4436244054/) — Backend · £97,300–£131,700/yr · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Comply365](https://jobs.winterchill.xyz/?employer=Comply365) (1)
 

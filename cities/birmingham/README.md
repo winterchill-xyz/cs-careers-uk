@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**37 open roles** · updated 2026-07-28
+**40 open roles** · updated 2026-07-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -27,12 +27,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Security-Engineer_JR_17662/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer - AWS](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer---AWS_JR_17658/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 
-### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (4)
+### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (3)
 
 - [Unix / Linux Engineer](https://nttdata.jobs/vacancies/7313?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
 - [IT Cloud Infrastructure Engineer](https://nttdata.jobs/vacancies/7270?utm_medium=phenom&utm_source=OneNTTCareerPage) — Platform / Infrastructure · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
-- [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (2)
 
@@ -58,6 +57,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Cloud DevOps Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Birmingham/Cloud-DevOps-Engineer_R00347196) — DevOps / SRE · Birmingham, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Alderson James](https://jobs.winterchill.xyz/?employer=Alderson%20James) (1)
+
+- [Graduate/Junior Game Developer](https://www.linkedin.com/jobs/view/4443523819/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
 ### [Autodesk](https://jobs.winterchill.xyz/?employer=Autodesk) (1)
 
 - [Software Engineer C++](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1) — Backend · Birmingham, GBR, United Kingdom · hybrid · 🛂 visa sponsor
@@ -78,6 +81,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Airflow/ Cloud Engineer (Workload Automation)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-Airflow--Cloud-Engineer--Workload-Automation-_R0441573-1) — DevOps / SRE · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
+
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-harnham-data-and-analytics-recruitment-birmingham-1) — Data Engineering · £50,000–£60,000/yr · Birmingham, England · hybrid
+
+### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
+
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-hays-technology-birmingham) — Data Engineering · £400/day · Birmingham, West Midlands (county)
+
 ### [Lovey](https://jobs.winterchill.xyz/?employer=Lovey) (1)
 
 - [Graduate Full Stack Software Engineer](https://startup.jobs/graduate-full-stack-software-engineer-lovey-8366953) — Backend · Up to £30,000/yr · Birmingham, England, United Kingdom · hybrid
@@ -89,6 +100,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rise Technical Recruitment](https://jobs.winterchill.xyz/?employer=Rise%20Technical%20Recruitment) (1)
 
 - [Industrial Software Engineer](https://dataengineeringjobs.co.uk/jobs/industrial-software-engineer-rise-technical-recruitment-birmingham) — Backend · £40,000–£45,000/yr · Birmingham, England · hybrid
+
+### [Sparta Global](https://jobs.winterchill.xyz/?employer=Sparta%20Global) (1)
+
+- [Graduate Tech Consultant - Kickstart Your Career in Tech!](https://www.linkedin.com/jobs/view/4443231897/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [TRIA](https://jobs.winterchill.xyz/?employer=TRIA) (1)
 
