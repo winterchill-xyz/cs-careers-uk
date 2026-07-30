@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**81 open roles** · updated 2026-07-29
+**82 open roles** · updated 2026-07-30
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -57,6 +57,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Data Engineer - Compliance Engineering](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Data-Engineer---Compliance-Engineering_158781-1) — Data Engineering · £36,224–£38,130/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Market Risk Engineering Developer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Market-Risk-Engineering-Developer_158275-2) — Backend · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+
+- [Software Engineer, iOS Core Product - Edinburgh, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-edinburgh-united-kingdom-speechify-7947216) — Backend · Edinburgh, Scotland, United Kingdom · remote
+- [Senior Software Engineer, Core Experiences - Edinburgh, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-edinburgh-united-kingdom-speechify-7954809) — Backend · Edinburgh, Scotland, United Kingdom · remote
+- [Software Engineer, Platform - Edinburgh, United Kingdom](https://startup.jobs/software-engineer-platform-edinburgh-united-kingdom-speechify-7960192) — Backend · Edinburgh, Scotland, United Kingdom
+- [Senior Software Engineer, Windows/Desktop Applications - Edinburgh, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-edinburgh-united-kingdom-speechify-7960070) — Backend · Edinburgh, Scotland, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Edinburgh, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-edinburgh-united-kingdom-speechify-7960133) — Backend · Edinburgh, Scotland, United Kingdom
+
 ### [Opus 2](https://jobs.winterchill.xyz/?employer=Opus%202) (4)
 
 - [Junior Software Engineer](https://startup.jobs/junior-software-engineer-opus-2-8013905) — Backend · Edinburgh, Scotland, United Kingdom
@@ -64,24 +72,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://startup.jobs/software-engineer-opus-2-8013908) — Backend · Edinburgh, Scotland, United Kingdom
 - [Staff Software Engineer](https://startup.jobs/staff-software-engineer-opus-2-8013909) — Backend · Edinburgh, Scotland, United Kingdom
 
-### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (4)
-
-- [Animation Tools Programmer (All Levels)](https://job-boards.greenhouse.io/rockstargames/jobs/7618407003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer (C++)](https://job-boards.greenhouse.io/rockstargames/jobs/7791617003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Tools Programmer: Audio](https://job-boards.greenhouse.io/rockstargames/jobs/7683473003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Full Stack Engineer (C#/React)](https://job-boards.greenhouse.io/rockstargames/jobs/7710750003) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-
 ### [Addepar](https://jobs.winterchill.xyz/?employer=Addepar) (3)
 
 - [Staff Software Engineer - Reference Data - AI/ML (UK)](https://job-boards.greenhouse.io/addepar1/jobs/8540248002) — Backend · Edinburgh, UK · remote · 🛂 visa sponsor
 - [Staff Software Engineer - Platform Services](https://job-boards.greenhouse.io/addepar1/jobs/8579514002) — Backend · Edinburgh, UK · remote · 🛂 visa sponsor
 - [Staff Backend Software Engineer - Portfolio Data Workflows](https://job-boards.greenhouse.io/addepar1/jobs/8573701002) — Backend · Edinburgh, UK · remote · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
+### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (3)
 
-- [Software Engineer, Platform - Edinburgh, United Kingdom](https://startup.jobs/software-engineer-platform-edinburgh-united-kingdom-speechify-7960192) — Backend · Edinburgh, Scotland, United Kingdom
-- [Senior Software Engineer, Windows/Desktop Applications - Edinburgh, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-edinburgh-united-kingdom-speechify-7960070) — Backend · Edinburgh, Scotland, United Kingdom
-- [Software Engineer, Data Infrastructure & Acquisition - Edinburgh, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-edinburgh-united-kingdom-speechify-7960133) — Backend · Edinburgh, Scotland, United Kingdom
+- [Animation Tools Programmer (All Levels)](https://job-boards.greenhouse.io/rockstargames/jobs/7618407003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer (C++)](https://job-boards.greenhouse.io/rockstargames/jobs/7791617003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Tools Programmer: Audio](https://job-boards.greenhouse.io/rockstargames/jobs/7683473003) — Developer Experience · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [ARKA Group, LP](https://jobs.winterchill.xyz/?employer=ARKA%20Group%2C%20LP) (2)
 
@@ -103,10 +104,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineering Director](https://www.fanduel.careers/open-positions?gh_jid=7553494) — Backend · $149,000–$195,300/yr · Edinburgh / Hybrid · hybrid · 🛂 visa sponsor
 - [Senior Staff Software Engineer](https://www.fanduel.careers/open-positions?gh_jid=7821299) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [xDesign](https://jobs.winterchill.xyz/?employer=xDesign) (2)
+### [Adobe](https://jobs.winterchill.xyz/?employer=Adobe) (1)
 
-- [Senior Software Engineer (Full Stack) - React](https://job-boards.eu.greenhouse.io/xdesign/jobs/4799183101) — Backend · Edinburgh · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer (Full Stack)](https://job-boards.eu.greenhouse.io/xdesign/jobs/4784648101) — Backend · Edinburgh · hybrid · 🛂 visa sponsor
+- [Software Development Engineer (Frontend)](https://www.linkedin.com/jobs/view/4446417569/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [Ciena](https://jobs.winterchill.xyz/?employer=Ciena) (1)
 
@@ -143,6 +143,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [The University of Edinburgh](https://jobs.winterchill.xyz/?employer=The%20University%20of%20Edinburgh) (1)
 
 - [Research Associate](https://www.linkedin.com/jobs/view/4430257241/) — Embedded / Robotics · £48,822/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+
+### [xDesign](https://jobs.winterchill.xyz/?employer=xDesign) (1)
+
+- [Senior Software Engineer (Full Stack)](https://job-boards.eu.greenhouse.io/xdesign/jobs/4784648101) — Backend · Edinburgh · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

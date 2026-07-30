@@ -1,18 +1,10 @@
 # Software &amp; IT careers in Leeds
 
-**28 open roles** · updated 2026-07-29
+**27 open roles** · updated 2026-07-30
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
-
-### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (5)
-
-- [NLP Data Scientist - Customer Intelligence](https://apply.workable.com/j/88E539A7B2/apply) — Data Engineering · £60,000–£75,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [QA Test Engineer](https://apply.workable.com/j/E1AC3F578F/apply) — Frontend · Up to £55,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Machine Learning Operations Engineer](https://apply.workable.com/j/C0F4CEE583/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Technology - ML Ops Engineer](https://apply.workable.com/j/E801329139/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
@@ -22,10 +14,16 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-leeds-united-kingdom-speechify-7947278) — Backend · Leeds, England, United Kingdom · remote
 - [Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-leeds-united-kingdom-speechify-7960083) — Backend · Leeds, England, United Kingdom
 
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (4)
+### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (4)
+
+- [NLP Data Scientist - Customer Intelligence](https://apply.workable.com/j/88E539A7B2/apply) — Data Engineering · £60,000–£75,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [QA Test Engineer](https://apply.workable.com/j/E1AC3F578F/apply) — Frontend · Up to £55,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Machine Learning Operations Engineer](https://apply.workable.com/j/C0F4CEE583/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (3)
 
 - [Lead Google Cloud Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) — DevOps / SRE · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Engineering Lead (Cryptography lab))](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Engineering-Lead--Cryptography-lab--_159018-1) — Platform / Infrastructure · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 - [Azure Landing Zone Site Reliability Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud---AWS-Senior-Infrastructure-Engineer_151031) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Quality Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Quality-Engineer_160228-1) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
@@ -72,6 +70,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [TechShack](https://jobs.winterchill.xyz/?employer=TechShack) (1)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4441936905/) — Solutions / Customer Engineering · £90,000–£110,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [UST](https://jobs.winterchill.xyz/?employer=UST) (1)
+
+- [Lead Data engineer (Lead II - Data Engineering)](https://www.linkedin.com/jobs/view/4444181282/) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

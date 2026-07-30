@@ -1,13 +1,14 @@
 # Software &amp; IT careers in Cardiff
 
-**12 open roles** · updated 2026-07-29
+**14 open roles** · updated 2026-07-30
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
+- [Software Engineer, Platform - Cardiff, United Kingdom](https://startup.jobs/software-engineer-platform-cardiff-united-kingdom-speechify-7954983) — Backend · Cardiff, Wales, United Kingdom
 - [Software Engineer, iOS Core Product - Cardiff, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-cardiff-united-kingdom-speechify-7947175) — Backend · Cardiff, Wales, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-cardiff-united-kingdom-speechify-7936427) — Backend · Cardiff, Wales, United Kingdom · remote
 - [Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-cardiff-united-kingdom-speechify-7960063) — Backend · Cardiff, Wales, United Kingdom
@@ -25,6 +26,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Companies House](https://jobs.winterchill.xyz/?employer=Companies%20House) (1)
 
 - [Senior Infrastructure Engineer (Database)](https://www.linkedin.com/jobs/view/4441584776/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [HID](https://jobs.winterchill.xyz/?employer=HID) (1)
+
+- [Ecosystem Integration Engineering Manager](https://www.linkedin.com/jobs/view/4446820449/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (1)
 
