@@ -1,23 +1,30 @@
 # Software &amp; IT careers in Cardiff
 
-**14 open roles** · updated 2026-07-30
+**16 open roles** · updated 2026-07-31
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
 - [Software Engineer, Platform - Cardiff, United Kingdom](https://startup.jobs/software-engineer-platform-cardiff-united-kingdom-speechify-7954983) — Backend · Cardiff, Wales, United Kingdom
-- [Software Engineer, iOS Core Product - Cardiff, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-cardiff-united-kingdom-speechify-7947175) — Backend · Cardiff, Wales, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-cardiff-united-kingdom-speechify-7936427) — Backend · Cardiff, Wales, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-cardiff-united-kingdom-speechify-7960063) — Backend · Cardiff, Wales, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Cardiff, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-cardiff-united-kingdom-speechify-7936542) — Backend · Cardiff, Wales, United Kingdom
+
+### [HID](https://jobs.winterchill.xyz/?employer=HID) (2)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4444524813/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Ecosystem Integration Engineering Manager](https://www.linkedin.com/jobs/view/4446820449/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (2)
 
 - [Senior Java Software Engineer - Customer Services](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Antiverse](https://jobs.winterchill.xyz/?employer=Antiverse) (1)
+
+- [Chief Scientific Officer](https://www.linkedin.com/jobs/view/4445700360/) — ML / AI Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
 
@@ -27,10 +34,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Infrastructure Engineer (Database)](https://www.linkedin.com/jobs/view/4441584776/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [HID](https://jobs.winterchill.xyz/?employer=HID) (1)
-
-- [Ecosystem Integration Engineering Manager](https://www.linkedin.com/jobs/view/4446820449/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (1)
 
 - [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
@@ -39,9 +42,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Full Stack PHP Developer – Mid-level](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
 
+### [Panasonic Europe](https://jobs.winterchill.xyz/?employer=Panasonic%20Europe) (1)
+
+- [Lead Applications Developer](https://www.linkedin.com/jobs/view/4437441290/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (1)
 
 - [Full Stack PHP Developer – Mid-level](https://relx.wd3.myworkdayjobs.com/relx/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838-1) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
+
+### [Sadler Recruitment](https://jobs.winterchill.xyz/?employer=Sadler%20Recruitment) (1)
+
+- [Lead Software Engineer](https://www.linkedin.com/jobs/view/4443675812/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Vargo Group](https://jobs.winterchill.xyz/?employer=Vargo%20Group) (1)
 

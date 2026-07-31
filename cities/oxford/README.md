@@ -1,25 +1,25 @@
 # Software &amp; IT careers in Oxford
 
-**28 open roles** · updated 2026-07-30
+**29 open roles** · updated 2026-07-31
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (7)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (8)
 
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4384233871/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435794718/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435789781/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4368089749/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4431593165/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
 
 - [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
-- [Software Engineer, iOS Core Product - Oxford, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-oxford-united-kingdom-speechify-7947332) — Backend · Oxford, England, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-oxford-united-kingdom-speechify-7982526) — Backend · Oxford, England, United Kingdom · remote
 - [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
@@ -58,6 +58,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · £27,774–£41,743/yr (est.) · Oxford · hybrid · 🛂 visa sponsor
+
+### [ONI](https://jobs.winterchill.xyz/?employer=ONI) (1)
+
+- [Senior Software Engineer (Front End)](https://www.linkedin.com/jobs/view/4446806173/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 
