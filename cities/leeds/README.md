@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**29 open roles** · updated 2026-07-31
+**32 open roles** · updated 2026-08-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -60,6 +60,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Staff Data Engineer](https://dataengineeringjobs.co.uk/jobs/staff-data-engineer-corecom-consulting-leeds) — Data Engineering · £125,000–£140,000/yr · Leeds, West Yorkshire
 
+### [Gravitas Recruitment Group (Global) Ltd](https://jobs.winterchill.xyz/?employer=Gravitas%20Recruitment%20Group%20%28Global%29%20Ltd) (1)
+
+- [Data Engineer (Azure)](https://www.linkedin.com/jobs/view/4443615191/) — £55,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+
 ### [Mastek](https://jobs.winterchill.xyz/?employer=Mastek) (1)
 
 - [Java Fullstack Developer](https://www.linkedin.com/jobs/view/4442828520/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -68,13 +72,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://jobs.lever.co/scottlogic/f8f7d9c1-af87-45cb-ab9b-c5ba358e244b) — Data Engineering · Leeds · 🛂 visa sponsor
 
+### [Simpro Software](https://jobs.winterchill.xyz/?employer=Simpro%20Software) (1)
+
+- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4444594071/) — DevOps / SRE · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [TechShack](https://jobs.winterchill.xyz/?employer=TechShack) (1)
+
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4447549176/) — Platform / Infrastructure · £90,000–£110,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+
 ### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4441803839/) — Backend · £28,000–£35,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4443695125/) — Backend · £30,000–£60,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (1)
 
-- [Lead Engineer: Automation & AI](https://www.linkedin.com/jobs/view/4447008410/) — Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Lead Engineer: Automation & AI](https://www.linkedin.com/jobs/view/4447008410/) — Enterprise / Business Systems Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [UST](https://jobs.winterchill.xyz/?employer=UST) (1)
 

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**68 open roles** · updated 2026-07-31
+**71 open roles** · updated 2026-08-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -69,6 +69,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Platform - Bristol, United Kingdom](https://startup.jobs/software-engineer-platform-bristol-united-kingdom-speechify-7936596) — Backend · Bristol, England, United Kingdom
 - [Software Engineer, iOS Core Product - Bristol, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-bristol-united-kingdom-speechify-7947162) — Backend · Bristol, England, United Kingdom · remote
 
+### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (2)
+
+- [Senior Fullstack Engineer (Bristol)](https://apply.workable.com/j/DA2C90DD98/apply) — Backend · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [Application Security Engineer (London or Bristol)](https://apply.workable.com/j/96ED82800F/apply) — DevOps / SRE · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Data Scientist Associate Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bristol/Data-Sciencetist-Associate-Manager_R00322253-2) — Data Science / Analytics · Bristol, United Kingdom · 🛂 visa sponsor
@@ -89,17 +94,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Junior Developer](https://www.linkedin.com/jobs/view/4441818359/) — Backend · £28,000–£35,000/yr · City Of Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Hargreaves Lansdown](https://jobs.winterchill.xyz/?employer=Hargreaves%20Lansdown) (1)
+
+- [Software Engineering Manager - Transfers](https://www.linkedin.com/jobs/view/4445506123/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
 
 - [Full Stack Developer](https://www.linkedin.com/jobs/view/4443679831/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
-
-### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (1)
-
-- [Application Security Engineer (London or Bristol)](https://apply.workable.com/j/96ED82800F/apply) — DevOps / SRE · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (1)
-
-- [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4343971135/) — Embedded / Robotics · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Inside Travel Group | B Corp™](https://jobs.winterchill.xyz/?employer=Inside%20Travel%20Group%20%7C%20B%20Corp%E2%84%A2) (1)
 
@@ -113,9 +114,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Android Engineer](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Bristol-Office/Android-Engineer_R_051535) — Backend · Bristol Office, United Kingdom · 🛂 visa sponsor
 
-### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
 
-- [Principal Process Engineer](https://www.linkedin.com/jobs/view/4438272446/) — Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Autonomous Vulnerability Research (Harness Engineering) Lead](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Autonomous-Vulnerability-Research--Harness-Engineering--Lead_161041-3) — Backend · £92,701–£109,060/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Lorien](https://jobs.winterchill.xyz/?employer=Lorien) (1)
+
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4446309709/) — Backend · £450/day · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
+
+### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
+
+- [.NET Developer](https://www.linkedin.com/jobs/view/4446325488/) — Backend · £130,000–£150,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
 
 ### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (1)
 

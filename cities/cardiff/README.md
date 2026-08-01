@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**16 open roles** · updated 2026-07-31
+**18 open roles** · updated 2026-08-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -34,6 +34,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Infrastructure Engineer (Database)](https://www.linkedin.com/jobs/view/4441584776/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
+### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
+
+- [Product Engineer II – ArcGIS Arcade](https://www.linkedin.com/jobs/view/4438225591/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
 ### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (1)
 
 - [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
@@ -53,6 +57,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Sadler Recruitment](https://jobs.winterchill.xyz/?employer=Sadler%20Recruitment) (1)
 
 - [Lead Software Engineer](https://www.linkedin.com/jobs/view/4443675812/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (1)
+
+- [Staff Software Engineer](https://www.linkedin.com/jobs/view/4447746277/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Vargo Group](https://jobs.winterchill.xyz/?employer=Vargo%20Group) (1)
 

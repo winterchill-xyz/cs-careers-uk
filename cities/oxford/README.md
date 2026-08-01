@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**29 open roles** · updated 2026-07-31
+**32 open roles** · updated 2026-08-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -55,9 +55,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
+### [DiPOLE Systems Ltd](https://jobs.winterchill.xyz/?employer=DiPOLE%20Systems%20Ltd) (1)
+
+- [Laser Scientist](https://www.linkedin.com/jobs/view/4445914993/) — £50,000–£65,000/yr · Greater Oxford Area
+
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · £27,774–£41,743/yr (est.) · Oxford · hybrid · 🛂 visa sponsor
+
+### [KDR Talent Solutions](https://jobs.winterchill.xyz/?employer=KDR%20Talent%20Solutions) (1)
+
+- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4445324568/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [ONI](https://jobs.winterchill.xyz/?employer=ONI) (1)
 
@@ -70,6 +78,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
 
 - [Experienced/Senior DevOps Engineer (AWS/Azure) - Tech Team](https://apply.workable.com/j/EC9066B2A2/apply) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
+
+### [RELX](https://jobs.winterchill.xyz/?employer=RELX) (1)
+
+- [Full-Stack Software Engineer III](https://www.linkedin.com/jobs/view/4446759912/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

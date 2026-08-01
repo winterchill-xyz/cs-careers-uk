@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**79 open roles** · updated 2026-07-31
+**79 open roles** · updated 2026-08-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -83,6 +83,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Engineer_JR-0000115335-1) — DevOps / SRE · Edinburgh, South Gyle Crescent – TESCO TSA, United Kingdom · 🛂 visa sponsor
 - [Senior Android Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Android-Engineer_JR-0000112924) — Backend · Edinburgh, South Gyle Crescent – TESCO TSA, United Kingdom · 🛂 visa sponsor
 
+### [Dayshape](https://jobs.winterchill.xyz/?employer=Dayshape) (2)
+
+- [Senior Software Engineer](https://startup.jobs/senior-software-engineer-dayshape-8786821) — £50,000–£60,000/yr · Edinburgh, Scotland, United Kingdom
+- [Software Engineer](https://startup.jobs/software-engineer-dayshape-8838522) — £39,900–£48,500/yr · Edinburgh, Scotland, United Kingdom
+
 ### [FanDuel](https://jobs.winterchill.xyz/?employer=FanDuel) (2)
 
 - [Software Engineering Director](https://www.fanduel.careers/open-positions?gh_jid=7553494) — Backend · $149,000–$195,300/yr · Edinburgh / Hybrid · hybrid · 🛂 visa sponsor
@@ -106,13 +111,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Development Engineer, Amazon Ads CreativeX](https://www.amazon.jobs/en/jobs/3188326/software-development-engineer-amazon-ads-creativex) — Backend · Edinburgh, Scotland, GBR · 🛂 visa sponsor
 
+### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (1)
+
+- [UX/UI designer](https://www.linkedin.com/jobs/view/4447169806/) — Backend · £85,797/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+
 ### [Ciena](https://jobs.winterchill.xyz/?employer=Ciena) (1)
 
 - [Software Engineering Intern (3-12 Months)](https://startup.jobs/software-engineering-intern-3-12-months-ciena-8785673) — Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-
-### [Dayshape](https://jobs.winterchill.xyz/?employer=Dayshape) (1)
-
-- [Senior Software Engineer](https://startup.jobs/senior-software-engineer-dayshape-8786821) — £50,000–£60,000/yr · Edinburgh, Scotland, United Kingdom
 
 ### [Gousto](https://jobs.winterchill.xyz/?employer=Gousto) (1)
 
@@ -125,10 +130,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [MAC Recruit Group Ltd](https://jobs.winterchill.xyz/?employer=MAC%20Recruit%20Group%20Ltd) (1)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4444999069/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-
-### [Motorola Solutions](https://jobs.winterchill.xyz/?employer=Motorola%20Solutions) (1)
-
-- [Software Engineer, Frontend (TypeScript)](https://www.linkedin.com/jobs/view/4429951469/) — Backend · £34,200–£46,650/yr (est.) · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Multiverse](https://jobs.winterchill.xyz/?employer=Multiverse) (1)
 
@@ -148,11 +149,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [The University of Edinburgh](https://jobs.winterchill.xyz/?employer=The%20University%20of%20Edinburgh) (1)
 
-- [Research Associate](https://www.linkedin.com/jobs/view/4430257241/) — Embedded / Robotics · £48,822/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-
-### [xDesign](https://jobs.winterchill.xyz/?employer=xDesign) (1)
-
-- [Senior Software Engineer (Full Stack)](https://job-boards.eu.greenhouse.io/xdesign/jobs/4784648101) — Backend · Edinburgh · hybrid · 🛂 visa sponsor
+- [Research Associate](https://www.linkedin.com/jobs/view/4445514426/) — Backend · £41,064–£48,822/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
