@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**79 open roles** · updated 2026-08-01
+**80 open roles** · updated 2026-08-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -130,6 +130,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [MAC Recruit Group Ltd](https://jobs.winterchill.xyz/?employer=MAC%20Recruit%20Group%20Ltd) (1)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4444999069/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+
+### [Motorola Solutions](https://jobs.winterchill.xyz/?employer=Motorola%20Solutions) (1)
+
+- [Software Engineer, Frontend (TypeScript)](https://www.linkedin.com/jobs/view/4429951469/) — Backend · £34,200–£46,650/yr (est.) · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Multiverse](https://jobs.winterchill.xyz/?employer=Multiverse) (1)
 

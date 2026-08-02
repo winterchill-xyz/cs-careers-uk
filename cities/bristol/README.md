@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**71 open roles** · updated 2026-08-01
+**70 open roles** · updated 2026-08-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -122,9 +122,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4446309709/) — Backend · £450/day · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
-### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (1)
+### [National Grid](https://jobs.winterchill.xyz/?employer=National%20Grid) (1)
 
-- [.NET Developer](https://www.linkedin.com/jobs/view/4446325488/) — Backend · £130,000–£150,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer](https://www.linkedin.com/jobs/view/4443283970/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (1)
 
@@ -133,10 +133,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Sony Interactive Entertainment](https://jobs.winterchill.xyz/?employer=Sony%20Interactive%20Entertainment) (1)
 
 - [IT Support & Infrastructure Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6110746004) — DevOps / SRE · United Kingdom, Bristol · remote · 🛂 visa sponsor
-
-### [Tria](https://jobs.winterchill.xyz/?employer=Tria) (1)
-
-- [Full Stack Developer](https://www.linkedin.com/jobs/view/4443838539/) — Backend · £55,000–£60,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Trust In SODA](https://jobs.winterchill.xyz/?employer=Trust%20In%20SODA) (1)
 

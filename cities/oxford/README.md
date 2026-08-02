@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**32 open roles** · updated 2026-08-01
+**34 open roles** · updated 2026-08-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -82,6 +82,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RELX](https://jobs.winterchill.xyz/?employer=RELX) (1)
 
 - [Full-Stack Software Engineer III](https://www.linkedin.com/jobs/view/4446759912/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [Tech4 Ltd](https://jobs.winterchill.xyz/?employer=Tech4%20Ltd) (1)
+
+- [Senior Analytics Engineer](https://dataengineeringjobs.co.uk/jobs/senior-analytics-engineer-tech4-ltd-oxford) — Data Engineering · £60,000–£65,000/yr · Oxford, Oxfordshire · remote
+
+### [Unipart](https://jobs.winterchill.xyz/?employer=Unipart) (1)
+
+- [S/4 Development Lead](https://www.linkedin.com/jobs/view/4447735366/) — Enterprise / Business Systems Engineering · £70,000–£80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
