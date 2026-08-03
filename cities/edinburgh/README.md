@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**80 open roles** · updated 2026-08-02
+**80 open roles** · updated 2026-08-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -78,11 +78,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Full Stack Angular Software Engineer](https://startup.jobs/full-stack-angular-software-engineer-avaloq-8784746) — Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Business Application Software Engineer](https://startup.jobs/business-application-software-engineer-avaloq-8720194) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (2)
-
-- [Senior Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Engineer_JR-0000115335-1) — DevOps / SRE · Edinburgh, South Gyle Crescent – TESCO TSA, United Kingdom · 🛂 visa sponsor
-- [Senior Android Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Edinburgh-South-Gyle-Crescent--TESCO-TSA/Senior-Android-Engineer_JR-0000112924) — Backend · Edinburgh, South Gyle Crescent – TESCO TSA, United Kingdom · 🛂 visa sponsor
-
 ### [Dayshape](https://jobs.winterchill.xyz/?employer=Dayshape) (2)
 
 - [Senior Software Engineer](https://startup.jobs/senior-software-engineer-dayshape-8786821) — £50,000–£60,000/yr · Edinburgh, Scotland, United Kingdom
@@ -103,6 +98,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, iOS Core Product - Edinburgh, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-edinburgh-united-kingdom-speechify-7947216) — Backend · Edinburgh, Scotland, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Edinburgh, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-edinburgh-united-kingdom-speechify-7954809) — Backend · Edinburgh, Scotland, United Kingdom · remote
 
+### [abrdn](https://jobs.winterchill.xyz/?employer=abrdn) (1)
+
+- [Application Support Engineer](https://abrdn.wd3.myworkdayjobs.com/abrdn/job/Edinburgh/Application-Support-Engineer_R0073601) — Data Engineering · Edinburgh, United Kingdom · remote · 🛂 visa sponsor
+
 ### [Adobe](https://jobs.winterchill.xyz/?employer=Adobe) (1)
 
 - [Software Development Engineer (Frontend)](https://www.linkedin.com/jobs/view/4446417569/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
@@ -118,6 +117,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Ciena](https://jobs.winterchill.xyz/?employer=Ciena) (1)
 
 - [Software Engineering Intern (3-12 Months)](https://startup.jobs/software-engineering-intern-3-12-months-ciena-8785673) — Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+
+### [Edinburgh Airport](https://jobs.winterchill.xyz/?employer=Edinburgh%20Airport) (1)
+
+- [Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4444957913/) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [Gousto](https://jobs.winterchill.xyz/?employer=Gousto) (1)
 

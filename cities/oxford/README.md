@@ -1,17 +1,18 @@
 # Software &amp; IT careers in Oxford
 
-**34 open roles** · updated 2026-08-02
+**34 open roles** · updated 2026-08-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (8)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (9)
 
 - [Senior Data Engineer](https://www.linkedin.com/jobs/view/4384233871/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435794718/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435789781/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4368089749/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Engineer](https://www.linkedin.com/jobs/view/4431593165/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -54,10 +55,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [DiPOLE Systems Ltd](https://jobs.winterchill.xyz/?employer=DiPOLE%20Systems%20Ltd) (1)
-
-- [Laser Scientist](https://www.linkedin.com/jobs/view/4445914993/) — £50,000–£65,000/yr · Greater Oxford Area
 
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 

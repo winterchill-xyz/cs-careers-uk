@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**18 open roles** · updated 2026-08-02
+**16 open roles** · updated 2026-08-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -42,17 +42,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
 
-### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (1)
-
-- [Full Stack PHP Developer – Mid-level](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
-
 ### [Panasonic Europe](https://jobs.winterchill.xyz/?employer=Panasonic%20Europe) (1)
 
 - [Lead Applications Developer](https://www.linkedin.com/jobs/view/4437441290/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (1)
-
-- [Full Stack PHP Developer – Mid-level](https://relx.wd3.myworkdayjobs.com/relx/job/Cardiff/Full-Stack-PHP-Developer---Mid-level_R114838-1) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
 
 ### [Sadler Recruitment](https://jobs.winterchill.xyz/?employer=Sadler%20Recruitment) (1)
 
@@ -60,7 +52,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (1)
 
-- [Staff Software Engineer](https://www.linkedin.com/jobs/view/4447746277/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Staff Software Engineer](https://www.linkedin.com/jobs/view/4447746277/) — DevOps / SRE · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Vargo Group](https://jobs.winterchill.xyz/?employer=Vargo%20Group) (1)
 

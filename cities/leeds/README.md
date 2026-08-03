@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**35 open roles** · updated 2026-08-02
+**37 open roles** · updated 2026-08-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,8 +8,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (4)
 
-- [Data Engineer](https://apply.workable.com/j/CCDA305975/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Lead Data Engineer](https://apply.workable.com/j/16E6D2B235/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://apply.workable.com/j/CCDA305975/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Solution Director: Engineering](https://apply.workable.com/j/D26AA41D72/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Lead Full Stack Developer](https://apply.workable.com/j/FE3391C064/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
@@ -37,6 +37,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Core Experiences - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-leeds-united-kingdom-speechify-7946962) — Backend · Leeds, England, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-leeds-united-kingdom-speechify-7947083) — Backend · Leeds, England, United Kingdom
 - [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-leeds-united-kingdom-speechify-7947278) — Backend · Leeds, England, United Kingdom · remote
+
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (2)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4416961229/) — Backend · Leeds, England, United Kingdom
+- [Senior Python Developer](https://www.linkedin.com/jobs/view/4431175694/) — Backend · Leeds, England, United Kingdom · hybrid
 
 ### [Fanatics Betting & Gaming](https://jobs.winterchill.xyz/?employer=Fanatics%20Betting%20%26%20Gaming) (2)
 
@@ -102,7 +107,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [WorkNest Secure (US)](https://jobs.winterchill.xyz/?employer=WorkNest%20Secure%20%28US%29) (1)
 
-- [Junior Software & Systems Engineer](https://www.linkedin.com/jobs/view/4446332513/) — Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Junior Software & Systems Engineer](https://www.linkedin.com/jobs/view/4446332513/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

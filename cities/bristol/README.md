@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**70 open roles** · updated 2026-08-02
+**70 open roles** · updated 2026-08-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -69,11 +69,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Platform - Bristol, United Kingdom](https://startup.jobs/software-engineer-platform-bristol-united-kingdom-speechify-7936596) — Backend · Bristol, England, United Kingdom
 - [Software Engineer, iOS Core Product - Bristol, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-bristol-united-kingdom-speechify-7947162) — Backend · Bristol, England, United Kingdom · remote
 
-### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (2)
-
-- [Senior Fullstack Engineer (Bristol)](https://apply.workable.com/j/DA2C90DD98/apply) — Backend · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-- [Application Security Engineer (London or Bristol)](https://apply.workable.com/j/96ED82800F/apply) — DevOps / SRE · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Data Scientist Associate Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bristol/Data-Sciencetist-Associate-Manager_R00322253-2) — Data Science / Analytics · Bristol, United Kingdom · 🛂 visa sponsor
@@ -101,6 +96,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
 
 - [Full Stack Developer](https://www.linkedin.com/jobs/view/4443679831/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
+
+### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (1)
+
+- [Senior Fullstack Engineer (Bristol)](https://apply.workable.com/j/DA2C90DD98/apply) — Backend · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [HM Revenue & Customs](https://jobs.winterchill.xyz/?employer=HM%20Revenue%20%26%20Customs) (1)
+
+- [Senior Performance Analyst](https://www.linkedin.com/jobs/view/4446931066/) — Research / Applied Science · £45,544/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Inside Travel Group | B Corp™](https://jobs.winterchill.xyz/?employer=Inside%20Travel%20Group%20%7C%20B%20Corp%E2%84%A2) (1)
 

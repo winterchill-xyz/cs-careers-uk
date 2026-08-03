@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**31 open roles** · updated 2026-08-02
+**31 open roles** · updated 2026-08-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -46,11 +46,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Software Engineer - Defence](https://www.linkedin.com/jobs/view/4446748027/) — Backend · Up to £140,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [TypeScript Developer React - FinTech](https://www.linkedin.com/jobs/view/4446562865/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
-### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4440669227/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4406200438/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (2)
 
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4447526542/) — Backend · £60,000–£85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -59,6 +54,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (1)
 
 - [Software Developer](https://www.linkedin.com/jobs/view/4447739402/) — Backend · Up to £45,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
+
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4406200438/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [Experis UK](https://jobs.winterchill.xyz/?employer=Experis%20UK) (1)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4440669227/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Sage](https://jobs.winterchill.xyz/?employer=Sage) (1)
 
