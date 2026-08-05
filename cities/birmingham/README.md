@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**45 open roles** · updated 2026-08-04
+**43 open roles** · updated 2026-08-05
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -20,7 +20,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Lead Test Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Test-Engineer_JR_18169/apply) — QA / Test Automation · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Platform Engineer (Platform Academy) - Birmingham](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Platform-Engineer--Platform-Academy----Birmingham_JR_18077/apply) — Platform / Infrastructure · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
-- [Principal AI Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Principal-AI-Engineer_JR_17994/apply) — ML / AI Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
+- [AI Engineer Manager](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Principal-AI-Engineer_JR_17994/apply) — ML / AI Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer (GCP)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer--GCP-_JR_17829/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Software-Engineer_JR_17793-1/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior AI Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-AI-Engineer_JR_17716/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
@@ -79,10 +79,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4444389056/) — Backend · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Dentro Talent](https://jobs.winterchill.xyz/?employer=Dentro%20Talent) (1)
-
-- [Salesforce Developer](https://www.linkedin.com/jobs/view/4443790490/) — Backend · £65,000–£75,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
 
 - [Python Developer Birmingham](https://dataengineeringjobs.co.uk/jobs/python-developer-birmingham-experis-birmingham) — Backend · £40,000–£55,000/yr · Birmingham, West Midlands (county)
@@ -111,13 +107,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4447917359/) — Data Engineering · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
-### [Sparta Global](https://jobs.winterchill.xyz/?employer=Sparta%20Global) (1)
-
-- [Graduate Tech Consultant - Kickstart Your Career in Tech!](https://www.linkedin.com/jobs/view/4443231897/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
 ### [TRIA](https://jobs.winterchill.xyz/?employer=TRIA) (1)
 
-- [Python Developer](https://www.linkedin.com/jobs/view/4442864607/) — Backend · £45,000–£50,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Python Developer](https://dataengineeringjobs.co.uk/jobs/python-developer-tria-birmingham) — Backend · £45,000–£50,000/yr · Birmingham, West Midlands (county)
 
 ### [VPss](https://jobs.winterchill.xyz/?employer=VPss) (1)
 

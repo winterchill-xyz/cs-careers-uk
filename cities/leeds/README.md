@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**38 open roles** · updated 2026-08-04
+**36 open roles** · updated 2026-08-05
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -20,12 +20,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Machine Learning Operations Engineer](https://apply.workable.com/j/C0F4CEE583/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (3)
-
-- [Lead Google Cloud Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) — DevOps / SRE · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Azure Landing Zone Site Reliability Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud---AWS-Senior-Infrastructure-Engineer_151031) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Lead Quality Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Quality-Engineer_160228-1) — DevOps / SRE · £72,702–£80,780/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (3)
 
 - [Senior Data Scientist, Game Analytics](https://job-boards.greenhouse.io/rockstargames/jobs/7638027003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
@@ -37,6 +31,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Core Experiences - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-leeds-united-kingdom-speechify-7946962) — Backend · Leeds, England, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-leeds-united-kingdom-speechify-7947083) — Backend · Leeds, England, United Kingdom
 - [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-leeds-united-kingdom-speechify-7947278) — Backend · Leeds, England, United Kingdom · remote
+
+### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (3)
+
+- [Lead Engineer: SIMS](https://www.linkedin.com/jobs/view/4448878676/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Automation & AI Systems Senior Engineer](https://www.linkedin.com/jobs/view/4448187916/) — ML / AI Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Lead Engineer: Automation & AI](https://www.linkedin.com/jobs/view/4447008410/) — Enterprise / Business Systems Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (2)
 
@@ -53,11 +53,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Microsoft 365 Engineer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Microsoft-365-Engineer_JR0657) — Enterprise / Business Systems Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (2)
-
-- [Automation & AI Systems Senior Engineer](https://www.linkedin.com/jobs/view/4448187916/) — ML / AI Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Lead Engineer: Automation & AI](https://www.linkedin.com/jobs/view/4447008410/) — Enterprise / Business Systems Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Quality Automation Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Quality-Automation-Engineer---Leeds_R00289257-1) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
@@ -66,10 +61,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Automation & Software Developer](https://www.linkedin.com/jobs/view/4445949399/) — Backend · £26,000–£32,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
 
-### [Corecom Consulting](https://jobs.winterchill.xyz/?employer=Corecom%20Consulting) (1)
-
-- [Staff Data Engineer](https://dataengineeringjobs.co.uk/jobs/staff-data-engineer-corecom-consulting-leeds) — Data Engineering · £125,000–£140,000/yr · Leeds, West Yorkshire
-
 ### [Fanatics](https://jobs.winterchill.xyz/?employer=Fanatics) (1)
 
 - [Software Engineer III, Trading - FBG](https://www.linkedin.com/jobs/view/4428270187/) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
@@ -77,6 +68,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Gravitas Recruitment Group (Global) Ltd](https://jobs.winterchill.xyz/?employer=Gravitas%20Recruitment%20Group%20%28Global%29%20Ltd) (1)
 
 - [Data Engineer (Azure)](https://www.linkedin.com/jobs/view/4443615191/) — Data Engineering · £55,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
+
+- [Lead Google Cloud Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) — DevOps / SRE · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Mastek](https://jobs.winterchill.xyz/?employer=Mastek) (1)
 

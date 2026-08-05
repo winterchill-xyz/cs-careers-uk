@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**16 open roles** · updated 2026-08-04
+**16 open roles** · updated 2026-08-05
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -46,6 +46,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Lead Applications Developer](https://www.linkedin.com/jobs/view/4437441290/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
+### [Principality Building Society](https://jobs.winterchill.xyz/?employer=Principality%20Building%20Society) (1)
+
+- [Data Engineer](https://www.linkedin.com/jobs/view/4446978849/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
 ### [Sadler Recruitment](https://jobs.winterchill.xyz/?employer=Sadler%20Recruitment) (1)
 
 - [Lead Software Engineer](https://www.linkedin.com/jobs/view/4443675812/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -53,10 +57,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (1)
 
 - [Staff Software Engineer](https://www.linkedin.com/jobs/view/4447746277/) — DevOps / SRE · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Vargo Group](https://jobs.winterchill.xyz/?employer=Vargo%20Group) (1)
-
-- [Salesforce Developer](https://www.linkedin.com/jobs/view/4425608995/) — Cardiff, Wales, United Kingdom
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
