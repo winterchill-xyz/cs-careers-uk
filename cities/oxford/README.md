@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**32 open roles** · updated 2026-08-05
+**34 open roles** · updated 2026-08-06
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -18,6 +18,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (4)
+
+- [Senior Software Engineer (Android)](https://job-boards.greenhouse.io/tripadvisor/jobs/8108861) — Backend · Oxford, United Kingdom · remote · 🛂 visa sponsor
+- [Data Engineer II (Data Platform)](https://job-boards.greenhouse.io/tripadvisor/jobs/8081328) — Backend · Oxford, United Kingdom (Hybrid or Remote) · remote · 🛂 visa sponsor
+- [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
+- [Junior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/6903058) — Backend · Oxford, UK · remote · 🛂 visa sponsor
+
 ### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (3)
 
 - [Full-Stack Software Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Full-Stack-Software-Engineer-III_R114714-2) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
@@ -30,21 +37,16 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Application Security Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Product-Security-Engineer-II_R113910) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Java-Software-Engineer_R112239-1) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 
-### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (3)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
-- [Data Engineer II (Data Platform)](https://job-boards.greenhouse.io/tripadvisor/jobs/8081328) — Backend · Oxford, United Kingdom (Hybrid or Remote) · remote · 🛂 visa sponsor
-- [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
-- [Junior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/6903058) — Backend · Oxford, UK · remote · 🛂 visa sponsor
+- [Software Engineer, iOS Core Product - Oxford, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-oxford-united-kingdom-speechify-7947332) — Backend · Oxford, England, United Kingdom · remote
+- [Senior Software Engineer, Core Experiences - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-oxford-united-kingdom-speechify-7982526) — Backend · Oxford, England, United Kingdom · remote
+- [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (2)
 
 - [Machine Learning Engineer (Forward Deployed)](https://mindfoundry.ai/careers-apply?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Machine Learning Engineer](https://mindfoundry.ai/careers-apply?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (2)
-
-- [Senior Software Engineer, Core Experiences - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-oxford-united-kingdom-speechify-7982526) — Backend · Oxford, England, United Kingdom · remote
-- [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
 ### [Archangel Autonomy](https://jobs.winterchill.xyz/?employer=Archangel%20Autonomy) (1)
 

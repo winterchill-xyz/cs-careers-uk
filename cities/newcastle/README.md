@@ -1,14 +1,13 @@
 # Software &amp; IT careers in Newcastle
 
-**30 open roles** · updated 2026-08-05
+**29 open roles** · updated 2026-08-06
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (9)
+### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (8)
 
-- [AI Software Engineering Associate Director](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/AI-Software-Engineering-Associate-Director_R00346145) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [Senior Java Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-Java-Developer---Newcastle_R00337654) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-DevOps-Engineer---Newcastle_R00316554) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/DevOps-Engineer---Newcastle_R00289640) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
@@ -60,7 +59,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [nology](https://jobs.winterchill.xyz/?employer=nology) (1)
 
-- [Junior Java Engineer - Accelerator Academy](https://www.linkedin.com/jobs/view/4448543216/) — £26,700/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Junior Java Engineer - Accelerator Academy](https://www.linkedin.com/jobs/view/4448543216/) — Backend · £26,700/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Sage](https://jobs.winterchill.xyz/?employer=Sage) (1)
 

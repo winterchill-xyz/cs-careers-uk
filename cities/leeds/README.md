@@ -1,10 +1,18 @@
 # Software &amp; IT careers in Leeds
 
-**36 open roles** · updated 2026-08-05
+**39 open roles** · updated 2026-08-06
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
+
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+
+- [Senior Software Engineer, Core Experiences - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-leeds-united-kingdom-speechify-7946962) — Backend · Leeds, England, United Kingdom · remote
+- [Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-leeds-united-kingdom-speechify-7947083) — Backend · Leeds, England, United Kingdom
+- [Software Engineer, Platform - Leeds, United Kingdom](https://startup.jobs/software-engineer-platform-leeds-united-kingdom-speechify-7960207) — Backend · Leeds, England, United Kingdom
+- [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-leeds-united-kingdom-speechify-7947278) — Backend · Leeds, England, United Kingdom · remote
+- [Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-leeds-united-kingdom-speechify-7960083) — Backend · Leeds, England, United Kingdom
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (4)
 
@@ -25,12 +33,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Scientist, Game Analytics](https://job-boards.greenhouse.io/rockstargames/jobs/7638027003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Analytics Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7650920003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
-
-- [Senior Software Engineer, Core Experiences - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-leeds-united-kingdom-speechify-7946962) — Backend · Leeds, England, United Kingdom · remote
-- [Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-leeds-united-kingdom-speechify-7947083) — Backend · Leeds, England, United Kingdom
-- [Software Engineer, iOS Core Product - Leeds, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-leeds-united-kingdom-speechify-7947278) — Backend · Leeds, England, United Kingdom · remote
 
 ### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (3)
 
@@ -69,13 +71,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer (Azure)](https://www.linkedin.com/jobs/view/4443615191/) — Data Engineering · £55,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
 
+### [Jet2.com and Jet2holidays](https://jobs.winterchill.xyz/?employer=Jet2.com%20and%20Jet2holidays) (1)
+
+- [Senior Front End Developer](https://www.linkedin.com/jobs/view/4448989235/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
 
 - [Lead Google Cloud Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) — DevOps / SRE · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Mastek](https://jobs.winterchill.xyz/?employer=Mastek) (1)
+### [Public Sector Resourcing](https://jobs.winterchill.xyz/?employer=Public%20Sector%20Resourcing) (1)
 
-- [Java Fullstack Developer](https://www.linkedin.com/jobs/view/4442828520/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Java Developer](https://www.linkedin.com/jobs/view/4448896691/) — Backend · Leeds, England, United Kingdom
 
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (1)
 
