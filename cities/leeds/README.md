@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**39 open roles** · updated 2026-08-06
+**39 open roles** · updated 2026-08-07
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -28,22 +28,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Machine Learning Operations Engineer](https://apply.workable.com/j/C0F4CEE583/apply) — Data Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (3)
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (3)
 
-- [Senior Data Scientist, Game Analytics](https://job-boards.greenhouse.io/rockstargames/jobs/7638027003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Analytics Engineer](https://job-boards.greenhouse.io/rockstargames/jobs/7650920003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Java Developer](https://www.linkedin.com/jobs/view/4447202028/) — Backend · Leeds, England, United Kingdom
+- [Software Engineer](https://www.linkedin.com/jobs/view/4416961229/) — Backend · Leeds, England, United Kingdom
+- [Senior Python Developer](https://www.linkedin.com/jobs/view/4431175694/) — Backend · Leeds, England, United Kingdom · hybrid
 
 ### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (3)
 
 - [Lead Engineer: SIMS](https://www.linkedin.com/jobs/view/4448878676/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Automation & AI Systems Senior Engineer](https://www.linkedin.com/jobs/view/4448187916/) — ML / AI Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Lead Engineer: Automation & AI](https://www.linkedin.com/jobs/view/4447008410/) — Enterprise / Business Systems Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (2)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4416961229/) — Backend · Leeds, England, United Kingdom
-- [Senior Python Developer](https://www.linkedin.com/jobs/view/4431175694/) — Backend · Leeds, England, United Kingdom · hybrid
 
 ### [Fanatics Betting & Gaming](https://jobs.winterchill.xyz/?employer=Fanatics%20Betting%20%26%20Gaming) (2)
 
@@ -52,8 +47,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (2)
 
-- [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Microsoft 365 Engineer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Microsoft-365-Engineer_JR0657) — Enterprise / Business Systems Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (2)
+
+- [Senior Data Scientist, Game Analytics](https://job-boards.greenhouse.io/rockstargames/jobs/7638027003) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
@@ -75,9 +75,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Front End Developer](https://www.linkedin.com/jobs/view/4448989235/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
+### [Klipboard](https://jobs.winterchill.xyz/?employer=Klipboard) (1)
 
-- [Lead Google Cloud Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) — DevOps / SRE · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4422919927/) — Backend · Leeds, England, United Kingdom · remote
 
 ### [Public Sector Resourcing](https://jobs.winterchill.xyz/?employer=Public%20Sector%20Resourcing) (1)
 

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**17 open roles** · updated 2026-08-06
+**17 open roles** · updated 2026-08-07
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -19,6 +19,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Java Software Engineer - Customer Services](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (1)
+
+- [Engineering Manager](https://www.linkedin.com/jobs/view/4430581406/) — Engineering Management · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
 ### [Antiverse](https://jobs.winterchill.xyz/?employer=Antiverse) (1)
 
 - [Chief Scientific Officer](https://www.linkedin.com/jobs/view/4445700360/) — ML / AI Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -26,10 +30,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
 
 - [(RD) Engineering Team Lead (ETL)](https://www.linkedin.com/jobs/view/4435211891/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Companies House](https://jobs.winterchill.xyz/?employer=Companies%20House) (1)
-
-- [Senior Infrastructure Engineer (Database)](https://www.linkedin.com/jobs/view/4441584776/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Dŵr Cymru Welsh Water](https://jobs.winterchill.xyz/?employer=D%C5%B5r%20Cymru%20Welsh%20Water) (1)
 
