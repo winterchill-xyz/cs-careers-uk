@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**38 open roles** · updated 2026-08-07
+**40 open roles** · updated 2026-08-08
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -74,6 +74,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Autodesk Canada Co.](https://jobs.winterchill.xyz/?employer=Autodesk%20Canada%20Co.) (1)
 
 - [Software Engineer C++](https://startup.jobs/software-engineer-c-autodesk-canada-co-8786897) — Birmingham, England, United Kingdom
+
+### [Dentro Talent](https://jobs.winterchill.xyz/?employer=Dentro%20Talent) (1)
+
+- [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4448728700/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (1)
+
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4450304609/) — Backend · Up to £55,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Lovey](https://jobs.winterchill.xyz/?employer=Lovey) (1)
 

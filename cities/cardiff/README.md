@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**17 open roles** · updated 2026-08-07
+**17 open roles** · updated 2026-08-08
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -26,10 +26,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Antiverse](https://jobs.winterchill.xyz/?employer=Antiverse) (1)
 
 - [Chief Scientific Officer](https://www.linkedin.com/jobs/view/4445700360/) — ML / AI Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
-
-- [(RD) Engineering Team Lead (ETL)](https://www.linkedin.com/jobs/view/4435211891/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Dŵr Cymru Welsh Water](https://jobs.winterchill.xyz/?employer=D%C5%B5r%20Cymru%20Welsh%20Water) (1)
 
@@ -58,6 +54,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (1)
 
 - [Staff Software Engineer](https://www.linkedin.com/jobs/view/4447746277/) — DevOps / SRE · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [ZeroKey](https://jobs.winterchill.xyz/?employer=ZeroKey) (1)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4448774900/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

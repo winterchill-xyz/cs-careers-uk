@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Belfast
 
-**78 open roles** · updated 2026-08-07
+**79 open roles** · updated 2026-08-08
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -28,10 +28,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (16)
 
 - [Senior Software Engineer (C#/.NET)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Software-Engineer--C--NET-_JR_18176/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
-- [AI Engineer - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/AI-Engineer---Workday-Products_JR_18096/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
-- [Senior Data Scientist - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Data-Scientist---Workday-Products_JR_18097/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Data Scientist - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Data-Scientist---Workday-Products_JR_18098/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
+- [AI Engineer - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/AI-Engineer---Workday-Products_JR_18096/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
 - [Data Scientist - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Data-Scientist---Workday-Products_JR_18095/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
+- [Senior Data Scientist - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Data-Scientist---Workday-Products_JR_18097/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer (C#/.Net)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Software-Engineer--C--Net-_JR_18056/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead AI Engineer - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-AI-Engineer_JR_17949-1/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Senior AI Engineer - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-AI-Engineer_JR_17950/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
@@ -124,6 +124,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [CME Group](https://jobs.winterchill.xyz/?employer=CME%20Group) (1)
 
 - [Technology Operations Engineer I](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/Technology-Operations-Engineer-I_34708) — DevOps / SRE · Belfast - Millennium House, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Global Payments Inc.](https://jobs.winterchill.xyz/?employer=Global%20Payments%20Inc.) (1)
+
+- [Engineering Manager](https://www.linkedin.com/jobs/view/4441469921/) — Engineering Management · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [hackajob](https://jobs.winterchill.xyz/?employer=hackajob) (1)
 
