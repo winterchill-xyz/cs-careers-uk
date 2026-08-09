@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**83 open roles** · updated 2026-08-08
+**83 open roles** · updated 2026-08-09
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -126,14 +126,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4448767061/) — Data Engineering · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
-### [Hargreaves Lansdown](https://jobs.winterchill.xyz/?employer=Hargreaves%20Lansdown) (1)
-
-- [Software Engineering Manager - Transfers](https://www.linkedin.com/jobs/view/4445506123/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
-
-### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
-
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4451007832/) — Backend · Up to £95,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
-
 ### [HealthHero](https://jobs.winterchill.xyz/?employer=HealthHero) (1)
 
 - [Senior Fullstack Engineer (Bristol)](https://apply.workable.com/j/DA2C90DD98/apply) — Backend · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
@@ -169,6 +161,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (1)
 
 - [Google Cloud Platform Data Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000137837249) — Backend · Bristol, United Kingdom · 🛂 visa sponsor
+
+### [Peaple Talent](https://jobs.winterchill.xyz/?employer=Peaple%20Talent) (1)
+
+- [Data Engineer](https://www.linkedin.com/jobs/view/4446201221/) — Data Engineering · £75,000–£85,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
+
+### [Ping Identity](https://jobs.winterchill.xyz/?employer=Ping%20Identity) (1)
+
+- [Software Engineer II](https://startup.jobs/software-engineer-ii-ping-identity-2-8935893) — Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (1)
 

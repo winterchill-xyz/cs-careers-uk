@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**40 open roles** · updated 2026-08-08
+**40 open roles** · updated 2026-08-09
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -34,16 +34,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Windows/Desktop Applications - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-birmingham-united-kingdom-speechify-7936477) — Backend · Birmingham, England, United Kingdom
 - [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-speechify-7960123) — Backend · Birmingham, England, United Kingdom
 
-### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (3)
+### [NTT DATA](https://jobs.winterchill.xyz/?employer=NTT%20DATA) (4)
 
 - [Unix / Linux Engineer](https://nttdata.jobs/vacancies/7313?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
 - [IT Cloud Infrastructure Engineer](https://nttdata.jobs/vacancies/7270?utm_medium=phenom&utm_source=OneNTTCareerPage) — Platform / Infrastructure · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
-
-### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
-
-- [Senior Airflow/ Cloud Engineer (Workload Automation)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-Airflow--Cloud-Engineer--Workload-Automation-_R0441573-1) — DevOps / SRE · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior ServiceNow Developer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-ServiceNow-Developer_R0423603-1) — Backend · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (2)
 
@@ -78,6 +74,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Dentro Talent](https://jobs.winterchill.xyz/?employer=Dentro%20Talent) (1)
 
 - [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4448728700/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (1)
+
+- [Senior ServiceNow Developer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-ServiceNow-Developer_R0423603-1) — Backend · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (1)
 

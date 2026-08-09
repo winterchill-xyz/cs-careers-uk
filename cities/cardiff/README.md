@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**17 open roles** · updated 2026-08-08
+**15 open roles** · updated 2026-08-09
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -31,17 +31,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4446281967/) — Data Engineering · £42,786/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
-
-- [Product Engineer II – ArcGIS Arcade](https://www.linkedin.com/jobs/view/4438225591/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (1)
 
 - [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
-
-### [Panasonic Europe](https://jobs.winterchill.xyz/?employer=Panasonic%20Europe) (1)
-
-- [Lead Applications Developer](https://www.linkedin.com/jobs/view/4437441290/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Principality Building Society](https://jobs.winterchill.xyz/?employer=Principality%20Building%20Society) (1)
 
