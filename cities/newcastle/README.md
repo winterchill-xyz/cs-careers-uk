@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**34 open roles** · updated 2026-08-10
+**38 open roles** · updated 2026-08-11
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -48,17 +48,27 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Software Engineer - Defence](https://www.linkedin.com/jobs/view/4446748027/) — Backend · Up to £140,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [TypeScript Developer React - FinTech](https://www.linkedin.com/jobs/view/4446562865/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
-### [_nology](https://jobs.winterchill.xyz/?employer=_nology) (1)
+### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
 
-- [Junior Java Engineer - Accelerator Academy](https://www.linkedin.com/jobs/view/4448543216/) — Backend · £26,700/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4440669227/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4414463140/) — Data Engineering · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (2)
+
+- [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4445093722/) — Backend · £46,000–£52,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Java Software Engineer](https://www.linkedin.com/jobs/view/4448775759/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 
 - [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4374137684/) — Backend · Newcastle, England, United Kingdom · 🛂 visa sponsor
 
-### [Experis UK](https://jobs.winterchill.xyz/?employer=Experis%20UK) (1)
+### [Credera](https://jobs.winterchill.xyz/?employer=Credera) (1)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4440669227/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer- Delivery Centre- Newcastle](https://www.linkedin.com/jobs/view/4451124433/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [DWP Digital](https://jobs.winterchill.xyz/?employer=DWP%20Digital) (1)
+
+- [Senior Front End Developer](https://www.linkedin.com/jobs/view/4450208994/) — Backend · £57,946–£80,664/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (1)
 
@@ -80,9 +90,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-sellick-partnership-newcastle-upon-tyne-1) — Data Engineering · £60,000/yr · Newcastle upon Tyne, Tyne & Wear · hybrid
 
-### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
+### [UK National Audit Office](https://jobs.winterchill.xyz/?employer=UK%20National%20Audit%20Office) (1)
 
-- [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4445093722/) — Backend · £46,000–£52,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Platform Engineer](https://www.linkedin.com/jobs/view/4448773301/) — Data Engineering · £70,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Women in Tech](https://jobs.winterchill.xyz/?employer=Women%20in%20Tech) (1)
 
