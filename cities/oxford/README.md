@@ -1,19 +1,16 @@
 # Software &amp; IT careers in Oxford
 
-**31 open roles** · updated 2026-08-11
+**30 open roles** · updated 2026-08-12
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (8)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (5)
 
 - [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435790700/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4436001255/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4384233871/) — Data Engineering · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4368089749/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
@@ -55,6 +52,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
+### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
+
+- [Full Stack Engineer / Technical Lead](https://www.linkedin.com/jobs/view/4447374424/) — Backend · Up to £125,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (1)
+
+- [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4450219182/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · Oxford · hybrid · 🛂 visa sponsor
@@ -67,6 +72,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Scientific Software Engineer](https://startup.jobs/scientific-software-engineer-oxford-biotherapeutics-8168193) — Backend · £60,000–£80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
+### [Oxford Ionics](https://jobs.winterchill.xyz/?employer=Oxford%20Ionics) (1)
+
+- [Director, System Software](https://www.linkedin.com/jobs/view/4452469372/) — Engineering Management · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
 
 - [Experienced/Senior DevOps Engineer (AWS/Azure) - Tech Team](https://apply.workable.com/j/EC9066B2A2/apply) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
@@ -74,10 +83,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RELX](https://jobs.winterchill.xyz/?employer=RELX) (1)
 
 - [Full-Stack Software Engineer III](https://www.linkedin.com/jobs/view/4446759912/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Tech4 Ltd](https://jobs.winterchill.xyz/?employer=Tech4%20Ltd) (1)
-
-- [Senior Analytics Engineer](https://dataengineeringjobs.co.uk/jobs/senior-analytics-engineer-tech4-ltd-oxford) — Data Engineering · £60,000–£65,000/yr · Oxford, Oxfordshire · remote
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
