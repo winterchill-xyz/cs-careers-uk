@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**14 open roles** · updated 2026-08-12
+**15 open roles** · updated 2026-08-13
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -32,13 +32,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4446281967/) — Data Engineering · £42,786/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
+### [HID](https://jobs.winterchill.xyz/?employer=HID) (1)
+
+- [Ecosystem Integration Engineering Manager](https://www.linkedin.com/jobs/view/4453121881/) — Engineering Management · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
 ### [Meltwater](https://jobs.winterchill.xyz/?employer=Meltwater) (1)
 
 - [AI Engineer (UK)](https://www.linkedin.com/jobs/view/4438326874/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Principality Building Society](https://jobs.winterchill.xyz/?employer=Principality%20Building%20Society) (1)
+### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4446978849/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Principal Data Engineer](https://www.linkedin.com/jobs/view/4453119165/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [ZeroKey](https://jobs.winterchill.xyz/?employer=ZeroKey) (1)
 

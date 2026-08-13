@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**30 open roles** · updated 2026-08-12
+**31 open roles** · updated 2026-08-13
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -64,9 +64,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · Oxford · hybrid · 🛂 visa sponsor
 
-### [ONI](https://jobs.winterchill.xyz/?employer=ONI) (1)
+### [Gravis Robotics](https://jobs.winterchill.xyz/?employer=Gravis%20Robotics) (1)
 
-- [Senior Software Engineer (Front End)](https://www.linkedin.com/jobs/view/4446806173/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Reinforcement Learning Engineer](https://www.linkedin.com/jobs/view/4453392647/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 
@@ -83,6 +83,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RELX](https://jobs.winterchill.xyz/?employer=RELX) (1)
 
 - [Full-Stack Software Engineer III](https://www.linkedin.com/jobs/view/4446759912/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [Singular: Building Brilliant Biotechs](https://jobs.winterchill.xyz/?employer=Singular%3A%20Building%20Brilliant%20Biotechs) (1)
+
+- [Scientist - Functional Genomics, Immunology](https://www.linkedin.com/jobs/view/4429419412/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

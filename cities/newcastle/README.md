@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**39 open roles** · updated 2026-08-12
+**40 open roles** · updated 2026-08-13
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -32,16 +32,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Platform - Newcastle, United Kingdom](https://startup.jobs/software-engineer-platform-newcastle-united-kingdom-speechify-7974954) — Backend · Newcastle upon Tyne, England, United Kingdom
 - [Senior Software Engineer, Windows/Desktop Applications - Newcastle, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-newcastle-united-kingdom-speechify-7974838) — Backend · Newcastle upon Tyne, England, United Kingdom
 
+### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (3)
+
+- [Data Engineer](https://www.linkedin.com/jobs/view/4437664983/) — £50,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Java Software Engineer](https://www.linkedin.com/jobs/view/4373105619/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Java Developer](https://www.linkedin.com/jobs/view/4373114205/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Leonardo](https://jobs.winterchill.xyz/?employer=Leonardo) (3)
 
 - [Security Firmware/FPGA Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Security-Firmware-FPGA-Engineer_R0026984) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
-- [Electronic Engineers - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Electronic-Engineers---all-levels_R0015649) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
+- [Electronic Engineers - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Electronic-Engineers---all-levels_R0015649) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle · hybrid · 🛂 visa sponsor
 - [Embedded Design Engineer -  FPGA Academy](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (2)
-
-- [Java Software Engineer](https://www.linkedin.com/jobs/view/4373105619/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-- [Java Developer](https://www.linkedin.com/jobs/view/4373114205/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
 
@@ -56,10 +57,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 
 - [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4374137684/) — Backend · Newcastle, England, United Kingdom · 🛂 visa sponsor
-
-### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
-
-- [Principal Software Engineer - Defence](https://www.linkedin.com/jobs/view/4446748027/) — Backend · Up to £140,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Credera](https://jobs.winterchill.xyz/?employer=Credera) (1)
 
@@ -76,6 +73,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (1)
 
 - [Graduate Engineer](https://www.linkedin.com/jobs/view/4448092532/) — Backend · £33,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [Platform Recruitment](https://jobs.winterchill.xyz/?employer=Platform%20Recruitment) (1)
+
+- [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4449572054/) — Embedded / Robotics · £35,000–£45,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
 
