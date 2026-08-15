@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**30 open roles** · updated 2026-08-14
+**33 open roles** · updated 2026-08-15
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -21,6 +21,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Data Engineer II (Data Platform)](https://job-boards.greenhouse.io/tripadvisor/jobs/8081328) — Backend · Oxford, United Kingdom (Hybrid or Remote) · remote · 🛂 visa sponsor
 - [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
 - [Junior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/6903058) — Backend · Oxford, UK · remote · 🛂 visa sponsor
+
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (3)
+
+- [Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4451503272/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Bioinformatician](https://www.linkedin.com/jobs/view/4454044399/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4450219182/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (3)
 
@@ -53,13 +59,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
+### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (1)
+
+- [Graduate AI software engineer](https://www.linkedin.com/jobs/view/4451486107/) — Backend · £85,797–£151,436/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
 
 - [Full Stack Engineer / Technical Lead](https://www.linkedin.com/jobs/view/4447374424/) — Backend · Up to £80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (1)
-
-- [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4450219182/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
