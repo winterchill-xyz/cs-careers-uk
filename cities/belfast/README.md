@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Belfast
 
-**83 open roles** · updated 2026-08-15
+**85 open roles** · updated 2026-08-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -57,6 +57,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer - Merchant Solutions](https://startup.jobs/senior-software-engineer-merchant-solutions-olo-7950553) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Software Engineer - Menu](https://startup.jobs/software-engineer-menu-olo-7993996) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+
+- [Software Engineer, Platform - Belfast, United Kingdom](https://startup.jobs/software-engineer-platform-belfast-united-kingdom-speechify-7947441) — Backend · Belfast, Northern Ireland, United Kingdom
+- [Senior Software Engineer, Windows/Desktop Applications - Belfast, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-belfast-united-kingdom-speechify-7947002) — Backend · Belfast, Northern Ireland, United Kingdom
+- [Software Engineer, iOS Core Product - Belfast, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-belfast-united-kingdom-speechify-7947141) — Backend · Belfast, Northern Ireland, United Kingdom · remote
+- [Senior Software Engineer, Core Experiences - Belfast, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-belfast-united-kingdom-speechify-7982490) — Backend · Belfast, Northern Ireland, United Kingdom · remote
+- [Software Engineer, Data Infrastructure & Acquisition - Belfast, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-belfast-united-kingdom-speechify-7982607) — Backend · Belfast, Northern Ireland, United Kingdom
+
 ### [Symphony Communication Services](https://jobs.winterchill.xyz/?employer=Symphony%20Communication%20Services) (4)
 
 - [Senior Systems Software Engineer](https://startup.jobs/senior-systems-software-engineer-symphony-communication-servi-8345029) — Backend · £57,000–£70,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
@@ -92,14 +100,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [PA Consulting](https://jobs.winterchill.xyz/?employer=PA%20Consulting) (3)
 
 - [Copy of Data Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000141809780) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior AI Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000139303969) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000139300541) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
-
-- [Software Engineer, Platform - Belfast, United Kingdom](https://startup.jobs/software-engineer-platform-belfast-united-kingdom-speechify-7947441) — Backend · Belfast, Northern Ireland, United Kingdom
-- [Senior Software Engineer, Windows/Desktop Applications - Belfast, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-belfast-united-kingdom-speechify-7947002) — Backend · Belfast, Northern Ireland, United Kingdom
-- [Software Engineer, iOS Core Product - Belfast, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-belfast-united-kingdom-speechify-7947141) — Backend · Belfast, Northern Ireland, United Kingdom · remote
+- [Senior AI Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000139303969) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Version 1](https://jobs.winterchill.xyz/?employer=Version%201) (3)
 

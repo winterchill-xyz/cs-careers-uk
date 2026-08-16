@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**44 open roles** · updated 2026-08-15
+**44 open roles** · updated 2026-08-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -40,8 +40,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (2)
 
-- [Senior Microsoft 365 Engineer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Microsoft-365-Engineer_JR0657) — Enterprise / Business Systems Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Microsoft 365 Engineer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Microsoft-365-Engineer_JR0657) — Enterprise / Business Systems Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (2)
 

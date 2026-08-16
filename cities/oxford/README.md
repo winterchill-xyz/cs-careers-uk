@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**33 open roles** · updated 2026-08-15
+**34 open roles** · updated 2026-08-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -14,6 +14,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4424403890/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
+
+- [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
+- [Software Engineer, iOS Core Product - Oxford, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-oxford-united-kingdom-speechify-7947332) — Backend · Oxford, England, United Kingdom · remote
+- [Senior Software Engineer, Core Experiences - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-oxford-united-kingdom-speechify-7982526) — Backend · Oxford, England, United Kingdom · remote
+- [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (4)
 
@@ -40,12 +48,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Application Security Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Product-Security-Engineer-II_R113910) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Java Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Java-Software-Engineer_R112239-1) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
-
-- [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
-- [Software Engineer, iOS Core Product - Oxford, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-oxford-united-kingdom-speechify-7947332) — Backend · Oxford, England, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
-
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (2)
 
 - [Machine Learning Engineer (Forward Deployed)](https://mindfoundry.ai/careers-apply?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -58,10 +60,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (1)
-
-- [Graduate AI software engineer](https://www.linkedin.com/jobs/view/4451486107/) — Backend · £85,797–£151,436/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
 

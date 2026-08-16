@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**18 open roles** · updated 2026-08-15
+**17 open roles** · updated 2026-08-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -35,10 +35,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Companies House](https://jobs.winterchill.xyz/?employer=Companies%20House) (1)
 
 - [Lead Software Developer](https://www.linkedin.com/jobs/view/4450112666/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Dŵr Cymru Welsh Water](https://jobs.winterchill.xyz/?employer=D%C5%B5r%20Cymru%20Welsh%20Water) (1)
-
-- [Data Engineer](https://www.linkedin.com/jobs/view/4446281967/) — Data Engineering · £42,786/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [HID](https://jobs.winterchill.xyz/?employer=HID) (1)
 

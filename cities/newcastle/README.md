@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**44 open roles** · updated 2026-08-15
+**43 open roles** · updated 2026-08-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -25,11 +25,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Graduate Test Engineer](https://jobs.lever.co/scottlogic/d173c70a-2384-46c2-b55f-7604cee66522) — Backend · Newcastle · remote · 🛂 visa sponsor
 - [Graduate Software Developer](https://jobs.lever.co/scottlogic/9184c6d5-3adc-4043-a1d4-44da49f14e60) — Backend · Newcastle · remote · 🛂 visa sponsor
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
 - [Senior Software Engineer, Core Experiences - Newcastle, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-newcastle-united-kingdom-speechify-7954825) — Backend · Newcastle upon Tyne, England, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Newcastle, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-newcastle-united-kingdom-speechify-7954945) — Backend · Newcastle upon Tyne, England, United Kingdom
 - [Software Engineer, Platform - Newcastle, United Kingdom](https://startup.jobs/software-engineer-platform-newcastle-united-kingdom-speechify-7974954) — Backend · Newcastle upon Tyne, England, United Kingdom
+- [Software Engineer, iOS Core Product - Newcastle, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-newcastle-united-kingdom-speechify-7947316) — Backend · Newcastle upon Tyne, England, United Kingdom · remote
 - [Senior Software Engineer, Windows/Desktop Applications - Newcastle, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-newcastle-united-kingdom-speechify-7974838) — Backend · Newcastle upon Tyne, England, United Kingdom
 
 ### [Leonardo](https://jobs.winterchill.xyz/?employer=Leonardo) (3)
@@ -43,11 +44,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Java Consultant](https://www.linkedin.com/jobs/view/4451233106/) — Backend · £54,000–£64,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [Data engineer - AWS - Newcastle](https://dataengineeringjobs.co.uk/jobs/data-engineer-aws-newcastle-tenth-revolution-group-newcastle-upon-tyne) — Data Engineering · £40,000–£50,000/yr · Newcastle upon Tyne, England · hybrid
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4448775759/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (2)
-
-- [Data Engineer](https://www.linkedin.com/jobs/view/4437664983/) — Data Engineering · £50,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-- [Java Software Engineer](https://www.linkedin.com/jobs/view/4373105619/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
 
@@ -68,9 +64,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Junior Software Engineer](https://www.linkedin.com/jobs/view/4448994547/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
-### [Apache Associates](https://jobs.winterchill.xyz/?employer=Apache%20Associates) (1)
+### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (1)
 
-- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4454531980/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4437664983/) — Data Engineering · £50,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 

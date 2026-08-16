@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**52 open roles** · updated 2026-08-15
+**51 open roles** · updated 2026-08-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -71,10 +71,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Dains Accountants & Advisers](https://jobs.winterchill.xyz/?employer=Dains%20Accountants%20%26%20Advisers) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4454526104/) — Data Engineering · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
-### [Dentro Talent](https://jobs.winterchill.xyz/?employer=Dentro%20Talent) (1)
-
-- [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4448728700/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (1)
 
