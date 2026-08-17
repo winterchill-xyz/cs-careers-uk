@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**34 open roles** · updated 2026-08-16
+**36 open roles** · updated 2026-08-17
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,7 +8,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (6)
 
-- [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4435790700/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4436001255/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -72,6 +72,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Gravis Robotics](https://jobs.winterchill.xyz/?employer=Gravis%20Robotics) (1)
 
 - [Senior Reinforcement Learning Engineer](https://www.linkedin.com/jobs/view/4453392647/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [KDR Talent Solutions](https://jobs.winterchill.xyz/?employer=KDR%20Talent%20Solutions) (1)
+
+- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4455194690/) — Backend · Up to £100,000/yr · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [OrganOx](https://jobs.winterchill.xyz/?employer=OrganOx) (1)
+
+- [Digital Test Specialist](https://uk.indeed.com/viewjob?jk=cbf643dca33111f4) — QA / Test Automation · Oxford, United Kingdom · 🛂 visa sponsor
 
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 

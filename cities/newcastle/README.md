@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**43 open roles** · updated 2026-08-16
+**44 open roles** · updated 2026-08-17
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -94,7 +94,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4451122317/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4451122317/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Scrumconnect Consulting](https://jobs.winterchill.xyz/?employer=Scrumconnect%20Consulting) (1)
+
+- [AI Engineer](https://www.linkedin.com/jobs/view/4452214368/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Sellick Partnership](https://jobs.winterchill.xyz/?employer=Sellick%20Partnership) (1)
 
@@ -102,7 +106,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Seriös Group](https://jobs.winterchill.xyz/?employer=Seri%C3%B6s%20Group) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4451918910/) — Data Engineering · £35,000–£49,999/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4451918910/) — Data Engineering · £35,000–£49,999/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Spectrum IT Recruitment](https://jobs.winterchill.xyz/?employer=Spectrum%20IT%20Recruitment) (1)
 
