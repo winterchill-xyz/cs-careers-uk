@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**15 open roles** · updated 2026-08-17
+**16 open roles** · updated 2026-08-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -45,6 +45,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4454051273/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [Sigma](https://jobs.winterchill.xyz/?employer=Sigma) (1)
+
+- [Lead Oracle Applications Developer](https://www.linkedin.com/jobs/view/4455308375/) — Up to £55,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
 

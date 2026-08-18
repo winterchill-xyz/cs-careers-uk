@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**42 open roles** · updated 2026-08-17
+**41 open roles** · updated 2026-08-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -9,8 +9,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (5)
 
 - [Contract Microsoft Foundry AI Engineer](https://apply.workable.com/j/CF9002814A/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
-- [Data Engineer](https://apply.workable.com/j/CCDA305975/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Lead Data Engineer](https://apply.workable.com/j/16E6D2B235/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://apply.workable.com/j/CCDA305975/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Solution Director: Engineering](https://apply.workable.com/j/D26AA41D72/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Lead Full Stack Developer](https://apply.workable.com/j/FE3391C064/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
@@ -38,30 +38,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (2)
 
-- [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Microsoft 365 Engineer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Microsoft-365-Engineer_JR0657) — Enterprise / Business Systems Engineering · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (2)
 
 - [QA Test Engineer](https://apply.workable.com/j/85A5E3C994/apply) — Frontend · Up to £55,000/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Cyber Security Engineer](https://apply.workable.com/j/66125368B2/apply) — Platform / Infrastructure · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (2)
-
-- [Lead Engineer: SIMS](https://www.linkedin.com/jobs/view/4448878676/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Automation & AI Systems Senior Engineer](https://www.linkedin.com/jobs/view/4448187916/) — ML / AI Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
-
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Quality Automation Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Quality-Automation-Engineer---Leeds_R00289257-1) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
-### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (1)
-
-- [Full Stack Developer](https://www.linkedin.com/jobs/view/4450865656/) — Backend · £57,000–£86,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
-
 ### [BatchdUK](https://jobs.winterchill.xyz/?employer=BatchdUK) (1)
 
 - [Automation & Software Developer](https://www.linkedin.com/jobs/view/4451503400/) — Backend · £26,000–£32,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [Burendo](https://jobs.winterchill.xyz/?employer=Burendo) (1)
+
+- [Principal Full Stack Engineer](https://www.linkedin.com/jobs/view/4454275686/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [evoke](https://jobs.winterchill.xyz/?employer=evoke) (1)
 
@@ -83,13 +78,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4422919927/) — Backend · Leeds, England, United Kingdom · remote
 
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
+
+- [Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Software-Engineer_161660-1) — Backend · £42,744–£64,116/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Medical Engineers Recruitment](https://jobs.winterchill.xyz/?employer=Medical%20Engineers%20Recruitment) (1)
+
+- [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4454031701/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+
 ### [MPower Plus](https://jobs.winterchill.xyz/?employer=MPower%20Plus) (1)
 
 - [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4452451341/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [Nexus Leads Services](https://jobs.winterchill.xyz/?employer=Nexus%20Leads%20Services) (1)
-
-- [Frontend Engineer \| Transformation Project \| Fully Remote](https://www.linkedin.com/jobs/view/4451112000/) — Frontend · Up to £80,664/yr · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Novuna](https://jobs.winterchill.xyz/?employer=Novuna) (1)
 
@@ -119,9 +118,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4448796318/) — Backend · £30,000–£35,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [UtterBerry LTD](https://jobs.winterchill.xyz/?employer=UtterBerry%20LTD) (1)
+### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (1)
 
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4451556953/) — Backend · £30,000–£60,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Lead Engineer: SIMS](https://www.linkedin.com/jobs/view/4448878676/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Valeo Foods UK](https://jobs.winterchill.xyz/?employer=Valeo%20Foods%20UK) (1)
 

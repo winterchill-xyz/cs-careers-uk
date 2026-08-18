@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**36 open roles** · updated 2026-08-17
+**36 open roles** · updated 2026-08-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -59,11 +59,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
 
-- [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
-
-- [Full Stack Engineer / Technical Lead](https://www.linkedin.com/jobs/view/4447374424/) — Backend · Up to £80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Embedded / Robotics · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
@@ -72,6 +68,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Gravis Robotics](https://jobs.winterchill.xyz/?employer=Gravis%20Robotics) (1)
 
 - [Senior Reinforcement Learning Engineer](https://www.linkedin.com/jobs/view/4453392647/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [Humand Talent](https://jobs.winterchill.xyz/?employer=Humand%20Talent) (1)
+
+- [Software Engineer - ID49470](https://www.linkedin.com/jobs/view/4452256345/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [KDR Talent Solutions](https://jobs.winterchill.xyz/?employer=KDR%20Talent%20Solutions) (1)
 

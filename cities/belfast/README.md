@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Belfast
 
-**85 open roles** · updated 2026-08-17
+**86 open roles** · updated 2026-08-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -41,21 +41,22 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Dynamics 365 Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Dynamics-365-Engineer_JR_17712/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Power Platform Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Power-Platform-Engineer_JR_17695/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 
-### [Instil](https://jobs.winterchill.xyz/?employer=Instil) (5)
+### [Olo](https://jobs.winterchill.xyz/?employer=Olo) (6)
 
-- [Senior Data Engineer (Python/AWS)](https://www.linkedin.com/jobs/view/4451519479/) — Data Engineering · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer (React/ Typescript/ AWS)](https://www.linkedin.com/jobs/view/4452460746/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer (Java/ AWS)](https://www.linkedin.com/jobs/view/4452457838/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Data Engineer (Python/ AWS)](https://www.linkedin.com/jobs/view/4428881809/) — Data Engineering · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Fullstack Engineer (TypeScript / Python/ AWS)](https://www.linkedin.com/jobs/view/4420299270/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-
-### [Olo](https://jobs.winterchill.xyz/?employer=Olo) (5)
-
+- [Software Engineer - Core](https://startup.jobs/software-engineer-core-olo-8745067) — Backend · Belfast, Northern Ireland, United Kingdom
 - [Senior Software Engineer - Core](https://startup.jobs/senior-software-engineer-core-olo-8728549) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Software Engineer - In-Store](https://startup.jobs/software-engineer-in-store-olo-7794416) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Fullstack Software Engineer - Catering](https://startup.jobs/fullstack-software-engineer-catering-olo-7837837) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Senior Software Engineer - Merchant Solutions](https://startup.jobs/senior-software-engineer-merchant-solutions-olo-7950553) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Software Engineer - Menu](https://startup.jobs/software-engineer-menu-olo-7993996) — Backend · Belfast, Northern Ireland, United Kingdom · remote
+
+### [Instil](https://jobs.winterchill.xyz/?employer=Instil) (5)
+
+- [Software Engineer (Java/ AWS)](https://www.linkedin.com/jobs/view/4444480434/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Senior Data Engineer (Python/AWS)](https://www.linkedin.com/jobs/view/4451519479/) — Data Engineering · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer (React/ Typescript/ AWS)](https://www.linkedin.com/jobs/view/4452460746/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Data Engineer (Python/ AWS)](https://www.linkedin.com/jobs/view/4428881809/) — Data Engineering · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Fullstack Engineer (TypeScript / Python/ AWS)](https://www.linkedin.com/jobs/view/4420299270/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
 
@@ -68,9 +69,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Symphony Communication Services](https://jobs.winterchill.xyz/?employer=Symphony%20Communication%20Services) (4)
 
 - [Senior Systems Software Engineer](https://startup.jobs/senior-systems-software-engineer-symphony-communication-servi-8345029) — Backend · £57,000–£70,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer, Media](https://startup.jobs/senior-software-engineer-media-symphony-communication-servi-8771339) — £55,000–£65,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer, Media](https://startup.jobs/senior-software-engineer-media-symphony-communication-servi-8771339) — Backend · £55,000–£65,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 - [Software Engineer Back-End](https://startup.jobs/software-engineer-back-end-symphony-communication-servi-8345031) — Backend · £45,000–£60,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer in Test](https://startup.jobs/software-engineer-in-test-symphony-communication-servi-8345022) — £40,000–£50,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer in Test](https://startup.jobs/software-engineer-in-test-symphony-communication-servi-8345022) — Backend · £40,000–£50,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [TP ICAP](https://jobs.winterchill.xyz/?employer=TP%20ICAP) (4)
 
@@ -87,8 +88,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Instil Software Ltd](https://jobs.winterchill.xyz/?employer=Instil%20Software%20Ltd) (3)
 
-- [Software Engineer (.Net)](https://startup.jobs/software-engineer-net-instil-software-ltd-8795817) — Belfast, Northern Ireland, United Kingdom
-- [Software Engineer (Java/ AWS)](https://startup.jobs/software-engineer-java-aws-instil-software-ltd-8795818) — Belfast, Northern Ireland, United Kingdom
+- [Software Engineer (.Net)](https://startup.jobs/software-engineer-net-instil-software-ltd-8795817) — Backend · Belfast, Northern Ireland, United Kingdom
+- [Software Engineer (Java/ AWS)](https://startup.jobs/software-engineer-java-aws-instil-software-ltd-8795818) — Backend · Belfast, Northern Ireland, United Kingdom
 - [Software Engineer (React/ Typescript/ AWS)](https://startup.jobs/software-engineer-react-typescript-aws-instil-software-ltd-8795819) — Belfast, Northern Ireland, United Kingdom
 
 ### [Ocho](https://jobs.winterchill.xyz/?employer=Ocho) (3)
@@ -116,13 +117,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [EverQuote](https://jobs.winterchill.xyz/?employer=EverQuote) (2)
 
-- [Senior Software Engineer, B2B Platform Services](https://startup.jobs/senior-software-engineer-b2b-platform-services-everquote-2-8799323) — Belfast, Northern Ireland, United Kingdom
+- [Senior Software Engineer, B2B Platform Services](https://startup.jobs/senior-software-engineer-b2b-platform-services-everquote-2-8799323) — Backend · Belfast, Northern Ireland, United Kingdom
 - [Software Engineer II, Security](https://startup.jobs/software-engineer-ii-security-everquote-2-7950061) — Backend · Belfast, Northern Ireland, United Kingdom
-
-### [Net2Source (N2S)](https://jobs.winterchill.xyz/?employer=Net2Source%20%28N2S%29) (2)
-
-- [Backend Java Developer](https://www.linkedin.com/jobs/view/4454017961/) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid · 🛂 visa sponsor
-- [Java Developer](https://www.linkedin.com/jobs/view/4433089553/) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Stora](https://jobs.winterchill.xyz/?employer=Stora) (2)
 
@@ -153,9 +149,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Staff Software Engineer](https://www.linkedin.com/jobs/view/4341935164/) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Net2Source (N2S)](https://jobs.winterchill.xyz/?employer=Net2Source%20%28N2S%29) (1)
+
+- [Backend Java Developer](https://www.linkedin.com/jobs/view/4454017961/) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [NVIDIA](https://jobs.winterchill.xyz/?employer=NVIDIA) (1)
 
 - [Senior Software QA Test Development Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Belfast/Senior-Software-QA-Test-Development-Engineer_JR2007569) — Backend · UK, Belfast, United Kingdom · 🛂 visa sponsor
+
+### [Oxbow Talent](https://jobs.winterchill.xyz/?employer=Oxbow%20Talent) (1)
+
+- [Python Developer](https://www.linkedin.com/jobs/view/4452246898/) — Backend · £40,000–£65,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [Reflex Studios](https://jobs.winterchill.xyz/?employer=Reflex%20Studios) (1)
 
