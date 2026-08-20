@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**35 open roles** · updated 2026-08-19
+**36 open roles** · updated 2026-08-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -25,10 +25,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (4)
 
+- [Software Engineer - Orchestration](https://www.linkedin.com/jobs/view/4456181374/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4455254541/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4451503272/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Bioinformatician](https://www.linkedin.com/jobs/view/4454044399/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4450219182/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (3)
 
@@ -59,10 +59,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Embedded / Robotics · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (1)
-
-- [Graduate software engineer](https://www.linkedin.com/jobs/view/4453944898/) — Backend · £85,797–£151,436/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · Oxford · hybrid · 🛂 visa sponsor
@@ -79,9 +75,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Software Engineer](https://www.linkedin.com/jobs/view/4455194690/) — Backend · Up to £100,000/yr · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [NPAworldwide](https://jobs.winterchill.xyz/?employer=NPAworldwide) (1)
+
+- [Lead Java Software Developer](https://www.linkedin.com/jobs/view/4452792694/) — Backend · £70,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [OrganOx](https://jobs.winterchill.xyz/?employer=OrganOx) (1)
 
 - [Digital Test Specialist](https://uk.indeed.com/viewjob?jk=cbf643dca33111f4) — QA / Test Automation · Oxford, United Kingdom · 🛂 visa sponsor
+
+### [Oxa](https://jobs.winterchill.xyz/?employer=Oxa) (1)
+
+- [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4453451666/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 
