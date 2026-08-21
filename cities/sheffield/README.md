@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**9 open roles** · updated 2026-08-20
+**8 open roles** · updated 2026-08-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -27,10 +27,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Pendo](https://jobs.winterchill.xyz/?employer=Pendo) (1)
 
 - [Sr Software Engineer](https://startup.jobs/sr-software-engineer-pendo-8997753) — £60,000–£78,000/yr · Sheffield, England, United Kingdom
-
-### [Remit Choice Limited](https://jobs.winterchill.xyz/?employer=Remit%20Choice%20Limited) (1)
-
-- [Data Engineer](https://www.linkedin.com/jobs/view/4453222305/) — Data Engineering · £50,000–£55,000/yr · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [Twinkl Educational Publishing](https://jobs.winterchill.xyz/?employer=Twinkl%20Educational%20Publishing) (1)
 
