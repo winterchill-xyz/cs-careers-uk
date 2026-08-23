@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Reading
 
-**49 open roles** · updated 2026-08-22
+**49 open roles** · updated 2026-08-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -64,13 +64,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Senior Engineer](https://uk.indeed.com/viewjob?jk=479f45e496a06053) — Backend · Reading, United Kingdom · 🛂 visa sponsor
 
+### [bcn group](https://jobs.winterchill.xyz/?employer=bcn%20group) (1)
+
+- [Azure Engineer](https://uk.indeed.com/viewjob?jk=dd88074c7157cdcc) — Platform / Infrastructure · £40,000–£50,000/yr · Reading, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### Company not listed (1)
 
 - [Embedded Software (FW) Engineer](https://uk.indeed.com/viewjob?jk=2a443152f8635f6e) — Embedded / Robotics · Reading, United Kingdom
 
 ### [Cortech Talent Solutions Ltd](https://jobs.winterchill.xyz/?employer=Cortech%20Talent%20Solutions%20Ltd) (1)
 
-- [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4456475774/) — Backend · £30,000–£45,000/yr · Reading, England, United Kingdom · 🛂 visa sponsor
+- [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4456475774/) — Backend · £30,000–£45,000/yr · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [ECMWF](https://jobs.winterchill.xyz/?employer=ECMWF) (1)
 
@@ -78,7 +82,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
 
-- [Full Stack Engineer (Python / React / AWS)](https://www.linkedin.com/jobs/view/4454778631/) — Backend · Reading, England, United Kingdom · 🛂 visa sponsor
+- [Full Stack Engineer (Python / React / AWS)](https://www.linkedin.com/jobs/view/4454778631/) — Backend · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [HP](https://jobs.winterchill.xyz/?employer=HP) (1)
 
@@ -126,7 +130,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Punter Southall Group](https://jobs.winterchill.xyz/?employer=Punter%20Southall%20Group) (1)
 
-- [Lead Pricing Scientist - Hybrid Working](https://uk.indeed.com/viewjob?jk=ab6592ee79bcd0ba) — Reading, United Kingdom
+- [Lead Pricing Scientist - Hybrid Working](https://uk.indeed.com/viewjob?jk=ab6592ee79bcd0ba) — Data Science / Analytics · Reading, United Kingdom
 
 ### [R3vamp](https://jobs.winterchill.xyz/?employer=R3vamp) (1)
 
@@ -155,10 +159,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Visa](https://jobs.winterchill.xyz/?employer=Visa) (1)
 
 - [Software Engineer (Mid-Level)](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Senior-Software-Engineer_REF078607W) — Backend · GB - Reading, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Wipro](https://jobs.winterchill.xyz/?employer=Wipro) (1)
-
-- [SOLUTION ARCHITECT L1](https://uk.indeed.com/viewjob?jk=608cabb1777d8d57) — Enterprise / Business Systems Engineering · Reading, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**43 open roles** · updated 2026-08-22
+**46 open roles** · updated 2026-08-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -9,8 +9,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (5)
 
 - [Contract Microsoft Foundry AI Engineer](https://apply.workable.com/j/CF9002814A/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
-- [Lead Data Engineer](https://apply.workable.com/j/16E6D2B235/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Data Engineer](https://apply.workable.com/j/CCDA305975/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
+- [Lead Data Engineer](https://apply.workable.com/j/16E6D2B235/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Solution Director: Engineering](https://apply.workable.com/j/D26AA41D72/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Lead Full Stack Developer](https://apply.workable.com/j/FE3391C064/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
@@ -23,7 +23,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (2)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4452236659/) — Backend · £30,000–£60,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Principal AI Engineer](https://www.linkedin.com/jobs/view/4457361213/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Principal AI Engineer](https://www.linkedin.com/jobs/view/4457361213/) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [CreateFuture](https://jobs.winterchill.xyz/?employer=CreateFuture) (2)
 
@@ -45,6 +45,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Software-Engineer_161660-1) — Backend · £42,744–£64,116/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Public Cloud Assistant Infrastructure Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud-Assistant-Infrastructure-Engineer_152578-1) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (2)
+
+- [Lead Engineer  \| Tech Lead (AI First)](https://www.linkedin.com/jobs/view/4454634922/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [AI Engineer](https://www.linkedin.com/jobs/view/4452586436/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+
 ### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (2)
 
 - [QA Test Engineer](https://apply.workable.com/j/85A5E3C994/apply) — Frontend · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
@@ -60,7 +65,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Burendo](https://jobs.winterchill.xyz/?employer=Burendo) (1)
 
-- [Principal Full Stack Engineer](https://www.linkedin.com/jobs/view/4454275686/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Principal Full Stack Engineer](https://www.linkedin.com/jobs/view/4456182874/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 
@@ -94,10 +99,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4455785865/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
-### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (1)
-
-- [AI Engineer](https://www.linkedin.com/jobs/view/4452586436/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (1)
 
 - [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
@@ -124,11 +125,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (1)
 
-- [Frontend Developer](https://www.linkedin.com/jobs/view/4456168339/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4456168339/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Sparta Global](https://jobs.winterchill.xyz/?employer=Sparta%20Global) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4452822152/) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [Turnitin](https://jobs.winterchill.xyz/?employer=Turnitin) (1)
+
+- [Principal Software Engineer Backend Technologies, Platform (UK Remote)](https://www.linkedin.com/jobs/view/4436393706/) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
+
+- [Azure Devops Engineer](https://dataengineeringjobs.co.uk/jobs/azure-devops-engineer-txp-leeds) — Data Engineering · £330–£380/day · Leeds, West Yorkshire · remote
 
 ### [Valeo Foods UK](https://jobs.winterchill.xyz/?employer=Valeo%20Foods%20UK) (1)
 
@@ -136,7 +145,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Verkko Robotics](https://jobs.winterchill.xyz/?employer=Verkko%20Robotics) (1)
 
-- [Junior Platform Engineer — Intelligent Automation](https://www.linkedin.com/jobs/view/4457322692/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Junior Platform Engineer — Intelligent Automation](https://www.linkedin.com/jobs/view/4457322692/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Vintage.com](https://jobs.winterchill.xyz/?employer=Vintage.com) (1)
 

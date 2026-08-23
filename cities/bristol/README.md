@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**87 open roles** · updated 2026-08-22
+**87 open roles** · updated 2026-08-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -71,11 +71,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Rust Software Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4763161101) — Backend · Bristol · hybrid · 🛂 visa sponsor
 - [ML Runtime Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4725124101) — Backend · Bristol · hybrid · 🛂 visa sponsor
 
-### [Hargreaves Lansdown](https://jobs.winterchill.xyz/?employer=Hargreaves%20Lansdown) (2)
-
-- [Software Engineering Manager](https://www.linkedin.com/jobs/view/4451207925/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
-- [Software Engineer](https://www.linkedin.com/jobs/view/4451211876/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
-
 ### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (2)
 
 - [Senior Embedded Software Engineer](https://www.linkedin.com/jobs/view/4424708957/) — Embedded / Robotics · Bristol, England, United Kingdom · 🛂 visa sponsor
@@ -141,6 +136,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Founding Tech Lead (+ Equity) at Founders Factory Ltd](https://www.linkedin.com/jobs/view/4456090944/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 
+### [Hargreaves Lansdown](https://jobs.winterchill.xyz/?employer=Hargreaves%20Lansdown) (1)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4451211876/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (1)
 
 - [Full Stack Kotlin Developer](https://www.linkedin.com/jobs/view/4455239840/) — Backend · Up to £72,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
@@ -152,6 +151,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Inspiring Vet Care](https://jobs.winterchill.xyz/?employer=Inspiring%20Vet%20Care) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4456782554/) — Data Engineering · Bristol, England, United Kingdom · 🛂 visa sponsor
+
+### [Jacobs](https://jobs.winterchill.xyz/?employer=Jacobs) (1)
+
+- [Software Developer (Full Stack/Front or Back End)](https://www.linkedin.com/jobs/view/4438679452/) — Backend · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Jump Trading](https://jobs.winterchill.xyz/?employer=Jump%20Trading) (1)
 
@@ -175,11 +178,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Newpage Solutions](https://jobs.winterchill.xyz/?employer=Newpage%20Solutions) (1)
 
-- [Lead FDE Production & Consulting](https://www.linkedin.com/jobs/view/4456151979/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Lead FDE Production & Consulting](https://www.linkedin.com/jobs/view/4456151979/) — Backend · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Nourish Care](https://jobs.winterchill.xyz/?employer=Nourish%20Care) (1)
 
-- [Senior API Developer](https://www.linkedin.com/jobs/view/4452568934/) — Backend · Stockland Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Senior API Developer](https://www.linkedin.com/jobs/view/4452568934/) — Backend · Stockland Bristol, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Oracle](https://jobs.winterchill.xyz/?employer=Oracle) (1)
 
@@ -199,7 +202,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Rowden](https://jobs.winterchill.xyz/?employer=Rowden) (1)
 
-- [Machine Learning Engineer (All Levels)](https://www.linkedin.com/jobs/view/4456725295/) — Backend · £50,000–£95,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Machine Learning Engineer (All Levels)](https://www.linkedin.com/jobs/view/4456725295/) — Backend · £50,000–£95,000/yr · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Sanderson](https://jobs.winterchill.xyz/?employer=Sanderson) (1)
 

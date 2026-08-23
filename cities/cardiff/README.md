@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**26 open roles** · updated 2026-08-22
+**25 open roles** · updated 2026-08-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -16,7 +16,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [HID](https://jobs.winterchill.xyz/?employer=HID) (4)
 
-- [Staff Software Java Engineer](https://www.linkedin.com/jobs/view/4456194359/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Staff Software Java Engineer](https://www.linkedin.com/jobs/view/4456194359/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 - [Solutions Integration Engineering Manager](https://www.linkedin.com/jobs/view/4456703798/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 - [Firmware Engineer](https://www.linkedin.com/jobs/view/4456195362/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 - [Ecosystem Integration Engineering Manager](https://www.linkedin.com/jobs/view/4453121881/) — Engineering Management · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -55,15 +55,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Marsh](https://jobs.winterchill.xyz/?employer=Marsh) (1)
 
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4455311792/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4455311792/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
 
 - [Principal Data Engineer](https://www.linkedin.com/jobs/view/4453119165/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [National Grid](https://jobs.winterchill.xyz/?employer=National%20Grid) (1)
-
-- [Lead Software Engineer](https://www.linkedin.com/jobs/view/4452599921/) — DevOps / SRE · £75,000–£90,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Panasonic Europe](https://jobs.winterchill.xyz/?employer=Panasonic%20Europe) (1)
 
