@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**37 open roles** · updated 2026-08-23
+**36 open roles** · updated 2026-08-24
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -44,11 +44,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Machine Learning Engineer (Forward Deployed)](https://mindfoundry.ai/careers-apply?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Machine Learning Engineer](https://mindfoundry.ai/careers-apply?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [OrganOx](https://jobs.winterchill.xyz/?employer=OrganOx) (2)
-
-- [Backend Developer](https://uk.indeed.com/viewjob?jk=e7c0b2a97929eed7) — Backend · Oxford, United Kingdom · 🛂 visa sponsor
-- [Digital Test Specialist](https://uk.indeed.com/viewjob?jk=cbf643dca33111f4) — QA / Test Automation · Oxford, United Kingdom · 🛂 visa sponsor
-
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (2)
 
 - [Full-Stack Software Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Full-Stack-Software-Engineer-III_R114714) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
@@ -85,6 +80,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [NPAworldwide](https://jobs.winterchill.xyz/?employer=NPAworldwide) (1)
 
 - [Lead Java Software Developer](https://www.linkedin.com/jobs/view/4452792694/) — Backend · £70,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [OrganOx](https://jobs.winterchill.xyz/?employer=OrganOx) (1)
+
+- [Backend Developer](https://uk.indeed.com/viewjob?jk=e7c0b2a97929eed7) — Backend · Oxford, United Kingdom · 🛂 visa sponsor
 
 ### [Oxa](https://jobs.winterchill.xyz/?employer=Oxa) (1)
 
