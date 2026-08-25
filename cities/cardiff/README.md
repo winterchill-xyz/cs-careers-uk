@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**26 open roles** · updated 2026-08-24
+**23 open roles** · updated 2026-08-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -27,19 +27,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Dynamics Platform Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000142923050) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
 - [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
 
-### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (2)
-
-- [Engineering Technical Lead](https://www.linkedin.com/jobs/view/4438495202/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
-- [(RD) Engineering Team Lead (ETL)](https://www.linkedin.com/jobs/view/4435211891/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (2)
 
 - [Senior Java Software Engineer - Customer Services](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Accelero](https://jobs.winterchill.xyz/?employer=Accelero) (1)
+### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4454525764/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [(RD) Engineering Team Lead (ETL)](https://www.linkedin.com/jobs/view/4435211891/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Cardiff Metropolitan University](https://jobs.winterchill.xyz/?employer=Cardiff%20Metropolitan%20University) (1)
 
@@ -56,10 +51,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Fazer Recruitment](https://jobs.winterchill.xyz/?employer=Fazer%20Recruitment) (1)
 
 - [Senior SOC Engineer](https://dataengineeringjobs.co.uk/jobs/senior-soc-engineer-fazer-recruitment-cardiff) — Security Engineering · £65,000–£70,000/yr · Cardiff, Cymru / Wales · remote
-
-### [Marsh](https://jobs.winterchill.xyz/?employer=Marsh) (1)
-
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4455311792/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
 

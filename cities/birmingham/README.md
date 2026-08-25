@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**55 open roles** · updated 2026-08-24
+**56 open roles** · updated 2026-08-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -46,15 +46,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Education](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer--Education_26WD99981-1) — Backend · Birmingham, GBR, United Kingdom · 🛂 visa sponsor
 - [Software Engineer C++](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1) — Backend · Birmingham, GBR, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
+
+- [Senior Airflow/ Cloud Engineer (Workload Automation)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-Airflow--Cloud-Engineer--Workload-Automation-_R0441573-1) — DevOps / SRE · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior ServiceNow Developer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-ServiceNow-Developer_R0423603-1) — Backend · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [GTC Recruitment](https://jobs.winterchill.xyz/?employer=GTC%20Recruitment) (2)
 
 - [Senior Java Developer](https://www.linkedin.com/jobs/view/4456181033/) — Backend · £750/day · Birmingham, England, United Kingdom · 🛂 visa sponsor
 - [Java Developer](https://www.linkedin.com/jobs/view/4456180082/) — Backend · £750/day · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
-### [NPAworldwide](https://jobs.winterchill.xyz/?employer=NPAworldwide) (2)
-
-- [Java fullstack Developer](https://www.linkedin.com/jobs/view/4456087626/) — Backend · £70,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Senior Java Developer](https://www.linkedin.com/jobs/view/4451672582/) — Backend · £70,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Tact](https://jobs.winterchill.xyz/?employer=Tact) (2)
 
@@ -99,17 +99,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4454526104/) — Data Engineering · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (1)
-
-- [Senior ServiceNow Developer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-ServiceNow-Developer_R0423603-1) — Backend · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
 
 - [Application Developer](https://www.linkedin.com/jobs/view/4454275740/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
-### [Inspired Thinking Group](https://jobs.winterchill.xyz/?employer=Inspired%20Thinking%20Group) (1)
+### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (1)
 
-- [Lead Frontend Developer](https://www.linkedin.com/jobs/view/4452479425/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Principal Engineer (Go)](https://www.linkedin.com/jobs/view/4458206727/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [Information Tech Consultants](https://jobs.winterchill.xyz/?employer=Information%20Tech%20Consultants) (1)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4454646017/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Keen AI](https://jobs.winterchill.xyz/?employer=Keen%20AI) (1)
 
@@ -122,6 +122,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [nology](https://jobs.winterchill.xyz/?employer=nology) (1)
 
 - [Junior Java Developer](https://www.linkedin.com/jobs/view/4448532418/) — Backend · £26,700/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [NPAworldwide](https://jobs.winterchill.xyz/?employer=NPAworldwide) (1)
+
+- [Java fullstack Developer](https://www.linkedin.com/jobs/view/4456087626/) — Backend · £70,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Opus Recruitment Solutions](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions) (1)
 
@@ -139,9 +143,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer - Manager](https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Birmingham/Data-Engineer---Manager_714688WD/apply) — Data Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
-### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (1)
+### [Sparta Global](https://jobs.winterchill.xyz/?employer=Sparta%20Global) (1)
 
-- [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4452469204/) — Backend · £28,000–£30,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Graduate Tech Consultant - Kickstart Your Career in Tech!](https://www.linkedin.com/jobs/view/4443231897/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
 

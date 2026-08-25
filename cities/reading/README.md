@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Reading
 
-**49 open roles** · updated 2026-08-24
+**48 open roles** · updated 2026-08-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -26,6 +26,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, iOS Core Product - Reading, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-reading-united-kingdom-speechify-7947349) — Backend · Reading, England, United Kingdom · remote
 - [Senior Software Engineer, Core Experiences - Reading, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-reading-united-kingdom-speechify-7982528) — Backend · Reading, England, United Kingdom · remote
 
+### [SSE PLC](https://jobs.winterchill.xyz/?employer=SSE%20PLC) (3)
+
+- [Cloud Engineer (Backup/Rubrik)](https://uk.indeed.com/viewjob?jk=c89b81305514f87c) — DevOps / SRE · £51,600–£77,400/yr · Reading, United Kingdom · hybrid
+- [Cloud Engineer](https://www.linkedin.com/jobs/view/4456720026/) — DevOps / SRE · £36,200–£54,400/yr · Reading, England, United Kingdom
+- [Cloud Engineer](https://uk.indeed.com/viewjob?jk=c709a54ebc3af0ab) — DevOps / SRE · £36,200–£54,400/yr · Reading, United Kingdom · hybrid
+
 ### [Wireless Logic](https://jobs.winterchill.xyz/?employer=Wireless%20Logic) (3)
 
 - [Senior Software Engineer - Zero Gravity](https://www.linkedin.com/jobs/view/4446712534/) — Backend · Reading, England, United Kingdom · 🛂 visa sponsor
@@ -47,20 +53,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Platform Owner - Public Cloud](https://www.linkedin.com/jobs/view/4365080497/) — DevOps / SRE · Reading, England, United Kingdom
 - [Platform Manager Integrations](https://www.linkedin.com/jobs/view/4405809981/) — Engineering Management · Reading, England, United Kingdom
 
-### [Pulse Group](https://jobs.winterchill.xyz/?employer=Pulse%20Group) (2)
-
-- [Engineering Manager](https://www.linkedin.com/jobs/view/4449580485/) — Engineering Management · Up to £110,000/yr · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Data Engineer](https://www.linkedin.com/jobs/view/4450479784/) — Data Engineering · £70,000/yr · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [SITA](https://jobs.winterchill.xyz/?employer=SITA) (2)
 
 - [Director Principal Architect](https://www.linkedin.com/jobs/view/4428270057/) — Data Engineering · Reading, England, United Kingdom
 - [Senior Software Developer](https://www.linkedin.com/jobs/view/4432719259/) — Backend · Reading, England, United Kingdom
-
-### [SSE PLC](https://jobs.winterchill.xyz/?employer=SSE%20PLC) (2)
-
-- [Cloud Engineer (Backup/Rubrik)](https://uk.indeed.com/viewjob?jk=c89b81305514f87c) — DevOps / SRE · £51,600–£77,400/yr · Reading, United Kingdom · hybrid
-- [Cloud Engineer](https://uk.indeed.com/viewjob?jk=c709a54ebc3af0ab) — DevOps / SRE · £36,200–£54,400/yr · Reading, United Kingdom · hybrid
 
 ### [Accelero](https://jobs.winterchill.xyz/?employer=Accelero) (1)
 
@@ -126,9 +122,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Azure Developer](https://www.linkedin.com/jobs/view/4449563246/) — Backend · Reading, England, United Kingdom
 
-### [Proofpoint](https://jobs.winterchill.xyz/?employer=Proofpoint) (1)
+### [Pulse Group](https://jobs.winterchill.xyz/?employer=Pulse%20Group) (1)
 
-- [Director, Channel Sales Engineering - EMEA](https://www.linkedin.com/jobs/view/4455315564/) — Engineering Management · Reading, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4450479784/) — Data Engineering · £70,000/yr · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Punter Southall Group](https://jobs.winterchill.xyz/?employer=Punter%20Southall%20Group) (1)
 
