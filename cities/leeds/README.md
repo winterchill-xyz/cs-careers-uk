@@ -1,18 +1,26 @@
 # Software &amp; IT careers in Leeds
 
-**41 open roles** · updated 2026-08-25
+**44 open roles** · updated 2026-08-26
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (5)
+### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (7)
 
+- [Senior AI Engineer - Microsoft Azure (Contract)](https://apply.workable.com/j/AA6CB39C75/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
+- [Principal AI Engineer - Microsoft Azure AI Foundry (Contract)](https://apply.workable.com/j/9F2018E3A6/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Contract Microsoft Foundry AI Engineer](https://apply.workable.com/j/CF9002814A/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Data Engineer](https://apply.workable.com/j/CCDA305975/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Lead Data Engineer](https://apply.workable.com/j/16E6D2B235/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Solution Director: Engineering](https://apply.workable.com/j/D26AA41D72/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Lead Full Stack Developer](https://apply.workable.com/j/FE3391C064/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
+
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (3)
+
+- [Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Software-Engineer_161660-1) — Backend · £42,744–£64,116/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
+- [Private Cloud – Network Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Private-Cloud---Network-Engineer_159312-2) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Public Cloud Assistant Infrastructure Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud-Assistant-Infrastructure-Engineer_152578-1) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
@@ -23,7 +31,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (2)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4452236659/) — Backend · £30,000–£60,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Principal AI Engineer](https://www.linkedin.com/jobs/view/4457361213/) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
+- [Principal AI Engineer](https://www.linkedin.com/jobs/view/4458788240/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (2)
 
@@ -39,11 +47,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Intermediate Full Stack Kotlin Developer](https://www.linkedin.com/jobs/view/4456700274/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Lead Full Stack Kotlin Developer](https://www.linkedin.com/jobs/view/4453667827/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (2)
-
-- [Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Software-Engineer_161660-1) — Backend · £42,744–£64,116/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Public Cloud Assistant Infrastructure Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud-Assistant-Infrastructure-Engineer_152578-1) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (2)
 
@@ -69,15 +72,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [G.Digital](https://jobs.winterchill.xyz/?employer=G.Digital) (1)
 
-- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4457088553/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Junior Software Engineer](https://www.linkedin.com/jobs/view/4458702313/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
 
 - [Lead AI Engineer (Leeds / Edinburgh)](https://dataengineeringjobs.co.uk/jobs/lead-ai-engineer-leeds-edinburgh-hays-technology-leeds) — Backend · £70,000–£108,000/yr · Leeds, West Yorkshire · hybrid
-
-### [Lithium3 IT Consulting Limited](https://jobs.winterchill.xyz/?employer=Lithium3%20IT%20Consulting%20Limited) (1)
-
-- [Head of Data Engineering](https://www.linkedin.com/jobs/view/4451248387/) — Data Engineering · £800/day · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Medical Engineers Recruitment](https://jobs.winterchill.xyz/?employer=Medical%20Engineers%20Recruitment) (1)
 
@@ -91,9 +90,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4455964346/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Novuna](https://jobs.winterchill.xyz/?employer=Novuna) (1)
+### [Red Badger](https://jobs.winterchill.xyz/?employer=Red%20Badger) (1)
 
-- [Developer](https://www.linkedin.com/jobs/view/4451910829/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Principal Platform Engineer](https://content.red-badger.com/all-jobs?gh_jid=7886309003) — DevOps / SRE · Leeds, UK  · 🛂 visa sponsor
 
 ### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (1)
 
@@ -118,6 +117,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
 
 - [Azure Devops Engineer](https://dataengineeringjobs.co.uk/jobs/azure-devops-engineer-txp-leeds) — Data Engineering · £330–£380/day · Leeds, West Yorkshire · remote
+
+### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (1)
+
+- [Research Fellow in Mathematics](https://www.linkedin.com/jobs/view/4458754449/) — Research / Applied Science · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Verkko Robotics](https://jobs.winterchill.xyz/?employer=Verkko%20Robotics) (1)
 

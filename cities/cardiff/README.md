@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**23 open roles** · updated 2026-08-25
+**22 open roles** · updated 2026-08-26
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -21,15 +21,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Firmware Engineer](https://www.linkedin.com/jobs/view/4456195362/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 - [Ecosystem Integration Engineering Manager](https://www.linkedin.com/jobs/view/4453121881/) — Engineering Management · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (3)
+### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (2)
 
 - [Senior Engineer (MongoDB & AWS Serverless)](https://jobs.smartrecruiters.com/LegalAndGeneral/744000144046060) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
-- [Senior Dynamics Platform Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000142923050) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
 - [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
 
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (2)
 
-- [Senior Java Software Engineer - Customer Services](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
+- [Staff Java Software Engineer - Intelligent Operations](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
@@ -66,7 +65,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Sigma](https://jobs.winterchill.xyz/?employer=Sigma) (1)
 
-- [Lead Oracle Applications Developer](https://www.linkedin.com/jobs/view/4457362248/) — Enterprise / Business Systems Engineering · Up to £55,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Lead Oracle Applications Developer](https://www.linkedin.com/jobs/view/4458772874/) — Backend · Up to £55,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

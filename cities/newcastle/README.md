@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**45 open roles** · updated 2026-08-25
+**45 open roles** · updated 2026-08-26
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -56,7 +56,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (2)
 
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4457357025/) — Backend · £60,000–£85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-- [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4455765629/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · remote · 🛂 visa sponsor
+- [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4458782183/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · 🛂 visa sponsor
 
 ### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (1)
 
@@ -90,6 +90,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Frontend / Backend Developer (Rust, Typescript)](https://www.linkedin.com/jobs/view/4455756254/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
+### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4457447742/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
 ### [Sage](https://jobs.winterchill.xyz/?employer=Sage) (1)
 
 - [Data and AI Graduate](https://www.linkedin.com/jobs/view/4454505864/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -98,13 +102,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [AI Engineer](https://www.linkedin.com/jobs/view/4452214368/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Seriös Group](https://jobs.winterchill.xyz/?employer=Seri%C3%B6s%20Group) (1)
+### [TyneStack Ltd](https://jobs.winterchill.xyz/?employer=TyneStack%20Ltd) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4451918910/) — Data Engineering · £35,000–£49,999/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
-
-- [Data engineer - AWS - Newcastle](https://dataengineeringjobs.co.uk/jobs/data-engineer-aws-newcastle-tenth-revolution-group-newcastle-upon-tyne) — Data Engineering · £40,000–£50,000/yr · Newcastle upon Tyne, England · hybrid
+- [Data Engineer](https://www.linkedin.com/jobs/view/4456904777/) — Data Engineering · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Women in Tech](https://jobs.winterchill.xyz/?employer=Women%20in%20Tech) (1)
 
