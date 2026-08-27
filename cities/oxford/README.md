@@ -1,18 +1,10 @@
 # Software &amp; IT careers in Oxford
 
-**38 open roles** · updated 2026-08-26
+**28 open roles** · updated 2026-08-27
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
-
-- [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
-- [Software Engineer, iOS Core Product - Oxford, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-oxford-united-kingdom-speechify-7947332) — Backend · Oxford, England, United Kingdom · remote
-- [Senior Software Engineer, Core Experiences - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-oxford-united-kingdom-speechify-7982526) — Backend · Oxford, England, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
-- [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
 ### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (4)
 
@@ -21,18 +13,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (4)
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (3)
 
+- [Research Engineer - Model Ablation](https://www.linkedin.com/jobs/view/4459304915/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer - Intent Translation](https://www.linkedin.com/jobs/view/4456186352/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Software Engineer - Orchestration](https://www.linkedin.com/jobs/view/4456181374/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4455254541/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Bioinformatician](https://www.linkedin.com/jobs/view/4454044399/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (3)
 
-- [Machine Learning Engineer (Forward Deployed)](https://mindfoundry.ai/careers-apply?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Machine Learning Engineer](https://mindfoundry.ai/careers-apply?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer](https://mindfoundry.ai/careers-apply?gh_jid=7900652003) — Backend · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Machine Learning Engineer (Forward Deployed)](https://www.mindfoundry.ai/about-us/careers?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Machine Learning Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7900652003) — Backend · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (3)
 
@@ -55,14 +46,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Postdoctoral Researcher in Control Engineering Closing date: Sep 01, 2026](https://www.linkedin.com/jobs/view/4454291303/) — Embedded / Robotics · £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Postdoctoral Research Assistant in Multi-Robot Scouting Closing date: Sep 30, 2026](https://www.linkedin.com/jobs/view/4457608370/) — Embedded / Robotics · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [Archangel Autonomy](https://jobs.winterchill.xyz/?employer=Archangel%20Autonomy) (1)
-
-- [Embedded Software Engineer (UAVs)](https://startup.jobs/embedded-software-engineer-uavs-archangel-autonomy-8719365) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
-
-- [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Embedded / Robotics · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
 ### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
 
 - [Full Stack Engineer / Technical Lead](https://www.linkedin.com/jobs/view/4447374424/) — Backend · Up to £125,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
@@ -79,10 +62,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Director, Systems Software](https://www.linkedin.com/jobs/view/4458297643/) — Engineering Management · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [KDR Talent Solutions](https://jobs.winterchill.xyz/?employer=KDR%20Talent%20Solutions) (1)
-
-- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4455194690/) — Backend · Up to £100,000/yr · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [NPAworldwide](https://jobs.winterchill.xyz/?employer=NPAworldwide) (1)
 
 - [Lead Java Software Developer](https://www.linkedin.com/jobs/view/4452792694/) — Backend · £70,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -94,10 +73,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Oxa](https://jobs.winterchill.xyz/?employer=Oxa) (1)
 
 - [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4453451666/) — Backend · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
-
-- [Scientific Software Engineer](https://startup.jobs/scientific-software-engineer-oxford-biotherapeutics-8168193) — Backend · £60,000–£80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
 

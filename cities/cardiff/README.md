@@ -1,25 +1,16 @@
 # Software &amp; IT careers in Cardiff
 
-**22 open roles** · updated 2026-08-26
+**15 open roles** · updated 2026-08-27
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (5)
-
-- [Software Engineer, Platform - Cardiff, United Kingdom](https://startup.jobs/software-engineer-platform-cardiff-united-kingdom-speechify-7954983) — Backend · Cardiff, Wales, United Kingdom
-- [Software Engineer, iOS Core Product - Cardiff, United Kingdom](https://startup.jobs/software-engineer-ios-core-product-cardiff-united-kingdom-speechify-7947175) — Backend · Cardiff, Wales, United Kingdom · remote
-- [Senior Software Engineer, Core Experiences - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-cardiff-united-kingdom-speechify-7936427) — Backend · Cardiff, Wales, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-cardiff-united-kingdom-speechify-7960063) — Backend · Cardiff, Wales, United Kingdom
-- [Software Engineer, Data Infrastructure & Acquisition - Cardiff, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-cardiff-united-kingdom-speechify-7936542) — Backend · Cardiff, Wales, United Kingdom
-
-### [HID](https://jobs.winterchill.xyz/?employer=HID) (4)
+### [HID](https://jobs.winterchill.xyz/?employer=HID) (3)
 
 - [Staff Software Java Engineer](https://www.linkedin.com/jobs/view/4456194359/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 - [Solutions Integration Engineering Manager](https://www.linkedin.com/jobs/view/4456703798/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 - [Firmware Engineer](https://www.linkedin.com/jobs/view/4456195362/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-- [Ecosystem Integration Engineering Manager](https://www.linkedin.com/jobs/view/4453121881/) — Engineering Management · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (2)
 
@@ -39,10 +30,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Developer (2526600)](https://www.linkedin.com/jobs/view/4455838269/) — Backend · £39,906–£44,746/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Companies House](https://jobs.winterchill.xyz/?employer=Companies%20House) (1)
-
-- [Lead Software Developer](https://www.linkedin.com/jobs/view/4450112666/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
 
 - [Product Engineer II – ArcGIS Arcade](https://www.linkedin.com/jobs/view/4438225591/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -51,9 +38,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior SOC Engineer](https://dataengineeringjobs.co.uk/jobs/senior-soc-engineer-fazer-recruitment-cardiff) — Security Engineering · £65,000–£70,000/yr · Cardiff, Cymru / Wales · remote
 
-### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
+### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
 
-- [Principal Data Engineer](https://www.linkedin.com/jobs/view/4453119165/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-technology-cardiff) — Data Engineering · £70,000–£80,000/yr · Cardiff, South Glamorgan · hybrid
 
 ### [Panasonic Europe](https://jobs.winterchill.xyz/?employer=Panasonic%20Europe) (1)
 
