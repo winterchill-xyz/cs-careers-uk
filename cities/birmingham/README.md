@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**50 open roles** · updated 2026-08-27
+**51 open roles** · updated 2026-08-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -49,6 +49,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Frontend Developer (React)](https://www.linkedin.com/jobs/view/4456941621/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 - [Graduate Tech Consultant - Kickstart Your Career in Tech!](https://www.linkedin.com/jobs/view/4443231897/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (2)
+
+- [Research Fellow - College of Arts and Law - 107761 - Grade 7](https://www.linkedin.com/jobs/view/4458322532/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Full Stack Developer - UX Focus (Web and Digital) - IT Services - 102651 - Grade 6](https://www.linkedin.com/jobs/view/4456859115/) — Backend · £33,002–£35,608/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Worldpay](https://jobs.winterchill.xyz/?employer=Worldpay) (2)
 
@@ -130,10 +135,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
 
 - [Data Engineer (Microsoft Fabric)](https://dataengineeringjobs.co.uk/jobs/data-engineer-microsoft-fabric-txp-birmingham) — Data Engineering · Birmingham, West Midlands (county) · hybrid
-
-### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (1)
-
-- [Full Stack Developer - UX Focus (Web and Digital) - IT Services - 102651 - Grade 6](https://www.linkedin.com/jobs/view/4456859115/) — Backend · £33,002–£35,608/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Women in Data®](https://jobs.winterchill.xyz/?employer=Women%20in%20Data%C2%AE) (1)
 

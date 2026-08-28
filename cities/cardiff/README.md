@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**15 open roles** · updated 2026-08-27
+**15 open roles** · updated 2026-08-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -21,10 +21,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Staff Java Software Engineer - Intelligent Operations](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
-
-- [(RD) Engineering Team Lead (ETL)](https://www.linkedin.com/jobs/view/4435211891/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Cardiff Metropolitan University](https://jobs.winterchill.xyz/?employer=Cardiff%20Metropolitan%20University) (1)
 
@@ -53,6 +49,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Sigma](https://jobs.winterchill.xyz/?employer=Sigma) (1)
 
 - [Lead Oracle Applications Developer](https://www.linkedin.com/jobs/view/4458772874/) — Backend · Up to £55,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [Yolk Recruitment](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment) (1)
+
+- [Senior Platform Engineer (Azure)](https://dataengineeringjobs.co.uk/jobs/senior-platform-engineer-azure-yolk-recruitment-cardiff) — DevOps / SRE · Cardiff, South Glamorgan
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
