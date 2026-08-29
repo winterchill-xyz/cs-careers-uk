@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**15 open roles** · updated 2026-08-28
+**16 open roles** · updated 2026-08-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -25,6 +25,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Cardiff Metropolitan University](https://jobs.winterchill.xyz/?employer=Cardiff%20Metropolitan%20University) (1)
 
 - [Software Developer (2526600)](https://www.linkedin.com/jobs/view/4455838269/) — Backend · £39,906–£44,746/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (1)
+
+- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4458957079/) — Backend · Up to £75,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
 
