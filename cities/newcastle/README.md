@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**38 open roles** · updated 2026-08-29
+**39 open roles** · updated 2026-08-30
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -66,6 +66,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Haystack](https://jobs.winterchill.xyz/?employer=Haystack) (1)
 
 - [Java Developer](https://www.linkedin.com/jobs/view/4457846129/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [LeoVegas Group](https://jobs.winterchill.xyz/?employer=LeoVegas%20Group) (1)
+
+- [Engineering Manager Core Experience - UK/IR market](https://www.linkedin.com/jobs/view/4441336863/) — Engineering Management · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Nigel Wright Recruitment](https://jobs.winterchill.xyz/?employer=Nigel%20Wright%20Recruitment) (1)
 

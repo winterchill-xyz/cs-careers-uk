@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**33 open roles** · updated 2026-08-29
+**37 open roles** · updated 2026-08-30
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -12,6 +12,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [IonQ](https://jobs.winterchill.xyz/?employer=IonQ) (3)
+
+- [Staff Software Engineer, Runtime](https://startup.jobs/staff-software-engineer-runtime-ionq-9789366) — Oxford, England, United Kingdom
+- [Software Engineer, Runtime](https://startup.jobs/software-engineer-runtime-ionq-9789363) — Oxford, England, United Kingdom
+- [Director, Systems Software](https://www.linkedin.com/jobs/view/4458297643/) — Engineering Management · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (3)
 
@@ -72,9 +78,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer - ID49470](https://www.linkedin.com/jobs/view/4452256345/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [IonQ](https://jobs.winterchill.xyz/?employer=IonQ) (1)
+### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (1)
 
-- [Director, Systems Software](https://www.linkedin.com/jobs/view/4458297643/) — Engineering Management · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Full Stack PHP Engineer](https://www.linkedin.com/jobs/view/4457222482/) — Backend · £55,000–£60,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [OrganOx](https://jobs.winterchill.xyz/?employer=OrganOx) (1)
 
@@ -95,6 +101,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Tech4 Ltd](https://jobs.winterchill.xyz/?employer=Tech4%20Ltd) (1)
 
 - [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-tech4-ltd-oxford) — Data Engineering · £60,000–£65,000/yr · Oxford, Oxfordshire · remote
+
+### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
+
+- [Data Engineer](https://www.linkedin.com/jobs/view/4458087558/) — Data Engineering · Up to £110,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
