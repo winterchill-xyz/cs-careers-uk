@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**16 open roles** · updated 2026-08-30
+**14 open roles** · updated 2026-08-31
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -26,17 +26,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Developer (2526600)](https://www.linkedin.com/jobs/view/4455838269/) — Backend · £39,906–£44,746/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (1)
-
-- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4458957079/) — Backend · Up to £75,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
 
 - [Product Engineer II – ArcGIS Arcade](https://www.linkedin.com/jobs/view/4438225591/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Fazer Recruitment](https://jobs.winterchill.xyz/?employer=Fazer%20Recruitment) (1)
-
-- [Senior SOC Engineer](https://dataengineeringjobs.co.uk/jobs/senior-soc-engineer-fazer-recruitment-cardiff) — Security Engineering · £65,000–£70,000/yr · Cardiff, Cymru / Wales · remote
 
 ### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
 

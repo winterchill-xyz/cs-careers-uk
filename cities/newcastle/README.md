@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**39 open roles** · updated 2026-08-30
+**38 open roles** · updated 2026-08-31
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -31,33 +31,37 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Electronic Engineers - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Electronic-Engineers---all-levels_R0015649) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Embedded Design Engineer -  FPGA Academy](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (3)
+### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (2)
 
-- [Lead Software Engineer](https://www.linkedin.com/jobs/view/4450328787/) — Backend · £36,636–£38,784/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
+- [Lead Backend Engineer - Technologist](https://www.linkedin.com/jobs/view/4457457372/) — Backend · Up to £130,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Front End Developer TypeScript React - FinTech](https://www.linkedin.com/jobs/view/4456706499/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4440669227/) — Backend · £195,000–£215,800/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4406200438/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (2)
+
 - [Research Associate/Assistant](https://www.linkedin.com/jobs/view/4455694792/) — ML / AI Engineering · £33,951–£35,608/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4453578934/) — Backend · £32,080–£33,002/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
 
-### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (2)
-
-- [Front End Developer TypeScript React - FinTech](https://www.linkedin.com/jobs/view/4456706499/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-- [Graduate Software Engineer Computer Science](https://www.linkedin.com/jobs/view/4454272209/) — Backend · £35,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (2)
 
-- [Frontend Developer](https://www.linkedin.com/jobs/view/4460313941/) — Backend · £60,000–£85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4460313941/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4458782183/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · 🛂 visa sponsor
 
 ### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (1)
 
 - [Lead Java Developer](https://www.linkedin.com/jobs/view/4457283402/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
+
+- [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4374137684/) — Backend · Newcastle, England, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Credera](https://jobs.winterchill.xyz/?employer=Credera) (1)
 
 - [Data Engineer- Delivery Centre- Newcastle](https://www.linkedin.com/jobs/view/4457987061/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4440669227/) — Backend · £195,000–£215,800/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Harrington Starr](https://jobs.winterchill.xyz/?employer=Harrington%20Starr) (1)
 
@@ -89,7 +93,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4457447742/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4457447742/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Sage](https://jobs.winterchill.xyz/?employer=Sage) (1)
 
@@ -102,14 +106,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [TyneStack Ltd](https://jobs.winterchill.xyz/?employer=TyneStack%20Ltd) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4456904777/) — Data Engineering · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [Women in Tech](https://jobs.winterchill.xyz/?employer=Women%20in%20Tech) (1)
-
-- [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4458150359/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (1)
-
-- [Engineering Manager - Railway Engineering Services](https://www.linkedin.com/jobs/view/4418155596/) — Newcastle Upon Tyne, England, United Kingdom · remote · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

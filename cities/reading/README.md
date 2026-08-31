@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Reading
 
-**37 open roles** · updated 2026-08-30
+**36 open roles** · updated 2026-08-31
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -17,11 +17,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [AI Tech Lead](https://www.linkedin.com/jobs/view/4458787787/) — Backend · Reading, England, United Kingdom · 🛂 visa sponsor
 - [Communications & Networking Research – Software Solution lead](https://www.linkedin.com/jobs/view/4444572489/) — Platform / Infrastructure · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Embedded Software Research Engineer](https://www.linkedin.com/jobs/view/4369214843/) — Platform / Infrastructure · Greater Reading Area · 🛂 visa sponsor
-
-### [bcn group](https://jobs.winterchill.xyz/?employer=bcn%20group) (2)
-
-- [Pre-Sales Engineer](https://uk.indeed.com/viewjob?jk=4d600be73bcbc16e) — Solutions / Customer Engineering · £55,000–£65,000/yr · Reading, United Kingdom · hybrid · 🛂 visa sponsor
-- [Azure Engineer](https://uk.indeed.com/viewjob?jk=dd88074c7157cdcc) — Platform / Infrastructure · £40,000–£50,000/yr · Reading, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [La Fosse](https://jobs.winterchill.xyz/?employer=La%20Fosse) (2)
 
@@ -40,6 +35,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Barracuda](https://jobs.winterchill.xyz/?employer=Barracuda) (1)
 
 - [Software Senior Engineer](https://www.linkedin.com/jobs/view/4455791117/) — Backend · Reading, England, United Kingdom
+
+### [bcn group](https://jobs.winterchill.xyz/?employer=bcn%20group) (1)
+
+- [Pre-Sales Engineer](https://uk.indeed.com/viewjob?jk=4d600be73bcbc16e) — Solutions / Customer Engineering · £55,000–£65,000/yr · Reading, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Cortech Talent Solutions Ltd](https://jobs.winterchill.xyz/?employer=Cortech%20Talent%20Solutions%20Ltd) (1)
 
@@ -71,7 +70,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [numi](https://jobs.winterchill.xyz/?employer=numi) (1)
 
-- [Frontend Engineer](https://www.linkedin.com/jobs/view/4456599042/) — Backend · Reading, England, United Kingdom · 🛂 visa sponsor
+- [Frontend Engineer](https://www.linkedin.com/jobs/view/4456599042/) — Backend · Reading, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [NVIDIA](https://jobs.winterchill.xyz/?employer=NVIDIA) (1)
 
