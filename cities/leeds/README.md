@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**39 open roles** · updated 2026-08-31
+**40 open roles** · updated 2026-09-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -33,10 +33,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Mobile Engineer - Kotlin, iCasino - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4208336009) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III, Trading - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4290936009) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (2)
+### [Medical Engineers Recruitment](https://jobs.winterchill.xyz/?employer=Medical%20Engineers%20Recruitment) (2)
 
-- [Lead Engineer  \| Tech Lead (AI First)](https://www.linkedin.com/jobs/view/4454634922/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-- [AI Engineer](https://www.linkedin.com/jobs/view/4452586436/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4459861296/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4455785865/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (2)
 
@@ -75,9 +75,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4419286687/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Medical Engineers Recruitment](https://jobs.winterchill.xyz/?employer=Medical%20Engineers%20Recruitment) (1)
+### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (1)
 
-- [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4455785865/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Lead Engineer  \| Tech Lead (AI First)](https://www.linkedin.com/jobs/view/4454634922/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (1)
 
@@ -118,6 +118,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Verkko Robotics](https://jobs.winterchill.xyz/?employer=Verkko%20Robotics) (1)
 
 - [Junior Platform Engineer — Intelligent Automation](https://www.linkedin.com/jobs/view/4457322692/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Vero HR](https://jobs.winterchill.xyz/?employer=Vero%20HR) (1)
+
+- [Production Scientist](https://www.linkedin.com/jobs/view/4459663495/) — ML / AI Engineering · £35,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Waystone](https://jobs.winterchill.xyz/?employer=Waystone) (1)
 

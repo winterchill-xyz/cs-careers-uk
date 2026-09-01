@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Reading
 
-**36 open roles** · updated 2026-08-31
+**38 open roles** · updated 2026-09-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Reading)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -31,6 +31,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [AISSURED](https://jobs.winterchill.xyz/?employer=AISSURED) (1)
 
 - [Founding Engineer](https://www.linkedin.com/jobs/view/4459173490/) — Backend · Greater Reading Area · remote · 🛂 visa sponsor
+
+### [AWE](https://jobs.winterchill.xyz/?employer=AWE) (1)
+
+- [Head of Enterprise Architecture](https://www.linkedin.com/jobs/view/4459806173/) — Platform / Infrastructure · Reading, England, United Kingdom
 
 ### [Barracuda](https://jobs.winterchill.xyz/?employer=Barracuda) (1)
 
@@ -98,7 +102,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Profectus Recruitment](https://jobs.winterchill.xyz/?employer=Profectus%20Recruitment) (1)
 
-- [Senior Azure Developer](https://www.linkedin.com/jobs/view/4449563246/) — Backend · Reading, England, United Kingdom
+- [Senior Azure Developer](https://www.linkedin.com/jobs/view/4458090845/) — Backend · Reading, England, United Kingdom
+
+### [Proofpoint](https://jobs.winterchill.xyz/?employer=Proofpoint) (1)
+
+- [Program Strategy Manager II](https://uk.indeed.com/viewjob?jk=dffffa8d821994d7) — Security Engineering · Reading, United Kingdom · 🛂 visa sponsor
 
 ### [R3vamp](https://jobs.winterchill.xyz/?employer=R3vamp) (1)
 
@@ -110,7 +118,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [RedRock Resourcing](https://jobs.winterchill.xyz/?employer=RedRock%20Resourcing) (1)
 
-- [Principal Engineer](https://www.linkedin.com/jobs/view/4454495503/) — Backend · Reading, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4460257150/) — Backend · Reading, England, United Kingdom · 🛂 visa sponsor
 
 ### [SITA](https://jobs.winterchill.xyz/?employer=SITA) (1)
 

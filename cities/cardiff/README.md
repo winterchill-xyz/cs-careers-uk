@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**14 open roles** · updated 2026-08-31
+**19 open roles** · updated 2026-09-01
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -22,9 +22,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Java Software Engineer - Intelligent Operations](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (1)
+
+- [Data Engineer](https://www.linkedin.com/jobs/view/4458968436/) — Data Engineering · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [Backbase](https://jobs.winterchill.xyz/?employer=Backbase) (1)
+
+- [Technical Engineering Manager](https://www.linkedin.com/jobs/view/4438495202/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Cardiff Metropolitan University](https://jobs.winterchill.xyz/?employer=Cardiff%20Metropolitan%20University) (1)
 
 - [Software Developer (2526600)](https://www.linkedin.com/jobs/view/4455838269/) — Backend · £39,906–£44,746/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (1)
+
+- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4458957079/) — Backend · Up to £75,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
 
@@ -34,6 +46,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-technology-cardiff) — Data Engineering · £70,000–£80,000/yr · Cardiff, South Glamorgan · hybrid
 
+### [Marsh](https://jobs.winterchill.xyz/?employer=Marsh) (1)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4458241984/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Panasonic Europe](https://jobs.winterchill.xyz/?employer=Panasonic%20Europe) (1)
 
 - [Lead Applications Developer](https://www.linkedin.com/jobs/view/4437441290/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -41,6 +57,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rocket Science Group](https://jobs.winterchill.xyz/?employer=Rocket%20Science%20Group) (1)
 
 - [Platform Data Engineer - Cardiff](https://www.linkedin.com/jobs/view/4456325179/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+
+### [RWS](https://jobs.winterchill.xyz/?employer=RWS) (1)
+
+- [Staff Engineer - Full Stack TypeScript Developer](https://www.linkedin.com/jobs/view/4456903598/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Sigma](https://jobs.winterchill.xyz/?employer=Sigma) (1)
 
