@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**32 open roles** · updated 2026-09-01
+**32 open roles** · updated 2026-09-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -12,12 +12,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [IonQ](https://jobs.winterchill.xyz/?employer=IonQ) (3)
-
-- [Staff Software Engineer, Runtime](https://startup.jobs/staff-software-engineer-runtime-ionq-9789366) — Oxford, England, United Kingdom
-- [Software Engineer, Runtime](https://startup.jobs/software-engineer-runtime-ionq-9789363) — Oxford, England, United Kingdom
-- [Director, Systems Software](https://www.linkedin.com/jobs/view/4458297643/) — Engineering Management · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (3)
 
@@ -36,20 +30,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Machine Learning Scientist](https://www.linkedin.com/jobs/view/4460315903/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4460315983/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (2)
-
-- [Research Engineer - Model Ablation](https://www.linkedin.com/jobs/view/4459304915/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Software Engineer - Intent Translation](https://www.linkedin.com/jobs/view/4456186352/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-
 ### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (2)
 
 - [Full-Stack Software Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Full-Stack-Software-Engineer-III_R114714-2) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Senior Application Security Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Senior-Product-Security-Engineer-II_R113910-3) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 
-### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (2)
+### [EWOR](https://jobs.winterchill.xyz/?employer=EWOR) (2)
 
-- [Graduate Programmer](https://apply.workable.com/j/051D15CCA1/apply) — Embedded / Robotics · Oxford, United Kingdom · 🛂 visa sponsor
-- [Experienced/Senior DevOps Engineer (AWS/Azure) - Tech Team](https://apply.workable.com/j/EC9066B2A2/apply) — DevOps / SRE · Oxford, United Kingdom · 🛂 visa sponsor
+- [DeepTech Founding Engineer (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4460291358/) — Product Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [DeepTech Head of Data Engineering (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4460600266/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [IonQ](https://jobs.winterchill.xyz/?employer=IonQ) (2)
+
+- [Staff Software Engineer, Runtime](https://startup.jobs/staff-software-engineer-runtime-ionq-9789366) — Oxford, England, United Kingdom
+- [Software Engineer, Runtime](https://startup.jobs/software-engineer-runtime-ionq-9789363) — Oxford, England, United Kingdom
 
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (2)
 
@@ -60,6 +54,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Researcher in Interpretability and AI Safety Closing date: Sep 22, 2026](https://www.linkedin.com/jobs/view/4458995265/) — ML / AI Engineering · £49,119–£58,265/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Postdoctoral Research Assistant in Multi-Robot Scouting Closing date: Sep 30, 2026](https://www.linkedin.com/jobs/view/4457608370/) — Embedded / Robotics · Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (1)
+
+- [Research Engineer - Model Ablation](https://www.linkedin.com/jobs/view/4459304915/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Future Talent Group](https://jobs.winterchill.xyz/?employer=Future%20Talent%20Group) (1)
 
@@ -73,17 +71,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Full Stack PHP Engineer](https://www.linkedin.com/jobs/view/4457222482/) — Backend · £55,000–£60,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [Oxa](https://jobs.winterchill.xyz/?employer=Oxa) (1)
+### [Oxford Dynamics](https://jobs.winterchill.xyz/?employer=Oxford%20Dynamics) (1)
 
-- [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4453451666/) — Backend · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4462150586/) — Backend · Greater Oxford Area
 
 ### [Oxford Ionics](https://jobs.winterchill.xyz/?employer=Oxford%20Ionics) (1)
 
 - [Director, Systems Software](https://www.linkedin.com/jobs/view/4458734064/) — Embedded / Robotics · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
+
+- [Graduate Programmer](https://apply.workable.com/j/051D15CCA1/apply) — Embedded / Robotics · Oxford, United Kingdom · 🛂 visa sponsor
+
 ### [Scaletek](https://jobs.winterchill.xyz/?employer=Scaletek) (1)
 
 - [Full Stack Developer](https://www.linkedin.com/jobs/view/4459664625/) — Backend · £40,000–£50,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Technify Talent](https://jobs.winterchill.xyz/?employer=Technify%20Talent) (1)
+
+- [C# .NET developer](https://www.linkedin.com/jobs/view/4460245725/) — Backend · Greater Oxford Area
 
 ### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
 

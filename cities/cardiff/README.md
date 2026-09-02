@@ -1,16 +1,10 @@
 # Software &amp; IT careers in Cardiff
 
-**19 open roles** · updated 2026-09-01
+**13 open roles** · updated 2026-09-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
-
-### [HID](https://jobs.winterchill.xyz/?employer=HID) (3)
-
-- [Staff Software Java Engineer](https://www.linkedin.com/jobs/view/4456194359/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
-- [Solutions Integration Engineering Manager](https://www.linkedin.com/jobs/view/4456703798/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-- [Firmware Engineer](https://www.linkedin.com/jobs/view/4456195362/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (2)
 
@@ -38,33 +32,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4458957079/) — Backend · Up to £75,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
-
-- [Product Engineer II – ArcGIS Arcade](https://www.linkedin.com/jobs/view/4438225591/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [Hays Technology](https://jobs.winterchill.xyz/?employer=Hays%20Technology) (1)
 
 - [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-technology-cardiff) — Data Engineering · £70,000–£80,000/yr · Cardiff, South Glamorgan · hybrid
+
+### [HID](https://jobs.winterchill.xyz/?employer=HID) (1)
+
+- [Solutions Integration Engineering Manager](https://www.linkedin.com/jobs/view/4456703798/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Marsh](https://jobs.winterchill.xyz/?employer=Marsh) (1)
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4458241984/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Panasonic Europe](https://jobs.winterchill.xyz/?employer=Panasonic%20Europe) (1)
-
-- [Lead Applications Developer](https://www.linkedin.com/jobs/view/4437441290/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [Rocket Science Group](https://jobs.winterchill.xyz/?employer=Rocket%20Science%20Group) (1)
 
 - [Platform Data Engineer - Cardiff](https://www.linkedin.com/jobs/view/4456325179/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [RWS](https://jobs.winterchill.xyz/?employer=RWS) (1)
-
-- [Staff Engineer - Full Stack TypeScript Developer](https://www.linkedin.com/jobs/view/4456903598/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Sigma](https://jobs.winterchill.xyz/?employer=Sigma) (1)
-
-- [Lead Oracle Applications Developer](https://www.linkedin.com/jobs/view/4458772874/) — Backend · Up to £55,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Yolk Recruitment](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment) (1)
 

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**49 open roles** · updated 2026-09-01
+**50 open roles** · updated 2026-09-02
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -24,7 +24,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Test Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Test-Engineer_JR_18169/apply) — QA / Test Automation · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Platform Engineer (Platform Academy) - Birmingham](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Platform-Engineer--Platform-Academy----Birmingham_JR_18077/apply) — Platform / Infrastructure · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [AI Engineer Manager](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Principal-AI-Engineer_JR_17994/apply) — ML / AI Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Software-Engineer_JR_17870-1/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Software-Engineer_JR_17793-1/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior AI Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-AI-Engineer_JR_17716/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer - AWS](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer---AWS_JR_17658/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 
@@ -69,13 +69,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Cloud DevOps Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Birmingham/Cloud-DevOps-Engineer_R00347196) — DevOps / SRE · Birmingham, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Acturis Limited](https://jobs.winterchill.xyz/?employer=Acturis%20Limited) (1)
+### [Autodesk Canada Co.](https://jobs.winterchill.xyz/?employer=Autodesk%20Canada%20Co.) (1)
 
-- [Graduate Integration Developer, Birmingham](https://www.linkedin.com/jobs/view/4453413156/) — Backend · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Better Placed](https://jobs.winterchill.xyz/?employer=Better%20Placed) (1)
-
-- [Back End Developer Integrations focus](https://www.linkedin.com/jobs/view/4458703935/) — Backend · £55,000–£70,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer C++](https://startup.jobs/software-engineer-c-autodesk-canada-co-8786897) — Backend · Birmingham, England, United Kingdom
 
 ### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
 
@@ -84,6 +80,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (1)
 
 - [Principal Engineer (Go)](https://www.linkedin.com/jobs/view/4458206727/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [James Adams](https://jobs.winterchill.xyz/?employer=James%20Adams) (1)
+
+- [Java Software Engineer](https://www.linkedin.com/jobs/view/4458086694/) — Backend · Up to £40,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Mayflower Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Mayflower%20Recruitment%20Ltd) (1)
 
@@ -112,6 +112,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [PIPERHOOK](https://jobs.winterchill.xyz/?employer=PIPERHOOK) (1)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4461521316/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [Project Brains](https://jobs.winterchill.xyz/?employer=Project%20Brains) (1)
+
+- [Software Specialist (Onsite, Mid level)](https://www.linkedin.com/jobs/view/4460321313/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [PwC](https://jobs.winterchill.xyz/?employer=PwC) (1)
 
