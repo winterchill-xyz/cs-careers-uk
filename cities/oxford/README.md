@@ -1,17 +1,16 @@
 # Software &amp; IT careers in Oxford
 
-**32 open roles** · updated 2026-09-02
+**33 open roles** · updated 2026-09-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (4)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (3)
 
 - [Software Engineer – Data Platforms](https://www.linkedin.com/jobs/view/4455645210/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (3)
 
@@ -55,6 +54,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Researcher in Interpretability and AI Safety Closing date: Sep 22, 2026](https://www.linkedin.com/jobs/view/4458995265/) — ML / AI Engineering · £49,119–£58,265/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Postdoctoral Research Assistant in Multi-Robot Scouting Closing date: Sep 30, 2026](https://www.linkedin.com/jobs/view/4457608370/) — Embedded / Robotics · Oxford, England, United Kingdom · 🛂 visa sponsor
 
+### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (1)
+
+- [Graduate software engineer](https://www.linkedin.com/jobs/view/4459759655/) — Backend · £85,797–£151,436/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (1)
 
 - [Research Engineer - Model Ablation](https://www.linkedin.com/jobs/view/4459304915/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -73,7 +76,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Oxford Dynamics](https://jobs.winterchill.xyz/?employer=Oxford%20Dynamics) (1)
 
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4462150586/) — Backend · Greater Oxford Area
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4462150586/) — Backend · Greater Oxford Area · 🛂 visa sponsor
 
 ### [Oxford Ionics](https://jobs.winterchill.xyz/?employer=Oxford%20Ionics) (1)
 
@@ -87,13 +90,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Full Stack Developer](https://www.linkedin.com/jobs/view/4459664625/) — Backend · £40,000–£50,000/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
+### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
+
+- [Graduate Programmer](https://www.linkedin.com/jobs/view/4461395017/) — Embedded / Robotics · Oxford, England, United Kingdom · 🛂 visa sponsor
+
 ### [Technify Talent](https://jobs.winterchill.xyz/?employer=Technify%20Talent) (1)
 
 - [C# .NET developer](https://www.linkedin.com/jobs/view/4460245725/) — Backend · Greater Oxford Area
 
 ### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4458087558/) — Data Engineering · Up to £110,000/yr · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4458087558/) — Data Engineering · £50,000–£75,000/yr · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

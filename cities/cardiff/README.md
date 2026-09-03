@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**13 open roles** · updated 2026-09-02
+**11 open roles** · updated 2026-09-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -36,17 +36,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineering & Insight Manager](https://dataengineeringjobs.co.uk/jobs/data-engineering-insight-manager-hays-technology-cardiff) — Data Engineering · £70,000–£80,000/yr · Cardiff, South Glamorgan · hybrid
 
-### [HID](https://jobs.winterchill.xyz/?employer=HID) (1)
-
-- [Solutions Integration Engineering Manager](https://www.linkedin.com/jobs/view/4456703798/) — Embedded / Robotics · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [Marsh](https://jobs.winterchill.xyz/?employer=Marsh) (1)
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4458241984/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Rocket Science Group](https://jobs.winterchill.xyz/?employer=Rocket%20Science%20Group) (1)
-
-- [Platform Data Engineer - Cardiff](https://www.linkedin.com/jobs/view/4456325179/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Yolk Recruitment](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment) (1)
 

@@ -1,14 +1,18 @@
 # Software &amp; IT careers in Sheffield
 
-**4 open roles** · updated 2026-09-02
+**5 open roles** · updated 2026-09-03
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Certara](https://jobs.winterchill.xyz/?employer=Certara) (1)
+### [EWOR](https://jobs.winterchill.xyz/?employer=EWOR) (1)
 
-- [Research Scientist II](https://www.linkedin.com/jobs/view/4459835517/) — Research / Applied Science · Sheffield, England, United Kingdom · 🛂 visa sponsor
+- [AI Infrastructure Robotics Engineer (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4460605100/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
+
+### [Grant Thornton UK](https://jobs.winterchill.xyz/?employer=Grant%20Thornton%20UK) (1)
+
+- [Senior Engineer](https://www.linkedin.com/jobs/view/4439243475/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [Pendo](https://jobs.winterchill.xyz/?employer=Pendo) (1)
 
