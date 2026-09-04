@@ -1,18 +1,17 @@
 # Software &amp; IT careers in Leeds
 
-**39 open roles** · updated 2026-09-03
+**38 open roles** · updated 2026-09-04
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (6)
+### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (5)
 
 - [Data Engineer (Contract)](https://apply.workable.com/j/A0D52BAA50/apply) — Backend · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Engineer: Fabric and Databricks](https://apply.workable.com/j/F4E660706A/apply) — Data Engineering · Leeds, United Kingdom · 🛂 visa sponsor
 - [Senior AI Engineer - Microsoft Azure (Contract)](https://apply.workable.com/j/AA6CB39C75/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Principal AI Engineer - Microsoft Azure AI Foundry (Contract)](https://apply.workable.com/j/9F2018E3A6/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
-- [Contract Microsoft Foundry AI Engineer](https://apply.workable.com/j/CF9002814A/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Solution Director: Engineering](https://apply.workable.com/j/D26AA41D72/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (3)
@@ -44,6 +43,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [AssetCool](https://jobs.winterchill.xyz/?employer=AssetCool) (1)
 
 - [Junior Robotics Software Engineer](https://www.linkedin.com/jobs/view/4457447812/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [Brio Digital](https://jobs.winterchill.xyz/?employer=Brio%20Digital) (1)
+
+- [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-brio-digital-leeds) — Data Engineering · £500–£550/day · Leeds, West Yorkshire · hybrid
 
 ### [Burendo](https://jobs.winterchill.xyz/?employer=Burendo) (1)
 
@@ -124,10 +127,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Vero HR](https://jobs.winterchill.xyz/?employer=Vero%20HR) (1)
 
 - [Production Scientist](https://www.linkedin.com/jobs/view/4459663495/) — ML / AI Engineering · £35,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [Waystone](https://jobs.winterchill.xyz/?employer=Waystone) (1)
-
-- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4449688713/) — Engineering Management · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

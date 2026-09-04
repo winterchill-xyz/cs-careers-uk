@@ -1,15 +1,16 @@
 # Software &amp; IT careers in Oxford
 
-**33 open roles** · updated 2026-09-03
+**33 open roles** · updated 2026-09-04
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (3)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (4)
 
 - [Software Engineer – Data Platforms](https://www.linkedin.com/jobs/view/4455645210/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (3)
@@ -62,10 +63,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Research Engineer - Model Ablation](https://www.linkedin.com/jobs/view/4459304915/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [Future Talent Group](https://jobs.winterchill.xyz/?employer=Future%20Talent%20Group) (1)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4457305682/) — Embedded / Robotics · Oxford, England, United Kingdom · 🛂 visa sponsor
-
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · Oxford · hybrid · 🛂 visa sponsor
@@ -100,7 +97,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4458087558/) — Data Engineering · £50,000–£75,000/yr · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4458087558/) — Data Engineering · £60,000/yr · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

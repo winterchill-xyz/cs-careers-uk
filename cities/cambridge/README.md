@@ -1,36 +1,36 @@
 # Software &amp; IT careers in Cambridge
 
-**259 open roles** · updated 2026-09-03
+**254 open roles** · updated 2026-09-04
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cambridge)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Arm](https://jobs.winterchill.xyz/?employer=Arm) (30)
+### [Arm](https://jobs.winterchill.xyz/?employer=Arm) (28)
 
 - [Principal/Senior Principal Engineer – Arm Architecture Reference Manual (ARM)](https://www.linkedin.com/jobs/view/4412468342/) — Backend · $249,900–$338,100/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [GPU Hardware Analysis and Automation Engineer](https://www.linkedin.com/jobs/view/4460037731/) — DevOps / SRE · £168,300–£227,700/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Technical Director, Infrastructure SoC Software](https://www.linkedin.com/jobs/view/4458956529/) — DevOps / SRE · £168,300–£227,700/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Senior Principal System Technologist](https://www.linkedin.com/jobs/view/4402700303/) — Backend · £168,300–£227,700/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Director of Software Engineering (Systems Software)](https://www.linkedin.com/jobs/view/4405007969/) — Backend · £168,300–£227,700/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Director of Software Architecture](https://www.linkedin.com/jobs/view/4409280204/) — Backend · £168,300–£227,700/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Technology Manager](https://uk.indeed.com/viewjob?jk=06c6299ea8755863) — £126,200–£170,800/yr · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer - SoC SW Productisation](https://www.linkedin.com/jobs/view/4456881644/) — Backend · £126,200–£170,800/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [AMBA Architect](https://www.linkedin.com/jobs/view/4438920874/) — Backend · £126,200–£170,800/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Principal Platform Security Architect -Firmware & Operating Systems](https://www.linkedin.com/jobs/view/4413564238/) — DevOps / SRE · £126,200–£170,800/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Principal Product Manager - AI Tooling](https://uk.indeed.com/viewjob?jk=85d7ee9bb58b420c) — Developer Experience · £102,500–£138,700/yr · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Staff AI Technology Specialist](https://www.linkedin.com/jobs/view/4456823914/) — Backend · £97,300–£131,700/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Staff Engineering Manager](https://www.linkedin.com/jobs/view/4453017476/) — Backend · £97,300–£131,700/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Staff Software Engineer - Product Validation](https://www.linkedin.com/jobs/view/4440296624/) — Embedded / Robotics · £97,300–£131,700/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Staff Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4448524077/) — Backend · £97,300–£131,700/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Staff Software Engineer — Runtimes Performance](https://www.linkedin.com/jobs/view/4440208531/) — Backend · £97,300–£131,700/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Staff Software Performance Engineer - Team Lead](https://www.linkedin.com/jobs/view/4363960700/) — Backend · £97,300–£131,700/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Power and Performance Engineer, PAI Platforms and Performance Analysis](https://www.linkedin.com/jobs/view/4424090827/) — DevOps / SRE · £80,100–£108,300/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Machine Learning Framework/Runtime Software Engineer](https://uk.indeed.com/viewjob?jk=db0292110e613def) — Backend · £73,500–£99,500/yr · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Machine Learning Framework/Runtime Software Engineer](https://www.linkedin.com/jobs/view/4458905267/) — Backend · £73,500–£99,500/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-- …and 10 more at Arm — see [`jobs.json`](jobs.json)
+- [Senior DevOps Engineer](https://uk.indeed.com/viewjob?jk=ed3aecd1c37baeba) — Backend · £73,500–£99,500/yr · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
+- [Technical Ecosystem Engineer](https://www.linkedin.com/jobs/view/4447963948/) — Solutions / Customer Engineering · £77,500–£99,500/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [Senior Performance Tools Engineer](https://www.linkedin.com/jobs/view/4439883901/) — Backend · £73,500–£99,500/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer (Instrumentation)](https://www.linkedin.com/jobs/view/4424013224/) — Backend · £73,500–£99,500/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4414409108/) — Backend · £73,500–£99,500/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
+- …and 8 more at Arm — see [`jobs.json`](jobs.json)
 
-### [Roku](https://jobs.winterchill.xyz/?employer=Roku) (21)
+### [Roku](https://jobs.winterchill.xyz/?employer=Roku) (19)
 
 - [Senior Software Engineer, Embedded UI](https://www.weareroku.com/jobs/8169965?gh_jid=8169965) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer, Agentic AI](https://www.weareroku.com/jobs/8121076?gh_jid=8121076) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
@@ -39,7 +39,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Technical Operations Engineer](https://www.weareroku.com/jobs/8038863?gh_jid=8038863) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer, Regional TV Software (C/C++)](https://www.weareroku.com/jobs/8055094?gh_jid=8055094) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer, UI Players](https://www.weareroku.com/jobs/7946201?gh_jid=7946201) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer, Ad Auctions](https://www.weareroku.com/jobs/7960116?gh_jid=7960116) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer, UI](https://www.weareroku.com/jobs/7515755?gh_jid=7515755) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Backend Engineer — Distributed Systems (Streaming Platform)](https://www.weareroku.com/jobs/7807253?gh_jid=7807253) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer, Roku UI](https://www.weareroku.com/jobs/7768307?gh_jid=7768307) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
@@ -50,9 +49,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Infrastructure / Efficiency / Productivity](https://www.weareroku.com/jobs/7795872?gh_jid=7795872) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer, UI Performance](https://www.weareroku.com/jobs/7256765?gh_jid=7256765) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer, UI Infrastructure](https://www.weareroku.com/jobs/7626067?gh_jid=7626067) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer, Ads Auction Platform](https://www.weareroku.com/jobs/7960114?gh_jid=7960114) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Machine Learning Engineer - AdTech](https://www.weareroku.com/jobs/7976156?gh_jid=7976156) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
-- …and 1 more at Roku — see [`jobs.json`](jobs.json)
+- [Sr Software Engineer, Ads Auctions & Marketplace Optimization](https://www.weareroku.com/jobs/7960132?gh_jid=7960132) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Riverlane](https://jobs.winterchill.xyz/?employer=Riverlane) (15)
 
@@ -100,8 +98,22 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior C++ Software Engineer](https://darktrace.wd3.myworkdayjobs.com/darktaceexternal/job/Cambridge-Office-United-Kingdom/Senior-C---Software-Engineer_JR101852) — Backend · Cambridge Office, United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Site Reliability Engineer](https://darktrace.wd3.myworkdayjobs.com/darktaceexternal/job/Cambridge-Office-United-Kingdom/Site-Reliability-Engineer_JR101920-1) — DevOps / SRE · Cambridge Office, United Kingdom, United Kingdom · 🛂 visa sponsor
 
-### [Amazon](https://jobs.winterchill.xyz/?employer=Amazon) (8)
+### [AstraZeneca](https://jobs.winterchill.xyz/?employer=AstraZeneca) (10)
 
+- [12 Month University Industrial Placement Student (UIPS): Discovery Sciences](https://uk.indeed.com/viewjob?jk=702a43e7fd6f787f) — Research / Applied Science · Cambridge, United Kingdom · 🛂 visa sponsor
+- [12 Month University Industrial Placement Student (UIPS): Biopharmaceutical Development](https://uk.indeed.com/viewjob?jk=24bab21c5f04c340) — Research / Applied Science · Cambridge, United Kingdom · 🛂 visa sponsor
+- [12 Month University Industrial Placement Student (UIPS): Digital Health Strategy](https://uk.indeed.com/viewjob?jk=2772e15c3b31cc1f) — Research / Applied Science · Cambridge, United Kingdom · remote · 🛂 visa sponsor
+- [12 Month University Industrial Placement Student: Computational Chemistry](https://uk.indeed.com/viewjob?jk=b6f17a81106c639e) — ML / AI Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
+- [Senior Scientist (12-Month Fixed Term Contract), Oncology Research](https://www.linkedin.com/jobs/view/4458671626/) — ML / AI Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [Senior Scientist](https://www.linkedin.com/jobs/view/4458949220/) — ML / AI Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [Senior Research Scientist - Omics, Bioscience, Oncology Targeted Delivery](https://www.linkedin.com/jobs/view/4458667968/) — Data Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [Senior Scientist (12-Month Fixed Term Contract), Oncology Research](https://uk.indeed.com/viewjob?jk=7f07270e0d5ae645) — ML / AI Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
+- [Senior Research Scientist - Omics, Bioscience, Oncology Targeted Delivery](https://uk.indeed.com/viewjob?jk=d1a2887de3a0db77) — Data Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
+- [Associate Principal Scientist, AI and Computational Tools, Oncology R&D (1-year FTC)](https://www.linkedin.com/jobs/view/4457980889/) — Data Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
+
+### [Amazon](https://jobs.winterchill.xyz/?employer=Amazon) (9)
+
+- [Software Development Engineer, Ring Cloud Computer Vision](https://www.amazon.jobs/en/jobs/10529704/software-development-engineer-ring-cloud-computer-vision) — Backend · Cambridge, England, GBR · 🛂 visa sponsor
 - [Software Development Engineer, AWS S3](https://www.amazon.jobs/en/jobs/10526657/software-development-engineer-aws-s3) — Backend · Cambridge, England, GBR · 🛂 visa sponsor
 - [Embedded Software Engineer , Ring](https://www.amazon.jobs/en/jobs/10523637/embedded-software-engineer-ring) — Backend · Cambridge, England, GBR · 🛂 visa sponsor
 - [Software Dev Engineer (ED), Amazon Devices - Ring & Blink](https://www.amazon.jobs/en/jobs/10511802/software-dev-engineer-ed-amazon-devices-ring-blink) — Backend · Cambridge, England, GBR · 🛂 visa sponsor
@@ -122,28 +134,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer- Silicon Engineering Documentation Tools](https://jobs.apple.com/en-gb/details/200661584) — Backend · Cambridge · 🛂 visa sponsor
 - [CAD Physical Design Engineer](https://jobs.apple.com/en-gb/details/200667400) — Embedded / Robotics · Cambridge · 🛂 visa sponsor
 
-### [AstraZeneca](https://jobs.winterchill.xyz/?employer=AstraZeneca) (8)
-
-- [Research Scientist - Drug Discovery](https://www.linkedin.com/jobs/view/4462776871/) — Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Senior Scientist (12-Month Fixed Term Contract), Oncology Research](https://www.linkedin.com/jobs/view/4458671626/) — ML / AI Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Senior Scientist](https://www.linkedin.com/jobs/view/4458949220/) — ML / AI Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Senior Research Scientist - Omics, Bioscience, Oncology Targeted Delivery](https://www.linkedin.com/jobs/view/4458667968/) — Data Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Senior Scientist (12-Month Fixed Term Contract), Oncology Research](https://uk.indeed.com/viewjob?jk=7f07270e0d5ae645) — ML / AI Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
-- [Senior Research Scientist - Omics, Bioscience, Oncology Targeted Delivery](https://uk.indeed.com/viewjob?jk=d1a2887de3a0db77) — Data Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
-- [Associate Principal Scientist, AI and Computational Tools, Oncology R&D (1-year FTC)](https://www.linkedin.com/jobs/view/4457980889/) — Data Engineering · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Associate Principal Scientist, AI and Computational Tools, Oncology R&D (1-year FTC)](https://uk.indeed.com/viewjob?jk=b3045d812fe15e97) — Data Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
-
-### [University of Cambridge](https://jobs.winterchill.xyz/?employer=University%20of%20Cambridge) (8)
-
-- [Research Assistant/Research Associate - AI Tutors for STEM Education (Fixed Term)](https://uk.indeed.com/viewjob?jk=a2e33bbd7f2f66f6) — ML / AI Engineering · £33,002–£46,049/yr · Cambridge, United Kingdom
-- [Research Assistant/Research Associate - AI Tutors for STEM Education (Fixed Term)](https://www.linkedin.com/jobs/view/4461351179/) — ML / AI Engineering · £33,002–£46,049/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Research Assistant/Research Associate - Applied Zero-Knowledge Proof Systems](https://www.linkedin.com/jobs/view/4457652292/) — ML / AI Engineering · £34,610–£46,049/yr · Cambridge, England, United Kingdom
-- [Research Associate in Cognitive Neuroscience & AI (Fixed Term)](https://uk.indeed.com/viewjob?jk=66221609a6238067) — ML / AI Engineering · £37,694–£46,049/yr · Cambridge, United Kingdom
-- [Research Associate in Cognitive Neuroscience & AI (Fixed Term)](https://www.linkedin.com/jobs/view/4457905895/) — ML / AI Engineering · £37,694–£46,049/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Research Assistant/Research Associate - Applied Zero-Knowledge Proof Systems](https://uk.indeed.com/viewjob?jk=a9c4b3d346aae1f7) — ML / AI Engineering · £34,610–£46,049/yr · Cambridge, United Kingdom
-- [Research Associate in Machine Learning (Fixed Term)](https://www.linkedin.com/jobs/view/4456067104/) — ML / AI Engineering · £37,694–£46,049/yr · Cambridge, England, United Kingdom · remote · 🛂 visa sponsor
-- [Tech Lead and Engineer Manager](https://www.linkedin.com/jobs/view/4458213884/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Luminance](https://jobs.winterchill.xyz/?employer=Luminance) (7)
 
 - [Senior Application Engineer](https://apply.workable.com/j/ADBED70A40/apply) — Backend · Cambridge, United Kingdom · 🛂 visa sponsor
@@ -154,6 +144,24 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [AI Engineering Intern](https://apply.workable.com/j/E045EF5A7A/apply) — ML / AI Engineering · Cambridge, United Kingdom · remote · 🛂 visa sponsor
 - [AI Engineer](https://apply.workable.com/j/1C1A3ED521/apply) — Backend · Cambridge, United Kingdom · 🛂 visa sponsor
 
+### [University of Cambridge](https://jobs.winterchill.xyz/?employer=University%20of%20Cambridge) (7)
+
+- [Research Assistant/Research Associate - AI Tutors for STEM Education (Fixed Term)](https://uk.indeed.com/viewjob?jk=a2e33bbd7f2f66f6) — ML / AI Engineering · £34,610–£46,049/yr · Cambridge, United Kingdom
+- [Research Assistant/Research Associate - AI Tutors for STEM Education (Fixed Term)](https://www.linkedin.com/jobs/view/4461351179/) — ML / AI Engineering · £34,610–£46,049/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [Research Associate in Cognitive Neuroscience & AI (Fixed Term)](https://uk.indeed.com/viewjob?jk=66221609a6238067) — ML / AI Engineering · £37,694–£46,049/yr · Cambridge, United Kingdom
+- [Research Associate in Cognitive Neuroscience & AI (Fixed Term)](https://www.linkedin.com/jobs/view/4457905895/) — ML / AI Engineering · £37,694–£46,049/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [PhD Studentship in Human-Computer Interaction and Critical Computing (Fixed Term)](https://uk.indeed.com/viewjob?jk=ae034a0c8cafb46d) — ML / AI Engineering · Cambridge, United Kingdom
+- [Research Assistant/Research Associate - Applied Zero-Knowledge Proof Systems](https://www.linkedin.com/jobs/view/4457652292/) — ML / AI Engineering · Cambridge, England, United Kingdom
+- [Tech Lead and Engineer Manager](https://www.linkedin.com/jobs/view/4458213884/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (5)
+
+- [Senior Linux Distribution & Validation Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8704676002) — DevOps / SRE · £73,500–£99,500/yr · Cambridge, UK · 🛂 visa sponsor
+- [Senior Software Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8742245002) — DevOps / SRE · Cambridge, UK · 🛂 visa sponsor
+- [AI Research Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8632583002) — DevOps / SRE · Cambridge, UK · 🛂 visa sponsor
+- [Staff Engineer (ML Engineer)](https://job-boards.greenhouse.io/graphcore/jobs/8607712002) — Backend · Cambridge, UK · 🛂 visa sponsor
+- [Senior Software Engineer (ML QA)](https://job-boards.greenhouse.io/graphcore/jobs/8607728002) — Backend · Cambridge, UK · 🛂 visa sponsor
+
 ### [Jagex](https://jobs.winterchill.xyz/?employer=Jagex) (5)
 
 - [Senior Detection and Response Engineer](https://apply.workable.com/j/846E253125/apply) — DevOps / SRE · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
@@ -162,19 +170,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Game Engine Programmer - RuneTek](https://apply.workable.com/j/1996FF5048/apply) — Game Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
 - [Lead Delivery Engineer](https://apply.workable.com/j/CB50662A4C/apply) — DevOps / SRE · Cambridge, United Kingdom · 🛂 visa sponsor
 
-### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (4)
+### [Entrust](https://jobs.winterchill.xyz/?employer=Entrust) (4)
 
-- [AI Adoption Lead - Global Tech Company](https://www.linkedin.com/jobs/view/4462441423/) — DevOps / SRE · Up to £180,000/yr · Cambridge, England, United Kingdom
-- [Backend Software Engineer Python - Technologist](https://www.linkedin.com/jobs/view/4462146363/) — Backend · Up to £80,000/yr · Cambridge, England, United Kingdom
-- [Backend Software Engineer Python R&D](https://www.linkedin.com/jobs/view/4461713029/) — Backend · £80,000/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Software Engineer Python Rust R&D](https://www.linkedin.com/jobs/view/4461727232/) — Backend · Up to £65,000/yr · Cambridge, England, United Kingdom
+- [Senior Software Developer (C/Python)](https://www.linkedin.com/jobs/view/4460478334/) — Backend · Cambridge, England, United Kingdom
+- [Senior Software Developer (Microservices - GoLang)](https://uk.indeed.com/viewjob?jk=3c32d822d41c3069) — Backend · Cambridge, United Kingdom · hybrid
+- [Senior Software Developer (Microservices - GoLang)](https://www.linkedin.com/jobs/view/4458967145/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Developer](https://www.linkedin.com/jobs/view/4328830161/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (4)
+### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (4)
 
-- [Senior Linux Distribution & Validation Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8704676002) — DevOps / SRE · £73,500–£99,500/yr · Cambridge, UK · 🛂 visa sponsor
-- [AI Research Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8632583002) — DevOps / SRE · Cambridge, UK · 🛂 visa sponsor
-- [Staff Engineer (ML Engineer)](https://job-boards.greenhouse.io/graphcore/jobs/8607712002) — Backend · Cambridge, UK · 🛂 visa sponsor
-- [Senior Software Engineer (ML QA)](https://job-boards.greenhouse.io/graphcore/jobs/8607728002) — Backend · Cambridge, UK · 🛂 visa sponsor
+- [Systems Software Engineer](https://www.linkedin.com/jobs/view/4462418334/) — Backend · Cambridge, England, United Kingdom
+- [GUI Software Engineer](https://www.linkedin.com/jobs/view/4438233032/) — Embedded / Robotics · Cambridge, England, United Kingdom
+- [Software Engineer](https://www.linkedin.com/jobs/view/4438215796/) — Backend · Cambridge, England, United Kingdom
+- [AI/ ML Research Consultant](https://www.linkedin.com/jobs/view/4440817300/) — ML / AI Engineering · Cambridge, England, United Kingdom
 
 ### [Microsoft](https://jobs.winterchill.xyz/?employer=Microsoft) (4)
 
@@ -200,21 +208,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RedTech Recruitment](https://jobs.winterchill.xyz/?employer=RedTech%20Recruitment) (4)
 
 - [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4457218862/) — Backend · £55,000–£80,000/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer – Mid-Level or Senior](https://www.linkedin.com/jobs/view/4454602041/) — Backend · £60,000–£80,000/yr · Cambridge, England, United Kingdom
+- [Senior Security Researcher - AI & Cybersecurity](https://www.linkedin.com/jobs/view/4460713967/) — DevOps / SRE · £50,000–£70,000/yr · Cambridge, England, United Kingdom
 - [Software Engineer – Golang](https://www.linkedin.com/jobs/view/4458092535/) — Backend · £60,000–£65,000/yr · Cambridge, England, United Kingdom
 - [Software Engineer – TypeScript & Rust](https://www.linkedin.com/jobs/view/4458088512/) — Backend · £60,000–£65,000/yr · Cambridge, England, United Kingdom
 
-### [Data Science Jobs UK](https://jobs.winterchill.xyz/?employer=Data%20Science%20Jobs%20UK) (3)
+### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (3)
 
-- [Research Leader / Senior Scientist (Computational Drug Design), Cambridge, MA](https://www.linkedin.com/jobs/view/4460674083/) — Data Engineering · Cambridge, England, United Kingdom
-- [Research Leader / Senior Scientist (Medicinal Drug Design), Cambridge, MA](https://www.linkedin.com/jobs/view/4457464943/) — Developer Experience · Cambridge, England, United Kingdom
-- [Research Associate in Machine Learning (Fixed Term)](https://www.linkedin.com/jobs/view/4456216484/) — Data Science / Analytics · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [AI Adoption Lead - Global Tech Company](https://www.linkedin.com/jobs/view/4462441423/) — DevOps / SRE · Up to £180,000/yr · Cambridge, England, United Kingdom
+- [Backend Software Engineer Python - Technologist](https://www.linkedin.com/jobs/view/4462146363/) — Backend · Up to £80,000/yr · Cambridge, England, United Kingdom
+- [Software Engineer Python Rust R&D](https://www.linkedin.com/jobs/view/4461727232/) — Backend · Up to £65,000/yr · Cambridge, England, United Kingdom
 
-### [Entrust](https://jobs.winterchill.xyz/?employer=Entrust) (3)
+### [CommonAI CIC](https://jobs.winterchill.xyz/?employer=CommonAI%20CIC) (3)
 
-- [Senior Software Developer (Microservices - GoLang)](https://uk.indeed.com/viewjob?jk=3c32d822d41c3069) — Backend · Cambridge, United Kingdom · hybrid
-- [Senior Software Developer (Microservices - GoLang)](https://www.linkedin.com/jobs/view/4458967145/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Developer](https://www.linkedin.com/jobs/view/4328830161/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Performance Engineer](https://www.linkedin.com/jobs/view/4460111168/) — Backend · Cambridge, England, United Kingdom
+- [Software Engineer (Rust)](https://www.linkedin.com/jobs/view/4457952490/) — Backend · Cambridge, England, United Kingdom
+- [Software Engineer - AI-Native Cloud Infrastructure](https://www.linkedin.com/jobs/view/4453157128/) — Backend · Cambridge, England, United Kingdom
 
 ### [Nu Quantum](https://jobs.winterchill.xyz/?employer=Nu%20Quantum) (3)
 
@@ -255,11 +263,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462408631/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Rust Software Engineer](https://www.linkedin.com/jobs/view/4458743583/) — Embedded / Robotics · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
-### [CommonAI CIC](https://jobs.winterchill.xyz/?employer=CommonAI%20CIC) (2)
-
-- [Senior Performance Engineer](https://www.linkedin.com/jobs/view/4460111168/) — Backend · Cambridge, England, United Kingdom
-- [Software Engineer (Rust)](https://www.linkedin.com/jobs/view/4457952490/) — Backend · Cambridge, England, United Kingdom
-
 ### [Dassault Systèmes](https://jobs.winterchill.xyz/?employer=Dassault%20Syst%C3%A8mes) (2)
 
 - [Software Engineer Intern (Materials Simulation) – 3-Month Internship](https://www.linkedin.com/jobs/view/4461713810/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
@@ -285,11 +288,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Full Stack Developer- HP Wolf Security](https://uk.indeed.com/viewjob?jk=2a3c3e8172a7beb3) — Backend · Cambridge, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Full Stack Developer- HP Wolf Security](https://www.linkedin.com/jobs/view/4459836993/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (2)
-
-- [GUI Software Engineer](https://www.linkedin.com/jobs/view/4438233032/) — Embedded / Robotics · Cambridge, England, United Kingdom
-- [AI/ ML Research Consultant](https://www.linkedin.com/jobs/view/4440817300/) — ML / AI Engineering · Cambridge, England, United Kingdom
-
 ### [IQVIA](https://jobs.winterchill.xyz/?employer=IQVIA) (2)
 
 - [Scientist - Analytical and Purification Sciences](https://uk.indeed.com/viewjob?jk=c05a2b5fb3c488f4) — Data Engineering · Cambridge, United Kingdom · 🛂 visa sponsor
@@ -305,20 +303,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4459669562/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Machine Learning Researcher](https://www.linkedin.com/jobs/view/4437198161/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
-### [Neural Concept](https://jobs.winterchill.xyz/?employer=Neural%20Concept) (2)
-
-- [EV Powertrain: Applied AI Engineer](https://www.linkedin.com/jobs/view/4449883169/) — Backend · Cambridge, England, United Kingdom
-- [AI Workflows Engineer](https://www.linkedin.com/jobs/view/4444138058/) — Backend · Cambridge, England, United Kingdom
-
 ### [Oho Group](https://jobs.winterchill.xyz/?employer=Oho%20Group) (2)
 
 - [Senior / Principal C# / .NET Engineer](https://www.linkedin.com/jobs/view/4458990261/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 - [Principal C# Engineer](https://www.linkedin.com/jobs/view/4457988023/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
-
-### [Platform Recruitment](https://jobs.winterchill.xyz/?employer=Platform%20Recruitment) (2)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4459509134/) — Embedded / Robotics · £100,000–£130,000/yr · Cambridge, England, United Kingdom
-- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4459540652/) — Backend · £70,000–£80,000/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
 ### [Redgate](https://jobs.winterchill.xyz/?employer=Redgate) (2)
 
@@ -333,12 +321,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Salt](https://jobs.winterchill.xyz/?employer=Salt) (2)
 
 - [Python Developer](https://www.linkedin.com/jobs/view/4459506893/) — Backend · £60,000–£80,000/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
-- [Python Software Engineer – R&D / AI](https://www.linkedin.com/jobs/view/4459947763/) — Backend · £55,000–£65,000/yr · Cambridge, England, United Kingdom
-
-### [Siemens Digital Industries Software](https://jobs.winterchill.xyz/?employer=Siemens%20Digital%20Industries%20Software) (2)
-
-- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4437065867/) — Backend · £65,700–£115,100/yr · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [CFD Solver Developer (LBM)](https://www.linkedin.com/jobs/view/4439441165/) — Backend · Cambridge, England, United Kingdom · hybrid
+- [Python Software Engineer – R&D / AI](https://www.linkedin.com/jobs/view/4459947763/) — Backend · £55,000–£65,000/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
 ### [Worldpay](https://jobs.winterchill.xyz/?employer=Worldpay) (2)
 
@@ -373,9 +356,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software / Electronics Engineer](https://www.linkedin.com/jobs/view/4461334186/) — Embedded / Robotics · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
-### [Cambridgeshire and Peterborough NHS Foundation Trust (CPFT)](https://jobs.winterchill.xyz/?employer=Cambridgeshire%20and%20Peterborough%20NHS%20Foundation%20Trust%20%28CPFT%29) (1)
+### [Cambridge University Press & Assessment](https://jobs.winterchill.xyz/?employer=Cambridge%20University%20Press%20%26%20Assessment) (1)
 
-- [Postdoctoral Statistician — CYP Health Analytics](https://www.linkedin.com/jobs/view/4456717477/) — Research / Applied Science · Cambridge, England, United Kingdom
+- [Chief Architect - 7546](https://www.linkedin.com/jobs/view/4463125206/) — Platform / Infrastructure · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
 ### [Cellular Origins](https://jobs.winterchill.xyz/?employer=Cellular%20Origins) (1)
 
@@ -384,6 +367,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [CMR Surgical](https://jobs.winterchill.xyz/?employer=CMR%20Surgical) (1)
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4445538315/) — Embedded / Robotics · Cambridge, England, United Kingdom · 🛂 visa sponsor
+
+### [Data Science Jobs UK](https://jobs.winterchill.xyz/?employer=Data%20Science%20Jobs%20UK) (1)
+
+- [Research Leader / Senior Scientist (Computational Drug Design), Cambridge, MA](https://www.linkedin.com/jobs/view/4460674083/) — Data Engineering · Cambridge, England, United Kingdom
 
 ### [eg technology Ltd](https://jobs.winterchill.xyz/?employer=eg%20technology%20Ltd) (1)
 
@@ -397,13 +384,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Compiler Engineer - GPU / Semiconductors](https://www.linkedin.com/jobs/view/4459133216/) — Embedded / Robotics · Cambridge, England, United Kingdom
 
-### [Frontier Developments](https://jobs.winterchill.xyz/?employer=Frontier%20Developments) (1)
-
-- [Senior Programmer](https://www.linkedin.com/jobs/view/4453889718/) — Game Engineering · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Global Payments Inc.](https://jobs.winterchill.xyz/?employer=Global%20Payments%20Inc.) (1)
 
-- [Software Engineer - Java - Cambridge](https://www.linkedin.com/jobs/view/4441487164/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineer - Java (Cambridge)](https://www.linkedin.com/jobs/view/4441472814/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
 ### [Illumina](https://jobs.winterchill.xyz/?employer=Illumina) (1)
 
@@ -421,17 +404,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4458864187/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Mutable Tactics](https://jobs.winterchill.xyz/?employer=Mutable%20Tactics) (1)
+### [NCS Group](https://jobs.winterchill.xyz/?employer=NCS%20Group) (1)
 
-- [Robotics Engineer](https://www.linkedin.com/jobs/view/4459358727/) — Embedded / Robotics · Cambridge, England, United Kingdom
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4461950089/) — Cambridge, England, United Kingdom
 
 ### [Neat](https://jobs.winterchill.xyz/?employer=Neat) (1)
 
 - [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4279718488/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [neurobox](https://jobs.winterchill.xyz/?employer=neurobox) (1)
+### [Neural Concept](https://jobs.winterchill.xyz/?employer=Neural%20Concept) (1)
 
-- [Senior Developer](https://www.linkedin.com/jobs/view/4456009286/) — Backend · £40,000–£52,000/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
+- [AI Workflows Engineer](https://www.linkedin.com/jobs/view/4444138058/) — Backend · Cambridge, England, United Kingdom
 
 ### [Neutreeno](https://jobs.winterchill.xyz/?employer=Neutreeno) (1)
 
@@ -448,6 +431,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Planther](https://jobs.winterchill.xyz/?employer=Planther) (1)
 
 - [Data Engineer](https://uk.indeed.com/viewjob?jk=97062e6a389a536a) — Backend · £40,000–£55,000/yr · Cambridge, United Kingdom · hybrid
+
+### [Platform Recruitment](https://jobs.winterchill.xyz/?employer=Platform%20Recruitment) (1)
+
+- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4459540652/) — Backend · £70,000–£80,000/yr · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
 ### [RECRUITERS](https://jobs.winterchill.xyz/?employer=RECRUITERS) (1)
 
@@ -473,9 +460,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4457823257/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
+### [Roc Search](https://jobs.winterchill.xyz/?employer=Roc%20Search) (1)
+
+- [Software Engineer - Cambridge](https://www.linkedin.com/jobs/view/4462874204/) — Backend · £55,000–£60,000/yr · Cambridge, England, United Kingdom
+
 ### [Royal Society of Chemistry](https://jobs.winterchill.xyz/?employer=Royal%20Society%20of%20Chemistry) (1)
 
 - [Software Development Team Lead](https://www.linkedin.com/jobs/view/4459000012/) — Backend · Cambridge, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Samsung Electronics UK](https://jobs.winterchill.xyz/?employer=Samsung%20Electronics%20UK) (1)
+
+- [Research Scientist](https://www.linkedin.com/jobs/view/4443780937/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
 ### [ScionxBio](https://jobs.winterchill.xyz/?employer=ScionxBio) (1)
 
@@ -485,9 +480,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Linux/Android Platform Developer](https://www.linkedin.com/jobs/view/4458763292/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
-### [Singular Recruitment](https://jobs.winterchill.xyz/?employer=Singular%20Recruitment) (1)
+### [Siemens Digital Industries Software](https://jobs.winterchill.xyz/?employer=Siemens%20Digital%20Industries%20Software) (1)
 
-- [Principal C++ Software Engineer - Windows](https://www.linkedin.com/jobs/view/4457307680/) — Backend · Cambridge, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [CFD Solver Developer (LBM)](https://www.linkedin.com/jobs/view/4439441165/) — Backend · Cambridge, England, United Kingdom · hybrid
 
 ### [Speechmatics](https://jobs.winterchill.xyz/?employer=Speechmatics) (1)
 
@@ -500,10 +495,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Stott and May](https://jobs.winterchill.xyz/?employer=Stott%20and%20May) (1)
 
 - [Forward Deployed Engineer - Applied AI](https://www.linkedin.com/jobs/view/4453929302/) — Backend · £65,000–£70,000/yr · Cambridge, England, United Kingdom · hybrid
-
-### [Theia Insights](https://jobs.winterchill.xyz/?employer=Theia%20Insights) (1)
-
-- [Software Engineer: Applied NLP/ML and Data Systems (Mid-career / Senior)](https://www.linkedin.com/jobs/view/4456742500/) — Backend · Cambridge, England, United Kingdom · 🛂 visa sponsor
 
 ### [Thermoteknix](https://jobs.winterchill.xyz/?employer=Thermoteknix) (1)
 

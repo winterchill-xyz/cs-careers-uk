@@ -1,15 +1,10 @@
 # Software &amp; IT careers in Cardiff
 
-**11 open roles** · updated 2026-09-03
+**9 open roles** · updated 2026-09-04
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
-
-### [Legal & General](https://jobs.winterchill.xyz/?employer=Legal%20%26%20General) (2)
-
-- [Senior Engineer (MongoDB & AWS Serverless)](https://jobs.smartrecruiters.com/LegalAndGeneral/744000144046060) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
-- [Lead Data Engineer](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140264799) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
 
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (2)
 
