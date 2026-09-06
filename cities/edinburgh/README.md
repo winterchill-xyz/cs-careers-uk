@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**91 open roles** · updated 2026-09-05
+**91 open roles** · updated 2026-09-06
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -36,9 +36,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer - Frontend (React / React Native)](https://www.fanduel.careers/open-positions?gh_jid=8169023) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Data Engineering Senior Manager](https://www.fanduel.careers/open-positions?gh_jid=8141428) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.fanduel.careers/open-positions?gh_jid=8129864) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Data Engineering Manager](https://www.fanduel.careers/open-positions?gh_jid=7201317) — Data Engineering · Edinburgh / Hybrid · hybrid · 🛂 visa sponsor
 - [Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=7300157) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112079) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Data Engineering Manager](https://www.fanduel.careers/open-positions?gh_jid=7201317) — Data Engineering · Edinburgh / Hybrid · hybrid · 🛂 visa sponsor
 - [Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112084) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [BlackRock](https://jobs.winterchill.xyz/?employer=BlackRock) (7)
@@ -156,7 +156,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Morson Edge](https://jobs.winterchill.xyz/?employer=Morson%20Edge) (1)
 
-- [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4450232153/) — Backend · Up to £82,000/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4450232153/) — Backend · Up to £82,000/yr · Edinburgh, Scotland, United Kingdom · remote · 🛂 visa sponsor
 
 ### [OpenSourced - Search & Selection](https://jobs.winterchill.xyz/?employer=OpenSourced%20-%20Search%20%26%20Selection) (1)
 

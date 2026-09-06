@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Glasgow
 
-**142 open roles** · updated 2026-09-05
+**141 open roles** · updated 2026-09-06
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Glasgow)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,19 +8,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (85)
 
-- [Lead Software Engineer - Java, AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788334) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - Python, Cloud & AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786698) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer - Java, AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210788334) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III - Full Stack, Global Banking Tech](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210778061) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Python/AIML Developer - Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786547) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III - React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786623) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786043) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · hybrid · 🛂 visa sponsor
-- [Java Software Engineer II](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783164) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Python/AIML Developer - Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786547) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [SQL/Python Developer - Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210785383) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Java Software Engineer II](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783164) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786043) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · hybrid · 🛂 visa sponsor
 - [Full Stack Lead Software Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210776922) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Data Engineer - Python, Databricks](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210785183) — Data Engineering · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - Java, Cloud & AI](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786107) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
-- [Software Engineer III – DevOps & AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210787072) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Frontend Lead Software Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786538) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
+- [Software Engineer III – DevOps & AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210787072) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Python Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786551) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Software Engineer II – Python / Databricks](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784457) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III –  Python / Databricks](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783998) — Backend · GLASGOW, LANARKSHIRE, United Kingdom · 🛂 visa sponsor
@@ -108,10 +108,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer (Java)](https://www.linkedin.com/jobs/view/4416965196/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
 
-### [Deloitte](https://jobs.winterchill.xyz/?employer=Deloitte) (1)
-
-- [Python Developer](https://www.linkedin.com/jobs/view/4447167839/) — Backend · Glasgow, Scotland, United Kingdom · remote · 🛂 visa sponsor
-
 ### [FD Intelligence](https://jobs.winterchill.xyz/?employer=FD%20Intelligence) (1)
 
 - [Artificial Intelligence Researcher](https://www.linkedin.com/jobs/view/4440041652/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
@@ -122,7 +118,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Leo Recruitment Limited](https://jobs.winterchill.xyz/?employer=Leo%20Recruitment%20Limited) (1)
 
-- [Full Stack Developer](https://www.linkedin.com/jobs/view/4462034153/) — Backend · £50,000–£60,000/yr · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Full Stack Developer](https://www.linkedin.com/jobs/view/4462034153/) — Backend · £50,000–£60,000/yr · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Lorien](https://jobs.winterchill.xyz/?employer=Lorien) (1)
 
@@ -138,7 +134,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [PURVIEW](https://jobs.winterchill.xyz/?employer=PURVIEW) (1)
 
-- [Python Backend Developer](https://www.linkedin.com/jobs/view/4461652396/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Python Backend Developer](https://www.linkedin.com/jobs/view/4461652396/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Qualitrol](https://jobs.winterchill.xyz/?employer=Qualitrol) (1)
 

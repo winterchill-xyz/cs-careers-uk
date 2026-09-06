@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**5 open roles** · updated 2026-09-05
+**5 open roles** · updated 2026-09-06
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -24,7 +24,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [UK Home Office](https://jobs.winterchill.xyz/?employer=UK%20Home%20Office) (1)
 
-- [Principal Engineer](https://www.linkedin.com/jobs/view/4459296977/) — Backend · £76,879/yr · Sheffield, England, United Kingdom · 🛂 visa sponsor
+- [Principal Engineer](https://www.linkedin.com/jobs/view/4459296977/) — Backend · £76,879/yr · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
