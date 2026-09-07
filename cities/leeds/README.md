@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**36 open roles** · updated 2026-09-06
+**34 open roles** · updated 2026-09-07
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -14,21 +14,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal AI Engineer - Microsoft Azure AI Foundry (Contract)](https://apply.workable.com/j/9F2018E3A6/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Solution Director: Engineering](https://apply.workable.com/j/D26AA41D72/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (3)
-
-- [Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds/Software-Engineer_161660-1) — Backend · £42,744–£64,116/yr · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
-- [Private Cloud – Network Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Private-Cloud---Network-Engineer_159312-2) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Public Cloud Assistant Infrastructure Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud-Assistant-Infrastructure-Engineer_152578-1) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (2)
 
-- [Data Engineer (Databricks and AWS)](https://www.linkedin.com/jobs/view/4450775411/) — Data Engineering · Leeds, England, United Kingdom
+- [Data Engineer (Databricks and AWS)](https://www.linkedin.com/jobs/view/4450775411/) — Data Engineering · Leeds, England, United Kingdom · hybrid
 - [Software Engineer](https://www.linkedin.com/jobs/view/4448708010/) — Backend · Leeds, England, United Kingdom
 
 ### [Fanatics Betting & Gaming](https://jobs.winterchill.xyz/?employer=Fanatics%20Betting%20%26%20Gaming) (2)
 
 - [Staff Mobile Engineer - Kotlin, iCasino - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4208336009) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III, Trading - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4290936009) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (2)
+
+- [Private Cloud – Network Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Private-Cloud---Network-Engineer_159312-2) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Public Cloud Assistant Infrastructure Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud-Assistant-Infrastructure-Engineer_152578-1) — DevOps / SRE · £48,987–£54,430/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Pharmacy2U](https://jobs.winterchill.xyz/?employer=Pharmacy2U) (2)
 
@@ -70,10 +69,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Inara](https://jobs.winterchill.xyz/?employer=Inara) (1)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4462405604/) — Backend · £90,000–£115,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (1)
-
-- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4419286687/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Medical Engineers Recruitment](https://jobs.winterchill.xyz/?employer=Medical%20Engineers%20Recruitment) (1)
 
