@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**35 open roles** · updated 2026-09-07
+**32 open roles** · updated 2026-09-08
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -57,15 +57,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Full-Stack Software Engineer III](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Full-Stack-Software-Engineer-III_R114714) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Senior Application Security Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Oxford-Nielsen-House/Senior-Product-Security-Engineer-II_R113910) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 
-### [University of Oxford, Department of Engineering Science](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford%2C%20Department%20of%20Engineering%20Science) (2)
-
-- [Senior Researcher in Interpretability and AI Safety Closing date: Sep 22, 2026](https://www.linkedin.com/jobs/view/4458995265/) — ML / AI Engineering · £49,119–£58,265/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Postdoctoral Research Assistant in Multi-Robot Scouting Closing date: Sep 30, 2026](https://www.linkedin.com/jobs/view/4457608370/) — Embedded / Robotics · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Bending Spoons](https://jobs.winterchill.xyz/?employer=Bending%20Spoons) (1)
-
-- [Graduate software engineer](https://www.linkedin.com/jobs/view/4462358650/) — Backend · £85,797–£151,436/yr · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
-
 ### [EWOR](https://jobs.winterchill.xyz/?employer=EWOR) (1)
 
 - [DeepTech Founding Engineer (100 % remote) (m/f/d)](https://www.linkedin.com/jobs/view/4460291358/) — Product Engineering · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
@@ -77,10 +68,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Oxford Dynamics](https://jobs.winterchill.xyz/?employer=Oxford%20Dynamics) (1)
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4462150586/) — Backend · Greater Oxford Area · hybrid · 🛂 visa sponsor
-
-### [Oxford Ionics](https://jobs.winterchill.xyz/?employer=Oxford%20Ionics) (1)
-
-- [Director, Systems Software](https://www.linkedin.com/jobs/view/4458734064/) — Embedded / Robotics · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
 
@@ -97,6 +84,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Technify Talent](https://jobs.winterchill.xyz/?employer=Technify%20Talent) (1)
 
 - [C# .NET developer](https://www.linkedin.com/jobs/view/4460245725/) — Backend · Greater Oxford Area
+
+### [University of Oxford, Department of Engineering Science](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford%2C%20Department%20of%20Engineering%20Science) (1)
+
+- [Senior Researcher in Interpretability and AI Safety Closing date: Sep 22, 2026](https://www.linkedin.com/jobs/view/4458995265/) — ML / AI Engineering · £49,119–£58,265/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
