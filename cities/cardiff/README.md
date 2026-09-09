@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**8 open roles** · updated 2026-09-08
+**11 open roles** · updated 2026-09-09
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -23,17 +23,29 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4458957079/) — Backend · Up to £70,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Meltwater](https://jobs.winterchill.xyz/?employer=Meltwater) (1)
+### [Hodge](https://jobs.winterchill.xyz/?employer=Hodge) (1)
 
-- [AI Engineer (UK)](https://www.linkedin.com/jobs/view/4453700606/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4463274909/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
-### [Yolk Recruitment](https://jobs.winterchill.xyz/?employer=Yolk%20Recruitment) (1)
+### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (1)
 
-- [Senior Platform Engineer (Azure)](https://dataengineeringjobs.co.uk/jobs/senior-platform-engineer-azure-yolk-recruitment-cardiff) — DevOps / SRE · Cardiff, South Glamorgan
+- [Manager Software Engineering](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Cardiff-Global-Reach/Manager-Software-Engineering_R117550) — Data Engineering · UK - Cardiff (Global Reach), United Kingdom · 🛂 visa sponsor
+
+### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (1)
+
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-randstad-technologies-recruitment-cardiff) — Backend · £16–£19/hr · Cardiff, South Glamorgan
+
+### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (1)
+
+- [Manager Software Engineering](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Cardiff-Global-Reach/Manager-Software-Engineering_R117550-1) — Data Engineering · UK - Cardiff (Global Reach), United Kingdom · 🛂 visa sponsor
+
+### [RELX India (Pvt) Ltd Els div Company](https://jobs.winterchill.xyz/?employer=RELX%20India%20%28Pvt%29%20Ltd%20Els%20div%20Company) (1)
+
+- [Manager Software Engineering](https://startup.jobs/manager-software-engineering-relx-india-pvt-ltd-els-div-c-9956541) — Cardiff, Wales, United Kingdom
 
 ### [Your World Recruitment Group](https://jobs.winterchill.xyz/?employer=Your%20World%20Recruitment%20Group) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4464355866/) — Up to £28/hr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4464355866/) — Data Engineering · Up to £28/hr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

@@ -1,10 +1,14 @@
 # Software &amp; IT careers in Sheffield
 
-**5 open roles** · updated 2026-09-08
+**6 open roles** · updated 2026-09-09
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
+
+### [eTeam](https://jobs.winterchill.xyz/?employer=eTeam) (1)
+
+- [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4464470095/) — Backend · £492/day · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [Grant Thornton UK](https://jobs.winterchill.xyz/?employer=Grant%20Thornton%20UK) (1)
 
