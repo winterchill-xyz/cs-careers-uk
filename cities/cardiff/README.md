@@ -1,15 +1,20 @@
 # Software &amp; IT careers in Cardiff
 
-**11 open roles** · updated 2026-09-09
+**14 open roles** · updated 2026-09-10
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (2)
+### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (3)
 
+- [Android Engineer - Engine by Starling](https://apply.workable.com/j/4A1A00B7C8/apply) — Backend · £69,000–£86,100/yr (est.) · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Java Software Engineer - Intelligent Operations](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Accelero](https://jobs.winterchill.xyz/?employer=Accelero) (1)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4463317866/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Admiral Pioneer](https://jobs.winterchill.xyz/?employer=Admiral%20Pioneer) (1)
 
@@ -30,6 +35,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (1)
 
 - [Manager Software Engineering](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Cardiff-Global-Reach/Manager-Software-Engineering_R117550) — Data Engineering · UK - Cardiff (Global Reach), United Kingdom · 🛂 visa sponsor
+
+### [Meltwater](https://jobs.winterchill.xyz/?employer=Meltwater) (1)
+
+- [AI Engineer (UK)](https://www.linkedin.com/jobs/view/4453700606/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (1)
 

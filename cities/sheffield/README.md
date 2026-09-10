@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**6 open roles** · updated 2026-09-09
+**6 open roles** · updated 2026-09-10
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -10,6 +10,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4464470095/) — Backend · £492/day · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
+### [GIOS Technology](https://jobs.winterchill.xyz/?employer=GIOS%20Technology) (1)
+
+- [Python Developer](https://www.linkedin.com/jobs/view/4465080364/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
+
 ### [Grant Thornton UK](https://jobs.winterchill.xyz/?employer=Grant%20Thornton%20UK) (1)
 
 - [Senior Engineer](https://www.linkedin.com/jobs/view/4439243475/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
@@ -17,10 +21,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Pendo](https://jobs.winterchill.xyz/?employer=Pendo) (1)
 
 - [Sr. Software Engineer](https://startup.jobs/sr-software-engineer-pendo-8997753) — £60,000–£78,000/yr · Sheffield, England, United Kingdom
-
-### [RedRock Resourcing](https://jobs.winterchill.xyz/?employer=RedRock%20Resourcing) (1)
-
-- [Senior Software Engineer - C#/.Net/Angular - Up to £60k](https://www.linkedin.com/jobs/view/4458691463/) — Backend · Up to £60,000/yr · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [SRM Digital](https://jobs.winterchill.xyz/?employer=SRM%20Digital) (1)
 

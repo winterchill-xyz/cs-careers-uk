@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Bristol
 
-**84 open roles** · updated 2026-09-09
+**79 open roles** · updated 2026-09-10
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -28,15 +28,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Atlassian Cloud Platform Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8539076002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [DFT Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8383085002) — DevOps / SRE · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
 
-### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (10)
+### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (9)
 
 - [Software Security Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Security-Engineer_R30650) — Security Engineering · £74,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer - Data Distribution Service (RTI DDS)](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-DDS-Developer_R37853) — Embedded / Robotics · Up to £70,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineering Technical Team Lead](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineering-Technical-Team-Lead_R38902) — Backend · £55,000–£67,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineering Team Lead](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineering-Team-Lead_R38770) — £55,000–£67,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Algorithm Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Senior-Algorithm-Engineer_R29775) — Embedded / Robotics · Up to £65,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer (Command and Control)](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineer--Command-and-Control-_R25968) — £65,000/yr · Bristol, United Kingdom · remote · 🛂 visa sponsor
-- [Software Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineer_R35413) — £65,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineer_R35413) — Up to £60,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Algorithm Design Engineer - Navigation](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Algorithm-Design-Engineer---Navigation_R38759-4) — Embedded / Robotics · Up to £55,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Laser Direct Energy Weapon Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Laser-Direct-Energy-Weapon-Engineer_R39147-4) — £53,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Quality Assurance Engineer - Software Quality](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Principal-Product-Assurance-Engineer---Software_R24528-1) — QA / Test Automation · £40,000–£50,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
@@ -49,6 +48,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead SQL Developer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Principal-SQL-Developer_R0005378) — Platform / Infrastructure · GB - Bristol - Coldharbour Lane, United Kingdom · remote · 🛂 visa sponsor
 - [Senior DevSecOps Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Senior-DevSecOps-Engineer_R0005323) — DevOps / SRE · GB - Bristol - Coldharbour Lane, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Fractile](https://jobs.winterchill.xyz/?employer=Fractile) (4)
+
+- [Lead PPA Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4966688101) — Bristol, England · 🛂 visa sponsor
+- [Rust Software Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4763161101) — Backend · Bristol · hybrid · 🛂 visa sponsor
+- [ML Runtime Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4725124101) — Backend · Bristol · hybrid · 🛂 visa sponsor
+- [Developer Operations / DevOps — Bazel Monorepo](https://job-boards.eu.greenhouse.io/fractile/jobs/4562362101) — DevOps / SRE · Bristol · hybrid · 🛂 visa sponsor
+
 ### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (4)
 
 - [Principcal Embedded Engineer](https://www.linkedin.com/jobs/view/4433838924/) — Embedded / Robotics · Up to £75,000/yr · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -56,32 +62,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Embedded Engineer](https://www.linkedin.com/jobs/view/4416923807/) — Embedded / Robotics · Bristol, England, United Kingdom · 🛂 visa sponsor
 - [Embedded Linux Engineer](https://www.linkedin.com/jobs/view/4434002816/) — Backend · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Fractile](https://jobs.winterchill.xyz/?employer=Fractile) (3)
-
-- [Lead PPA Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4966688101) — Bristol, England · 🛂 visa sponsor
-- [Rust Software Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4763161101) — Backend · Bristol · hybrid · 🛂 visa sponsor
-- [ML Runtime Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4725124101) — Backend · Bristol · hybrid · 🛂 visa sponsor
-
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (3)
-
-- [Engineering Lead – Data, Analytics & AI](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol-Harbourside/Data-Engineering-Lead_125899-2) — Backend · £92,701–£109,060/yr · Bristol Harbourside, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior AI Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Senior-Data-Scientist_136493) — Backend · £72,702–£80,780/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Data Quality Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Quality-Engineer_141741-2) — Backend · £72,702–£80,780/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Capgemini](https://jobs.winterchill.xyz/?employer=Capgemini) (2)
 
 - [Lead DevSecOps Engineer](https://careers.capgemini.com/job/Bristol-Lead-DevSecOps-Engineer/1420395733/) — DevOps / SRE · Bristol · 🛂 visa sponsor
 - [Principal DevSecOps Engineer](https://careers.capgemini.com/job/Bristol-Principal-DevSecOps-Engineer/1419898733/) — DevOps / SRE · Bristol · 🛂 visa sponsor
 
-### [DELTACLASS TECHNOLOGY SOLUTIONS LIMITED](https://jobs.winterchill.xyz/?employer=DELTACLASS%20TECHNOLOGY%20SOLUTIONS%20LIMITED) (2)
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (2)
 
-- [Sr Data Engineer with GCP(Google Cloud Platform) Exp](https://www.linkedin.com/jobs/view/4462218378/) — Data Engineering · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
-- [Senior Data Engineer - GCP](https://www.linkedin.com/jobs/view/4459973644/) — Data Engineering · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
-
-### [Hargreaves Lansdown](https://jobs.winterchill.xyz/?employer=Hargreaves%20Lansdown) (2)
-
-- [Software Engineer - Full-Stack (React)](https://www.linkedin.com/jobs/view/4459960216/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer - Full Stack Engineer (Node.js / GraphQL)](https://www.linkedin.com/jobs/view/4457750986/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Senior AI Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Senior-Data-Scientist_136493) — Backend · £72,702–£80,780/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Data Quality Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Quality-Engineer_141741-2) — Backend · £72,702–£80,780/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [One Big Circle Ltd](https://jobs.winterchill.xyz/?employer=One%20Big%20Circle%20Ltd) (2)
 
@@ -130,9 +119,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Python Developer](https://www.linkedin.com/jobs/view/4454506184/) — Backend · Up to £80,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
 
+### [DELTACLASS TECHNOLOGY SOLUTIONS LIMITED](https://jobs.winterchill.xyz/?employer=DELTACLASS%20TECHNOLOGY%20SOLUTIONS%20LIMITED) (1)
+
+- [Sr Data Engineer with GCP(Google Cloud Platform) Exp](https://www.linkedin.com/jobs/view/4462218378/) — Data Engineering · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
+
+### [Hargreaves Lansdown](https://jobs.winterchill.xyz/?employer=Hargreaves%20Lansdown) (1)
+
+- [Software Engineer - Full-Stack (React)](https://www.linkedin.com/jobs/view/4459960216/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
 
 - [Lead Data Engineer](https://dataengineeringjobs.co.uk/jobs/lead-data-engineer-harnham-data-and-analytics-recruitment-bristol) — Data Engineering · £90,000–£120,000/yr · Bristol, England · hybrid
+
+### [Honeywell Aerospace](https://jobs.winterchill.xyz/?employer=Honeywell%20Aerospace) (1)
+
+- [Principal Systems Software Engineer](https://www.linkedin.com/jobs/view/4465037252/) — Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Iambic](https://jobs.winterchill.xyz/?employer=Iambic) (1)
 
@@ -170,10 +171,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Engineering Manager](https://www.linkedin.com/jobs/view/4459952291/) — Engineering Management · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Rise Technical](https://jobs.winterchill.xyz/?employer=Rise%20Technical) (1)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4462221865/) — Backend · £50,000–£60,000/yr · Greater Bristol Area, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [RWS](https://jobs.winterchill.xyz/?employer=RWS) (1)
 
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4461210150/) — Backend · Greater Bristol Area, United Kingdom · remote · 🛂 visa sponsor
@@ -194,17 +191,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4461179713/) — Data Engineering · £53,000–£67,000/yr · Bristol, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [Sony Interactive Entertainment](https://jobs.winterchill.xyz/?employer=Sony%20Interactive%20Entertainment) (1)
+### [TRIA](https://jobs.winterchill.xyz/?employer=TRIA) (1)
 
-- [IT Support & Infrastructure Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6110746004) — DevOps / SRE · United Kingdom, Bristol · remote · 🛂 visa sponsor
-
-### [SR2 | Socially Responsible Recruitment | Certified B Corporation™](https://jobs.winterchill.xyz/?employer=SR2%20%7C%20Socially%20Responsible%20Recruitment%20%7C%20Certified%20B%20Corporation%E2%84%A2) (1)
-
-- [Software Technical Lead](https://www.linkedin.com/jobs/view/4458092638/) — Embedded / Robotics · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
-
-### [Stratospherec Limited](https://jobs.winterchill.xyz/?employer=Stratospherec%20Limited) (1)
-
-- [Back End Developer / Data Engineer](https://dataengineeringjobs.co.uk/jobs/back-end-developer-data-engineer-stratospherec-limited-box-makers-yard) — Backend · £40,000–£50,000/yr · Box Makers Yard, Bristol (county)
+- [Data Engineer](https://www.linkedin.com/jobs/view/4463060499/) — Data Engineering · £65,000–£75,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
 
 ### [Uplift360](https://jobs.winterchill.xyz/?employer=Uplift360) (1)
 
