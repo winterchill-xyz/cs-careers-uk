@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**34 open roles** · updated 2026-09-10
+**38 open roles** · updated 2026-09-11
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -23,6 +23,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
 - [Graduate Test Engineer](https://jobs.lever.co/scottlogic/b428ebae-812e-4034-aa54-652621b2c2c9) — Backend · Newcastle · remote · 🛂 visa sponsor
 
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
+
+- [Senior Software Engineer, Core Experiences - Newcastle, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-newcastle-united-kingdom-speechify-7954825) — Backend · Newcastle upon Tyne, England, United Kingdom · remote
+- [Software Engineer, Data Infrastructure & Acquisition - Newcastle, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-newcastle-united-kingdom-speechify-7954945) — Backend · Newcastle upon Tyne, England, United Kingdom
+- [Software Engineer, Platform - Newcastle, United Kingdom](https://startup.jobs/software-engineer-platform-newcastle-united-kingdom-speechify-7974954) — Backend · Newcastle upon Tyne, England, United Kingdom
+- [Senior Software Engineer, Windows/Desktop Applications - Newcastle, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-newcastle-united-kingdom-speechify-7974838) — Backend · Newcastle upon Tyne, England, United Kingdom
+
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (3)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4460273832/) — Backend · £195,000–£215,800/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -35,8 +42,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Electronic Engineers - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Electronic-Engineers---all-levels_R0015649) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Embedded Design Engineer -  FPGA Academy](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (2)
+### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (3)
 
+- [Data Engineer](https://www.linkedin.com/jobs/view/4463382685/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4463377776/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4465034376/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · remote · 🛂 visa sponsor
 
@@ -60,6 +68,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4374137684/) — Backend · Newcastle, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
+
+- [Backend Software Engineer Java - FinTech](https://www.linkedin.com/jobs/view/4465634232/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
 ### [Cloud Bridge](https://jobs.winterchill.xyz/?employer=Cloud%20Bridge) (1)
 
 - [Senior Data Engineer - Up to £85k](https://www.linkedin.com/jobs/view/4462353035/) — Data Engineering · Up to £85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -76,25 +88,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4462878057/) — Backend · Up to £110,000/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Newcastle United Football Club](https://jobs.winterchill.xyz/?employer=Newcastle%20United%20Football%20Club) (1)
+### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (1)
 
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4458723511/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Research Associate](https://www.linkedin.com/jobs/view/4460474065/) — Up to £38,784/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
 
 ### [Nudge Education Limited](https://jobs.winterchill.xyz/?employer=Nudge%20Education%20Limited) (1)
 
 - [Full Stack Developer](https://www.linkedin.com/jobs/view/4462292245/) — Backend · £37,500–£43,000/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Platform Recruitment](https://jobs.winterchill.xyz/?employer=Platform%20Recruitment) (1)
-
-- [Senior AI/ML Engineer](https://www.linkedin.com/jobs/view/4459925180/) — Backend · Up to £140,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
 ### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4463522034/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Turnitin](https://jobs.winterchill.xyz/?employer=Turnitin) (1)
-
-- [Principal Software Engineer, Fullstack/Backend Technologies (UK Remote)](https://www.linkedin.com/jobs/view/4462884903/) — Backend · Newcastle Upon Tyne, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [TyneStack Ltd](https://jobs.winterchill.xyz/?employer=TyneStack%20Ltd) (1)
 

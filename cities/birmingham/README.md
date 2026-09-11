@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**44 open roles** · updated 2026-09-10
+**48 open roles** · updated 2026-09-11
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,16 +8,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (7)
 
-- [Senior Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Security-Engineer_JR_18220/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Security-Engineer_JR_18219/apply) — Security Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
+- [Senior Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Security-Engineer_JR_18220/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Test Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Test-Engineer_JR_18169/apply) — QA / Test Automation · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [AI Engineer Manager](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Principal-AI-Engineer_JR_17994/apply) — ML / AI Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Software-Engineer_JR_17793-1/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior AI Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-AI-Engineer_JR_17716/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer - AWS](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer---AWS_JR_17658/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 
-### [Goldman Sachs](https://jobs.winterchill.xyz/?employer=Goldman%20Sachs) (5)
+### [Goldman Sachs](https://jobs.winterchill.xyz/?employer=Goldman%20Sachs) (6)
 
+- [Internal Audit - Data Engineering - Associate - Birmingham](https://higher.gs.com/roles/182855_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Vice President - Site Reliability Engineering (SRE) - The Core Engineering - Birmingham](https://higher.gs.com/roles/182981_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [The Core Engineering - Site Reliability Engineering - Associate - Birmingham](https://higher.gs.com/roles/182982_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Software Engineer \| Associate \| Birmingham \| 2026](https://higher.gs.com/roles/157072_GS_EARLY_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
@@ -31,10 +32,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
 - [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
+
+- [Software Engineer, Platform - Birmingham, United Kingdom](https://startup.jobs/software-engineer-platform-birmingham-united-kingdom-speechify-7954979) — Backend · Birmingham, England, United Kingdom
+- [Senior Software Engineer, Core Experiences - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-birmingham-united-kingdom-speechify-7954793) — Backend · Birmingham, England, United Kingdom · remote
+- [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-speechify-7960123) — Backend · Birmingham, England, United Kingdom
+
 ### [Autodesk](https://jobs.winterchill.xyz/?employer=Autodesk) (2)
 
 - [Software Engineer, Education](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer--Education_26WD99981-1) — Backend · Birmingham, GBR, United Kingdom · 🛂 visa sponsor
 - [Software Engineer C++](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1) — Backend · Birmingham, GBR, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (2)
+
+- [Senior Java Full-Stack Engineer](https://www.linkedin.com/jobs/view/4463010132/) — Backend · £50,000–£75,000/yr · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Front End Software Engineer](https://www.linkedin.com/jobs/view/4465657366/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
 
@@ -63,9 +75,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Professor of Smart Manufacturing](https://www.linkedin.com/jobs/view/4463008568/) — £70,564–£79,840/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
-### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (1)
+### [Compass Community](https://jobs.winterchill.xyz/?employer=Compass%20Community) (1)
 
-- [Senior Java Full-Stack Engineer](https://www.linkedin.com/jobs/view/4463010132/) — Backend · £50,000–£75,000/yr · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
+- [Senior BI Developer](https://www.linkedin.com/jobs/view/4461938951/) — Data Engineering · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Counter Terrorism Policing](https://jobs.winterchill.xyz/?employer=Counter%20Terrorism%20Policing) (1)
 
@@ -83,10 +95,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4462416048/) — Data Engineering · £53,000–£60,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Information Tech Consultants](https://jobs.winterchill.xyz/?employer=Information%20Tech%20Consultants) (1)
-
-- [Java Application Developer](https://www.linkedin.com/jobs/view/4463000078/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
 ### [James Adams](https://jobs.winterchill.xyz/?employer=James%20Adams) (1)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4458086694/) — Backend · Up to £40,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
@@ -103,17 +111,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [VP Platform - Engineering & Architecture](https://www.linkedin.com/jobs/view/4462163278/) — DevOps / SRE · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Opus Recruitment Solutions](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions) (1)
-
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4460963386/) — Backend · Up to £60,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
 ### [Paritas Recruitment](https://jobs.winterchill.xyz/?employer=Paritas%20Recruitment) (1)
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4461181985/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
-### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (1)
-
-- [Senior Software Engineer - Pay Sustainable Engineering](https://jobs.ashbyhq.com/perk/76e4400f-2436-4908-a605-676b4d9f8aba) — Backend · Birmingham · hybrid · 🛂 visa sponsor
 
 ### [PwC](https://jobs.winterchill.xyz/?employer=PwC) (1)
 
@@ -122,6 +122,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
 
 - [Graduate Integration Developer, Birmingham](https://www.linkedin.com/jobs/view/4461666008/) — Backend · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
+
+- [Full-Stack Developer](https://www.linkedin.com/jobs/view/4464513894/) — Backend · £50,000–£60,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (1)
 

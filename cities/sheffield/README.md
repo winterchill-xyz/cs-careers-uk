@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**6 open roles** · updated 2026-09-10
+**5 open roles** · updated 2026-09-11
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -21,10 +21,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Pendo](https://jobs.winterchill.xyz/?employer=Pendo) (1)
 
 - [Sr. Software Engineer](https://startup.jobs/sr-software-engineer-pendo-8997753) — £60,000–£78,000/yr · Sheffield, England, United Kingdom
-
-### [SRM Digital](https://jobs.winterchill.xyz/?employer=SRM%20Digital) (1)
-
-- [Back End Developer](https://www.linkedin.com/jobs/view/4462800289/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
 
 ### [UK Home Office](https://jobs.winterchill.xyz/?employer=UK%20Home%20Office) (1)
 
