@@ -1,14 +1,13 @@
 # Software &amp; IT careers in Newcastle
 
-**38 open roles** · updated 2026-09-11
+**38 open roles** · updated 2026-09-12
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (7)
+### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (6)
 
-- [Junior AI Software Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Junior-AI-Software-Engineer_R00346108) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [AI Software Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/AI-Software-Engineering-Associate-Director_R00346145) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [Senior Java Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-Java-Developer---Newcastle_R00337654) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-DevOps-Engineer---Newcastle_R00316554) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
@@ -47,6 +46,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Data Engineer](https://www.linkedin.com/jobs/view/4463382685/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4463377776/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4465034376/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (2)
+
+- [Research Associate](https://www.linkedin.com/jobs/view/4460474065/) — Up to £38,784/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
+- [Research Assistant/ Associate in Bacteria-Host Interactions](https://www.linkedin.com/jobs/view/4464885142/) — £33,951–£35,608/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
 
 ### [Accelero](https://jobs.winterchill.xyz/?employer=Accelero) (1)
 
@@ -87,10 +91,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Harrington Starr](https://jobs.winterchill.xyz/?employer=Harrington%20Starr) (1)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4462878057/) — Backend · Up to £110,000/yr · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (1)
-
-- [Research Associate](https://www.linkedin.com/jobs/view/4460474065/) — Up to £38,784/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
 
 ### [Nudge Education Limited](https://jobs.winterchill.xyz/?employer=Nudge%20Education%20Limited) (1)
 

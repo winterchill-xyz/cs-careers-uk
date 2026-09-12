@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**27 open roles** · updated 2026-09-11
+**28 open roles** · updated 2026-09-12
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -24,6 +24,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Mobile Engineer - Kotlin, iCasino - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4208336009) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III, Trading - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4290936009) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
+### [ITSS Recruitment](https://jobs.winterchill.xyz/?employer=ITSS%20Recruitment) (2)
+
+- [Lead Data Engineer](https://dataengineeringjobs.co.uk/jobs/lead-data-engineer-itss-recruitment-leeds) — Data Engineering · £70,000–£85,000/yr · Leeds, West Yorkshire · hybrid
+- [Lead SQL Developer](https://dataengineeringjobs.co.uk/jobs/lead-sql-developer-itss-recruitment-leeds) — Data Engineering · £65,000–£75,000/yr · Leeds, England · hybrid
+
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (2)
 
 - [Engineering Lead (Cryptography lab))](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Engineering-Lead--Cryptography-lab--_159018-1) — Platform / Infrastructure · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
@@ -37,29 +42,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-brio-digital-leeds) — Data Engineering · £500–£550/day · Leeds, West Yorkshire · hybrid
 
-### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
-
-- [Data Engineer (Databricks and AWS)](https://www.linkedin.com/jobs/view/4450775411/) — Data Engineering · Leeds, England, United Kingdom · hybrid
-
 ### [Eligo Recruitment](https://jobs.winterchill.xyz/?employer=Eligo%20Recruitment) (1)
 
 - [Fabric Data Engineer](https://dataengineeringjobs.co.uk/jobs/fabric-data-engineer-eligo-recruitment-leeds) — Data Engineering · £50,000–£55,000/yr · Leeds, West Yorkshire · hybrid
-
-### [Entain](https://jobs.winterchill.xyz/?employer=Entain) (1)
-
-- [Senior Test Engineer](https://jobs.smartrecruiters.com/Entain/744000144067470) — Frontend · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Inara](https://jobs.winterchill.xyz/?employer=Inara) (1)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4462405604/) — Backend · £90,000–£115,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [ITSS Recruitment](https://jobs.winterchill.xyz/?employer=ITSS%20Recruitment) (1)
+### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (1)
 
-- [Lead Data Engineer](https://dataengineeringjobs.co.uk/jobs/lead-data-engineer-itss-recruitment-leeds) — Data Engineering · £70,000–£85,000/yr · Leeds, West Yorkshire · hybrid
+- [Senior Agentic AI Engineer](https://www.linkedin.com/jobs/view/4420735108/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Marks Sattin](https://jobs.winterchill.xyz/?employer=Marks%20Sattin) (1)
 
 - [Java Developer Leeds](https://www.linkedin.com/jobs/view/4462213103/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (1)
+
+- [Technical Lead - Agentic AI](https://www.linkedin.com/jobs/view/4463962863/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (1)
 

@@ -1,13 +1,14 @@
 # Software &amp; IT careers in Oxford
 
-**43 open roles** · updated 2026-09-11
+**43 open roles** · updated 2026-09-12
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (8)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (9)
 
+- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4464515681/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464511764/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464521579/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464528389/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -17,8 +18,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (3)
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (4)
 
+- [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464623843/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4464993587/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Scientist, Enzymology - Plant Biology Institute](https://www.linkedin.com/jobs/view/4464307399/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4463727269/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -91,10 +93,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Scientific Software Engineer](https://startup.jobs/scientific-software-engineer-oxford-biotherapeutics-8168193) — Backend · £60,000–£80,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
-### [Oxford Dynamics](https://jobs.winterchill.xyz/?employer=Oxford%20Dynamics) (1)
-
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4462150586/) — Backend · Greater Oxford Area · hybrid · 🛂 visa sponsor
-
 ### [Physics World](https://jobs.winterchill.xyz/?employer=Physics%20World) (1)
 
 - [Director, Systems Software](https://www.linkedin.com/jobs/view/4463559335/) — Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -109,11 +107,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4461161781/) — Data Engineering · Up to £65,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [University of Oxford, Department of Engineering Science](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford%2C%20Department%20of%20Engineering%20Science) (1)
-
-- [Senior Researcher in Interpretability and AI Safety Closing date: Sep 22, 2026](https://www.linkedin.com/jobs/view/4458995265/) — ML / AI Engineering · £49,119–£58,265/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4461161781/) — Data Engineering · £60,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
