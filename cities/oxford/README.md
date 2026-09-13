@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**43 open roles** · updated 2026-09-12
+**45 open roles** · updated 2026-09-13
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,9 +8,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (9)
 
-- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4464515681/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464511764/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464521579/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4464515681/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464511764/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464521579/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464528389/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer – Data Platforms](https://www.linkedin.com/jobs/view/4455645210/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -24,6 +24,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4464993587/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Scientist, Enzymology - Plant Biology Institute](https://www.linkedin.com/jobs/view/4464307399/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4463727269/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
+
+- [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
+- [Senior Software Engineer, Core Experiences - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-oxford-united-kingdom-speechify-7982526) — Backend · Oxford, England, United Kingdom · remote
+- [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
+- [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
 
 ### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (3)
 
@@ -58,11 +65,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [AWS Data Engineer ( - Oxfordshire](https://dataengineeringjobs.co.uk/jobs/aws-data-engineer-oxfordshire-opus-recruitment-solutions-oxford) — Data Engineering · £400–£450/day · Oxford, Oxfordshire · hybrid
 - [Data Engineer - Oxford](https://dataengineeringjobs.co.uk/jobs/data-engineer-oxford-opus-recruitment-solutions-oxford) — £400–£425/day · Oxford, Oxfordshire
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (2)
-
-- [Software Engineer, Platform - Oxford, United Kingdom](https://startup.jobs/software-engineer-platform-oxford-united-kingdom-speechify-7974957) — Backend · Oxford, England, United Kingdom
-- [Senior Software Engineer, Windows/Desktop Applications - Oxford, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-oxford-united-kingdom-speechify-7974841) — Backend · Oxford, England, United Kingdom
 
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (2)
 

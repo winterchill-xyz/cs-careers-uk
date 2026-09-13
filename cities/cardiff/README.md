@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**13 open roles** · updated 2026-09-12
+**13 open roles** · updated 2026-09-13
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -43,7 +43,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Veriforce](https://jobs.winterchill.xyz/?employer=Veriforce) (1)
 
-- [Dynamics Developer](https://www.linkedin.com/jobs/view/4464826138/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Dynamics Developer](https://www.linkedin.com/jobs/view/4464826138/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Your World Recruitment Group](https://jobs.winterchill.xyz/?employer=Your%20World%20Recruitment%20Group) (1)
 

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**38 open roles** · updated 2026-09-12
+**38 open roles** · updated 2026-09-13
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -68,10 +68,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer (Front-end)](https://www.linkedin.com/jobs/view/4459511820/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
-
-- [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4374137684/) — Backend · Newcastle, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (1)
 
 - [Backend Software Engineer Java - FinTech](https://www.linkedin.com/jobs/view/4465634232/) — Backend · Up to £120,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -99,6 +95,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4463522034/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Turnitin](https://jobs.winterchill.xyz/?employer=Turnitin) (1)
+
+- [Principal Software Engineer Backend Technologies, Platform (UK Remote)](https://www.linkedin.com/jobs/view/4436407066/) — Backend · Newcastle Upon Tyne, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [TyneStack Ltd](https://jobs.winterchill.xyz/?employer=TyneStack%20Ltd) (1)
 

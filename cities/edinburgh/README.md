@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**102 open roles** · updated 2026-09-12
+**102 open roles** · updated 2026-09-13
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -47,10 +47,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer - Frontend (React / React Native)](https://www.fanduel.careers/open-positions?gh_jid=8169023) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Data Engineering Senior Manager](https://www.fanduel.careers/open-positions?gh_jid=8141428) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.fanduel.careers/open-positions?gh_jid=8129864) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112084) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112079) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Data Engineering Manager](https://www.fanduel.careers/open-positions?gh_jid=7201317) — Data Engineering · Edinburgh / Hybrid · hybrid · 🛂 visa sponsor
 - [Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=7300157) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112079) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112084) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Data Engineering Manager](https://www.fanduel.careers/open-positions?gh_jid=7201317) — Data Engineering · Edinburgh / Hybrid · hybrid · 🛂 visa sponsor
 
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (8)
 
@@ -127,7 +127,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [The University of Edinburgh](https://jobs.winterchill.xyz/?employer=The%20University%20of%20Edinburgh) (2)
 
-- [Postdoctoral Research Associate in Applied Artificial Intelligence for Public Breeding](https://www.linkedin.com/jobs/view/4463474226/) — ML / AI Engineering · £41,064–£48,822/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Postdoctoral Research Associate in Applied Artificial Intelligence for Public Breeding](https://www.linkedin.com/jobs/view/4463474226/) — ML / AI Engineering · £41,064–£48,822/yr · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Research Associate](https://www.linkedin.com/jobs/view/4462526681/) — £41,064–£48,822/yr · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Applied Computer Vision](https://jobs.winterchill.xyz/?employer=Applied%20Computer%20Vision) (1)
@@ -136,7 +136,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Bright Purple](https://jobs.winterchill.xyz/?employer=Bright%20Purple) (1)
 
-- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-bright-purple-riccarton) — Data Engineering · £400–£475/day · Riccarton, Edinburgh · hybrid
+- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-bright-purple-edinburgh) — Data Engineering · £400–£475/day · Edinburgh, Edinburgh · hybrid
 
 ### [Cloud Bridge](https://jobs.winterchill.xyz/?employer=Cloud%20Bridge) (1)
 
