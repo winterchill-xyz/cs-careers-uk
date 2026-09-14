@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**38 open roles** · updated 2026-09-13
+**39 open roles** · updated 2026-09-14
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -52,6 +52,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Research Associate](https://www.linkedin.com/jobs/view/4460474065/) — Up to £38,784/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
 - [Research Assistant/ Associate in Bacteria-Host Interactions](https://www.linkedin.com/jobs/view/4464885142/) — £33,951–£35,608/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
 
+### [Turnitin](https://jobs.winterchill.xyz/?employer=Turnitin) (2)
+
+- [Principal Software Engineer, Fullstack/Backend Technologies (UK Remote)](https://www.linkedin.com/jobs/view/4465853032/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Principal Software Engineer Backend Technologies, Platform (UK Remote)](https://www.linkedin.com/jobs/view/4436407066/) — Backend · Newcastle Upon Tyne, England, United Kingdom · remote · 🛂 visa sponsor
+
 ### [Accelero](https://jobs.winterchill.xyz/?employer=Accelero) (1)
 
 - [Head of Engineering](https://www.linkedin.com/jobs/view/4464097573/) — £70,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
@@ -95,10 +100,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4463522034/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Turnitin](https://jobs.winterchill.xyz/?employer=Turnitin) (1)
-
-- [Principal Software Engineer Backend Technologies, Platform (UK Remote)](https://www.linkedin.com/jobs/view/4436407066/) — Backend · Newcastle Upon Tyne, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [TyneStack Ltd](https://jobs.winterchill.xyz/?employer=TyneStack%20Ltd) (1)
 

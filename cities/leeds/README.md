@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**28 open roles** · updated 2026-09-13
+**27 open roles** · updated 2026-09-14
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -37,10 +37,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Quality Automation Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Quality-Automation-Engineer---Leeds_R00289257-1) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
-
-### [Brio Digital](https://jobs.winterchill.xyz/?employer=Brio%20Digital) (1)
-
-- [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-brio-digital-leeds) — Data Engineering · £500–£550/day · Leeds, West Yorkshire · hybrid
 
 ### [Eligo Recruitment](https://jobs.winterchill.xyz/?employer=Eligo%20Recruitment) (1)
 

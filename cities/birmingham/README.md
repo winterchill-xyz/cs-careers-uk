@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**55 open roles** · updated 2026-09-13
+**54 open roles** · updated 2026-09-14
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -33,17 +33,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Security Engineer](https://nttdata.jobs/vacancies/7102?utm_medium=phenom&utm_source=OneNTTCareerPage) — DevOps / SRE · Birmingham, United Kingdom · 🛂 visa sponsor
 - [IDAM Engineer](https://nttdata.jobs/vacancies/7094?utm_medium=phenom&utm_source=OneNTTCareerPage) — Security Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
 
+### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (4)
+
+- [Research Fellow - School of Biosciences - 107914 - Grade 7](https://www.linkedin.com/jobs/view/4465488649/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow - Department of Immunology and Immunotherapy - 107933 - Grade 7](https://www.linkedin.com/jobs/view/4464177194/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow in Atmospheric Science - School of Geography, Earth and Environmental Sciences - 107931 - Grade 7](https://www.linkedin.com/jobs/view/4464154924/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow (BCC-Superalloys) - School of Metallurgy and Materials - 96647 - Grade 7](https://www.linkedin.com/jobs/view/4460094964/) — £38,784/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (3)
 
 - [Software Engineer, Platform - Birmingham, United Kingdom](https://startup.jobs/software-engineer-platform-birmingham-united-kingdom-speechify-7954979) — Backend · Birmingham, England, United Kingdom
 - [Senior Software Engineer, Core Experiences - Birmingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-birmingham-united-kingdom-speechify-7954793) — Backend · Birmingham, England, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Birmingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-birmingham-united-kingdom-speechify-7960123) — Backend · Birmingham, England, United Kingdom
-
-### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (3)
-
-- [Research Fellow - Department of Immunology and Immunotherapy - 107933 - Grade 7](https://www.linkedin.com/jobs/view/4464177194/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Research Fellow in Atmospheric Science - School of Geography, Earth and Environmental Sciences - 107931 - Grade 7](https://www.linkedin.com/jobs/view/4464154924/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Research Fellow (BCC-Superalloys) - School of Metallurgy and Materials - 96647 - Grade 7](https://www.linkedin.com/jobs/view/4460094964/) — £38,784/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Autodesk](https://jobs.winterchill.xyz/?employer=Autodesk) (2)
 
@@ -99,10 +100,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software and Data Engineer](https://www.linkedin.com/jobs/view/4463818075/) — Data Engineering · £45,000–£55,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
-### [Harnham](https://jobs.winterchill.xyz/?employer=Harnham) (1)
-
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4465067051/) — Backend · Up to £90,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Immersum](https://jobs.winterchill.xyz/?employer=Immersum) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4462416048/) — Data Engineering · £53,000–£60,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -118,10 +115,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [OneAdvanced](https://jobs.winterchill.xyz/?employer=OneAdvanced) (1)
 
 - [VP Platform - Engineering & Architecture](https://www.linkedin.com/jobs/view/4462163278/) — DevOps / SRE · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Paritas Recruitment](https://jobs.winterchill.xyz/?employer=Paritas%20Recruitment) (1)
-
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4461181985/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (1)
 
