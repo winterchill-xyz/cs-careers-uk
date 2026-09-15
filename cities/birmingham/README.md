@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**54 open roles** · updated 2026-09-14
+**55 open roles** · updated 2026-09-15
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -18,8 +18,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (7)
 
-- [Senior Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Security-Engineer_JR_18220/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Security-Engineer_JR_18219/apply) — Security Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
+- [Senior Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Security-Engineer_JR_18220/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Test Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Test-Engineer_JR_18169/apply) — QA / Test Automation · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [AI Engineer Manager](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Principal-AI-Engineer_JR_17994/apply) — ML / AI Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Software-Engineer_JR_17793-1/apply) — Backend · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
@@ -76,6 +76,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Junior iGame Developer](https://www.linkedin.com/jobs/view/4464476169/) — Backend · £27,000–£30,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 - [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4462155896/) — Backend · £28,000–£30,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
+### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (2)
+
+- [Software Engineer PHP](https://www.linkedin.com/jobs/view/4463437802/) — £50,000–£60,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Full-Stack Developer](https://www.linkedin.com/jobs/view/4464513894/) — Backend · £50,000–£60,000/yr · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
+
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Cloud DevOps Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Birmingham/Cloud-DevOps-Engineer_R00347196) — DevOps / SRE · Birmingham, United Kingdom · hybrid · 🛂 visa sponsor
@@ -100,9 +105,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software and Data Engineer](https://www.linkedin.com/jobs/view/4463818075/) — Data Engineering · £45,000–£55,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
-### [Immersum](https://jobs.winterchill.xyz/?employer=Immersum) (1)
+### [Harnham](https://jobs.winterchill.xyz/?employer=Harnham) (1)
 
-- [Data Engineer](https://www.linkedin.com/jobs/view/4462416048/) — Data Engineering · £53,000–£60,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4465067051/) — Backend · Up to £90,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Mayflower Recruitment Ltd](https://jobs.winterchill.xyz/?employer=Mayflower%20Recruitment%20Ltd) (1)
 
@@ -131,10 +136,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
 
 - [Graduate Integration Developer, Birmingham](https://www.linkedin.com/jobs/view/4461666008/) — Backend · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
-
-- [Full-Stack Developer](https://www.linkedin.com/jobs/view/4464513894/) — Backend · £50,000–£60,000/yr · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
 

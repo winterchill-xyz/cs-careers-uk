@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**13 open roles** · updated 2026-09-14
+**14 open roles** · updated 2026-09-15
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -32,6 +32,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (1)
 
 - [Manager Software Engineering](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Cardiff-Global-Reach/Manager-Software-Engineering_R117550) — Data Engineering · £44,250–£84,000/yr (est.) · UK - Cardiff (Global Reach), United Kingdom · 🛂 visa sponsor
+
+### [M-KOPA](https://jobs.winterchill.xyz/?employer=M-KOPA) (1)
+
+- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4467268800/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (1)
 

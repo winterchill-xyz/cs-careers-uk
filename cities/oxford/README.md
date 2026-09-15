@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**46 open roles** · updated 2026-09-14
+**46 open roles** · updated 2026-09-15
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -104,9 +104,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Graduate Programmer](https://apply.workable.com/j/051D15CCA1/apply) — Embedded / Robotics · Oxford, United Kingdom · 🛂 visa sponsor
 
-### [Technify Talent](https://jobs.winterchill.xyz/?employer=Technify%20Talent) (1)
+### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
 
-- [C# .NET developer](https://www.linkedin.com/jobs/view/4460245725/) — Backend · Greater Oxford Area
+- [Graduate/Junior Software Engineer](https://www.linkedin.com/jobs/view/4464873986/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Tenth Revolution Group](https://jobs.winterchill.xyz/?employer=Tenth%20Revolution%20Group) (1)
 
