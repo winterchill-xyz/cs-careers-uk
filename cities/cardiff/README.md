@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**14 open roles** · updated 2026-09-15
+**15 open roles** · updated 2026-09-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -44,6 +44,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (1)
 
 - [Manager Software Engineering](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Cardiff-Global-Reach/Manager-Software-Engineering_R117550-1) — Data Engineering · £50,000–£71,000/yr (est.) · UK - Cardiff (Global Reach), United Kingdom · 🛂 visa sponsor
+
+### [RWS](https://jobs.winterchill.xyz/?employer=RWS) (1)
+
+- [Staff Engineer - Full Stack TypeScript Developer](https://www.linkedin.com/jobs/view/4456903598/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [Veriforce](https://jobs.winterchill.xyz/?employer=Veriforce) (1)
 

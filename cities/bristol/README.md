@@ -1,36 +1,36 @@
 # Software &amp; IT careers in Bristol
 
-**113 open roles** · updated 2026-09-15
+**112 open roles** · updated 2026-09-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Bristol)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (24)
+### [MBDA](https://jobs.winterchill.xyz/?employer=MBDA) (23)
 
 - [Software Security Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Security-Engineer_R30650) — Security Engineering · £74,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer - Data Distribution Service (RTI DDS)](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-DDS-Developer_R37853) — Embedded / Robotics · Up to £70,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineering Technical Team Lead](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineering-Technical-Team-Lead_R38902) — Backend · £55,000–£67,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Algorithm Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Senior-Algorithm-Engineer_R29775) — Embedded / Robotics · Up to £65,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineer_R35413) — Up to £60,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Algorithm Design Engineer - Navigation](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Algorithm-Design-Engineer---Navigation_R38759-4) — Embedded / Robotics · Up to £55,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Laser Direct Energy Weapon Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Laser-Direct-Energy-Weapon-Engineer_R39147-4) — £53,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Quality Assurance Engineer - Software Quality](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Principal-Product-Assurance-Engineer---Software_R24528-1) — QA / Test Automation · £40,000–£50,000/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Computer Vision and Artificial Intelligence Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Graduate-Programme-2027_R37479) — £31,900/yr · Bristol, United Kingdom · 🛂 visa sponsor
+- [Weapon Systems Algorithms Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Weapon-Systems-Algorithms-Engineer---Graduate-Programme-2027_R37707) — £31,900/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineer---Graduate-Programme-2027_R37737) — £31,900/yr · Bristol, United Kingdom · 🛂 visa sponsor
 - [Electromagnetic Compatibility Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Electromagnetic-Compatibility-Engineer---Graduate-Programme-2027_R37674) — £31,900/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Electro-Optic Seekers & Systems Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Electro-Optic-Seekers---Systems-Engineer---Graduate-Programme-2027_R37765) — £31,900/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Guidance, Control and Navigation Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Guidance--Control-and-Navigation-Engineer---Graduate-Programme-2027_R37820) — £31,900/yr · Bristol, United Kingdom · 🛂 visa sponsor
-- [Software Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Software-Engineer---Graduate-Programme-2027_R37737) — £31,900/yr · Bristol, United Kingdom · 🛂 visa sponsor
-- [Weapon Systems Algorithms Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Weapon-Systems-Algorithms-Engineer---Graduate-Programme-2027_R37707) — £31,900/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-- [Weapon Systems Algorithms Engineer - Summer Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Weapon-Systems-Algorithms-Engineer---Summer-Placement-2027_R37727) — £24,460/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-- [Propulsion Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Propulsion-Engineer---Undergraduate-Placement-2027_R37399) — £24,460/yr · Bristol, United Kingdom · 🛂 visa sponsor
-- [Weapon Systems Algorithms Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Weapon-Systems-Algorithms-Engineer---Undergraduate-Placement-2027_R37726) — £24,460/yr · Bristol, United Kingdom · 🛂 visa sponsor
 - [Weapon System Network Communications Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Weapon-System-Network-Communications-Engineer---Undergraduate-Placement-2027_R37263) — £24,460/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
-- [Electro-Optic Seekers & Systems Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Electro-Optic-Seekers---Systems-Engineer---Undergraduate-Placement-2027_R37767) — £24,460/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [Weapon Systems Algorithms Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Weapon-Systems-Algorithms-Engineer---Undergraduate-Placement-2027_R37726) — £24,460/yr · Bristol, United Kingdom · 🛂 visa sponsor
+- [Propulsion Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Propulsion-Engineer---Undergraduate-Placement-2027_R37399) — £24,460/yr · Bristol, United Kingdom · 🛂 visa sponsor
+- [Weapon Systems Algorithms Engineer - Summer Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Weapon-Systems-Algorithms-Engineer---Summer-Placement-2027_R37727) — £24,460/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 - [Guidance, Control and Navigation Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Guidance--Control-and-Navigation-Engineer---Undergraduate-Placement-2027_R37821) — £24,460/yr · Bristol, United Kingdom · 🛂 visa sponsor
-- …and 4 more at MBDA — see [`jobs.json`](jobs.json)
+- [Electro-Optic Seekers & Systems Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Electro-Optic-Seekers---Systems-Engineer---Undergraduate-Placement-2027_R37767) — £24,460/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [Aerodynamics Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bristol/Aerodynamics-Engineer---Undergraduate-Placement-2027_R38085) — £24,460/yr · Bristol, United Kingdom · 🛂 visa sponsor
+- …and 3 more at MBDA — see [`jobs.json`](jobs.json)
 
-### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (19)
+### [Graphcore](https://jobs.winterchill.xyz/?employer=Graphcore) (20)
 
 - [Software Engineer - Triton](https://job-boards.greenhouse.io/graphcore/jobs/8543115002) — Backend · Bristol, UK; Gdańsk, Pomeranian Voivodeship, Poland · 🛂 visa sponsor
 - [Senior Firmware Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8714548002) — Embedded / Robotics · Bristol, UK · 🛂 visa sponsor
@@ -45,6 +45,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Hardware System Test Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8605424002) — DevOps / SRE · Bristol, UK; Cambridge, UK · 🛂 visa sponsor
 - [Debug Validation Engineer — Multiple Levels](https://job-boards.greenhouse.io/graphcore/jobs/8597205002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Software Infrastructure Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8554852002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
+- [Staff Software Infrastructure Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8375821002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [PyTorch Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8491548002) — Backend · Bristol, UK · 🛂 visa sponsor
 - [Post Silicon Validation Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8223577002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
 - [Engineering Lab Infrastructure Lead](https://job-boards.greenhouse.io/graphcore/jobs/8539141002) — DevOps / SRE · Bristol, UK · 🛂 visa sponsor
@@ -61,19 +62,24 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead SQL Developer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Principal-SQL-Developer_R0005378) — Platform / Infrastructure · GB - Bristol - Coldharbour Lane, United Kingdom · remote · 🛂 visa sponsor
 - [Senior DevSecOps Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Bristol---Coldharbour-Lane/Senior-DevSecOps-Engineer_R0005323) — DevOps / SRE · GB - Bristol - Coldharbour Lane, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Fractile](https://jobs.winterchill.xyz/?employer=Fractile) (4)
-
-- [Lead PPA Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4966688101) — Bristol, England · 🛂 visa sponsor
-- [Rust Software Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4763161101) — Backend · Bristol · hybrid · 🛂 visa sponsor
-- [ML Runtime Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4725124101) — Backend · Bristol · hybrid · 🛂 visa sponsor
-- [Developer Operations / DevOps — Bazel Monorepo](https://job-boards.eu.greenhouse.io/fractile/jobs/4562362101) — DevOps / SRE · Bristol · hybrid · 🛂 visa sponsor
-
 ### [Hargreaves Lansdown](https://jobs.winterchill.xyz/?employer=Hargreaves%20Lansdown) (4)
 
 - [Software Enginner](https://www.linkedin.com/jobs/view/4463969146/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineering Manager (Active Savings)](https://www.linkedin.com/jobs/view/4461883106/) — Bristol, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4463971123/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer - Full-Stack (React)](https://www.linkedin.com/jobs/view/4459960216/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
+
+### [Babcock International Group](https://jobs.winterchill.xyz/?employer=Babcock%20International%20Group) (3)
+
+- [Software Development Graduate Programme](https://www.linkedin.com/jobs/view/4465553626/) — Backend · £35,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineering Graduate Programme](https://www.linkedin.com/jobs/view/4464762105/) — £35,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
+- [Head of Engineering](https://www.linkedin.com/jobs/view/4462211453/) — Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Fractile](https://jobs.winterchill.xyz/?employer=Fractile) (3)
+
+- [Rust Software Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4763161101) — Backend · Bristol · hybrid · 🛂 visa sponsor
+- [ML Runtime Engineer](https://job-boards.eu.greenhouse.io/fractile/jobs/4725124101) — Backend · Bristol · hybrid · 🛂 visa sponsor
+- [Developer Operations / DevOps — Bazel Monorepo](https://job-boards.eu.greenhouse.io/fractile/jobs/4562362101) — DevOps / SRE · Bristol · hybrid · 🛂 visa sponsor
 
 ### [IC Resources](https://jobs.winterchill.xyz/?employer=IC%20Resources) (3)
 
@@ -86,16 +92,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Windows/Desktop Applications - Bristol, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-bristol-united-kingdom-speechify-7954855) — Backend · Bristol, England, United Kingdom
 - [Senior Software Engineer, Core Experiences - Bristol, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-bristol-united-kingdom-speechify-7946943) — Backend · Bristol, England, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Bristol, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-bristol-united-kingdom-speechify-7947063) — Backend · Bristol, England, United Kingdom
-
-### [Airbus](https://jobs.winterchill.xyz/?employer=Airbus) (2)
-
-- [Digital Wing Engineering Placement (12.5 months)](https://www.linkedin.com/jobs/view/4462237263/) — £24,246/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
-- [AGGP2027 - Graduate Flight Physics Capabilities](https://www.linkedin.com/jobs/view/4459562062/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
-
-### [Babcock International Group](https://jobs.winterchill.xyz/?employer=Babcock%20International%20Group) (2)
-
-- [Software Engineering Graduate Programme](https://www.linkedin.com/jobs/view/4464762105/) — £35,000/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
-- [Head of Engineering](https://www.linkedin.com/jobs/view/4462211453/) — Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (2)
 
@@ -117,6 +113,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Engineer - Bristol, UK (Hybrid)](https://www.linkedin.com/jobs/view/4465225333/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 - [Senior Engineering Manager – Data Engineering - Bristol, UK (Hybrid)](https://www.linkedin.com/jobs/view/4465230269/) — Data Engineering · Bristol, England, United Kingdom · 🛂 visa sponsor
 
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (2)
+
+- [Senior AI Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Senior-Data-Scientist_136493) — Backend · £72,702–£80,780/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+- [AI Platform Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/AI-Platform-Engineer_157406-2) — Data Engineering · £48,987–£54,430/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [One Big Circle Ltd](https://jobs.winterchill.xyz/?employer=One%20Big%20Circle%20Ltd) (2)
 
 - [Junior Application Software Engineer](https://www.linkedin.com/jobs/view/4401631621/) — Backend · £25,000–£32,000/yr · Greater Bristol Area, United Kingdom · 🛂 visa sponsor
@@ -132,6 +133,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Mid Frontend Software Engineer](https://www.linkedin.com/jobs/view/4463907575/) — Backend · Bristol, England, United Kingdom · 🛂 visa sponsor
 - [Engineering Manager](https://www.linkedin.com/jobs/view/4459952291/) — Engineering Management · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Sony Interactive Entertainment](https://jobs.winterchill.xyz/?employer=Sony%20Interactive%20Entertainment) (2)
+
+- [Software Engineer in Test, ToolChain QE](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6186536004) — Backend · United Kingdom, Bristol · 🛂 visa sponsor
+- [Software Engineer, Quality Engineering](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6121689004) — Developer Experience · United Kingdom, Bristol · 🛂 visa sponsor
+
 ### [0215 Rosenxt Creation Center GmbH](https://jobs.winterchill.xyz/?employer=0215%20Rosenxt%20Creation%20Center%20GmbH) (1)
 
 - [Robotics Software Engineering Manager](https://startup.jobs/robotics-software-engineering-manager-0215-rosenxt-creation-center-8917279) — Embedded / Robotics · Bristol, England, United Kingdom · 🛂 visa sponsor
@@ -144,13 +150,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4464761645/) — Backend · £60,000–£67,500/yr · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
+### [Airbus](https://jobs.winterchill.xyz/?employer=Airbus) (1)
+
+- [Digital Wing Engineering Placement (12.5 months)](https://www.linkedin.com/jobs/view/4462237263/) — £24,246/yr · Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (1)
 
 - [Senior Platform Engineer (3 Month FTC)](https://apply.workable.com/j/093B780707/apply) — DevOps / SRE · Bristol, United Kingdom · 🛂 visa sponsor
-
-### [Anson McCade](https://jobs.winterchill.xyz/?employer=Anson%20McCade) (1)
-
-- [Principal AI Engineer](https://www.linkedin.com/jobs/view/4464637047/) — Backend · Bristol, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Cavendish Nuclear](https://jobs.winterchill.xyz/?employer=Cavendish%20Nuclear) (1)
 
@@ -159,10 +165,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Comply365](https://jobs.winterchill.xyz/?employer=Comply365) (1)
 
 - [Senior Mobile Software Engineer – iOS](https://startup.jobs/senior-mobile-software-engineer-ios-comply365-8270274) — Backend · Bristol, England, United Kingdom
-
-### [DELTACLASS TECHNOLOGY SOLUTIONS LIMITED](https://jobs.winterchill.xyz/?employer=DELTACLASS%20TECHNOLOGY%20SOLUTIONS%20LIMITED) (1)
-
-- [Sr Data Engineer with GCP(Google Cloud Platform) Exp](https://www.linkedin.com/jobs/view/4462218378/) — Data Engineering · City Of Bristol, England, United Kingdom · 🛂 visa sponsor
 
 ### [Harvey Nash](https://jobs.winterchill.xyz/?employer=Harvey%20Nash) (1)
 
@@ -184,10 +186,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4464868919/) — Backend · £80,000–£125,000/yr · Greater Bristol Area, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Jacobs](https://jobs.winterchill.xyz/?employer=Jacobs) (1)
-
-- [Software Developer (Full Stack/Front or Back End)](https://www.linkedin.com/jobs/view/4438679452/) — Backend · Bristol, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Jump Trading](https://jobs.winterchill.xyz/?employer=Jump%20Trading) (1)
 
 - [Campus ASIC Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974837) — Backend · Bristol · 🛂 visa sponsor
@@ -195,10 +193,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Just Eat Takeaway.com](https://jobs.winterchill.xyz/?employer=Just%20Eat%20Takeaway.com) (1)
 
 - [Android Engineer](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Bristol-Office/Android-Engineer_R_051535) — Backend · Bristol Office, United Kingdom · 🛂 visa sponsor
-
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
-
-- [Senior AI Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Senior-Data-Scientist_136493) — Backend · £72,702–£80,780/yr · Bristol, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [MARSS](https://jobs.winterchill.xyz/?employer=MARSS) (1)
 
@@ -244,13 +238,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer](https://jobs.lever.co/scottlogic/46628ab4-a3ec-45e7-98a4-921cdd57a3ca) — Backend · Bristol · 🛂 visa sponsor
 
+### [Shiptheory](https://jobs.winterchill.xyz/?employer=Shiptheory) (1)
+
+- [PHP Developer](https://www.linkedin.com/jobs/view/4467976602/) — City Of Bristol, England, United Kingdom · 🛂 visa sponsor
+
 ### [Somerset Bridge Group](https://jobs.winterchill.xyz/?employer=Somerset%20Bridge%20Group) (1)
 
 - [Data Engineer](https://www.linkedin.com/jobs/view/4461179713/) — Data Engineering · £53,000–£67,000/yr · Bristol, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Sony Interactive Entertainment](https://jobs.winterchill.xyz/?employer=Sony%20Interactive%20Entertainment) (1)
-
-- [Software Engineer, Quality Engineering](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6121689004) — Developer Experience · United Kingdom, Bristol · 🛂 visa sponsor
 
 ### [University of Bristol](https://jobs.winterchill.xyz/?employer=University%20of%20Bristol) (1)
 

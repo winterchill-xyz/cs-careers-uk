@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**27 open roles** · updated 2026-09-15
+**28 open roles** · updated 2026-09-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -45,10 +45,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Engineering Lead (Cryptography lab))](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Engineering-Lead--Cryptography-lab--_159018-1) — Platform / Infrastructure · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Marks Sattin](https://jobs.winterchill.xyz/?employer=Marks%20Sattin) (1)
-
-- [Java Developer Leeds](https://www.linkedin.com/jobs/view/4462213103/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-
 ### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (1)
 
 - [Technical Lead - Agentic AI](https://www.linkedin.com/jobs/view/4463962863/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
@@ -57,13 +53,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Novuna](https://jobs.winterchill.xyz/?employer=Novuna) (1)
-
-- [Developer](https://www.linkedin.com/jobs/view/4451910829/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Opus Recruitment Solutions](https://jobs.winterchill.xyz/?employer=Opus%20Recruitment%20Solutions) (1)
 
 - [Principal Developer](https://www.linkedin.com/jobs/view/4460948499/) — Backend · Up to £115,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [Oscar Technology](https://jobs.winterchill.xyz/?employer=Oscar%20Technology) (1)
+
+- [Business Intelligence Developer](https://dataengineeringjobs.co.uk/jobs/business-intelligence-developer-oscar-technology-leeds) — Data Engineering · £40,000–£50,000/yr · Leeds, England · remote
+
+### [Public Sector Resourcing](https://jobs.winterchill.xyz/?employer=Public%20Sector%20Resourcing) (1)
+
+- [Senior Data Engineer (Informatica)](https://www.linkedin.com/jobs/view/4465091020/) — Data Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (1)
 
@@ -72,6 +72,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (1)
 
 - [Platform Engineer (Senior/Lead)](https://jobs.lever.co/scottlogic/32128246-4821-410c-8a6a-3417b0b0ee7c) — Backend · Leeds · remote · 🛂 visa sponsor
+
+### [Simpro Software](https://jobs.winterchill.xyz/?employer=Simpro%20Software) (1)
+
+- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4467727470/) — DevOps / SRE · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Syntax Consultancy](https://jobs.winterchill.xyz/?employer=Syntax%20Consultancy) (1)
 

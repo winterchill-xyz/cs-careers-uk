@@ -1,12 +1,12 @@
 # Software &amp; IT careers in Belfast
 
-**96 open roles** · updated 2026-09-15
+**97 open roles** · updated 2026-09-16
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Citi](https://jobs.winterchill.xyz/?employer=Citi) (19)
+### [Citi](https://jobs.winterchill.xyz/?employer=Citi) (18)
 
 - [KDB+ Software Engineer - Vice President](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/KDB--Software-Engineer---Vice-President_26990813) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Java Developer (VP)](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Lead-Java-Developer--VP-_26990518) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
@@ -15,7 +15,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Developer - Equity Derivatives Tech (VP)](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Senior-Developer---Equity-Derivatives-Tech--VP-_26985513) — Backend · Belfast  United Kingdom, United Kingdom · 🛂 visa sponsor
 - [Full Stack Developer - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Full-Stack-Developer---Assistant-Vice-President_26968456) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer (Java) - Fixed Income (AVP)](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Senior-Software-Engineer--Java----Fixed-Income--VP-_26990710) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Automation Engineer](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Senior-Automation-Engineer_26986736) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Front-End Web Developer (AVP)](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Senior-Front-End-Web-Developer--AVP-_26984985-1) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Citi Developer Concierge – Application Support Technical Specialist - Assistant Vice President](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Citi-Developer-Concierge---Application-Support-Technical-Specialist---Assistant-Vice-President_26985897) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Java Developer (AVP)](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Java-Developer--AVP-_26973537) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
@@ -28,46 +27,56 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java/Kotlin Software Engineer – AVP - (Developer Enablement)](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Java-Kotlin-Software-Engineer---AVP----Developer-Enablement-_26953642) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 - [GenAI Full-Stack Engineer Lead](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Engineering-Lead---SVP_26955324) — Backend · Belfast  United Kingdom, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (13)
+### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (11)
 
 - [Forward Deployed Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Forward-Deployed-Engineer_JR_18330/apply) — Solutions / Customer Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead D365 CE Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-D365-CE-Engineer_JR_18245/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
-- [Lead Data Scientist - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Data-Scientist---Workday-Products_JR_18098/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [AI Engineer - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/AI-Engineer---Workday-Products_JR_18096/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
+- [Lead Data Scientist - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Data-Scientist---Workday-Products_JR_18098/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Senior Data Scientist - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Data-Scientist---Workday-Products_JR_18097/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer (C#/.NET)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Software-Engineer--C--NET-_JR_18058-1/apply) — Backend · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead AI Engineer - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-AI-Engineer_JR_17949-1/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Senior AI Engineer - Workday Products](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-AI-Engineer_JR_17950/apply) — Data Engineering · Belfast, United Kingdom · 🛂 visa sponsor
-- [Senior Test Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Test-Engineer--Healthcare-_JR_17670/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
-- [Cloud Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Cloud-Security-Engineer_JR_16812/apply) — DevOps / SRE · Belfast, United Kingdom · 🛂 visa sponsor
+- [Senior Test Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Senior-Test-Engineer--Public-_JR_17644/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Workday EDM Forward Deployed Engineer (HCM Consultant)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Workday-EDM-Forward-Deployed-Engineer--HCM-Consultant-r_JR_17889/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Dynamics 365 Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Dynamics-365-Engineer_JR_17712/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 - [Lead Power Platform Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Belfast/Lead-Power-Platform-Engineer_JR_17695/apply) — Enterprise / Business Systems Engineering · Belfast, United Kingdom · 🛂 visa sponsor
 
-### [Proofpoint](https://jobs.winterchill.xyz/?employer=Proofpoint) (6)
+### [Olo](https://jobs.winterchill.xyz/?employer=Olo) (9)
 
-- [Sr. Software Engineer (Python)](https://startup.jobs/sr-software-engineer-python-proofpoint-10060806) — Belfast, Northern Ireland, United Kingdom
-- [Sr. Software Engineer (Java, Go)](https://startup.jobs/sr-software-engineer-java-go-proofpoint-10068648) — Belfast, Northern Ireland, United Kingdom
-- [Associate Software Engineer - AI Agents (Satori)](https://startup.jobs/associate-software-engineer-ai-agents-satori-proofpoint-9827259) — Belfast, Northern Ireland, United Kingdom
-- [Software Engineer - AI Agents (Satori)](https://startup.jobs/software-engineer-ai-agents-satori-proofpoint-9827260) — Belfast, Northern Ireland, United Kingdom
-- [Staff Full-Stack Software Engineer - Mission Control (Satori)](https://startup.jobs/staff-full-stack-software-engineer-mission-control-satori-proofpoint-9827261) — Belfast, Northern Ireland, United Kingdom
-- [Staff Software Engineer - AI Agents (Satori)](https://startup.jobs/staff-software-engineer-ai-agents-satori-proofpoint-9827262) — Belfast, Northern Ireland, United Kingdom
-
-### [Olo](https://jobs.winterchill.xyz/?employer=Olo) (5)
-
+- [Mobile Software Engineer (iOS) - Olo App](https://startup.jobs/mobile-software-engineer-ios-olo-app-olo-10064371) — Belfast, Northern Ireland, United Kingdom
+- [Senior Mobile Software Engineer (iOS) - Olo App](https://startup.jobs/senior-mobile-software-engineer-ios-olo-app-olo-10064373) — Belfast, Northern Ireland, United Kingdom
+- [Mobile Software Engineer (Android) - Olo App](https://startup.jobs/mobile-software-engineer-android-olo-app-olo-10064370) — Belfast, Northern Ireland, United Kingdom
+- [Senior Mobile Software Engineer (Android) - Olo App](https://startup.jobs/senior-mobile-software-engineer-android-olo-app-olo-10064372) — Belfast, Northern Ireland, United Kingdom
 - [Fullstack Software Engineer - Catering](https://startup.jobs/fullstack-software-engineer-catering-olo-9776185) — Belfast, Northern Ireland, United Kingdom
 - [Software Engineer - Core](https://startup.jobs/software-engineer-core-olo-8745067) — Backend · Belfast, Northern Ireland, United Kingdom
 - [Senior Software Engineer - Core](https://startup.jobs/senior-software-engineer-core-olo-8728549) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Software Engineer II - In-Store](https://startup.jobs/software-engineer-ii-in-store-olo-7794416) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Senior Software Engineer - Merchant Solutions](https://startup.jobs/senior-software-engineer-merchant-solutions-olo-7950553) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 
-### [TP ICAP](https://jobs.winterchill.xyz/?employer=TP%20ICAP) (5)
+### [TP ICAP](https://jobs.winterchill.xyz/?employer=TP%20ICAP) (6)
 
+- [Senior DevOps Engineer](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-DevOps-Engineer_R5836) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Engineer (Trade Surveillance)](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Data-Engineer--Trade-Surveillance-_R4992) — Data Engineering · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Software-Engineer_R4703) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer (Full Stack)](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/UK---City-Quays-3---Belfast/Senior-Engineer--Full-Stack-_R5298-2) — Backend · UK - City Quays 3 - Belfast, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer (Full Stack)](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-Engineer--Full-Stack-_R5298-2) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 - [QA Engineer](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-QA-Engineer_R5498) — DevOps / SRE · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer (Back-End)](https://tp.wd107.myworkdayjobs.com/TP-ICAP/job/Belfast/Senior-Software-Engineer--Back-End-_R5500) — Backend · Belfast, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Proofpoint](https://jobs.winterchill.xyz/?employer=Proofpoint) (5)
+
+- [Sr. Software Engineer (Python)](https://startup.jobs/sr-software-engineer-python-proofpoint-10060806) — Belfast, Northern Ireland, United Kingdom
+- [Sr. Software Engineer (Java, Go)](https://startup.jobs/sr-software-engineer-java-go-proofpoint-10068648) — Belfast, Northern Ireland, United Kingdom
+- [Associate Software Engineer - AI Agents (Satori)](https://startup.jobs/associate-software-engineer-ai-agents-satori-proofpoint-9827259) — Belfast, Northern Ireland, United Kingdom
+- [Software Engineer - AI Agents (Satori)](https://startup.jobs/software-engineer-ai-agents-satori-proofpoint-9827260) — Belfast, Northern Ireland, United Kingdom
+- [Staff Full-Stack Software Engineer - Mission Control (Satori)](https://startup.jobs/staff-full-stack-software-engineer-mission-control-satori-proofpoint-9827261) — Belfast, Northern Ireland, United Kingdom
+
+### [Symphony Communication Services](https://jobs.winterchill.xyz/?employer=Symphony%20Communication%20Services) (5)
+
+- [Lead Software Engineer, Back-End](https://startup.jobs/lead-software-engineer-back-end-symphony-communication-servi-10062669) — £65,000–£80,000/yr · Belfast, Northern Ireland, United Kingdom
+- [Senior Systems Software Engineer](https://startup.jobs/senior-systems-software-engineer-symphony-communication-servi-8345029) — Backend · £57,000–£70,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer, Media](https://startup.jobs/senior-software-engineer-media-symphony-communication-servi-8771339) — Backend · £55,000–£65,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer Back-End](https://startup.jobs/software-engineer-back-end-symphony-communication-servi-8345031) — Backend · £45,000–£60,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer in Test (Back-End)](https://startup.jobs/software-engineer-in-test-back-end-symphony-communication-servi-8345022) — Backend · £40,000–£50,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
 
@@ -75,19 +84,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Windows/Desktop Applications - Belfast, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-belfast-united-kingdom-speechify-7947002) — Backend · Belfast, Northern Ireland, United Kingdom
 - [Senior Software Engineer, Core Experiences - Belfast, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-belfast-united-kingdom-speechify-7982490) — Backend · Belfast, Northern Ireland, United Kingdom · remote
 - [Software Engineer, Data Infrastructure & Acquisition - Belfast, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-belfast-united-kingdom-speechify-7982607) — Backend · Belfast, Northern Ireland, United Kingdom
-
-### [Symphony Communication Services](https://jobs.winterchill.xyz/?employer=Symphony%20Communication%20Services) (4)
-
-- [Senior Systems Software Engineer](https://startup.jobs/senior-systems-software-engineer-symphony-communication-servi-8345029) — Backend · £57,000–£70,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Senior Software Engineer, Media](https://startup.jobs/senior-software-engineer-media-symphony-communication-servi-8771339) — Backend · £55,000–£65,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer Back-End](https://startup.jobs/software-engineer-back-end-symphony-communication-servi-8345031) — Backend · £45,000–£60,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer in Test (Back-End)](https://startup.jobs/software-engineer-in-test-back-end-symphony-communication-servi-8345022) — Backend · £40,000–£50,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-
-### [EY](https://jobs.winterchill.xyz/?employer=EY) (3)
-
-- [Senior Consultant - Full-stack Developer - DE - Technology Consulting - UKI - Belfast](https://careers.ey.com/ey/job/Belfast-Senior-Consultant-Full-stack-Developer-DE-Technology-Consulting-UKI-Belfast-BT2-7DT/1403976233/) — Backend · Belfast · 🛂 visa sponsor
-- [Manager - Full-stack Developer - DE - Technology Consulting - UKI - Belfast](https://careers.ey.com/ey/job/Belfast-Manager-Full-stack-Developer-DE-Technology-Consulting-UKI-Belfast-BT2-7DT/1264068201/) — Backend · Belfast · 🛂 visa sponsor
-- [Consultant - Junior Java Engineer - DE - TC - UKI - Belfast](https://careers.ey.com/ey/job/Belfast-Consultant-Junior-Java-Engineer-DE-TC-UKI-Belfast-BT2-7DT/1388426433/) — Backend · Belfast · 🛂 visa sponsor
 
 ### [Symphony](https://jobs.winterchill.xyz/?employer=Symphony) (3)
 
@@ -110,6 +106,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer](https://startup.jobs/senior-software-engineer-everquote-2-9950499) — Belfast, Northern Ireland, United Kingdom
 - [Software Engineer II, Security](https://startup.jobs/software-engineer-ii-security-everquote-2-7950061) — Backend · Belfast, Northern Ireland, United Kingdom
+
+### [EY](https://jobs.winterchill.xyz/?employer=EY) (2)
+
+- [Senior Consultant - Full-stack Developer - DE - Technology Consulting - UKI - Belfast](https://careers.ey.com/ey/job/Belfast-Senior-Consultant-Full-stack-Developer-DE-Technology-Consulting-UKI-Belfast-BT2-7DT/1403976233/) — Backend · Belfast · 🛂 visa sponsor
+- [Manager - Full-stack Developer - DE - Technology Consulting - UKI - Belfast](https://careers.ey.com/ey/job/Belfast-Manager-Full-stack-Developer-DE-Technology-Consulting-UKI-Belfast-BT2-7DT/1264068201/) — Backend · Belfast · 🛂 visa sponsor
 
 ### [Instil](https://jobs.winterchill.xyz/?employer=Instil) (2)
 
