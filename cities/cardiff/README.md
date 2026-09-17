@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**15 open roles** · updated 2026-09-16
+**15 open roles** · updated 2026-09-17
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -21,6 +21,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4463317866/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
+### [CPS Group](https://jobs.winterchill.xyz/?employer=CPS%20Group) (1)
+
+- [QA Engineer](https://dataengineeringjobs.co.uk/jobs/qa-engineer-cps-group-cardiff) — £40,000–£50,000/yr · Cardiff, South Glamorgan · hybrid
+
 ### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
 
 - [Product Engineer II – ArcGIS Arcade](https://www.linkedin.com/jobs/view/4438225591/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -35,11 +39,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [M-KOPA](https://jobs.winterchill.xyz/?employer=M-KOPA) (1)
 
-- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4467268800/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Randstad Technologies Recruitment](https://jobs.winterchill.xyz/?employer=Randstad%20Technologies%20Recruitment) (1)
-
-- [Data Engineer](https://dataengineeringjobs.co.uk/jobs/data-engineer-randstad-technologies-recruitment-cardiff) — Backend · £16–£19/hr · Cardiff, South Glamorgan
+- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4467268800/) — Backend · Cardiff, Wales, United Kingdom · remote · 🛂 visa sponsor
 
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (1)
 
@@ -47,7 +47,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [RWS](https://jobs.winterchill.xyz/?employer=RWS) (1)
 
-- [Staff Engineer - Full Stack TypeScript Developer](https://www.linkedin.com/jobs/view/4456903598/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
+- [Staff Engineer - Full Stack TypeScript Developer](https://www.linkedin.com/jobs/view/4456903598/) — Backend · Cardiff, Wales, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Veriforce](https://jobs.winterchill.xyz/?employer=Veriforce) (1)
 

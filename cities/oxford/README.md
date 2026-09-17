@@ -1,18 +1,17 @@
 # Software &amp; IT careers in Oxford
 
-**50 open roles** · updated 2026-09-16
+**50 open roles** · updated 2026-09-17
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (9)
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (8)
 
 - [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4464515681/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464511764/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464521579/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464528389/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Software Engineer – Data Platforms](https://www.linkedin.com/jobs/view/4455645210/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4368093625/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -21,7 +20,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (6)
 
 - [Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4467976106/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4467705950/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4467705950/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Fluidic System Engineer - Pathogen](https://www.linkedin.com/jobs/view/4467701909/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4464620773/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464623843/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -79,6 +78,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer (Android)](https://job-boards.greenhouse.io/tripadvisor/jobs/8108861) — Backend · Oxford, United Kingdom · remote · 🛂 visa sponsor
 - [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
+
+### [AIOI R&D Lab - Oxford](https://jobs.winterchill.xyz/?employer=AIOI%20R%26D%20Lab%20-%20Oxford) (1)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467761300/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Archangel Lightworks](https://jobs.winterchill.xyz/?employer=Archangel%20Lightworks) (1)
 

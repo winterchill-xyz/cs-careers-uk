@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**28 open roles** · updated 2026-09-16
+**26 open roles** · updated 2026-09-17
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -24,22 +24,23 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Mobile Engineer - Kotlin, iCasino - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4208336009) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III, Trading - FBG](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4290936009) — Backend · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [ITSS Recruitment](https://jobs.winterchill.xyz/?employer=ITSS%20Recruitment) (2)
+### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (2)
 
-- [Lead Data Engineer](https://dataengineeringjobs.co.uk/jobs/lead-data-engineer-itss-recruitment-leeds) — Data Engineering · £70,000–£85,000/yr · Leeds, West Yorkshire · hybrid
-- [Lead SQL Developer](https://dataengineeringjobs.co.uk/jobs/lead-sql-developer-itss-recruitment-leeds) — Data Engineering · £65,000–£75,000/yr · Leeds, England · hybrid
+- [Software Engineer (CI/CD)](https://jobs.lever.co/scottlogic/3226a865-fba6-4e9b-b113-74e277cb9a5c) — Backend · Leeds · remote · 🛂 visa sponsor
+- [Platform Engineer (Senior/Lead)](https://jobs.lever.co/scottlogic/32128246-4821-410c-8a6a-3417b0b0ee7c) — Backend · Leeds · remote · 🛂 visa sponsor
+
+### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (2)
+
+- [Clinical Research Fellow in Scleroderma](https://www.linkedin.com/jobs/view/4467074778/) — Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow in Machine Learning Assisted Choice Modelling](https://www.linkedin.com/jobs/view/4467427294/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Quality Automation Engineer - Leeds](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Leeds/Quality-Automation-Engineer---Leeds_R00289257-1) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 
-### [Eligo Recruitment](https://jobs.winterchill.xyz/?employer=Eligo%20Recruitment) (1)
+### [ITSS Recruitment](https://jobs.winterchill.xyz/?employer=ITSS%20Recruitment) (1)
 
-- [Fabric Data Engineer](https://dataengineeringjobs.co.uk/jobs/fabric-data-engineer-eligo-recruitment-leeds) — Data Engineering · £50,000–£55,000/yr · Leeds, West Yorkshire · hybrid
-
-### [Inara](https://jobs.winterchill.xyz/?employer=Inara) (1)
-
-- [Principal Engineer](https://www.linkedin.com/jobs/view/4462405604/) — Backend · £90,000–£115,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead SQL Developer](https://dataengineeringjobs.co.uk/jobs/lead-sql-developer-itss-recruitment-leeds) — Data Engineering · £65,000–£75,000/yr · Leeds, England · hybrid
 
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
 
@@ -69,21 +70,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
-### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (1)
-
-- [Platform Engineer (Senior/Lead)](https://jobs.lever.co/scottlogic/32128246-4821-410c-8a6a-3417b0b0ee7c) — Backend · Leeds · remote · 🛂 visa sponsor
-
 ### [Simpro Software](https://jobs.winterchill.xyz/?employer=Simpro%20Software) (1)
 
-- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4467727470/) — DevOps / SRE · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4467727470/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Syntax Consultancy](https://jobs.winterchill.xyz/?employer=Syntax%20Consultancy) (1)
 
 - [Data Engineer (SC Cleared)](https://dataengineeringjobs.co.uk/jobs/data-engineer-sc-cleared-syntax-consultancy-leeds) — Data Engineering · £500–£600/day · Leeds, West Yorkshire · hybrid
-
-### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (1)
-
-- [Research Fellow in Machine Learning Assisted Choice Modelling](https://www.linkedin.com/jobs/view/4467427294/) — ML / AI Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Vintage.com](https://jobs.winterchill.xyz/?employer=Vintage.com) (1)
 
@@ -92,10 +85,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [WRK digital](https://jobs.winterchill.xyz/?employer=WRK%20digital) (1)
 
 - [Principal Software Engineer](https://www.linkedin.com/jobs/view/4464459647/) — Backend · £90,000–£110,000/yr · Greater Leeds Area · hybrid · 🛂 visa sponsor
-
-### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (1)
-
-- [Technical Design Lead (LCDAE) - Energy](https://www.linkedin.com/jobs/view/4429980294/) — Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**
