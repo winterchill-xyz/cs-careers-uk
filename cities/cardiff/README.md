@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**15 open roles** · updated 2026-09-17
+**12 open roles** · updated 2026-09-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -17,21 +17,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Platform - Cardiff, United Kingdom](https://startup.jobs/software-engineer-platform-cardiff-united-kingdom-speechify-7954983) — Backend · Cardiff, Wales, United Kingdom
 - [Senior Software Engineer, Windows/Desktop Applications - Cardiff, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-cardiff-united-kingdom-speechify-7960063) — Backend · Cardiff, Wales, United Kingdom
 
-### [Accelero](https://jobs.winterchill.xyz/?employer=Accelero) (1)
-
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4463317866/) — Backend · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
 ### [CPS Group](https://jobs.winterchill.xyz/?employer=CPS%20Group) (1)
 
 - [QA Engineer](https://dataengineeringjobs.co.uk/jobs/qa-engineer-cps-group-cardiff) — £40,000–£50,000/yr · Cardiff, South Glamorgan · hybrid
-
-### [Esri](https://jobs.winterchill.xyz/?employer=Esri) (1)
-
-- [Product Engineer II – ArcGIS Arcade](https://www.linkedin.com/jobs/view/4438225591/) — Backend · £37,080–£58,092/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
-
-### [Hodge](https://jobs.winterchill.xyz/?employer=Hodge) (1)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4463274909/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (1)
 

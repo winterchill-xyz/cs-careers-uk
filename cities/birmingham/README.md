@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**50 open roles** · updated 2026-09-17
+**48 open roles** · updated 2026-09-18
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -51,11 +51,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Education](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer--Education_26WD99981-1) — Backend · Birmingham, GBR, United Kingdom · 🛂 visa sponsor
 - [Software Engineer C++](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1) — Backend · Birmingham, GBR, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Birmingham City University](https://jobs.winterchill.xyz/?employer=Birmingham%20City%20University) (2)
-
-- [Professor of Smart Manufacturing](https://www.linkedin.com/jobs/view/4463008568/) — £70,564–£79,840/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Research Fellow in Computer Vision and ML - 9-month fixed term contract](https://www.linkedin.com/jobs/view/4463922449/) — £39,002–£44,131/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
 
 - [Senior Airflow/ Cloud Engineer (Workload Automation)](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-Airflow--Cloud-Engineer--Workload-Automation-_R0441573-1) — DevOps / SRE · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
@@ -70,25 +65,29 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Cloud DevOps Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Birmingham/Cloud-DevOps-Engineer_R00347196) — DevOps / SRE · Birmingham, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Applause IT Recruitment](https://jobs.winterchill.xyz/?employer=Applause%20IT%20Recruitment) (1)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4468651628/) — Backend · £45,000–£52,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
 ### [Autodesk Canada Co.](https://jobs.winterchill.xyz/?employer=Autodesk%20Canada%20Co.) (1)
 
 - [Software Engineer C++](https://startup.jobs/software-engineer-c-autodesk-canada-co-8786897) — Backend · Birmingham, England, United Kingdom
 
-### [Compass Community](https://jobs.winterchill.xyz/?employer=Compass%20Community) (1)
+### [Birmingham City University](https://jobs.winterchill.xyz/?employer=Birmingham%20City%20University) (1)
 
-- [Senior BI Developer](https://www.linkedin.com/jobs/view/4461938951/) — Data Engineering · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow in Computer Vision and ML - 9-month fixed term contract](https://www.linkedin.com/jobs/view/4463922449/) — £39,002–£44,131/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Cygnet](https://jobs.winterchill.xyz/?employer=Cygnet) (1)
+### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
 
-- [Data Engineer – Hybrid](https://www.linkedin.com/jobs/view/4460651184/) — Data Engineering · Up to £60,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Digital Waffle](https://jobs.winterchill.xyz/?employer=Digital%20Waffle) (1)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4464620203/) — Backend · Up to £55,000/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-birmingham) — Data Engineering · £45,000–£55,000/yr · Birmingham, England · remote
 
 ### [Marsh](https://jobs.winterchill.xyz/?employer=Marsh) (1)
 
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4458239878/) — Backend · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Mayflex](https://jobs.winterchill.xyz/?employer=Mayflex) (1)
+
+- [Head of Technology and Product Engineering](https://www.linkedin.com/jobs/view/4466256404/) — Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [nology](https://jobs.winterchill.xyz/?employer=nology) (1)
 
@@ -121,10 +120,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (1)
 
 - [Junior iGame Developer](https://www.linkedin.com/jobs/view/4464476169/) — Backend · £27,000–£30,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
-### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
-
-- [Graduate Integration Developer, Birmingham](https://www.linkedin.com/jobs/view/4461666008/) — Backend · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
 
