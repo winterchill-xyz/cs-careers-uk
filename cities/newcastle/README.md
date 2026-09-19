@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**31 open roles** · updated 2026-09-18
+**30 open roles** · updated 2026-09-19
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -43,7 +43,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (2)
 
-- [Frontend Developer](https://www.linkedin.com/jobs/view/4467048811/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4469203025/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4468207081/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · 🛂 visa sponsor
 
 ### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (2)
@@ -56,13 +56,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Software Engineer, Fullstack/Backend Technologies (UK Remote)](https://www.linkedin.com/jobs/view/4465853032/) — Backend · Newcastle Upon Tyne, England, United Kingdom · remote · 🛂 visa sponsor
 - [Principal Software Engineer Backend Technologies, Platform (UK Remote)](https://www.linkedin.com/jobs/view/4436407066/) — Backend · Newcastle Upon Tyne, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [Cloud Bridge](https://jobs.winterchill.xyz/?employer=Cloud%20Bridge) (1)
+### [Central Employment](https://jobs.winterchill.xyz/?employer=Central%20Employment) (1)
 
-- [Senior Data Engineer - Up to £85k](https://www.linkedin.com/jobs/view/4462353035/) — Data Engineering · Up to £85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
-
-### [Cloud Bridge Tech Recruitment](https://jobs.winterchill.xyz/?employer=Cloud%20Bridge%20Tech%20Recruitment) (1)
-
-- [Senior Data Engineer - Up to £85k](https://www.linkedin.com/jobs/view/4463600375/) — Data Engineering · Up to £85,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Principle AI Engineer](https://www.linkedin.com/jobs/view/4469140453/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Credera](https://jobs.winterchill.xyz/?employer=Credera) (1)
 

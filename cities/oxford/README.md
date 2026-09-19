@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**47 open roles** · updated 2026-09-18
+**45 open roles** · updated 2026-09-19
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,22 +8,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (7)
 
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4469201291/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Scientist, Automated Diagnostic Systems - Pathogen](https://www.linkedin.com/jobs/view/4468609192/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4467976106/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4467705950/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Fluidic System Engineer - Pathogen](https://www.linkedin.com/jobs/view/4467701909/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4464620773/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464623843/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4464993587/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (6)
-
-- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4464515681/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464511764/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464521579/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Head of Software Engineering (Model and Platform Engineering)](https://www.linkedin.com/jobs/view/4442297583/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer](https://www.linkedin.com/jobs/view/4435432573/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [IonQ](https://jobs.winterchill.xyz/?employer=IonQ) (5)
 
@@ -32,6 +23,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer, Transport](https://startup.jobs/senior-software-engineer-transport-ionq-9946555) — Oxford, England, United Kingdom
 - [Staff Software Engineer, Runtime](https://startup.jobs/staff-software-engineer-runtime-ionq-9789366) — Oxford, England, United Kingdom
 - [Software Engineer, Runtime](https://startup.jobs/software-engineer-runtime-ionq-9789363) — Oxford, England, United Kingdom
+
+### [Aurora Energy Research](https://jobs.winterchill.xyz/?employer=Aurora%20Energy%20Research) (4)
+
+- [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4464515681/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464511764/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer (AI)](https://www.linkedin.com/jobs/view/4464521579/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Modelling Software Engineer - Chronos](https://www.linkedin.com/jobs/view/4426039864/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
 
@@ -45,12 +43,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Full-Stack Software Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Full-Stack-Software-Engineer-III_R114714-2) — Backend · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Senior Application Security Engineer](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Senior-Product-Security-Engineer-II_R113910-3) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
 - [Security Engineer III](https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Oxford-Nielsen-House/Security-Engineer-III_R112063-1) — DevOps / SRE · Oxford Nielsen House, United Kingdom · 🛂 visa sponsor
-
-### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (3)
-
-- [Machine Learning Engineer (Forward Deployed)](https://www.mindfoundry.ai/about-us/careers?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Machine Learning Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7900652003) — Backend · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (3)
 
@@ -68,10 +60,20 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Graduate/Junior Software Engineer](https://startup.jobs/graduate-junior-software-engineer-caristo-diagnostics-9860936) — Oxford, England, United Kingdom
 - [Software Engineer](https://startup.jobs/software-engineer-caristo-diagnostics-9860937) — Oxford, England, United Kingdom
 
+### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (2)
+
+- [Machine Learning Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7900652003) — Backend · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Tripadvisor](https://jobs.winterchill.xyz/?employer=Tripadvisor) (2)
 
 - [Senior Software Engineer (Android)](https://job-boards.greenhouse.io/tripadvisor/jobs/8108861) — Backend · Oxford, United Kingdom · remote · 🛂 visa sponsor
 - [Senior Software Engineer](https://job-boards.greenhouse.io/tripadvisor/jobs/7866457) — Backend · Oxford · remote · 🛂 visa sponsor
+
+### [University of Oxford, Department of Engineering Science](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford%2C%20Department%20of%20Engineering%20Science) (2)
+
+- [Postdoctoral Research Assistant in Temporal Reasoning and Ultrasound Video Analysis Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466533934/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Postdoctoral Research Assistant in Machine Learning Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466530994/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [AIOI R&D Lab - Oxford](https://jobs.winterchill.xyz/?employer=AIOI%20R%26D%20Lab%20-%20Oxford) (1)
 
@@ -104,10 +106,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
 
 - [Graduate/Junior Software Engineer](https://www.linkedin.com/jobs/view/4464873986/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [University of Oxford, Department of Engineering Science](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford%2C%20Department%20of%20Engineering%20Science) (1)
-
-- [Postdoctoral Research Assistant in Machine Learning Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466530994/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Valteros](https://jobs.winterchill.xyz/?employer=Valteros) (1)
 
