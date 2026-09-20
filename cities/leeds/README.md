@@ -1,17 +1,10 @@
 # Software &amp; IT careers in Leeds
 
-**27 open roles** · updated 2026-09-19
+**22 open roles** · updated 2026-09-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (4)
-
-- [Senior Software Engineer, Core Experiences - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-leeds-united-kingdom-speechify-7946962) — Backend · Leeds, England, United Kingdom · remote
-- [Software Engineer, Data Infrastructure & Acquisition - Leeds, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-leeds-united-kingdom-speechify-7947083) — Backend · Leeds, England, United Kingdom
-- [Software Engineer, Platform - Leeds, United Kingdom](https://startup.jobs/software-engineer-platform-leeds-united-kingdom-speechify-7960207) — Backend · Leeds, England, United Kingdom
-- [Senior Software Engineer, Windows/Desktop Applications - Leeds, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-leeds-united-kingdom-speechify-7960083) — Backend · Leeds, England, United Kingdom
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (3)
 
@@ -21,7 +14,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (3)
 
-- [Research Fellow in Large Scale Choice Modelling](https://www.linkedin.com/jobs/view/4468640422/) — ML / AI Engineering · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow in Large Scale Choice Modelling](https://www.linkedin.com/jobs/view/4468640422/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Clinical Research Fellow in Scleroderma](https://www.linkedin.com/jobs/view/4467074778/) — Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Research Fellow in Machine Learning Assisted Choice Modelling](https://www.linkedin.com/jobs/view/4467427294/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
@@ -41,11 +34,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Answer Digital](https://jobs.winterchill.xyz/?employer=Answer%20Digital) (1)
 
-- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4466661777/) — Backend · Greater Leeds Area · 🛂 visa sponsor
-
-### [Enablis](https://jobs.winterchill.xyz/?employer=Enablis) (1)
-
-- [AI Engineer (Consultant)](https://www.linkedin.com/jobs/view/4467970864/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4466661777/) — Backend · Greater Leeds Area · remote · 🛂 visa sponsor
 
 ### [ITSS Recruitment](https://jobs.winterchill.xyz/?employer=ITSS%20Recruitment) (1)
 
@@ -85,7 +74,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [WRK digital](https://jobs.winterchill.xyz/?employer=WRK%20digital) (1)
 
-- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4468617723/) — Backend · Up to £75,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4468617723/) — Backend · Up to £75,000/yr · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

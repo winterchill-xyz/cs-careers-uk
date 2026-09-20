@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Other / UK-wide
 
-**1,826 open roles** · updated 2026-09-19
+**1,792 open roles** · updated 2026-09-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=other)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -24,9 +24,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Software Engineer – Test Environments (GCAP)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Principal-Software-Engineer---Test-Environments--GCAP-_R0031290) — QA / Test Automation · £54,000–£70,000/yr · GB - Luton - Cap. Green 300, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer (DevSecOps)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Principal-Software-Engineer--DevSecOps-_R0031286) — DevOps / SRE · £54,000–£70,000/yr · GB - Luton - Cap. Green 300, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Test Engineers](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Test-Engineers_R0021417) — Platform / Infrastructure · £55,000–£65,000/yr · GB - Luton - Cap. Green 300, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Platform Engineer (VMWare Cloud Foundation)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Yeovil---Lysander-Rd/Senior-Platform-Engineer--VMWare-Cloud-Foundation-_R0031038) — DevOps / SRE · £44,171–£61,950/yr · GB - Yeovil - Lysander Rd, United Kingdom · remote · 🛂 visa sponsor
-- [Senior Test Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Senior-Test-Engineer_R0032073-1) — QA / Test Automation · £44,171–£61,950/yr · GB - Southampton, United Kingdom · remote · 🛂 visa sponsor
 - [Senior Platform Engineer (Cross Domain Gateway)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Yeovil---Lysander-Rd/Senior-Platform-Engineer--Cross-Domain-Gateway-_R0032068) — DevOps / SRE · £44,171–£61,950/yr · GB - Yeovil - Lysander Rd, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Test Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Senior-Test-Engineer_R0032073-1) — QA / Test Automation · £44,171–£61,950/yr · GB - Southampton, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Platform Engineer (VMWare Cloud Foundation)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Yeovil---Lysander-Rd/Senior-Platform-Engineer--VMWare-Cloud-Foundation-_R0031038) — DevOps / SRE · £44,171–£61,950/yr · GB - Yeovil - Lysander Rd, United Kingdom · remote · 🛂 visa sponsor
 - [Senior Application Engineer (Jira ITSM)](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Yeovil---Lysander-Rd/Senior-Application-Engineer--Jira-ITSM-_R0031036) — DevOps / SRE · £44,171–£61,950/yr · GB - Yeovil - Lysander Rd, United Kingdom · remote · 🛂 visa sponsor
 - …and 31 more at Leonardo — see [`jobs.json`](jobs.json)
 
@@ -63,14 +63,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Codification Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Codification-Engineer_R39279) — Up to £45,000/yr · Stevenage, United Kingdom · 🛂 visa sponsor
 - [Simulation and Modelling Engineer](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Simulation-and-Modelling-Engineer_R38898) — Up to £42,500/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Systems Design Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Systems-Design-Engineer---Graduate-Programme-2027_R37834) — £31,900/yr · Stevenage, United Kingdom · 🛂 visa sponsor
+- [Warhead Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bolton/Warhead-Engineer---Graduate-Programme-2027_R37543) — £31,900/yr · Bolton, United Kingdom · 🛂 visa sponsor
+- [Simulation and Modelling Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Simulation-and-Modelling-Engineer---Graduate-Programme-2027_R37832) — £31,900/yr · Stevenage, United Kingdom · 🛂 visa sponsor
+- [Mechanical and Climatic Engineer - Graduate Programme 2026](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Mechanical-and-Climatic-Engineer---Graduate-Programme-2026_R37353) — £31,900/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Manufacturing Test Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Manufacturing-Test-Engineer---Graduate-Programme-2027_R39040) — £31,900/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
+- [Integration & Missile Validation Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Integration---Missile-Validation-Engineer---Graduate-Programme-2027_R37422) — £31,900/yr · Stevenage, United Kingdom · 🛂 visa sponsor
+- [Hardware in the Loop Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Hardware-in-the-Loop-Engineer---Graduate-Programme-2027_R37400) — £31,900/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Engineering Support - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Engineering-Support---Graduate-Programme-2027_R37385-1) — £31,900/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Electronics Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Electronics-Engineer---Graduate-Programme-2027_R37817) — £31,900/yr · Stevenage, United Kingdom · 🛂 visa sponsor
-- [Simulation and Modelling Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Simulation-and-Modelling-Engineer---Graduate-Programme-2027_R37832) — £31,900/yr · Stevenage, United Kingdom · 🛂 visa sponsor
-- [Hardware in the Loop Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Hardware-in-the-Loop-Engineer---Graduate-Programme-2027_R37400) — £31,900/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
-- [Integration & Missile Validation Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Integration---Missile-Validation-Engineer---Graduate-Programme-2027_R37422) — £31,900/yr · Stevenage, United Kingdom · 🛂 visa sponsor
-- [Warhead Engineer - Graduate Programme 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Bolton/Warhead-Engineer---Graduate-Programme-2027_R37543) — £31,900/yr · Bolton, United Kingdom · 🛂 visa sponsor
-- [Mechanical and Climatic Engineer - Graduate Programme 2026](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Mechanical-and-Climatic-Engineer---Graduate-Programme-2026_R37353) — £31,900/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Safety and Reliability Engineer – Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Safety-and-Reliability-Engineer---Undergraduate-Placement-2027_R37809) — £24,460/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Safety and Reliability Engineer - Summer Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Safety-and-Reliability-Engineer---Summer-Placement-2027_R37811) — £24,460/yr · Stevenage, United Kingdom · hybrid · 🛂 visa sponsor
 - [Integration & Missile Validation Engineer - Undergraduate Placement 2027](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Integration---Missile-Validation-Engineer---Undergraduate-Placement-2027_R37423) — £24,460/yr · Stevenage, United Kingdom · 🛂 visa sponsor
@@ -102,17 +102,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer (Typescript), AI Clients: Duo CLI](https://job-boards.greenhouse.io/gitlab/jobs/8693103002) — Backend · Remote, United Kingdom · remote · 🛂 visa sponsor
 - …and 14 more at GitLab — see [`jobs.json`](jobs.json)
 
-### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (31)
+### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (32)
 
-- [Attitude and Orbital Control System/Guidance, Navigation & Control (AOCS/GNC) Placement](https://www.linkedin.com/jobs/view/4468041917/) — £24,500/yr · Stevenage, England, United Kingdom
+- [Attitude and Orbital Control System/Guidance, Navigation & Control (AOCS/GNC) Placement](https://www.linkedin.com/jobs/view/4468041917/) — £24,500/yr · Stevenage, England, United Kingdom · hybrid
 - [Satellite Digital Systems Placement](https://www.linkedin.com/jobs/view/4467161083/) — £24,500/yr · Stevenage, England, United Kingdom
 - [Operations and Failure Management Placement](https://www.linkedin.com/jobs/view/4467165119/) — £24,500/yr · Stevenage, England, United Kingdom · hybrid
 - [Electrical System Digital Transformation Placement](https://www.linkedin.com/jobs/view/4467155153/) — £24,500/yr · Stevenage, England, United Kingdom · hybrid
-- [Space Software Engineering Placement](https://www.linkedin.com/jobs/view/4467165039/) — Backend · £24,500/yr · Stevenage, England, United Kingdom
-- [Software Developer Placement](https://www.linkedin.com/jobs/view/4466876146/) — Backend · £24,500/yr · Stevenage, England, United Kingdom
+- [Space Software Engineering Placement](https://www.linkedin.com/jobs/view/4467165039/) — Backend · £24,500/yr · Stevenage, England, United Kingdom · hybrid
+- [Software Developer Placement](https://www.linkedin.com/jobs/view/4466876146/) — Backend · £24,500/yr · Stevenage, England, United Kingdom · hybrid
 - [Simulation and Modelling Engineer - Undergraduate Placement 2027](https://www.linkedin.com/jobs/view/4467830665/) — £24,460/yr · Stevenage, England, United Kingdom
 - [Software Engineer - Summer Placement 2027](https://www.linkedin.com/jobs/view/4467158653/) — £24,460/yr · Stevenage, England, United Kingdom
 - [Digital Excellence Business - Undergraduate Placement 2027](https://www.linkedin.com/jobs/view/4464867927/) — £24,460/yr · Stevenage, England, United Kingdom
+- [VCARB F1 Team - Industrial Placement Programme 2027/2028](https://www.linkedin.com/jobs/view/4468056708/) — Milton Keynes, England, United Kingdom · 🛂 visa sponsor
 - [Simulation Student Placement](https://www.linkedin.com/jobs/view/4467137715/) — Enstone, England, United Kingdom · 🛂 visa sponsor
 - [AI Engineering Student Placement](https://www.linkedin.com/jobs/view/4468064310/) — Backend · Enstone, England, United Kingdom · 🛂 visa sponsor
 - [Graduate Technology Consultant (Software Engineering)](https://www.linkedin.com/jobs/view/4468054261/) — Brighton, England, United Kingdom · 🛂 visa sponsor
@@ -123,22 +124,21 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Graduate Developer, IT](https://www.linkedin.com/jobs/view/4467159860/) — Backend · Taunton, England, United Kingdom · 🛂 visa sponsor
 - [Data Strategy & Insights Student Placement](https://www.linkedin.com/jobs/view/4467143449/) — Data Engineering · Milton Keynes, England, United Kingdom
 - [2027 Technology Cyber and Security Graduate Programme](https://www.linkedin.com/jobs/view/4467146672/) — Knutsford, England, United Kingdom · 🛂 visa sponsor
-- [AGGP2027 - Graduate Software Engineer](https://www.linkedin.com/jobs/view/4465192546/) — Backend · Portsmouth, England, United Kingdom · 🛂 visa sponsor
-- …and 11 more at targetjobs UK — see [`jobs.json`](jobs.json)
+- …and 12 more at targetjobs UK — see [`jobs.json`](jobs.json)
 
 ### [Barclays](https://jobs.winterchill.xyz/?employer=Barclays) (24)
 
-- [2027 Technology Developer Degree Apprenticeship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431) — Backend · £25,200/yr · Northampton, Barclays Campus, Pavilion Drive, United Kingdom · 🛂 visa sponsor
 - [2027 Technology Developer Degree Apprenticeship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443) — Backend · £25,200/yr · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
-- [Full Stack Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Full-Stack-Engineer_JR-0000118880) — Backend · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
+- [2027 Technology Developer Degree Apprenticeship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431) — Backend · £25,200/yr · Northampton, Barclays Campus, Pavilion Drive, United Kingdom · 🛂 visa sponsor
 - [DevOps Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/DevOps-Engineer_JR-0000118936) — DevOps / SRE · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
+- [Full Stack Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Full-Stack-Engineer_JR-0000118880) — Backend · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 - [Engineering Manager](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Engineering-Manager_JR-0000118937) — Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 - [Linux Server Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Linux-Server-Engineer_JR-0000110241) — Backend · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 - [Network Specialist Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Network-Specialist-Engg_JR-0000116270) — DevOps / SRE · Knutsford, Radbroke Hall, United Kingdom · hybrid · 🛂 visa sponsor
-- [2027 Technology Developer Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) — Backend · Northampton, Barclays Campus, Pavilion Drive, United Kingdom · 🛂 visa sponsor
+- [2027 Technology Developer Graduate Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319) — Backend · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 - [2027 Technology Developer Graduate Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Graduate-Programme-Northampton_JR-0000129374) — Backend · Northampton, Barclays Campus, Pavilion Drive, United Kingdom · 🛂 visa sponsor
 - [2027 Technology Developer Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381) — Backend · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
-- [2027 Technology Developer Graduate Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319) — Backend · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
+- [2027 Technology Developer Summer Internship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379) — Backend · Northampton, Barclays Campus, Pavilion Drive, United Kingdom · 🛂 visa sponsor
 - [Application Support - Service Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Application-Support---Service-Engineer_JR-0000118756-1) — Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 - [Senior Site Reliability Engineer](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Streaming-Engineering-Manager_JR-0000044230) — DevOps / SRE · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
 - [Managed File Transfer Engineering Manager](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Managed-File-Transfer-Engineering-Manager_JR-0000095771) — DevOps / SRE · Knutsford, Radbroke Hall, United Kingdom · 🛂 visa sponsor
@@ -156,7 +156,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead Software Engineer](https://uk.indeed.com/viewjob?jk=38404d2a0604b991) — Backend · £68,500/yr · New Malden, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=319b4bcb6a64f632) — Backend · £58,500/yr · New Malden, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4465901687/) — Backend · £58,500/yr · Surrey, England, United Kingdom · 🛂 visa sponsor
-- [Graduate Test Systems Engineer](https://www.linkedin.com/jobs/view/4467074184/) — £34,000/yr · Kent, England, United Kingdom · 🛂 visa sponsor
+- [Graduate Test Systems Engineer](https://www.linkedin.com/jobs/view/4467074184/) — £34,000/yr · Kent, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Graduate Test Systems Engineer](https://uk.indeed.com/viewjob?jk=574375990a38d7eb) — £34,000/yr · Rochester, United Kingdom · hybrid · 🛂 visa sponsor
 - [Graduate Hardware Electronics Engineer](https://uk.indeed.com/viewjob?jk=7ff5def8e24e90f1) — £34,000/yr · Rochester, United Kingdom · hybrid · 🛂 visa sponsor
 - [Graduate Systems Engineer](https://uk.indeed.com/viewjob?jk=15017f2b336d5356) — £34,000/yr · Rochester, United Kingdom · hybrid · 🛂 visa sponsor
@@ -164,10 +164,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Graduate Software Engineer](https://www.linkedin.com/jobs/view/4467072926/) — £34,000/yr · Kent, England, United Kingdom · 🛂 visa sponsor
 - [Summer Intern Hardware Electronics Engineer](https://uk.indeed.com/viewjob?jk=e927db5f9a686fc3) — £25,900/yr · Rochester, United Kingdom · hybrid · 🛂 visa sponsor
 - [Undergraduate Software Engineer](https://uk.indeed.com/viewjob?jk=ee477dd124bf129c) — £25,900/yr · Rochester, United Kingdom · hybrid · 🛂 visa sponsor
-- [Undergraduate Software Engineer](https://www.linkedin.com/jobs/view/4467091015/) — £25,900/yr · Lancashire, England, United Kingdom · 🛂 visa sponsor
 - [Undergraduate Systems Engineer](https://www.linkedin.com/jobs/view/4467065944/) — £25,900/yr · Kent, England, United Kingdom · 🛂 visa sponsor
 - [Summer Intern Hardware Electronics Engineer](https://www.linkedin.com/jobs/view/4467078064/) — £25,900/yr · Kent, England, United Kingdom · 🛂 visa sponsor
-- [Undergraduate Test Systems Engineer](https://www.linkedin.com/jobs/view/4467086017/) — £25,900/yr · Kent, England, United Kingdom · 🛂 visa sponsor
+- [Undergraduate Test Systems Engineer](https://www.linkedin.com/jobs/view/4467086017/) — £25,900/yr · Kent, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Undergraduate Software Engineer](https://www.linkedin.com/jobs/view/4467090008/) — £25,900/yr · Kent, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [AI/ML Researcher](https://www.linkedin.com/jobs/view/4399429090/) — Backend · Chelmsford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [SOC Security Infrastructure Engineer](https://uk.indeed.com/viewjob?jk=9f292efa51fde398) — DevOps / SRE · Guildford, United Kingdom · hybrid · 🛂 visa sponsor
 - [Wireless – Front End Developer](https://www.linkedin.com/jobs/view/4446344627/) — Backend · Surrey, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -175,8 +175,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [JPMorgan](https://jobs.winterchill.xyz/?employer=JPMorgan) (19)
 
 - [Full-Stack Engineer – ML Platform, Applied AI – Vice President](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210789311) — Backend · United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer - Application Owner](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783519) — DevOps / SRE · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Software Engineer II - Cloud Technology](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210787159) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer - Application Owner](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783519) — DevOps / SRE · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - Java, Go](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210786513) — Backend · BOURNEMOUTH, DORSET, United Kingdom · hybrid · 🛂 visa sponsor
 - [Lead Software Engineer - Java/SpringBoot](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784877) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III - Java/Python/AI-ML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784774) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
@@ -185,8 +185,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer III - AIML Experimentation, Observability and Governance](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775486) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Software Engineer II - AIML Experimentation and Governance](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210774677) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Applied AI ML Lead - Senior Data Scientist](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210761189) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
-- [Lead Software Engineer - Java/Python/AI-ML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210772796) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Software Engineer II - Full Stack React/Java Developer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210768457) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer - Java/Python/AI-ML](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210772796) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Software Engineer III - Backend Python](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210758392) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Software Engineer II - Java, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210751014) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
 - [Lead Software Engineer - C#/.Net](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210763921) — Backend · BOURNEMOUTH, DORSET, United Kingdom · 🛂 visa sponsor
@@ -198,12 +198,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior ML Engineer (AI Research, Physical AI)](https://careers.nebius.com/?gh_jid=4975270101) — Backend · Israel; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
 - [Senior ML Engineer (AI Research/ Portability)](https://careers.nebius.com/?gh_jid=4975303101) — Backend · Israel; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
-- [Senior Software Engineer (Agentic Search) - Web Access Engineer](https://careers.nebius.com/?gh_jid=4941997101) — Backend · Israel; Netherlands; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
 - [Senior Software Engineer (Agentic Search) – Web Rendering Engineer](https://careers.nebius.com/?gh_jid=4941966101) — Backend · Israel; Netherlands; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
+- [Senior Software Engineer (Agentic Search) - Web Access Engineer](https://careers.nebius.com/?gh_jid=4941997101) — Backend · Israel; Netherlands; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
 - [Senior Software Engineer (Stream Processing)](https://careers.nebius.com/?gh_jid=4967971101) — Backend · Amsterdam, Netherlands; Berlin, Germany; United Kingdom · 🛂 visa sponsor
 - [Senior/Tech Lead Backend Engineer (Managed Kubernetes)](https://careers.nebius.com/?gh_jid=4967927101) — Backend · Amsterdam, Netherlands; Berlin, Germany; United Kingdom · 🛂 visa sponsor
-- [Senior Backend Software Engineer (Cloud Monetization Platform)](https://careers.nebius.com/?gh_jid=4950630101) — Backend · Amsterdam, Netherlands; Berlin, Germany; United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer (Capacity and Quota Management)](https://careers.nebius.com/?gh_jid=4950694101) — Backend · Amsterdam, Netherlands; Berlin, Germany; United Kingdom · 🛂 visa sponsor
+- [Senior Backend Software Engineer (Cloud Monetization Platform)](https://careers.nebius.com/?gh_jid=4950630101) — Backend · Amsterdam, Netherlands; Berlin, Germany; United Kingdom · 🛂 visa sponsor
 - [Senior Research Scientist (Architectures Research)](https://careers.nebius.com/?gh_jid=4950073101) — Backend · Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
 - [AI Full-Stack Developer](https://careers.nebius.com/?gh_jid=4863862101) — Backend · Amsterdam, Netherlands; Germany; Tel Aviv, Israel; United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer (Token Factory)](https://careers.nebius.com/?gh_jid=4754609101) — Backend · Amsterdam, Netherlands; Germany; Israel; Prague, Czech Republic; Remote - Europe; United Kingdom · remote · 🛂 visa sponsor
@@ -244,10 +244,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - Burgess Hill)](https://uk.indeed.com/viewjob?jk=f00776b477488398) — Backend · Burgess Hill, United Kingdom · hybrid
 - [Senior Software Engineer I](https://uk.indeed.com/viewjob?jk=caed198b416b3b4c) — Backend · Burgess Hill, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer I](https://www.linkedin.com/jobs/view/4465787652/) — Backend · Burgess Hill, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - Burgess Hill)](https://www.linkedin.com/jobs/view/4465775141/) — Backend · Burgess Hill, England, United Kingdom
+- [Campus - Internship Programme - Undergraduate Software Engineer - 2027 (UK - Burgess Hill)](https://www.linkedin.com/jobs/view/4465775141/) — Backend · Burgess Hill, England, United Kingdom · hybrid
 - [Campus - Internship Programme - Undergraduate Information Security Engineer - 2027 (UK - Burgess Hill)](https://www.linkedin.com/jobs/view/4465742785/) — DevOps / SRE · Burgess Hill, England, United Kingdom
 - [Campus - Internship Programme - Undergraduate AI Engineer - 2027 (UK - Burgess Hill)](https://www.linkedin.com/jobs/view/4465771171/) — Backend · Burgess Hill, England, United Kingdom
-- [Campus - Full Time - AI Engineer - 2027 (UK - Burgess Hill)](https://www.linkedin.com/jobs/view/4465749763/) — Backend · Burgess Hill, England, United Kingdom · 🛂 visa sponsor
+- [Campus - Full Time - AI Engineer - 2027 (UK - Burgess Hill)](https://www.linkedin.com/jobs/view/4465749763/) — Backend · Burgess Hill, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Campus - Full Time - Software Engineer - 2027 (UK - Burgess Hill)](https://www.linkedin.com/jobs/view/4465786032/) — Backend · Burgess Hill, England, United Kingdom · 🛂 visa sponsor
 
 ### [IFS](https://jobs.winterchill.xyz/?employer=IFS) (12)
@@ -256,7 +256,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Director, Identity & Access Management](https://uk.indeed.com/viewjob?jk=ac21b9585bd92528) — DevOps / SRE · Staines-upon-Thames, United Kingdom · hybrid
 - [VP Engineering and Reliability](https://uk.indeed.com/viewjob?jk=44ff3541686cec15) — Backend · Staines-upon-Thames, United Kingdom · hybrid
 - [Senior Software Engineer, AI Agents](https://uk.indeed.com/viewjob?jk=727fe16c75982519) — Backend · Staines-upon-Thames, United Kingdom · hybrid
-- [VP Engineering and Reliability](https://www.linkedin.com/jobs/view/4468642479/) — Backend · Staines-Upon-Thames, England, United Kingdom · 🛂 visa sponsor
+- [VP Engineering and Reliability](https://www.linkedin.com/jobs/view/4468642479/) — Backend · Staines-Upon-Thames, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Engineer (Angular) \|\| AI](https://www.linkedin.com/jobs/view/4466280133/) — Backend · Staines-Upon-Thames, England, United Kingdom · 🛂 visa sponsor
 - [Forward Deployed Engineer - New Capabilities](https://www.linkedin.com/jobs/view/4467702698/) — Backend · Staines-Upon-Thames, England, United Kingdom
 - [Principal Engineer \|\| AI](https://www.linkedin.com/jobs/view/4466213200/) — Backend · Staines-Upon-Thames, England, United Kingdom · 🛂 visa sponsor
@@ -294,9 +294,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Imperial College London](https://jobs.winterchill.xyz/?employer=Imperial%20College%20London) (10)
 
-- [Database Manager](https://uk.indeed.com/viewjob?jk=c6b1e8b68975dc82) — £59,808–£71,793/yr · White City, United Kingdom
+- [Database Manager](https://uk.indeed.com/viewjob?jk=c6b1e8b68975dc82) — £59,808–£71,793/yr · White City, United Kingdom · hybrid
 - [Research Associate Mass Spectrometry](https://uk.indeed.com/viewjob?jk=97772e9346cfc6c1) — Research / Applied Science · £45,399–£59,484/yr · White City, United Kingdom
-- [Patient, Public Involvement and Engagement (PPIE) facilitator](https://uk.indeed.com/viewjob?jk=6ae224bb3d947a0b) — £48,246–£58,318/yr · Westminster, United Kingdom
+- [Patient, Public Involvement and Engagement (PPIE) facilitator](https://uk.indeed.com/viewjob?jk=6ae224bb3d947a0b) — £48,246–£58,318/yr · Westminster, United Kingdom · hybrid
 - [Research Associate in Organometallic Chemistry](https://uk.indeed.com/viewjob?jk=186139ff8459be1c) — Research / Applied Science · £50,733–£52,675/yr · White City, United Kingdom
 - [Laboratory and Community Support Assistant](https://www.glassdoor.co.uk/job-listing/laboratory-and-community-support-assistant-imperial-college-london-JV_IC5023248_KO0,42_KE43,66.htm?jl=1010256715499) — £48,000/yr (est.) · White City
 - [Community Engagement Coordinator (White City Campus)](https://uk.indeed.com/viewjob?jk=2a6dd3eede5dabf6) — £42,505–£47,213/yr · White City, United Kingdom
@@ -413,17 +413,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Infrastructure Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---ANY-CITY/Senior-Infrastructure-Engineer_51583280-1) — DevOps / SRE · GBR - ANY CITY, United Kingdom · 🛂 visa sponsor
 - [Software Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/UK875---DXC-Farnborough-UK875/Software-Developer_51584323) — Backend · UK875 - DXC Farnborough (UK875), United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (8)
-
-- [CMDB Application Developer & Reporting Specialist](https://dataengineeringjobs.co.uk/jobs/cmdb-application-developer-reporting-specialist-experis) — Data Engineering · £800–£850/day · GB
-- [Lead Azure Data Engineer](https://dataengineeringjobs.co.uk/jobs/lead-azure-data-engineer-experis) — Data Engineering · £650–£675/day · Remote · remote
-- [DV Cleared Data Engineer](https://www.linkedin.com/jobs/view/4466035765/) — Data Engineering · Up to £500/day · Matlock Bath, England, United Kingdom · 🛂 visa sponsor
-- [Senior DevOps Engineer - Derby](https://www.adzuna.co.uk/jobs/details/5880952952?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £60,000–£90,000/yr · Cowley, Uxbridge
-- [Palantir / Data Engineer](https://www.linkedin.com/jobs/view/4456001533/) — Data Engineering · £40,000–£55,000/yr · England, United Kingdom · 🛂 visa sponsor
-- [Full Stack Developer](https://www.linkedin.com/jobs/view/4467176424/) — Backend · £41,000–£45,000/yr · Greater Lincoln Area, United Kingdom · 🛂 visa sponsor
-- [C# / .Net Developer](https://www.linkedin.com/jobs/view/4464188845/) — Backend · Luton, England, United Kingdom · 🛂 visa sponsor
-- [Front End Developer](https://www.linkedin.com/jobs/view/4465623224/) — Backend · Telford, England, United Kingdom · 🛂 visa sponsor
-
 ### [GitHub](https://jobs.winterchill.xyz/?employer=GitHub) (8)
 
 - [Staff Software Engineer, Git Systems](https://www.github.careers/careers-home/jobs/5773) — Backend · United Kingdom · remote · 🛂 visa sponsor
@@ -440,9 +429,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4462954795/) — $220,000/yr · United Kingdom · remote · 🛂 visa sponsor
 - [Machine Learning Engineer / ML Engineer - Roleplay Sessions](https://www.linkedin.com/jobs/view/4464577070/) — Backend · €120,000/yr · United Kingdom · remote · 🛂 visa sponsor
 - [Backend Developer (Java/Spring Boot)](https://www.linkedin.com/jobs/view/4466180563/) — Backend · €3,000/mo · United Kingdom · remote · 🛂 visa sponsor
-- [Engineering Manager - Payments Integrations](https://www.linkedin.com/jobs/view/4467828885/) — Backend · United Kingdom · 🛂 visa sponsor
-- [Senior Back-end Engineer - PHP, Node.js](https://www.linkedin.com/jobs/view/4467818655/) — Backend · United Kingdom · 🛂 visa sponsor
-- [Tech Lead/Sr Backend (Go) Developer](https://www.linkedin.com/jobs/view/4467503524/) — Backend · United Kingdom · 🛂 visa sponsor
+- [Engineering Manager - Payments Integrations](https://www.linkedin.com/jobs/view/4467828885/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Back-end Engineer - PHP, Node.js](https://www.linkedin.com/jobs/view/4467818655/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Tech Lead/Sr Backend (Go) Developer](https://www.linkedin.com/jobs/view/4467503524/) — Backend · United Kingdom · remote · 🛂 visa sponsor
 - [Engineering Manager](https://www.linkedin.com/jobs/view/4466849283/) — Backend · United Kingdom · remote · 🛂 visa sponsor
 - [Senior Frontend Developer (React & React Native)](https://www.linkedin.com/jobs/view/4463248796/) — Backend · United Kingdom · remote · 🛂 visa sponsor
 
@@ -468,16 +457,16 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Industrial Placement - Software Engineer](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-Kingdom-Cheltenham/Industrial-Placement---Software-Engineer_R10251089) — £25,000/yr · United Kingdom-Cheltenham, United Kingdom · hybrid · 🛂 visa sponsor
 - [AI Product Engineer](https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/United-Kingdom-Cheltenham/AI-Product-Engineer_R10248050-1) — Backend · United Kingdom-Cheltenham, United Kingdom · 🛂 visa sponsor
 
-### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (8)
+### [Raytheon](https://jobs.winterchill.xyz/?employer=Raytheon) (8)
 
-- [Platform Manager](https://www.linkedin.com/jobs/view/4464767642/) — £100,000–£130,000/yr · Staines-Upon-Thames, England, United Kingdom
-- [Senior Full Stack Engineer (Go/React)](https://www.linkedin.com/jobs/view/4450803222/) — Backend · £90,000–£110,000/yr · United Kingdom · remote · 🛂 visa sponsor
-- [Senior Full Stack Engineer (Frontend lean)](https://www.linkedin.com/jobs/view/4450813128/) — Backend · £90,000–£110,000/yr · United Kingdom · remote · 🛂 visa sponsor
-- [Senior Backend Engineer (Node/TS) \| Fully Remote \| AI Fintech Scale-up \| Up to £100k + Benefits](https://www.linkedin.com/jobs/view/4466679053/) — Backend · Up to £100,000/yr · United Kingdom · 🛂 visa sponsor
-- [Software Engineering Lead](https://www.linkedin.com/jobs/view/4463009140/) — Backend · Up to £90,000/yr · United Kingdom · 🛂 visa sponsor
-- [PHP Platform Engineer (migrations)](https://www.linkedin.com/jobs/view/4461827779/) — Backend · £80,000–£90,000/yr · United Kingdom · remote · 🛂 visa sponsor
-- [Senior Software Engineer (Node.js/React)](https://www.linkedin.com/jobs/view/4456945714/) — Backend · £80,000–£90,000/yr · United Kingdom · remote · 🛂 visa sponsor
-- [Senior Full-Stack Developer](https://www.linkedin.com/jobs/view/4465970837/) — Backend · £70,000–£80,000/yr · Liverpool, England, United Kingdom · 🛂 visa sponsor
+- [Principal Training Developer](https://uk.indeed.com/viewjob?jk=22a018cd16099040) — Wokingham, United Kingdom · hybrid
+- [Senior Software Engineer ATMS](https://uk.indeed.com/viewjob?jk=9e01978eb0950588) — Harlow, United Kingdom · hybrid
+- [Senior Systems Security Engineer](https://uk.indeed.com/viewjob?jk=354c5705117b90ea) — High Wycombe, United Kingdom · hybrid
+- [Chief Engineer](https://uk.indeed.com/viewjob?jk=ea03b2eafb2831b6) — High Wycombe, United Kingdom · hybrid
+- [Data Scientist & Machine Learning Researcher](https://www.linkedin.com/jobs/view/4465075688/) — Backend · Lancashire, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Data Scientist & Machine Learning Researcher](https://www.linkedin.com/jobs/view/4420909932/) — Backend · Gloucester, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineering Manager - Air Traffic Management Systems (ATMS)](https://www.linkedin.com/jobs/view/4450724364/) — Backend · Harlow, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4450717493/) — Backend · Lancashire, England, United Kingdom · 🛂 visa sponsor
 
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (8)
 
@@ -520,15 +509,25 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Platform Engineer - Snowflake](https://bupa.wd3.myworkdayjobs.com/ext_career/job/Staines/Senior-Data-Platform-Engineer---Snowflake_R1189203) — Data Engineering · Staines, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Platform Engineer](https://bupa.wd3.myworkdayjobs.com/ext_career/job/Staines/Data-Platform-Engineer_R1221458) — Data Engineering · Staines, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [easyJet](https://jobs.winterchill.xyz/?employer=easyJet) (7)
+### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (7)
 
-- [Platform Chapter Lead - Engineering](https://www.linkedin.com/jobs/view/4468245200/) — DevOps / SRE · Luton, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Head of People Data, Insight and Analytics](https://uk.indeed.com/viewjob?jk=d1572eb1de0f93cb) — Luton Airport, United Kingdom · hybrid
-- [Senior Operations Research Scientist](https://www.linkedin.com/jobs/view/4450230406/) — Data Science / Analytics · Luton, England, United Kingdom · hybrid
-- [Lead Software Engineer - Enable Ground Crew](https://www.linkedin.com/jobs/view/4448634334/) — Backend · Luton, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Platform Lead - Hosting](https://www.linkedin.com/jobs/view/4445338523/) — DevOps / SRE · Luton, England, United Kingdom · hybrid
-- [Lead Data Engineer](https://www.linkedin.com/jobs/view/4439301445/) — Data Engineering · Luton, England, United Kingdom · hybrid
-- [Tech Lead - Optimisation Engineering](https://www.linkedin.com/jobs/view/4404839068/) — Backend · Luton, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Full Stack Engineer .Net JavaScript - Sports Betting](https://www.linkedin.com/jobs/view/4467702136/) — Backend · Up to £100,000/yr · St Albans, England, United Kingdom
+- [C# Software Engineer / Team Lead](https://www.linkedin.com/jobs/view/4464872896/) — Backend · Up to £95,000/yr · West Berkshire, England, United Kingdom · remote · 🛂 visa sponsor
+- [Senior C# Developer Desktop Application](https://www.linkedin.com/jobs/view/4465082660/) — Backend · Up to £90,000/yr · Reigate, England, United Kingdom
+- [Senior Software Engineer C# .Net - FinTech](https://www.linkedin.com/jobs/view/4465077430/) — Backend · Up to £90,000/yr · Reigate, England, United Kingdom
+- [Backend Software Engineer C# .Net AWS](https://www.linkedin.com/jobs/view/4468605712/) — Backend · Up to £85,000/yr · Bracknell, England, United Kingdom
+- [C# Developer .Net Core](https://www.linkedin.com/jobs/view/4467170964/) — Backend · Up to £85,000/yr · Bracknell, England, United Kingdom · remote
+- [Senior Full Stack Engineer C# Vue.js](https://www.linkedin.com/jobs/view/4464868946/) — Backend · £85,000/yr · West Berkshire, England, United Kingdom
+
+### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (7)
+
+- [CMDB Application Developer & Reporting Specialist](https://dataengineeringjobs.co.uk/jobs/cmdb-application-developer-reporting-specialist-experis) — Data Engineering · £800–£850/day · GB
+- [Lead Azure Data Engineer](https://dataengineeringjobs.co.uk/jobs/lead-azure-data-engineer-experis) — Data Engineering · £650–£675/day · Remote · remote
+- [DV Cleared Data Engineer](https://www.linkedin.com/jobs/view/4466035765/) — Data Engineering · Up to £500/day · Matlock Bath, England, United Kingdom · 🛂 visa sponsor
+- [Senior DevOps Engineer - Derby](https://www.adzuna.co.uk/jobs/details/5880952952?utm_medium=api&utm_source=a9508167) — DevOps / SRE · £60,000–£90,000/yr · Cowley, Uxbridge
+- [Palantir / Data Engineer](https://www.linkedin.com/jobs/view/4456001533/) — Data Engineering · £40,000–£55,000/yr · England, United Kingdom · 🛂 visa sponsor
+- [Full Stack Developer](https://www.linkedin.com/jobs/view/4467176424/) — Backend · £41,000–£45,000/yr · Greater Lincoln Area, United Kingdom · 🛂 visa sponsor
+- [Front End Developer](https://www.linkedin.com/jobs/view/4465623224/) — Backend · Telford, England, United Kingdom · 🛂 visa sponsor
 
 ### [LSEG](https://jobs.winterchill.xyz/?employer=LSEG) (7)
 
@@ -560,15 +559,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Cloud Devops Engineer E3](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4445) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
 - [E2 Engineer - Customer Services Microservices Platform](https://dnn.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4455) — Backend · Swindon, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [NHS](https://jobs.winterchill.xyz/?employer=NHS) (7)
+### [Oliver Bernard](https://jobs.winterchill.xyz/?employer=Oliver%20Bernard) (7)
 
-- [Band 8a - Shared Patient Record Technical Systems Lead](https://uk.indeed.com/viewjob?jk=086270b7c6b97508) — £59,798–£67,020/yr · Watford, United Kingdom · hybrid
-- [Band 7 - Shared Patient Record Utilisation and Adoption Change Lead](https://uk.indeed.com/viewjob?jk=1ee39af97a378be5) — £51,657–£58,785/yr · Watford, United Kingdom · hybrid
-- [Senior Clinical Pharmacy Technician](https://uk.indeed.com/viewjob?jk=7fd621723996719c) — £36,943–£44,900/yr · Sutton, United Kingdom
-- [Assistant Therapy Practitioner Occupational Therapy](https://uk.indeed.com/viewjob?jk=92e65942972a2b83) — £28,392–£31,157/yr · High Wycombe, United Kingdom
-- [Assistant Therapy Practitioner](https://uk.indeed.com/viewjob?jk=0c897b066cd746ea) — £28,392–£31,157/yr · Stevenage, United Kingdom
-- [Neuro Rehab Assistant](https://uk.indeed.com/viewjob?jk=2fc5f10cfa0e8571) — £27,106–£28,850/yr · Epsom, United Kingdom
-- [Band 3 - Dispensary Pharmacy Assistant, Pharmacy](https://uk.indeed.com/viewjob?jk=fc3249842e3841e7) — £27,106–£28,850/yr · Watford, United Kingdom
+- [Platform Manager](https://www.linkedin.com/jobs/view/4464767642/) — £100,000–£130,000/yr · Staines-Upon-Thames, England, United Kingdom · hybrid
+- [Senior Full Stack Engineer (Go/React)](https://www.linkedin.com/jobs/view/4450803222/) — Backend · £90,000–£110,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Full Stack Engineer (Frontend lean)](https://www.linkedin.com/jobs/view/4450813128/) — Backend · £90,000–£110,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Backend Engineer (Node/TS) \| Fully Remote \| AI Fintech Scale-up \| Up to £100k + Benefits](https://www.linkedin.com/jobs/view/4466679053/) — Backend · Up to £100,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Software Engineering Lead](https://www.linkedin.com/jobs/view/4463009140/) — Backend · Up to £90,000/yr · United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer (Node.js/React)](https://www.linkedin.com/jobs/view/4456945714/) — Backend · £80,000–£90,000/yr · United Kingdom · remote · 🛂 visa sponsor
+- [Senior Full-Stack Developer](https://www.linkedin.com/jobs/view/4465970837/) — Backend · £70,000–£80,000/yr · Liverpool, England, United Kingdom · 🛂 visa sponsor
 
 ### [Paddle](https://jobs.winterchill.xyz/?employer=Paddle) (7)
 
@@ -600,26 +599,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Associate Autonomy Engineer](https://uk.indeed.com/viewjob?jk=aa61421ca5892592) — Farnborough, United Kingdom
 - [Associate Autonomy Engineer](https://www.linkedin.com/jobs/view/4467585087/) — Farnborough, England, United Kingdom
 
-### [Raytheon](https://jobs.winterchill.xyz/?employer=Raytheon) (7)
-
-- [Principal Training Developer](https://uk.indeed.com/viewjob?jk=22a018cd16099040) — Wokingham, United Kingdom
-- [Senior Software Engineer ATMS](https://uk.indeed.com/viewjob?jk=9e01978eb0950588) — Harlow, United Kingdom · hybrid
-- [Senior Systems Security Engineer](https://uk.indeed.com/viewjob?jk=354c5705117b90ea) — High Wycombe, United Kingdom · hybrid
-- [Chief Engineer](https://uk.indeed.com/viewjob?jk=ea03b2eafb2831b6) — High Wycombe, United Kingdom · hybrid
-- [Data Scientist & Machine Learning Researcher](https://www.linkedin.com/jobs/view/4465075688/) — Backend · Lancashire, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Data Scientist & Machine Learning Researcher](https://www.linkedin.com/jobs/view/4420909932/) — Backend · Gloucester, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Principal Software Engineer](https://www.linkedin.com/jobs/view/4387254633/) — Backend · Gloucester, England, United Kingdom · 🛂 visa sponsor
-
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (7)
-
-- [Senior Software Engineer, Windows/Desktop Applications - Brighton, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-brighton-united-kingdom-speechify-7954854) — Backend · Brighton and Hove, England, United Kingdom
-- [Software Engineer, Platform - Nottingham, United Kingdom](https://startup.jobs/software-engineer-platform-nottingham-united-kingdom-speechify-7982703) — Backend · Nottingham, England, United Kingdom
-- [Senior Software Engineer, Core Experiences - Brighton, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-brighton-united-kingdom-speechify-7974752) — Backend · Brighton and Hove, England, United Kingdom · remote
-- [Senior Software Engineer, Core Experiences - Nottingham, United Kingdom](https://startup.jobs/senior-software-engineer-core-experiences-nottingham-united-kingdom-speechify-7974786) — Backend · Nottingham, England, United Kingdom · remote
-- [Senior Software Engineer, Windows/Desktop Applications - Nottingham, United Kingdom](https://startup.jobs/senior-software-engineer-windows-desktop-applications-nottingham-united-kingdom-speechify-7982581) — Backend · Nottingham, England, United Kingdom
-- [Software Engineer, Data Infrastructure & Acquisition - Nottingham, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-nottingham-united-kingdom-speechify-7960158) — Backend · Nottingham, England, United Kingdom
-- [Software Engineer, Data Infrastructure & Acquisition - Brighton, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-brighton-united-kingdom-speechify-7974872) — Backend · Brighton and Hove, England, United Kingdom
-
 ### [SussexDigital](https://jobs.winterchill.xyz/?employer=SussexDigital) (7)
 
 - [Campus – Internship Programme – Undergraduate Information Security Engineer – 2027 (UK – Burgess Hill)](https://www.linkedin.com/jobs/view/4466509886/) — DevOps / SRE · Burgess Hill, England, United Kingdom
@@ -650,23 +629,32 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead C# Engineer](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/202602379) — Backend · Reigate, Surrey, United Kingdom · hybrid · 🛂 visa sponsor
 - [Director of Engineering](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/202603140) — Engineering Management · Reigate, Surrey, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Boeing](https://jobs.winterchill.xyz/?employer=Boeing) (6)
+### Company not listed (6)
 
-- [PMO Analyst Intern - 12 Month Placement](https://uk.indeed.com/viewjob?jk=6f39a0cdab1c3134) — Frimley, United Kingdom
-- [Simulator Engineering Intern - 12 Month Placement](https://www.linkedin.com/jobs/view/4464233023/) — Crawley, England, United Kingdom · 🛂 visa sponsor
-- [Aerodynamics Engineering Intern- Summer 2027](https://www.linkedin.com/jobs/view/4464214054/) — Farnborough, England, United Kingdom
-- [Support Engineering Data Intern- 12 Month Placement](https://uk.indeed.com/viewjob?jk=045fbe4ce8ee9764) — Welwyn Garden City, United Kingdom · hybrid
-- [C++ Software Engineer](https://www.linkedin.com/jobs/view/4441881574/) — Backend · Fleet, England, United Kingdom · hybrid
-- [Software Engineer–Simulation (Simulation)](https://www.linkedin.com/jobs/view/4423604620/) — Backend · Fleet, England, United Kingdom
+- [AWS Solution Architect](https://uk.indeed.com/viewjob?jk=51226cb9aef6b48e) — DevOps / SRE · £70,000–£75,000/yr · Gravesend, United Kingdom
+- [Chief Pharmacy Technician - ePMA & Digital Services](https://uk.indeed.com/viewjob?jk=4bfb53b1f1c6a356) — £55,524–£62,652/yr · Kingston upon Thames, United Kingdom
+- [Laboratory Manager - Andrology](https://uk.indeed.com/viewjob?jk=214b0106c87735f4) — £55,524–£62,652/yr · Kingston upon Thames, United Kingdom
+- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=320bbc2eea1a65ca) — £55,000–£60,000/yr · Abbey Wood, United Kingdom
+- [1. Founder’s Associate - Benjamin Button](https://uk.indeed.com/viewjob?jk=7a9063a8e34f0e02) — £30,000–£35,000/yr · Wood Green, United Kingdom
+- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=8eb30dd75b47776a) — Backend · Horsham, United Kingdom · hybrid
 
-### [Client Server](https://jobs.winterchill.xyz/?employer=Client%20Server) (6)
+### [easyJet](https://jobs.winterchill.xyz/?employer=easyJet) (6)
 
-- [C# Software Engineer / Team Lead](https://www.linkedin.com/jobs/view/4464872896/) — Backend · Up to £95,000/yr · West Berkshire, England, United Kingdom · remote · 🛂 visa sponsor
-- [Senior C# Developer Desktop Application](https://www.linkedin.com/jobs/view/4465082660/) — Backend · Up to £90,000/yr · Reigate, England, United Kingdom
-- [Senior Software Engineer C# .Net - FinTech](https://www.linkedin.com/jobs/view/4465077430/) — Backend · Up to £90,000/yr · Reigate, England, United Kingdom
-- [Backend Software Engineer C# .Net AWS](https://www.linkedin.com/jobs/view/4468605712/) — Backend · Up to £85,000/yr · Bracknell, England, United Kingdom
-- [C# Developer .Net Core](https://www.linkedin.com/jobs/view/4467170964/) — Backend · Up to £85,000/yr · Bracknell, England, United Kingdom · remote
-- [Senior Full Stack Engineer C# Vue.js](https://www.linkedin.com/jobs/view/4464868946/) — Backend · £85,000/yr · West Berkshire, England, United Kingdom
+- [Platform Chapter Lead - Engineering](https://www.linkedin.com/jobs/view/4468245200/) — DevOps / SRE · Luton, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Head of People Data, Insight and Analytics](https://uk.indeed.com/viewjob?jk=d1572eb1de0f93cb) — Luton Airport, United Kingdom · hybrid
+- [Senior Operations Research Scientist](https://www.linkedin.com/jobs/view/4450230406/) — Data Science / Analytics · Luton, England, United Kingdom · hybrid
+- [Lead Software Engineer - Enable Ground Crew](https://www.linkedin.com/jobs/view/4448634334/) — Backend · Luton, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Lead Data Engineer](https://www.linkedin.com/jobs/view/4439301445/) — Data Engineering · Luton, England, United Kingdom · hybrid
+- [Tech Lead - Optimisation Engineering](https://www.linkedin.com/jobs/view/4404839068/) — Backend · Luton, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [NHS](https://jobs.winterchill.xyz/?employer=NHS) (6)
+
+- [Band 8a - Shared Patient Record Technical Systems Lead](https://uk.indeed.com/viewjob?jk=086270b7c6b97508) — £59,798–£67,020/yr · Watford, United Kingdom · hybrid
+- [Band 7 - Shared Patient Record Utilisation and Adoption Change Lead](https://uk.indeed.com/viewjob?jk=1ee39af97a378be5) — £51,657–£58,785/yr · Watford, United Kingdom · hybrid
+- [Senior Clinical Pharmacy Technician](https://uk.indeed.com/viewjob?jk=7fd621723996719c) — £36,943–£44,900/yr · Sutton, United Kingdom
+- [Assistant Therapy Practitioner Occupational Therapy](https://uk.indeed.com/viewjob?jk=92e65942972a2b83) — £28,392–£31,157/yr · High Wycombe, United Kingdom
+- [Assistant Therapy Practitioner](https://uk.indeed.com/viewjob?jk=0c897b066cd746ea) — £28,392–£31,157/yr · Stevenage, United Kingdom
+- [Neuro Rehab Assistant](https://uk.indeed.com/viewjob?jk=2fc5f10cfa0e8571) — £27,106–£28,850/yr · Epsom, United Kingdom
 
 ### [Quik Hire Staffing](https://jobs.winterchill.xyz/?employer=Quik%20Hire%20Staffing) (6)
 
@@ -683,8 +671,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior DevOps Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Richmond/Senior-DevOps-Engineer_R118543-1) — DevOps / SRE · Richmond, United Kingdom · 🛂 visa sponsor
 - [Intermediate Software Engineer](https://relx.wd3.myworkdayjobs.com/relx/job/Richmond/Intermediate-Software-Engineer_R117477-1) — Backend · Richmond, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer II](https://relx.wd3.myworkdayjobs.com/relx/job/Richmond/Senior-Software-Engineer-II_R117056-1) — Backend · Richmond, United Kingdom · 🛂 visa sponsor
-- [Senior Data Scientist I](https://relx.wd3.myworkdayjobs.com/relx/job/United-Kingdom/Senior-Data-Scientist-I_R114918-1) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Scientist III](https://relx.wd3.myworkdayjobs.com/relx/job/United-Kingdom/Data-Scientist-III_R114916) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Data Scientist I](https://relx.wd3.myworkdayjobs.com/relx/job/United-Kingdom/Senior-Data-Scientist-I_R114918-1) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Syngenta](https://jobs.winterchill.xyz/?employer=Syngenta) (6)
 
@@ -700,14 +688,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Product Manager – Infrastructure Cloud Platform](https://uk.indeed.com/viewjob?jk=a0957c2bb276e536) — £68,000–£90,000/yr (est.) · Welwyn Garden City, United Kingdom
 - [Lead Product Manager - Customer Fulfilment (Future Automation)](https://www.glassdoor.co.uk/job-listing/lead-product-manager-customer-fulfilment-future-automation-tesco-JV_IC2670200_KO0,58_KE59,64.htm?jl=1010257620855) — £68,000–£90,000/yr (est.) · Welwyn Garden City, England
 - [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4466189407/) — Backend · £27,850–£36,500/yr (est.) · Welwyn Garden City, England, United Kingdom
-- [Data Scientist - Neural Net Forecasting](https://uk.indeed.com/viewjob?jk=69bae2c39f93ca9f) — Backend · Welwyn Garden City, United Kingdom
-- [Power BI Developer](https://uk.indeed.com/viewjob?jk=c55d1f71303c1166) — Data Engineering · Welwyn Garden City, United Kingdom
+- [Data Scientist - Neural Net Forecasting](https://uk.indeed.com/viewjob?jk=69bae2c39f93ca9f) — Backend · Welwyn Garden City, United Kingdom · hybrid
+- [Power BI Developer](https://uk.indeed.com/viewjob?jk=c55d1f71303c1166) — Data Engineering · Welwyn Garden City, United Kingdom · hybrid
 - [Head of Software Development - DevEx & Agentic AI](https://www.linkedin.com/jobs/view/4466872654/) — Backend · Welwyn Garden City, England, United Kingdom
 
 ### [Thales](https://jobs.winterchill.xyz/?employer=Thales) (6)
 
-- [Digital Technology Engineer](https://uk.indeed.com/viewjob?jk=84598230ed504985) — Crawley, United Kingdom
-- [Industrial Data & Software Engineer](https://uk.indeed.com/viewjob?jk=8fbf0e43edca0bd2) — Backend · Crawley, United Kingdom
+- [Digital Technology Engineer](https://uk.indeed.com/viewjob?jk=84598230ed504985) — Crawley, United Kingdom · 🛂 visa sponsor
+- [Industrial Data & Software Engineer](https://uk.indeed.com/viewjob?jk=8fbf0e43edca0bd2) — Backend · Crawley, United Kingdom · 🛂 visa sponsor
 - [Digital Technology Engineer](https://www.linkedin.com/jobs/view/4469210063/) — Crawley, England, United Kingdom · 🛂 visa sponsor
 - [Industrial Data & Software Engineer](https://www.linkedin.com/jobs/view/4469203123/) — Crawley, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer](https://uk.indeed.com/viewjob?jk=8df41a5f3251f597) — Crawley, United Kingdom · 🛂 visa sponsor
@@ -715,25 +703,16 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Unity](https://jobs.winterchill.xyz/?employer=Unity) (6)
 
-- [Software Engineering Manager, Android Platform](https://www.linkedin.com/jobs/view/4467872781/) — Engineering Management · £75,400–£113,000/yr · Brighton, England, United Kingdom
+- [Software Engineering Manager, Android Platform](https://www.linkedin.com/jobs/view/4467872781/) — Engineering Management · £75,400–£113,000/yr · Brighton, England, United Kingdom · remote
 - [Senior Software Engineer, Embedded Android](https://uk.indeed.com/viewjob?jk=2013c0f3a6fcc0b8) — Backend · £72,300–£113,000/yr · Brighton, United Kingdom
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467881733/) — £55,700–£95,500/yr · Brighton, England, United Kingdom
 - [Senior Embedded Software Engineer](https://uk.indeed.com/viewjob?jk=943f1d2c6141018e) — Backend · £54,200–£95,500/yr · Brighton, United Kingdom
 - [Senior Software Engineer, Web Platform](https://www.linkedin.com/jobs/view/4467872787/) — Platform / Infrastructure · £55,700–£83,500/yr · Brighton, England, United Kingdom
 - [Software Engineer, Quality](https://uk.indeed.com/viewjob?jk=04ddeb438d80e23a) — QA / Test Automation · £29,000–£55,800/yr · Brighton, United Kingdom
 
-### [Xe.com](https://jobs.winterchill.xyz/?employer=Xe.com) (6)
-
-- [Senior Software Developer](https://www.linkedin.com/jobs/view/4467923513/) — Backend · Bracknell, England, United Kingdom
-- [Team Lead Software Engineer](https://www.linkedin.com/jobs/view/4469164283/) — Backend · Bracknell, England, United Kingdom
-- [Full Stack Software Engineer (Senior)](https://www.linkedin.com/jobs/view/4466486477/) — Backend · Bracknell, England, United Kingdom
-- [Senior Software Developer - Back End](https://www.linkedin.com/jobs/view/4466043307/) — Backend · Bracknell, England, United Kingdom
-- [Sr Back-End Engineer](https://www.linkedin.com/jobs/view/4466052216/) — Backend · Bracknell, England, United Kingdom
-- [Back-end Engineer (Senior)](https://www.linkedin.com/jobs/view/4464004051/) — Backend · Bracknell, England, United Kingdom
-
 ### [Affirm](https://jobs.winterchill.xyz/?employer=Affirm) (5)
 
-- [Staff Software Engineer, Backend (Identity International)](https://startup.jobs/staff-software-engineer-backend-identity-international-affirm-2-9793282) — £142,000–£190,000/yr · United Kingdom
+- [Staff Software Engineer, Backend (Identity International)](https://www.linkedin.com/jobs/view/4459424266/) — Backend · £142,000–£190,000/yr · United Kingdom · remote · 🛂 visa sponsor
 - [Manager, Software Engineering (International)](https://startup.jobs/manager-software-engineering-international-affirm-2-8988222) — £142,000–£190,000/yr · United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer, Fullstack (International)](https://startup.jobs/senior-software-engineer-fullstack-international-affirm-2-8996945) — £120,000–£168,000/yr · United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer, Backend (Payments)](https://startup.jobs/senior-software-engineer-backend-payments-affirm-2-7985557) — Backend · £120,000–£168,000/yr · United Kingdom · remote · 🛂 visa sponsor
@@ -749,9 +728,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [bp](https://jobs.winterchill.xyz/?employer=bp) (5)
 
-- [EOR Specialist](https://uk.indeed.com/viewjob?jk=30c1dba44d96f0cd) — Sunbury, United Kingdom
-- [Software Engineer](https://uk.indeed.com/viewjob?jk=a3d2ff109203d1f6) — Backend · Sunbury, United Kingdom
-- [EOR Specialist](https://www.linkedin.com/jobs/view/4466958718/) — Sunbury-On-Thames, England, United Kingdom · 🛂 visa sponsor
+- [EOR Specialist](https://uk.indeed.com/viewjob?jk=30c1dba44d96f0cd) — Sunbury, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://uk.indeed.com/viewjob?jk=a3d2ff109203d1f6) — Backend · Sunbury, United Kingdom · hybrid · 🛂 visa sponsor
+- [EOR Specialist](https://www.linkedin.com/jobs/view/4466958718/) — Sunbury-On-Thames, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Dev Ops Lead – Virtual Assistant and Automation](https://www.linkedin.com/jobs/view/4463494328/) — DevOps / SRE · Sunbury-On-Thames, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Technologist](https://www.linkedin.com/jobs/view/4462263699/) — Sunbury-On-Thames, England, United Kingdom · 🛂 visa sponsor
 
@@ -779,14 +758,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Principal Rendering Engineer - MPG - Fully remote from the UK or the EU](https://apply.workable.com/j/45E83EE087/apply) — Game Engineering · United Kingdom · remote · 🛂 visa sponsor
 - [Principal Backend Engineer - MPG - Fully remote from the UK or the EU](https://apply.workable.com/j/F9D290E94D/apply) — Backend · United Kingdom · remote · 🛂 visa sponsor
 
-### Company not listed (5)
-
-- [AWS Solution Architect](https://uk.indeed.com/viewjob?jk=51226cb9aef6b48e) — DevOps / SRE · £70,000–£75,000/yr · Gravesend, United Kingdom
-- [Chief Pharmacy Technician - ePMA & Digital Services](https://uk.indeed.com/viewjob?jk=4bfb53b1f1c6a356) — £55,524–£62,652/yr · Kingston upon Thames, United Kingdom
-- [Laboratory Manager - Andrology](https://uk.indeed.com/viewjob?jk=214b0106c87735f4) — £55,524–£62,652/yr · Kingston upon Thames, United Kingdom
-- [Senior Software Engineer](https://uk.indeed.com/viewjob?jk=320bbc2eea1a65ca) — £55,000–£60,000/yr · Abbey Wood, United Kingdom
-- [1. Founder’s Associate - Benjamin Button](https://uk.indeed.com/viewjob?jk=7a9063a8e34f0e02) — £30,000–£35,000/yr · Wood Green, United Kingdom
-
 ### [Elastic](https://jobs.winterchill.xyz/?employer=Elastic) (5)
 
 - [Principal Software Engineer - Search Infra - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=8213963&gh_jid=8213963) — Backend · United Kingdom · 🛂 visa sponsor
@@ -794,6 +765,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec](https://jobs.elastic.co/jobs?gh_jid=8195967&gh_jid=8195967) — Backend · United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer - Integrations 3P - Platform](https://jobs.elastic.co/jobs?gh_jid=8173421&gh_jid=8173421) — Backend · United Kingdom · remote · 🛂 visa sponsor
 - [Software Engineer II - EDR Workflows - Security](https://jobs.elastic.co/jobs?gh_jid=8173419&gh_jid=8173419) — Backend · United Kingdom · 🛂 visa sponsor
+
+### [Netrolynx AI](https://jobs.winterchill.xyz/?employer=Netrolynx%20AI) (5)
+
+- [Java Developer](https://www.linkedin.com/jobs/view/4469594022/) — Backend · £700–£750/day · United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://www.linkedin.com/jobs/view/4467498117/) — Backend · £59,813/yr · United Kingdom · 🛂 visa sponsor
+- [Backend Developer](https://www.linkedin.com/jobs/view/4469590159/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4469514121/) — Backend · United Kingdom · 🛂 visa sponsor
+- [Software Developer](https://www.linkedin.com/jobs/view/4466757124/) — Backend · United Kingdom · 🛂 visa sponsor
 
 ### [Pharmaron Beijing Co., Ltd](https://jobs.winterchill.xyz/?employer=Pharmaron%20Beijing%20Co.%2C%20Ltd) (5)
 
@@ -827,19 +806,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [HPC Engineer](https://www.linkedin.com/jobs/view/4438778336/) — DevOps / SRE · Crawley, England, United Kingdom · 🛂 visa sponsor
 - [HPC Services Team Leader](https://www.linkedin.com/jobs/view/4420129996/) — DevOps / SRE · Haywards Heath, England, United Kingdom · 🛂 visa sponsor
 
-### [Acorn Group](https://jobs.winterchill.xyz/?employer=Acorn%20Group) (4)
+### [Xe.com](https://jobs.winterchill.xyz/?employer=Xe.com) (5)
 
-- [Technical Lead](https://www.linkedin.com/jobs/view/4464005565/) — Backend · £70,000–£85,000/yr · Liverpool, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4466459462/) — Backend · £65,000–£75,000/yr · Liverpool, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Backend Developer](https://www.linkedin.com/jobs/view/4459879267/) — Backend · £65,000–£75,000/yr · Liverpool, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Backend Developer](https://www.linkedin.com/jobs/view/4459856371/) — Backend · £45,000–£55,000/yr · Liverpool, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [AJW Group](https://jobs.winterchill.xyz/?employer=AJW%20Group) (4)
-
-- [Data Engineer](https://uk.indeed.com/viewjob?jk=d4217f1327376242) — Data Engineering · Slinfold, United Kingdom · hybrid
-- [AI Engineer](https://uk.indeed.com/viewjob?jk=3743be29e9481bd6) — Backend · Slinfold, United Kingdom · hybrid
-- [Data Engineer](https://www.linkedin.com/jobs/view/4465678417/) — Data Engineering · Slinfold, England, United Kingdom
-- [AI Engineer](https://www.linkedin.com/jobs/view/4465682402/) — Backend · Slinfold, England, United Kingdom · 🛂 visa sponsor
+- [Team Lead Software Engineer](https://www.linkedin.com/jobs/view/4469164283/) — Backend · Bracknell, England, United Kingdom
+- [Senior Software Developer](https://www.linkedin.com/jobs/view/4467418748/) — Backend · Bracknell, England, United Kingdom
+- [Full Stack Software Engineer (Senior)](https://www.linkedin.com/jobs/view/4466486477/) — Backend · Bracknell, England, United Kingdom
+- [Senior Software Developer - Back End](https://www.linkedin.com/jobs/view/4466043307/) — Backend · Bracknell, England, United Kingdom
+- [Sr Back-End Engineer](https://www.linkedin.com/jobs/view/4466052216/) — Backend · Bracknell, England, United Kingdom
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (4)
 
@@ -862,16 +835,23 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Lead UI Developer – Single Dealer Platform (TypeScript / RxJS / React)](https://www.linkedin.com/jobs/view/4448315656/) — Backend · Bromley, England, United Kingdom
 - [Software Engineer III - UI Development Team](https://www.linkedin.com/jobs/view/4410988992/) — Backend · Bromley, England, United Kingdom
 
+### [British Airways](https://jobs.winterchill.xyz/?employer=British%20Airways) (4)
+
+- [Principal Data Engineer - Finance & Transformation](https://uk.indeed.com/viewjob?jk=ee18420165516d93) — Data Engineering · £55,500–£70,000/yr (est.) · Heathrow, United Kingdom · 🛂 visa sponsor
+- [Principal Data Engineer - Finance & Transformation](https://www.linkedin.com/jobs/view/4468827598/) — Data Engineering · £55,500–£70,000/yr (est.) · Hounslow, England, United Kingdom · 🛂 visa sponsor
+- [Principal Data Scientist - Finance & Transformation](https://uk.indeed.com/viewjob?jk=eb4526be34ede66e) — Heathrow, United Kingdom · 🛂 visa sponsor
+- [AI Product Delivery Lead](https://www.glassdoor.co.uk/job-listing/ai-product-delivery-lead-british-airways-JV_IC3288239_KO0,24_KE25,40.htm?jl=1010258076036) — Heathrow, England · 🛂 visa sponsor
+
 ### [Centrica](https://jobs.winterchill.xyz/?employer=Centrica) (4)
 
 - [AI Engineering Manager](https://uk.indeed.com/viewjob?jk=f1c69c8423d2ee3d) — Backend · Windsor, United Kingdom · 🛂 visa sponsor
-- [Amazon Connect Engineer](https://www.linkedin.com/jobs/view/4467102852/) — Backend · Windsor, England, United Kingdom · 🛂 visa sponsor
+- [Amazon Connect Engineer](https://www.linkedin.com/jobs/view/4467102852/) — Backend · Windsor, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4467112405/) — Backend · Windsor, England, United Kingdom · 🛂 visa sponsor
 - [AI Engineering Manager](https://www.linkedin.com/jobs/view/4466879242/) — Backend · Windsor, England, United Kingdom · 🛂 visa sponsor
 
 ### [Elanco](https://jobs.winterchill.xyz/?employer=Elanco) (4)
 
-- [Lead Engineer - Software Engineering](https://uk.indeed.com/viewjob?jk=6e681660ad161bce) — Backend · Hook, United Kingdom
+- [Lead Engineer - Software Engineering](https://uk.indeed.com/viewjob?jk=6e681660ad161bce) — Backend · Hook, United Kingdom · hybrid
 - [Senior Workday Integrations Product Engineer](https://uk.indeed.com/viewjob?jk=c430f066b73e0318) — Backend · Hook, United Kingdom · hybrid
 - [Lead Engineer - Software Engineering](https://www.linkedin.com/jobs/view/4454112440/) — Backend · Hook, England, United Kingdom
 - [Lead Engineer](https://www.linkedin.com/jobs/view/4400196246/) — Backend · Hook, England, United Kingdom · hybrid
@@ -904,13 +884,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [D365 Administrator](https://uk.indeed.com/viewjob?jk=57aa1fe1d754f09c) — Biggin Hill, United Kingdom
 - [Data Analyst](https://uk.indeed.com/viewjob?jk=de58b6768cc061c2) — Biggin Hill, United Kingdom
 
-### [HCRG Care Group](https://jobs.winterchill.xyz/?employer=HCRG%20Care%20Group) (4)
-
-- [Bank Senior Speech & Language Therapist - SE Surrey](https://uk.indeed.com/viewjob?jk=3a94b0a87a7db66e) — Redhill, United Kingdom
-- [Bank Senior Occupational Therapist - SW Surrey](https://uk.indeed.com/viewjob?jk=03ec8122cf549863) — Guildford, United Kingdom
-- [Bank Senior Occupational Therapist - NW Surrey](https://uk.indeed.com/viewjob?jk=a64fb5eaea941fd2) — Chertsey, United Kingdom
-- [Band 5 School Nurse, Maldon](https://uk.indeed.com/viewjob?jk=99325a2d3fca0fc4) — Maldon, United Kingdom
-
 ### [Hired](https://jobs.winterchill.xyz/?employer=Hired) (4)
 
 - [Full-Stack Developer (Remote)](https://www.linkedin.com/jobs/view/4467096284/) — Backend · United Kingdom · 🛂 visa sponsor
@@ -918,19 +891,26 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Python Engineer (Remote)](https://www.linkedin.com/jobs/view/4467085525/) — Backend · United Kingdom · remote · 🛂 visa sponsor
 - [Frontend Engineer (Remote)](https://www.linkedin.com/jobs/view/4467076625/) — Backend · United Kingdom · remote · 🛂 visa sponsor
 
-### [IBM](https://jobs.winterchill.xyz/?employer=IBM) (4)
-
-- [Software Developer Intern 2027 (12 month Placement)](https://www.linkedin.com/jobs/view/4464771773/) — Backend · Hursley, England, United Kingdom · 🛂 visa sponsor
-- [Software Developer (Full-Stack, UI-Heavy)](https://www.linkedin.com/jobs/view/4462226512/) — Backend · Markham, Wales, United Kingdom · 🛂 visa sponsor
-- [Senior Front End Developer - eSC or eDV Clearance Required](https://www.linkedin.com/jobs/view/4417249749/) — Backend · Hursley, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior AWS Cloud Fullstack Developer - eSC or eDV Clearance Required](https://www.linkedin.com/jobs/view/4426489512/) — Backend · Hursley, England, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [IRIS Software Group](https://jobs.winterchill.xyz/?employer=IRIS%20Software%20Group) (4)
 
 - [Engineering Lead - Accountancy](https://www.linkedin.com/jobs/view/4463905400/) — Backend · United Kingdom · 🛂 visa sponsor
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4463908397/) — Backend · United Kingdom · 🛂 visa sponsor
 - [Principal Software Engineer - Agentic AI](https://www.linkedin.com/jobs/view/4440439566/) — Backend · United Kingdom · 🛂 visa sponsor
 - [Engineering Lead](https://www.linkedin.com/jobs/view/4418754620/) — Backend · United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Kuehne+Nagel](https://jobs.winterchill.xyz/?employer=Kuehne%2BNagel) (4)
+
+- [Analyst Programmer](https://www.linkedin.com/jobs/view/4469255612/) — Backend · Uxbridge, England, United Kingdom · 🛂 visa sponsor
+- [Analyst Programmer](https://uk.indeed.com/viewjob?jk=3b7af3f1ea46c359) — Backend · Milton Keynes, United Kingdom · 🛂 visa sponsor
+- [Global Air Logistics IT (Senior) Software Engineer Perishables](https://www.linkedin.com/jobs/view/4460383089/) — Backend · Milton Keynes, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [AI & Cloud Developer - Financial IT](https://www.linkedin.com/jobs/view/4441205932/) — Backend · Milton Keynes, England, United Kingdom · remote · 🛂 visa sponsor
+
+### [Leidos](https://jobs.winterchill.xyz/?employer=Leidos) (4)
+
+- [Senior Software Engineer (Full Stack)](https://www.linkedin.com/jobs/view/4422380547/) — Backend · £61,500–£78,800/yr · Farnborough, England, United Kingdom · remote
+- [Technical Lead](https://uk.indeed.com/viewjob?jk=70554dcad1ba0df1) — £61,500–£78,800/yr · Farnborough, United Kingdom · remote
+- [Cyber Security Engineer](https://uk.indeed.com/viewjob?jk=cf2100e92b31eaa5) — £47,600–£61,000/yr · Farnborough, United Kingdom
+- [Software Engineer](https://www.linkedin.com/jobs/view/4457324808/) — Backend · £30,400/yr · Ham, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [LGC](https://jobs.winterchill.xyz/?employer=LGC) (4)
 
@@ -948,8 +928,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Menlo Security](https://jobs.winterchill.xyz/?employer=Menlo%20Security) (4)
 
-- [Senior Software Engineer (Chromium)](https://jobs.ashbyhq.com/menlosecurity/43b68d12-2371-48c8-91c7-e69d6d0aa9c2) — Backend · EMEA - UK · 🛂 visa sponsor
 - [Senior Software Engineer](https://jobs.ashbyhq.com/menlosecurity/1aca00c9-c139-4dc8-aacb-4180f36a149f) — Backend · EMEA - UK · 🛂 visa sponsor
+- [Senior Software Engineer (Chromium)](https://jobs.ashbyhq.com/menlosecurity/43b68d12-2371-48c8-91c7-e69d6d0aa9c2) — Backend · EMEA - UK · 🛂 visa sponsor
 - [Senior Engineer I(UK region)](https://jobs.ashbyhq.com/menlosecurity/f6e658d0-1388-463b-8109-2716a64335a3) — Backend · EMEA - UK · remote · 🛂 visa sponsor
 - [Principal Platform Infrastructure Engineer (SRE Enablement)](https://jobs.ashbyhq.com/menlosecurity/e41e7613-f4a0-40f6-8aea-f895af9f021f) — DevOps / SRE · EMEA - Distributed (UK) · 🛂 visa sponsor
 
@@ -960,23 +940,23 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Engineer](https://www.mews.com/en/careers/jobs/4971619101?gh_jid=4971619101) — Backend · £81,000–£106,500/yr · Czechia; Ireland; Spain; United Kingdom · remote · 🛂 visa sponsor
 - [Analytics Engineer - Finance](https://www.mews.com/en/careers/jobs/4938369101?gh_jid=4938369101) — Backend · £49,500–£55,500/yr · Czechia; France; Spain; United Kingdom · remote · 🛂 visa sponsor
 
-### [Netrolynx AI](https://jobs.winterchill.xyz/?employer=Netrolynx%20AI) (4)
+### [Motorola Solutions](https://jobs.winterchill.xyz/?employer=Motorola%20Solutions) (4)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4467498117/) — Backend · £59,813/yr · United Kingdom · 🛂 visa sponsor
-- [Java Developer](https://www.linkedin.com/jobs/view/4469519014/) — Backend · United Kingdom · 🛂 visa sponsor
-- [Frontend Developer](https://www.linkedin.com/jobs/view/4469514121/) — Backend · United Kingdom · 🛂 visa sponsor
-- [Software Developer](https://www.linkedin.com/jobs/view/4466757124/) — Backend · United Kingdom · 🛂 visa sponsor
+- [Senior Backend Software Engineer](https://www.linkedin.com/jobs/view/4381600780/) — Backend · Uxbridge, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [C# Software Engineer - Temporary from 01/01/2027 for 12 months](https://www.linkedin.com/jobs/view/4465683643/) — Backend · United Kingdom · remote · 🛂 visa sponsor
+- [Mid Level Back End Software Engineer](https://www.linkedin.com/jobs/view/4458295162/) — Backend · Uxbridge, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4394639282/) — Backend · Ware, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Network Rail](https://jobs.winterchill.xyz/?employer=Network%20Rail) (4)
 
 - [Head of Vehicle Track Integration](https://uk.indeed.com/viewjob?jk=ecd013979d4ad453) — £116,753–£150,696/yr · Blackfriars Station, United Kingdom
 - [Programme Engineering Manager [Eng Mgmt] [Systemwide & Integration]](https://www.linkedin.com/jobs/view/4465075152/) — £85,395–£104,160/yr · England, United Kingdom · 🛂 visa sponsor
-- [Safety, Health & Environment Analysis & Reporting Manager](https://uk.indeed.com/viewjob?jk=836877add880c505) — £55,596–£67,813/yr · Blackfriars Station, United Kingdom
+- [Safety, Health & Environment Analysis & Reporting Manager](https://uk.indeed.com/viewjob?jk=836877add880c505) — £55,596–£67,813/yr · Blackfriars Station, United Kingdom · hybrid
 - [BI Services Scrum Master](https://uk.indeed.com/viewjob?jk=3c1364caf8af3c97) — £55,596–£67,813/yr · Milton Keynes, United Kingdom · hybrid
 
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (4)
 
-- [.NET Developer](https://www.linkedin.com/jobs/view/4466539144/) — Backend · £130,000–£150,000/yr · Derby, England, United Kingdom · remote · 🛂 visa sponsor
+- [.NET Developer](https://www.linkedin.com/jobs/view/4465217037/) — Backend · £130,000–£150,000/yr · Brighton, England, United Kingdom · remote
 - [.NET Developer – St Albans](https://www.linkedin.com/jobs/view/4468669381/) — Backend · £70,000–£105,000/yr · St Albans, England, United Kingdom
 - [.NET Developer - Hemel Hempstead](https://www.linkedin.com/jobs/view/4468615531/) — Backend · £40,000–£65,000/yr · Hemel Hempstead, England, United Kingdom
 - [.NET Developer - Bradford](https://www.linkedin.com/jobs/view/4468218942/) — Backend · £40,000–£50,000/yr · Bedford, England, United Kingdom · remote · 🛂 visa sponsor
@@ -988,7 +968,28 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Embedded Software Engineer](https://jobs.smartrecruiters.com/PAConsulting/744000139304426) — Backend · Melbourn, United Kingdom · 🛂 visa sponsor
 - [Software Engineer - C++/Rust](https://jobs.smartrecruiters.com/PAConsulting/744000121403047) — Backend · Melbourn, United Kingdom · hybrid · 🛂 visa sponsor
 
-> …and **769 more companies** — see [`jobs.json`](jobs.json) or [browse the full list live](https://jobs.winterchill.xyz/?city=other).
+### [Pharmaron](https://jobs.winterchill.xyz/?employer=Pharmaron) (4)
+
+- [Principal Scientist, Process Chemistry - Late Stage Development](https://uk.indeed.com/viewjob?jk=ab91e132f6b0e924) — Hoddesdon, United Kingdom · 🛂 visa sponsor
+- [Scientist, Process Chemistry](https://uk.indeed.com/viewjob?jk=662889d331e24cf3) — Hoddesdon, United Kingdom · 🛂 visa sponsor
+- [Senior Scientist, Process Chemistry](https://uk.indeed.com/viewjob?jk=d683f4e8aa43812d) — Hoddesdon, United Kingdom · 🛂 visa sponsor
+- [Scientist, AMS](https://uk.indeed.com/viewjob?jk=6fcb627ac7a83fcb) — Hoddesdon, United Kingdom · 🛂 visa sponsor
+
+### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (4)
+
+- [Lead Game Security Engineer](https://apply.workable.com/j/DEDF1D420A/apply) — Embedded / Robotics · Runcorn, United Kingdom · 🛂 visa sponsor
+- [Senior Online Developer (JavaScript)](https://apply.workable.com/j/F5EF8217CE/apply) — Backend · Warwick, United Kingdom · 🛂 visa sponsor
+- [Animation Programmer (C++)](https://apply.workable.com/j/208EE0B93D/apply) — Embedded / Robotics · Warwick, United Kingdom · 🛂 visa sponsor
+- [Senior Animation Programmer](https://apply.workable.com/j/61463D358B/apply) — Embedded / Robotics · Warwick, United Kingdom · 🛂 visa sponsor
+
+### [Reka](https://jobs.winterchill.xyz/?employer=Reka) (4)
+
+- [Member of Technical Staff (Data Intelligence)](https://jobs.ashbyhq.com/reka/32f1d782-9a49-4a2e-8842-ac90d002bc8d) — Backend · US, UK, Singapore, Remote · remote · 🛂 visa sponsor
+- [Member of Technical Staff (Applied AI)](https://jobs.ashbyhq.com/reka/e059e019-b7f1-4ccb-a53b-1db4f821621c) — Backend · US, UK, Remote · remote · 🛂 visa sponsor
+- [Member of Technical Staff (ML)](https://jobs.ashbyhq.com/reka/731e2ebc-2e66-458a-9962-0bc880016941) — Backend · US, UK, Remote · remote · 🛂 visa sponsor
+- [Member of Technical Staff (GPU Performance Engineer)](https://jobs.ashbyhq.com/reka/6595a48b-8dfc-479d-ba2a-0bf9d188ec4d) — DevOps / SRE · US, UK, Singapore, Remote · remote · 🛂 visa sponsor
+
+> …and **751 more companies** — see [`jobs.json`](jobs.json) or [browse the full list live](https://jobs.winterchill.xyz/?city=other).
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

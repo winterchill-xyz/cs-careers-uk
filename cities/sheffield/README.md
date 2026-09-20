@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**5 open roles** · updated 2026-09-19
+**5 open roles** · updated 2026-09-20
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -13,7 +13,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [HOK Consulting - Technical Recruitment Consultancy](https://jobs.winterchill.xyz/?employer=HOK%20Consulting%20-%20Technical%20Recruitment%20Consultancy) (1)
 
-- [Java Software Engineer](https://www.linkedin.com/jobs/view/4469118030/) — Backend · Greater Sheffield Area · 🛂 visa sponsor
+- [Java Software Engineer](https://www.linkedin.com/jobs/view/4469118030/) — Backend · Greater Sheffield Area · hybrid · 🛂 visa sponsor
 
 ### [Pendo](https://jobs.winterchill.xyz/?employer=Pendo) (1)
 
