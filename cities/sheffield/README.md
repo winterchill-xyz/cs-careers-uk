@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**5 open roles** · updated 2026-09-20
+**7 open roles** · updated 2026-09-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -18,6 +18,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Pendo](https://jobs.winterchill.xyz/?employer=Pendo) (1)
 
 - [Sr. Software Engineer](https://startup.jobs/sr-software-engineer-pendo-8997753) — £60,000–£78,000/yr · Sheffield, England, United Kingdom
+
+### [RedRock Resourcing](https://jobs.winterchill.xyz/?employer=RedRock%20Resourcing) (1)
+
+- [Senior Software Engineer - C#/.Net/Angular - New](https://www.linkedin.com/jobs/view/4468707777/) — Sheffield, England, United Kingdom · 🛂 visa sponsor
+
+### [Sparta Global](https://jobs.winterchill.xyz/?employer=Sparta%20Global) (1)
+
+- [Graduate Data or Dev-ops Engineer ( Python tech test )](https://www.linkedin.com/jobs/view/4465200092/) — Backend · Sheffield, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Third Nexus Group Limited](https://jobs.winterchill.xyz/?employer=Third%20Nexus%20Group%20Limited) (1)
 

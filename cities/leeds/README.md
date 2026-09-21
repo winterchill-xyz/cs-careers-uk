@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**22 open roles** · updated 2026-09-20
+**24 open roles** · updated 2026-09-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -36,6 +36,18 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Software Engineer](https://www.linkedin.com/jobs/view/4466661777/) — Backend · Greater Leeds Area · remote · 🛂 visa sponsor
 
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
+
+- [Data Engineer (Databricks and AWS)](https://www.linkedin.com/jobs/view/4450775411/) — Data Engineering · Leeds, England, United Kingdom · hybrid
+
+### [Enablis](https://jobs.winterchill.xyz/?employer=Enablis) (1)
+
+- [AI Engineer (Consultant)](https://www.linkedin.com/jobs/view/4467970864/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
+
+- [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-leeds) — Data Engineering · £45,000–£55,000/yr · Leeds, England · remote
+
 ### [ITSS Recruitment](https://jobs.winterchill.xyz/?employer=ITSS%20Recruitment) (1)
 
 - [Lead SQL Developer](https://dataengineeringjobs.co.uk/jobs/lead-sql-developer-itss-recruitment-leeds) — Data Engineering · £65,000–£75,000/yr · Leeds, England · hybrid
@@ -63,10 +75,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Simpro Software](https://jobs.winterchill.xyz/?employer=Simpro%20Software) (1)
 
 - [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4467727470/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Syntax Consultancy](https://jobs.winterchill.xyz/?employer=Syntax%20Consultancy) (1)
-
-- [Data Engineer (SC Cleared)](https://dataengineeringjobs.co.uk/jobs/data-engineer-sc-cleared-syntax-consultancy-leeds) — Data Engineering · £500–£600/day · Leeds, West Yorkshire · hybrid
 
 ### [Waystone](https://jobs.winterchill.xyz/?employer=Waystone) (1)
 

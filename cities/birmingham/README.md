@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**43 open roles** · updated 2026-09-20
+**42 open roles** · updated 2026-09-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,8 +8,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Kainos](https://jobs.winterchill.xyz/?employer=Kainos) (9)
 
-- [Lead Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Security-Engineer_JR_18219/apply) — Security Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Security-Engineer_JR_18220/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
+- [Lead Security Engineer](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Security-Engineer_JR_18219/apply) — Security Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Lead Test Engineer (Healthcare)](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Lead-Test-Engineer_JR_18169/apply) — QA / Test Automation · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [Senior Platform Engineer - Azure](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Senior-Platform-Engineer---Azure_JR_18054/apply) — DevOps / SRE · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
 - [AI Engineer Manager](https://kainos.wd3.myworkdayjobs.com/Kainos/job/Birmingham/Principal-AI-Engineer_JR_17994/apply) — ML / AI Engineering · Birmingham, West Midlands, United Kingdom · 🛂 visa sponsor
@@ -70,10 +70,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Research Fellow in Computer Vision and ML - 9-month fixed term contract](https://www.linkedin.com/jobs/view/4463922449/) — £39,002–£44,131/yr · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
-
-- [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-birmingham) — Data Engineering · £45,000–£55,000/yr · Birmingham, England · remote
-
 ### [Mayflex](https://jobs.winterchill.xyz/?employer=Mayflex) (1)
 
 - [Head of Technology and Product Engineering](https://www.linkedin.com/jobs/view/4466256404/) — Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -85,10 +81,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [nology](https://jobs.winterchill.xyz/?employer=nology) (1)
 
 - [Junior Java Developer](https://www.linkedin.com/jobs/view/4456216547/) — Backend · £26,700/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
-### [OneAdvanced](https://jobs.winterchill.xyz/?employer=OneAdvanced) (1)
-
-- [VP Platform - Engineering & Architecture](https://www.linkedin.com/jobs/view/4462163278/) — DevOps / SRE · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (1)
 
@@ -105,6 +97,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Robert Walters](https://jobs.winterchill.xyz/?employer=Robert%20Walters) (1)
 
 - [Analytics Engineer](https://dataengineeringjobs.co.uk/jobs/analytics-engineer-robert-walters-birmingham) — Data Engineering · £40,000–£50,000/yr · Birmingham, England · remote · 🛂 visa sponsor
+
+### [RSM](https://jobs.winterchill.xyz/?employer=RSM) (1)
+
+- [Senior Data Engineer – Data Integration & Microsoft Fabric](https://www.linkedin.com/jobs/view/4467867475/) — Backend · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (1)
 

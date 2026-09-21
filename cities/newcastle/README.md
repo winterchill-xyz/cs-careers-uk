@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**24 open roles** · updated 2026-09-20
+**26 open roles** · updated 2026-09-21
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -9,9 +9,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (7)
 
 - [AI Software Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/AI-Software-Engineering-Associate-Director_R00346145) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
-- [Senior Java Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-Java-Developer---Newcastle_R00337654) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-DevOps-Engineer---Newcastle_R00316554) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/DevOps-Engineer---Newcastle_R00289640) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
+- [Senior Java Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-Java-Developer---Newcastle_R00324056-2) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Java Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Java-Developer---Newcastle_R00324062-1) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Data-Engineer---Newcastle_R00325269) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Node.JS Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/NodeJS-Developer---Newcastle_R00325398) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
@@ -43,9 +43,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principle AI Engineer](https://www.linkedin.com/jobs/view/4469140453/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
+### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
+
+- [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4374137684/) — Backend · Newcastle, England, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Credera](https://jobs.winterchill.xyz/?employer=Credera) (1)
 
 - [Data Engineer- Delivery Centre- Newcastle](https://www.linkedin.com/jobs/view/4457987061/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+
+### [Matchtech](https://jobs.winterchill.xyz/?employer=Matchtech) (1)
+
+- [Data Engineer I SC Cleared](https://dataengineeringjobs.co.uk/jobs/data-engineer-i-sc-cleared-matchtech-newcastle-upon-tyne) — Data Engineering · £390–£500/day · Newcastle upon Tyne, Tyne & Wear · hybrid
 
 ### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (1)
 
