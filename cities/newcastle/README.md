@@ -1,13 +1,14 @@
 # Software &amp; IT careers in Newcastle
 
-**26 open roles** · updated 2026-09-21
+**27 open roles** · updated 2026-09-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (7)
+### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (8)
 
+- [Forward Deployed Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Forward-Deployed-Engineer_R00345109) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [AI Software Engineering Manager](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/AI-Software-Engineering-Associate-Director_R00346145) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [Senior DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Senior-DevOps-Engineer---Newcastle_R00316554) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
 - [DevOps Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/DevOps-Engineer---Newcastle_R00289640) — Backend · Newcastle, United Kingdom · 🛂 visa sponsor
@@ -16,18 +17,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Data Engineer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/Data-Engineer---Newcastle_R00325269) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Node.JS Developer - Newcastle](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Newcastle/NodeJS-Developer---Newcastle_R00325398) — Backend · Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (4)
-
-- [Lead Test Engineer](https://jobs.lever.co/scottlogic/a32bebfc-72f2-4758-be8a-f9803dc53798) — Backend · Newcastle · hybrid · 🛂 visa sponsor
-- [Senior Data Engineer](https://jobs.lever.co/scottlogic/b62c1780-cd44-4871-8d41-45590f020935) — Data Engineering · Newcastle · 🛂 visa sponsor
-- [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
-- [Graduate Test Engineer](https://jobs.lever.co/scottlogic/b428ebae-812e-4034-aa54-652621b2c2c9) — Backend · Newcastle · remote · 🛂 visa sponsor
-
 ### [Leonardo](https://jobs.winterchill.xyz/?employer=Leonardo) (3)
 
 - [Security Firmware/FPGA Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Security-Firmware-FPGA-Engineer_R0026984) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Electronic Engineers - all levels](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Electronic-Engineers---all-levels_R0015649) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
 - [Embedded Design Engineer -  FPGA Academy](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Embedded-Design-Engineer--FPGA-Academy-_R0029850) — Platform / Infrastructure · £37,400–£53,550/yr · GB - Newcastle, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (3)
+
+- [Lead Test Engineer](https://jobs.lever.co/scottlogic/a32bebfc-72f2-4758-be8a-f9803dc53798) — Backend · Newcastle · hybrid · 🛂 visa sponsor
+- [Senior Data Engineer](https://jobs.lever.co/scottlogic/b62c1780-cd44-4871-8d41-45590f020935) — Data Engineering · Newcastle · 🛂 visa sponsor
+- [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
 
@@ -58,6 +58,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Newcastle University](https://jobs.winterchill.xyz/?employer=Newcastle%20University) (1)
 
 - [Research Assistant/ Associate in Bacteria-Host Interactions](https://www.linkedin.com/jobs/view/4464885142/) — £33,951–£35,608/yr · Newcastle, England, United Kingdom · 🛂 visa sponsor
+
+### [Ronald James Group](https://jobs.winterchill.xyz/?employer=Ronald%20James%20Group) (1)
+
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4467188896/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (1)
 

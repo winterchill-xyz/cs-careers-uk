@@ -1,22 +1,24 @@
 # Software &amp; IT careers in Leeds
 
-**24 open roles** · updated 2026-09-21
+**26 open roles** · updated 2026-09-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
+
+### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (5)
+
+- [Clinical Doctoral Fellowship](https://www.linkedin.com/jobs/view/4468846862/) — Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Research Software Engineer](https://www.linkedin.com/jobs/view/4470220858/) — Platform / Infrastructure · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow in Large Scale Choice Modelling](https://www.linkedin.com/jobs/view/4468640422/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Clinical Research Fellow in Scleroderma](https://www.linkedin.com/jobs/view/4467074778/) — Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow in Machine Learning Assisted Choice Modelling](https://www.linkedin.com/jobs/view/4467427294/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (3)
 
 - [Senior AI Engineer - Microsoft Azure (Contract)](https://apply.workable.com/j/AA6CB39C75/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Principal AI Engineer - Microsoft Azure AI Foundry (Contract)](https://apply.workable.com/j/9F2018E3A6/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
 - [Solution Director: Engineering](https://apply.workable.com/j/D26AA41D72/apply) — Backend · Leeds, United Kingdom · 🛂 visa sponsor
-
-### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (3)
-
-- [Research Fellow in Large Scale Choice Modelling](https://www.linkedin.com/jobs/view/4468640422/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Clinical Research Fellow in Scleroderma](https://www.linkedin.com/jobs/view/4467074778/) — Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Research Fellow in Machine Learning Assisted Choice Modelling](https://www.linkedin.com/jobs/view/4467427294/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Fanatics Betting & Gaming](https://jobs.winterchill.xyz/?employer=Fanatics%20Betting%20%26%20Gaming) (2)
 
@@ -48,10 +50,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-leeds) — Data Engineering · £45,000–£55,000/yr · Leeds, England · remote
 
-### [ITSS Recruitment](https://jobs.winterchill.xyz/?employer=ITSS%20Recruitment) (1)
-
-- [Lead SQL Developer](https://dataengineeringjobs.co.uk/jobs/lead-sql-developer-itss-recruitment-leeds) — Data Engineering · £65,000–£75,000/yr · Leeds, England · hybrid
-
 ### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (1)
 
 - [Engineering Lead (Cryptography lab))](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Engineering-Lead--Cryptography-lab--_159018-1) — Platform / Infrastructure · £92,701–£109,060/yr · Leeds Wellington Place, United Kingdom · hybrid · 🛂 visa sponsor
@@ -63,6 +61,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (1)
 
 - [Technical Lead - Agentic AI](https://www.linkedin.com/jobs/view/4463962863/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
+
+### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (1)
+
+- [Senior Dynamics 365 Developer](https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Senior-Dynamics-365-Developer_JR0656-1) — DevOps / SRE · Leeds, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Public Sector Resourcing](https://jobs.winterchill.xyz/?employer=Public%20Sector%20Resourcing) (1)
 

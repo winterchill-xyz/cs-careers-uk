@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**42 open roles** · updated 2026-09-21
+**41 open roles** · updated 2026-09-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -27,12 +27,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer \| Associate \| Birmingham \| 2026](https://higher.gs.com/roles/157072_GS_EARLY_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 - [Asset & Wealth Management - Software Engineering Lead - Vice President - Birmingham](https://higher.gs.com/roles/168774_GS_MID_CAREER) — Backend · Birmingham, United Kingdom · 🛂 visa sponsor
 
-### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (3)
-
-- [Senior Java Full-Stack Engineer](https://www.linkedin.com/jobs/view/4463010132/) — Backend · £50,000–£75,000/yr · Birmingham, England, United Kingdom · remote · 🛂 visa sponsor
-- [Front End Software Engineering Specialist](https://www.linkedin.com/jobs/view/4468271111/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-- [Senior Front End Software Engineer](https://www.linkedin.com/jobs/view/4465657366/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
 ### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (3)
 
 - [Research Fellow - Department of Immunology and Immunotherapy - 107952 - Grade 7](https://www.linkedin.com/jobs/view/4465487694/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
@@ -43,6 +37,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer, Education](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer--Education_26WD99981-1) — Backend · Birmingham, GBR, United Kingdom · 🛂 visa sponsor
 - [Software Engineer C++](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1) — Backend · Birmingham, GBR, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [BT Group](https://jobs.winterchill.xyz/?employer=BT%20Group) (2)
+
+- [Front End Software Engineering Specialist](https://www.linkedin.com/jobs/view/4468271111/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Senior Front End Software Engineer](https://www.linkedin.com/jobs/view/4465657366/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
 
@@ -102,9 +101,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Data Engineer – Data Integration & Microsoft Fabric](https://www.linkedin.com/jobs/view/4467867475/) — Backend · Birmingham, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (1)
+### [The Developer Society](https://jobs.winterchill.xyz/?employer=The%20Developer%20Society) (1)
 
-- [Junior iGame Developer](https://www.linkedin.com/jobs/view/4464476169/) — Backend · £27,000–£30,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Django Developer](https://www.linkedin.com/jobs/view/4468210807/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [TXP](https://jobs.winterchill.xyz/?employer=TXP) (1)
 

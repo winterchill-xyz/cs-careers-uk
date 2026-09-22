@@ -1,13 +1,14 @@
 # Software &amp; IT careers in Oxford
 
-**40 open roles** · updated 2026-09-21
+**40 open roles** · updated 2026-09-22
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (7)
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (8)
 
+- [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4469900744/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4469201291/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Scientist, Automated Diagnostic Systems - Pathogen](https://www.linkedin.com/jobs/view/4468609192/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4467976106/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
@@ -74,10 +75,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Embedded / Robotics · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [CT19](https://jobs.winterchill.xyz/?employer=CT19) (1)
-
-- [Senior AMO Physicist](https://www.linkedin.com/jobs/view/4464637500/) — Greater Oxford Area
-
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · Oxford · hybrid · 🛂 visa sponsor
@@ -94,9 +91,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer (Python / SQL)](https://dataengineeringjobs.co.uk/jobs/data-engineer-python-sql-rise-technical-recruitment-oxford) — Data Engineering · Oxford, England
 
-### [Speechify](https://jobs.winterchill.xyz/?employer=Speechify) (1)
+### [SPG Resourcing](https://jobs.winterchill.xyz/?employer=SPG%20Resourcing) (1)
 
-- [Software Engineer, Data Infrastructure & Acquisition - Oxford, United Kingdom](https://startup.jobs/software-engineer-data-infrastructure-acquisition-oxford-united-kingdom-speechify-7982633) — Backend · Oxford, England, United Kingdom
+- [Full Stack Engineer](https://www.linkedin.com/jobs/view/4469911572/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
 
