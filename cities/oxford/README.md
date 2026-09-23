@@ -1,12 +1,12 @@
 # Software &amp; IT careers in Oxford
 
-**40 open roles** · updated 2026-09-22
+**40 open roles** · updated 2026-09-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (8)
+### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (6)
 
 - [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4469900744/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4469201291/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -14,8 +14,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Bio-ML Scientist (Metabolic Modelling) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4467976106/) — Data Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 - [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4467705950/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Fluidic System Engineer - Pathogen](https://www.linkedin.com/jobs/view/4467701909/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4464620773/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute](https://www.linkedin.com/jobs/view/4464993587/) — ML / AI Engineering · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [IonQ](https://jobs.winterchill.xyz/?employer=IonQ) (5)
 
@@ -41,11 +39,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Robotics Software Engineer (UAV)](https://startup.jobs/robotics-software-engineer-uav-archangel-autonomy-10067460) — Oxford, England, United Kingdom · 🛂 visa sponsor
 - [Embedded Software Engineer (UAVs)](https://startup.jobs/embedded-software-engineer-uavs-archangel-autonomy-8719365) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Caristo Diagnostics](https://jobs.winterchill.xyz/?employer=Caristo%20Diagnostics) (2)
-
-- [Graduate/Junior Software Engineer](https://startup.jobs/graduate-junior-software-engineer-caristo-diagnostics-9860936) — Oxford, England, United Kingdom
-- [Software Engineer](https://startup.jobs/software-engineer-caristo-diagnostics-9860937) — Oxford, England, United Kingdom
 
 ### [Elsevier](https://jobs.winterchill.xyz/?employer=Elsevier) (2)
 
@@ -75,9 +68,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Embedded Software Engineer](https://startup.jobs/embedded-software-engineer-archangel-lightworks-8712807) — Embedded / Robotics · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
+### [Caristo Diagnostics](https://jobs.winterchill.xyz/?employer=Caristo%20Diagnostics) (1)
+
+- [Software Engineer](https://startup.jobs/software-engineer-caristo-diagnostics-9860937) — Oxford, England, United Kingdom
+
 ### [Genomics plc](https://jobs.winterchill.xyz/?employer=Genomics%20plc) (1)
 
 - [Genomics Data Operations Engineer](https://jobs.ashbyhq.com/genomics/4c2481bb-e1a2-4eca-95de-89905d68086a) — Data Engineering · Oxford · hybrid · 🛂 visa sponsor
+
+### [OrganOx](https://jobs.winterchill.xyz/?employer=OrganOx) (1)
+
+- [Software Engineer, Quality & Process](https://startup.jobs/software-engineer-quality-process-organox-10146030) — Oxford, England, United Kingdom
 
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 
@@ -86,6 +87,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rebellion](https://jobs.winterchill.xyz/?employer=Rebellion) (1)
 
 - [Graduate Programmer](https://apply.workable.com/j/051D15CCA1/apply) — Embedded / Robotics · Oxford, United Kingdom · 🛂 visa sponsor
+
+### [RELX India (Pvt) Ltd Els div Company](https://jobs.winterchill.xyz/?employer=RELX%20India%20%28Pvt%29%20Ltd%20Els%20div%20Company) (1)
+
+- [Full-Stack Software Engineer III](https://startup.jobs/full-stack-software-engineer-iii-relx-india-pvt-ltd-els-div-c-8603457) — Backend · Oxford, England, United Kingdom
 
 ### [Rise Technical Recruitment](https://jobs.winterchill.xyz/?employer=Rise%20Technical%20Recruitment) (1)
 
@@ -98,6 +103,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [targetjobs UK](https://jobs.winterchill.xyz/?employer=targetjobs%20UK) (1)
 
 - [Graduate/Junior Software Engineer](https://www.linkedin.com/jobs/view/4464873986/) — Oxford, England, United Kingdom · 🛂 visa sponsor
+
+### [University of Oxford](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford) (1)
+
+- [engineer & post doc](https://www.linkedin.com/jobs/view/4470403558/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [Valteros](https://jobs.winterchill.xyz/?employer=Valteros) (1)
 

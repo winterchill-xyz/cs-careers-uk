@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**12 open roles** · updated 2026-09-22
+**13 open roles** · updated 2026-09-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -13,9 +13,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Senior-Software-Engineer_26WD101043) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Development Engineer in Test](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Software-Development-Engineer-in-Test_26WD100960-1) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
+### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (3)
 
 - [Private Cloud Architect](https://www.linkedin.com/jobs/view/4466456548/) — Backend · £411/day · Sheffield, England, United Kingdom · 🛂 visa sponsor
+- [Kotlin Developer CGEMJP00357205](https://www.linkedin.com/jobs/view/4470682583/) — Backend · Sheffield, England, United Kingdom · 🛂 visa sponsor
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4465780646/) — Backend · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [HOK Consulting - Technical Recruitment Consultancy](https://jobs.winterchill.xyz/?employer=HOK%20Consulting%20-%20Technical%20Recruitment%20Consultancy) (1)

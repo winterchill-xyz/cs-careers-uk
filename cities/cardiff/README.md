@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**13 open roles** · updated 2026-09-22
+**13 open roles** · updated 2026-09-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,7 +8,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (3)
 
-- [Android Engineer - Engine by Starling](https://apply.workable.com/j/4A1A00B7C8/apply) — Backend · £69,000–£86,100/yr (est.) · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
+- [Android Engineer - Engine by Starling](https://apply.workable.com/j/4A1A00B7C8/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Java Software Engineer - Intelligent Operations](https://apply.workable.com/j/953817614A/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 - [iOS Engineer](https://apply.workable.com/j/3533ABDA48/apply) — Backend · Cardiff, United Kingdom · hybrid · 🛂 visa sponsor
 

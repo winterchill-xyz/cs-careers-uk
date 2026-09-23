@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**27 open roles** · updated 2026-09-22
+**29 open roles** · updated 2026-09-23
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -39,9 +39,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4469203025/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4468207081/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · remote · 🛂 visa sponsor
 
+### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (2)
+
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4468254491/) — Backend · Up to £130,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer - SC Cleared](https://dataengineeringjobs.co.uk/jobs/data-engineer-sc-cleared-searchability-newcastle-upon-tyne) — Backend · £65,000–£105,000/yr · Newcastle upon Tyne, England
+
 ### [Central Employment](https://jobs.winterchill.xyz/?employer=Central%20Employment) (1)
 
-- [Principle AI Engineer](https://www.linkedin.com/jobs/view/4469140453/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Principal Machine Learning Engineer](https://www.linkedin.com/jobs/view/4469140453/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 
@@ -63,9 +68,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4467188896/) — Backend · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
-### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (1)
+### [Sellick Partnership](https://jobs.winterchill.xyz/?employer=Sellick%20Partnership) (1)
 
-- [Data Engineer - SC Cleared](https://dataengineeringjobs.co.uk/jobs/data-engineer-sc-cleared-searchability-newcastle-upon-tyne) — Backend · £65,000–£105,000/yr · Newcastle upon Tyne, England
+- [Senior Data Engineer](https://dataengineeringjobs.co.uk/jobs/senior-data-engineer-sellick-partnership-newcastle-upon-tyne-2) — Data Engineering · £60,000/yr · Newcastle upon Tyne, England
 
 ### [The ONE Group Ltd](https://jobs.winterchill.xyz/?employer=The%20ONE%20Group%20Ltd) (1)
 
