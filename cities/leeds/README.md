@@ -1,13 +1,14 @@
 # Software &amp; IT careers in Leeds
 
-**28 open roles** · updated 2026-09-23
+**29 open roles** · updated 2026-09-24
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (5)
+### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (6)
 
+- [Senior Integrations Engineer](https://www.linkedin.com/jobs/view/4469895554/) — Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Clinical Doctoral Fellowship](https://www.linkedin.com/jobs/view/4468846862/) — Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Research Software Engineer](https://www.linkedin.com/jobs/view/4470220858/) — Platform / Infrastructure · Leeds, England, United Kingdom · 🛂 visa sponsor
 - [Research Fellow in Large Scale Choice Modelling](https://www.linkedin.com/jobs/view/4468640422/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -52,7 +53,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
 
-- [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-leeds) — Data Engineering · £45,000–£55,000/yr · Leeds, England · remote
+- [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-leeds) — Data Engineering · £35,000–£45,000/yr · Leeds, England · remote
 
 ### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (1)
 
