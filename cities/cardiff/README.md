@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**13 open roles** · updated 2026-09-24
+**13 open roles** · updated 2026-09-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -22,9 +22,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Support Engineer (SQL)](https://jobs.smartrecruiters.com/LegalAndGeneral/744000151002380) — Data Engineering · Cardiff, United Kingdom · 🛂 visa sponsor
 - [Senior Engineer (MongoDB & AWS Serverless)](https://jobs.smartrecruiters.com/LegalAndGeneral/744000150700859) — Backend · Cardiff, United Kingdom · 🛂 visa sponsor
 
-### [CPS Group](https://jobs.winterchill.xyz/?employer=CPS%20Group) (1)
+### [CPS Group (UK) Limited](https://jobs.winterchill.xyz/?employer=CPS%20Group%20%28UK%29%20Limited) (1)
 
-- [QA Engineer](https://dataengineeringjobs.co.uk/jobs/qa-engineer-cps-group-cardiff) — £40,000–£50,000/yr · Cardiff, South Glamorgan · hybrid
+- [Frontend Developer (React / TypeScript)](https://www.linkedin.com/jobs/view/4471439906/) — Backend · Up to £50,000/yr · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ### [LexisNexis Risk Solutions](https://jobs.winterchill.xyz/?employer=LexisNexis%20Risk%20Solutions) (1)
 

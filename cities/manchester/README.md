@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Manchester
 
-**132 open roles** · updated 2026-09-24
+**135 open roles** · updated 2026-09-25
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Manchester)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -16,8 +16,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Associate, Full-Stack Engineer II](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79172) — Backend · Manchester, Greater Manchester, United Kingdom · 🛂 visa sponsor
 - [Vice President, AI / Machine Learning Data Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80993) — Backend · Manchester, Greater Manchester, United Kingdom · 🛂 visa sponsor
 - [Vice President, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80321) — Backend · Manchester, Greater Manchester, United Kingdom · 🛂 visa sponsor
-- [2027 BNY Internship Program -Engineering (Developer) (Manchester)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318) — Backend · Greater Manchester, United Kingdom · 🛂 visa sponsor
 - [2027 BNY Internship Program -Engineering (Data Science) (Manchester)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81322) — Backend · Greater Manchester, United Kingdom · 🛂 visa sponsor
+- [2027 BNY Internship Program -Engineering (Developer) (Manchester)](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81318) — Backend · Greater Manchester, United Kingdom · 🛂 visa sponsor
 - [Vice President, Infrastructure Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79910) — Engineering Management · Manchester, Greater Manchester, United Kingdom · 🛂 visa sponsor
 - [Corporate Security Engineering – Engineer Role](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79714) — Platform / Infrastructure · Manchester, Greater Manchester, United Kingdom · remote · 🛂 visa sponsor
 - [Full Stack Engineer - Specialist](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79369) — Backend · Manchester, Greater Manchester, United Kingdom · 🛂 visa sponsor
@@ -48,13 +48,22 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Scientist](https://job-boards.eu.greenhouse.io/autotrader/jobs/4904348101) — Backend · £50,000–£70,000/yr · Manchester · remote · 🛂 visa sponsor
 - [BI Developer](https://job-boards.eu.greenhouse.io/autotrader/jobs/4940808101) — Data Engineering · £40,000–£45,000/yr · Manchester · remote · 🛂 visa sponsor
 
-### [Anaplan](https://jobs.winterchill.xyz/?employer=Anaplan) (5)
+### [Anaplan](https://jobs.winterchill.xyz/?employer=Anaplan) (6)
 
+- [Senior Platform/Dev Ops Engineer](https://job-boards.greenhouse.io/anaplan/jobs/8808554002) — DevOps / SRE · Manchester, United Kingdom · 🛂 visa sponsor
 - [Engineering Manager - AI](https://job-boards.greenhouse.io/anaplan/jobs/8805696002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
 - [Senior ML Engineer](https://job-boards.greenhouse.io/anaplan/jobs/8744352002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
 - [Principal Developer - AI](https://job-boards.greenhouse.io/anaplan/jobs/8605938002) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
 - [Senior Business Intelligence Developer/Analyst](https://job-boards.greenhouse.io/anaplan/jobs/8496226002) — Data Science / Analytics · Manchester, United Kingdom · 🛂 visa sponsor
 - [Principal Software Engineer (Java)](https://job-boards.greenhouse.io/anaplan/jobs/8538803002) — Backend · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (5)
+
+- [Senior Lead Engineer - Advanced Engineering](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Principal-Engineer---Advanced-AI-Engineering_163748) — Backend · £84,624–£126,936/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Infrastructure Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Public-Cloud-Software-Engineer_150855-1) — DevOps / SRE · £69,624–£104,436/yr · Manchester, United Kingdom · 🛂 visa sponsor
+- [ML/AI Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/ML-AI-Engineer_148385-1) — Backend · £72,702–£80,000/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
+- [WAF Security Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Infrastructure-Engineer--WAF-_155154-2) — DevOps / SRE · £48,987–£55,000/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
+- [Google Cloud Network DevOps Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Cloud-Platform-DevOps-Engineer-GCP_150918-1) — Backend · £48,987–£54,430/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Matillion](https://jobs.winterchill.xyz/?employer=Matillion) (5)
 
@@ -64,12 +73,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://jobs.lever.co/matillion/6b98bb4d-637e-4c07-8913-4b73f8798627) — Backend · £47,200–£70,800/yr · Manchester · 🛂 visa sponsor
 - [Principal AI Engineer](https://jobs.lever.co/matillion/aef0cd87-6885-4a30-9e53-aee671edddd6) — Backend · Manchester · hybrid · 🛂 visa sponsor
 
-### [Lloyds Banking Group](https://jobs.winterchill.xyz/?employer=Lloyds%20Banking%20Group) (4)
+### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (4)
 
-- [Senior Lead Engineer - Advanced Engineering](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Principal-Engineer---Advanced-AI-Engineering_163748) — Backend · £84,624–£126,936/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior Infrastructure Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Public-Cloud-Software-Engineer_150855-1) — DevOps / SRE · £69,624–£104,436/yr · Manchester, United Kingdom · 🛂 visa sponsor
-- [WAF Security Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Infrastructure-Engineer--WAF-_155154-2) — DevOps / SRE · £48,987–£55,000/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
-- [Google Cloud Network DevOps Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Cloud-Platform-DevOps-Engineer-GCP_150918-1) — Backend · £48,987–£54,430/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
+- [Principal Software Engineer - Full Stack](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Principal-Software-Engineer---Full-Stack_R00345650) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
+- [Quality Engineering Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Quality-Engineering-Specialist_R00345693) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
+- [Lead Software Engineer - (Frontend, Backend, Full Stack)](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Lead-Software-Engineer----Frontend--Backend--Full-Stack-_R00323944) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
+- [Software Engineer - Manchester](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Software-Engineer---Manchester_R00294153) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
 
 ### [Clio](https://jobs.winterchill.xyz/?employer=Clio) (3)
 
@@ -77,16 +86,28 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Technical Consultant - Senior C# Developer](https://clio.wd3.myworkdayjobs.com/cliocareersite/job/Manchester/Senior-Technical-Consultant_BF-REQ-4076) — Backend · £81,600–£110,400/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
 - [C# Developer](https://clio.wd3.myworkdayjobs.com/cliocareersite/job/Manchester/Software-Developer_REQ-4796) — Backend · £63,800–£86,200/yr · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [Kraken Technologies](https://jobs.winterchill.xyz/?employer=Kraken%20Technologies) (3)
+
+- [Senior Electrical Engineer (Integrations)](https://jobs.ashbyhq.com/krakentech/8886ce70-a124-45e3-9e08-46b9b0cf79ba) — Manchester, UK · remote · 🛂 visa sponsor
+- [Electrical Engineer II (Integrations)](https://jobs.ashbyhq.com/krakentech/1c8d199e-0f94-4c81-9e50-a1b679260c52) — Manchester, UK · remote · 🛂 visa sponsor
+- [Lead Platform Engineer](https://jobs.ashbyhq.com/krakentech/a028999f-cb8f-43f7-bb6a-203200bce5b1) — Backend · Manchester, UK · remote · 🛂 visa sponsor
+
+### [Manchester Digital](https://jobs.winterchill.xyz/?employer=Manchester%20Digital) (3)
+
+- [Java Tech Lead (£100k + benefits)](https://www.linkedin.com/jobs/view/4466805360/) — Backend · Up to £100,000/yr · Manchester, England, United Kingdom · remote · 🛂 visa sponsor
+- [Senior Developer](https://www.linkedin.com/jobs/view/4466594456/) — Backend · £62,732/yr · Manchester, England, United Kingdom · 🛂 visa sponsor
+- [Software Engineers](https://www.linkedin.com/jobs/view/4468788891/) — Manchester, England, United Kingdom · 🛂 visa sponsor
+
 ### [MRJ Recruitment](https://jobs.winterchill.xyz/?employer=MRJ%20Recruitment) (3)
 
 - [Frontend Developer](https://www.linkedin.com/jobs/view/4466235012/) — Backend · £35,000–£40,000/yr · Manchester Area, United Kingdom · remote · 🛂 visa sponsor
 - [Engineering Manager](https://www.linkedin.com/jobs/view/4466929622/) — Manchester, England, United Kingdom · 🛂 visa sponsor
 - [Ruby on Rails Developer](https://www.linkedin.com/jobs/view/4464798945/) — Backend · Manchester Area, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (2)
+### [Adria Solutions](https://jobs.winterchill.xyz/?employer=Adria%20Solutions) (2)
 
-- [Principal Software Engineer - Full Stack](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Principal-Software-Engineer---Full-Stack_R00345650) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
-- [Quality Engineering Specialist](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manchester/Quality-Engineering-Specialist_R00345693) — Backend · Manchester, United Kingdom · 🛂 visa sponsor
+- [Data Engineering Lead – AWS & AI - Manchester](https://dataengineeringjobs.co.uk/jobs/data-engineering-lead-aws-ai-manchester-adria-solutions-manchester) — Data Engineering · £70,000–£95,000/yr · Manchester, England · hybrid
+- [Lead Data Engineer - AWS / AI / SQL](https://dataengineeringjobs.co.uk/jobs/lead-data-engineer-aws-ai-sql-adria-solutions-manchester) — Data Engineering · £70,000–£90,000/yr · Manchester, England · hybrid
 
 ### [Better Placed](https://jobs.winterchill.xyz/?employer=Better%20Placed) (2)
 
@@ -103,6 +124,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Java Software Engineer - Security & Intelligence](https://www.linkedin.com/jobs/view/4466690499/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
 - [Software Engineer - Security & Intelligence](https://startup.jobs/software-engineer-security-intelligence-envitia-8214812) — Backend · Manchester, England, United Kingdom
 
+### [Fitch Group](https://jobs.winterchill.xyz/?employer=Fitch%20Group) (2)
+
+- [Machine Learning Engineer, Associate Director (Manchester)](https://www.linkedin.com/jobs/view/4469692498/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
+- [Senior Director, Engineering - Corporates, Financial Institutions & Sovereigns (Manchester)](https://www.linkedin.com/jobs/view/4469015875/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
+
 ### [Global Draw Limited](https://jobs.winterchill.xyz/?employer=Global%20Draw%20Limited) (2)
 
 - [Senior Software Engineer](https://startup.jobs/senior-software-engineer-global-draw-limited-10062202) — Manchester, England, United Kingdom
@@ -113,20 +139,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://www.linkedin.com/jobs/view/4468713558/) — Data Engineering · Manchester Area, United Kingdom · 🛂 visa sponsor
 - [Java Software Engineer](https://www.linkedin.com/jobs/view/4467851408/) — Backend · Manchester Area, United Kingdom · 🛂 visa sponsor
 
-### [Manchester Digital](https://jobs.winterchill.xyz/?employer=Manchester%20Digital) (2)
-
-- [Java Tech Lead (£100k + benefits)](https://www.linkedin.com/jobs/view/4466805360/) — Backend · Up to £100,000/yr · Manchester, England, United Kingdom · remote · 🛂 visa sponsor
-- [Senior Developer](https://www.linkedin.com/jobs/view/4466594456/) — Backend · £62,732/yr · Manchester, England, United Kingdom · 🛂 visa sponsor
-
 ### [Mark43](https://jobs.winterchill.xyz/?employer=Mark43) (2)
 
 - [Software Engineer - Integrations](https://startup.jobs/software-engineer-integrations-mark43-8583851) — Backend · £50,000–£80,000/yr · Manchester, England, United Kingdom · remote · 🛂 visa sponsor
 - [Senior Software Engineer](https://startup.jobs/senior-software-engineer-mark43-7892618) — Backend · Manchester, England, United Kingdom · remote · 🛂 visa sponsor
-
-### [Maxwell Bond](https://jobs.winterchill.xyz/?employer=Maxwell%20Bond) (2)
-
-- [Software Engineering Team Lead](https://www.linkedin.com/jobs/view/4466207358/) — Up to £70,000/yr · Manchester Area, United Kingdom · hybrid · 🛂 visa sponsor
-- [Technical Lead](https://www.linkedin.com/jobs/view/4464755198/) — Backend · Up to £70,000/yr · Manchester Area, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (2)
 
@@ -156,10 +172,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Ada Meher](https://jobs.winterchill.xyz/?employer=Ada%20Meher) (1)
 
 - [Frontend Developer – Manchester (Hybrid Remote) - £50k](https://www.linkedin.com/jobs/view/4468900122/) — Backend · Manchester Area, United Kingdom · 🛂 visa sponsor
-
-### [Adria Solutions](https://jobs.winterchill.xyz/?employer=Adria%20Solutions) (1)
-
-- [Lead Data Engineer - AWS / AI / SQL](https://dataengineeringjobs.co.uk/jobs/lead-data-engineer-aws-ai-sql-adria-solutions-manchester) — Data Engineering · £70,000–£90,000/yr · Manchester, England · hybrid
 
 ### [Airalo](https://jobs.winterchill.xyz/?employer=Airalo) (1)
 
@@ -197,10 +209,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer - AWS \| FINANCE \| ERP INTEGRATION](https://dataengineeringjobs.co.uk/jobs/data-engineer-aws-finance-erp-integration-datatech-manchester) — Data Engineering · £60,000–£70,000/yr · Manchester, England · remote
 
-### [Fitch Group](https://jobs.winterchill.xyz/?employer=Fitch%20Group) (1)
-
-- [Senior Director, Engineering - Corporates, Financial Institutions & Sovereigns (Manchester)](https://www.linkedin.com/jobs/view/4469015875/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
-
 ### [Found Talent](https://jobs.winterchill.xyz/?employer=Found%20Talent) (1)
 
 - [Senior Front End Developer](https://www.linkedin.com/jobs/view/4468600524/) — Backend · Manchester Area, United Kingdom · 🛂 visa sponsor
@@ -208,14 +216,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Foundation Health](https://jobs.winterchill.xyz/?employer=Foundation%20Health) (1)
 
 - [Senior Software Engineer](https://startup.jobs/senior-software-engineer-foundation-health-8124133) — Backend · Manchester, England, United Kingdom · hybrid
-
-### [Grant Thornton UK](https://jobs.winterchill.xyz/?employer=Grant%20Thornton%20UK) (1)
-
-- [Senior Engineer](https://www.linkedin.com/jobs/view/4439234911/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
-
-### [Henderson Scott](https://jobs.winterchill.xyz/?employer=Henderson%20Scott) (1)
-
-- [Senior React Engineer](https://www.linkedin.com/jobs/view/4465800757/) — Backend · Up to £70,000/yr · Manchester, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Inara](https://jobs.winterchill.xyz/?employer=Inara) (1)
 
@@ -233,10 +233,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer (Java Mid)](https://startup.jobs/software-engineer-java-mid-interactive-investor-8040171) — Backend · £50,000/yr · Manchester, England, United Kingdom · hybrid
 
-### [Kraken Technologies](https://jobs.winterchill.xyz/?employer=Kraken%20Technologies) (1)
-
-- [Lead Platform Engineer](https://jobs.ashbyhq.com/krakentech/a028999f-cb8f-43f7-bb6a-203200bce5b1) — Backend · £77,875–£90,000/yr (est.) · Manchester, UK · remote · 🛂 visa sponsor
-
 ### [LADbible Group](https://jobs.winterchill.xyz/?employer=LADbible%20Group) (1)
 
 - [Senior Software Engineer - 12 Month FTC](https://startup.jobs/senior-software-engineer-12-month-ftc-ladbible-group-9971945) — Manchester, England, United Kingdom
@@ -249,10 +245,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Junior Web Developer](https://www.linkedin.com/jobs/view/4469391967/) — Backend · £55,000–£68,000/yr · Manchester, England, United Kingdom · 🛂 visa sponsor
 
-### [Michael Page Technology](https://jobs.winterchill.xyz/?employer=Michael%20Page%20Technology) (1)
-
-- [Senior cloud platform engineer](https://dataengineeringjobs.co.uk/jobs/senior-cloud-platform-engineer-michael-page-technology-manchester) — DevOps / SRE · £60,000–£70,000/yr · Manchester, England · hybrid
-
 ### [MONY Group](https://jobs.winterchill.xyz/?employer=MONY%20Group) (1)
 
 - [Senior Software Engineer (Backend)](https://startup.jobs/senior-software-engineer-backend-monygroup-com-8716825) — Backend · Manchester, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -261,6 +253,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Engineer - Data Engineering](https://www.linkedin.com/jobs/view/4441214084/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
 
+### [Moonpig](https://jobs.winterchill.xyz/?employer=Moonpig) (1)
+
+- [Engineering Lead](https://jobs.lever.co/moonpig/477401e1-ae9d-47c4-a078-71ab22388eda) — Backend · Manchester · hybrid · 🛂 visa sponsor
+
 ### [Morson Edge](https://jobs.winterchill.xyz/?employer=Morson%20Edge) (1)
 
 - [Principal Data Engineer - Contract](https://www.linkedin.com/jobs/view/4465574384/) — Data Engineering · Manchester, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -268,10 +264,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [NewGen](https://jobs.winterchill.xyz/?employer=NewGen) (1)
 
 - [Full-Stack AI Product Engineer](https://www.linkedin.com/jobs/view/4470957083/) — Backend · Manchester Area, United Kingdom · 🛂 visa sponsor
-
-### [NPAworldwide](https://jobs.winterchill.xyz/?employer=NPAworldwide) (1)
-
-- [Senior Data Engineer](https://www.linkedin.com/jobs/view/4465499289/) — Data Engineering · £50,000/yr · Manchester, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Oltricx (formerly PalmPro)](https://jobs.winterchill.xyz/?employer=Oltricx%20%28formerly%20PalmPro%29) (1)
 
@@ -305,17 +297,13 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Engineering Manager](https://www.linkedin.com/jobs/view/4466908194/) — Manchester Area, United Kingdom · 🛂 visa sponsor
 
+### [Spectrum Equity](https://jobs.winterchill.xyz/?employer=Spectrum%20Equity) (1)
+
+- [Software Engineer (Machine Learning)](https://www.linkedin.com/jobs/view/4469693267/) — Backend · Manchester, England, United Kingdom · 🛂 visa sponsor
+
 ### [Starling Bank](https://jobs.winterchill.xyz/?employer=Starling%20Bank) (1)
 
 - [Senior Software Engineer - Java - Engine by Starling](https://apply.workable.com/j/B92A6598B3/apply) — Backend · Manchester, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [Tata Consultancy Services](https://jobs.winterchill.xyz/?employer=Tata%20Consultancy%20Services) (1)
-
-- [Senior React Engineer](https://www.linkedin.com/jobs/view/4464546295/) — Frontend · Manchester Area, United Kingdom · hybrid · 🛂 visa sponsor
-
-### [The University of Manchester](https://jobs.winterchill.xyz/?employer=The%20University%20of%20Manchester) (1)
-
-- [Postdoctoral Research Associate in Catalysis and Machine Learning](https://www.linkedin.com/jobs/view/4464567354/) — Manchester, England, United Kingdom · 🛂 visa sponsor
 
 ### [Trust In SODA](https://jobs.winterchill.xyz/?employer=Trust%20In%20SODA) (1)
 
@@ -343,7 +331,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [WSP](https://jobs.winterchill.xyz/?employer=WSP) (1)
 
-- [Design & Engineering Manager (Nuclear)](https://www.adzuna.co.uk/jobs/land/ad/5834868037?se=jDe9RIW38RGxPoSQSRWI2w&utm_medium=api&utm_source=a9508167&v=A59832CAE1B2A8F377F8041CD1D2EB65B1466100) — Manchester, Greater Manchester
+- [Design & Engineering Manager (Nuclear)](https://www.adzuna.co.uk/jobs/land/ad/5834868037?se=VsjeZ0648RG0YIE6S5IGQw&utm_medium=api&utm_source=a9508167&v=A59832CAE1B2A8F377F8041CD1D2EB65B1466100) — Manchester, Greater Manchester
 
 ### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (1)
 
