@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**30 open roles** · updated 2026-09-25
+**33 open roles** · updated 2026-09-26
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -38,6 +38,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Principal Software Engineer](https://www.linkedin.com/jobs/view/4466661777/) — Backend · Greater Leeds Area · remote · 🛂 visa sponsor
 
+### [BigChange](https://jobs.winterchill.xyz/?employer=BigChange) (1)
+
+- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4470529632/) — DevOps / SRE · Leeds, England, United Kingdom · 🛂 visa sponsor
+
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 
 - [Data Engineer (Databricks and AWS)](https://www.linkedin.com/jobs/view/4450775411/) — Data Engineering · Leeds, England, United Kingdom · hybrid
@@ -46,6 +50,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [AI Engineer (Consultant)](https://www.linkedin.com/jobs/view/4467970864/) — Backend · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
+### [GoCardless](https://jobs.winterchill.xyz/?employer=GoCardless) (1)
+
+- [Salesforce Developer](https://job-boards.greenhouse.io/gocardless/jobs/8232924) — Backend · £36,000–£54,000/yr · Leeds, UK · 🛂 visa sponsor
+
 ### [Gravitas Recruitment Group (Global) Ltd](https://jobs.winterchill.xyz/?employer=Gravitas%20Recruitment%20Group%20%28Global%29%20Ltd) (1)
 
 - [Software Developer – React / TypeScript](https://www.linkedin.com/jobs/view/4468592988/) — Backend · Up to £45,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
@@ -53,6 +61,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
 
 - [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-leeds) — Data Engineering · £35,000–£45,000/yr · Leeds, England · remote
+
+### [Hippo](https://jobs.winterchill.xyz/?employer=Hippo) (1)
+
+- [Lead .Net Developer](https://www.linkedin.com/jobs/view/4472042101/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
 
 ### [Liberty Blume](https://jobs.winterchill.xyz/?employer=Liberty%20Blume) (1)
 

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Edinburgh
 
-**97 open roles** · updated 2026-09-25
+**97 open roles** · updated 2026-09-26
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Edinburgh)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -30,18 +30,17 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Software-Engineer_R0031880) — Platform / Infrastructure · £38,000–£50,000/yr · GB - Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - …and 11 more at Leonardo — see [`jobs.json`](jobs.json)
 
-### [FanDuel](https://jobs.winterchill.xyz/?employer=FanDuel) (10)
+### [FanDuel](https://jobs.winterchill.xyz/?employer=FanDuel) (9)
 
 - [Principal Software Engineer](https://www.fanduel.careers/open-positions?gh_jid=7822631) — Backend · $214,000–$281,400/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Software Engineer](https://www.fanduel.careers/open-positions?gh_jid=8220692) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Data Engineer](https://www.fanduel.careers/open-positions?gh_jid=8201022) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.fanduel.careers/open-positions?gh_jid=8200980) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Software Engineer - Frontend (React / React Native)](https://www.fanduel.careers/open-positions?gh_jid=8169023) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Data Engineering Senior Manager](https://www.fanduel.careers/open-positions?gh_jid=8141428) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Data API Engineer](https://www.fanduel.careers/open-positions?gh_jid=7300157) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Data Engineering Manager](https://www.fanduel.careers/open-positions?gh_jid=7201317) — Data Engineering · Edinburgh / Hybrid · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112079) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Software Engineer - Core Marketing Platforms](https://www.fanduel.careers/open-positions?gh_jid=8112084) — Backend · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
-- [Data API Engineer](https://www.fanduel.careers/open-positions?gh_jid=7300157) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Addepar](https://jobs.winterchill.xyz/?employer=Addepar) (6)
 
@@ -70,9 +69,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Engineer_161725-3) — Backend · £47,120–£70,680/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 - [Infrastructure Engineer (ZTNA)](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Infrastructure-Engineer--ZTNA-_159497-2) — DevOps / SRE · £48,987–£54,430/yr · Edinburgh, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [The University of Edinburgh](https://jobs.winterchill.xyz/?employer=The%20University%20of%20Edinburgh) (5)
+### [The University of Edinburgh](https://jobs.winterchill.xyz/?employer=The%20University%20of%20Edinburgh) (6)
 
 - [Reader in Artificial Intelligence](https://www.linkedin.com/jobs/view/4468572949/) — £63,606–£78,469/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
+- [Lecturer in Artificial Intelligence](https://www.linkedin.com/jobs/view/4468589518/) — £50,253–£61,759/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Research Associate](https://www.linkedin.com/jobs/view/4466921241/) — £41,064–£48,822/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Research Associate in Cell Culture Screening of Proteins and Nanomaterials](https://www.linkedin.com/jobs/view/4467390546/) — £41,064–£48,822/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 - [Research Associate in Physical Intelligence](https://www.linkedin.com/jobs/view/4467397400/) — £41,064–£48,822/yr · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
@@ -153,9 +153,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Software Engineer, Frontend (TypeScript)](https://www.linkedin.com/jobs/view/4422652606/) — Backend · Edinburgh, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Opus 2](https://jobs.winterchill.xyz/?employer=Opus%202) (1)
+### [Optima Partners](https://jobs.winterchill.xyz/?employer=Optima%20Partners) (1)
 
-- [Senior Software Engineer](https://startup.jobs/senior-software-engineer-opus-2-8013907) — Backend · Edinburgh, Scotland, United Kingdom
+- [Bioinformatics Engineer/Developer](https://www.linkedin.com/jobs/view/4468156564/) — Data Engineering · Edinburgh, Scotland, United Kingdom · 🛂 visa sponsor
 
 ### [Perk](https://jobs.winterchill.xyz/?employer=Perk) (1)
 
