@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**46 open roles** · updated 2026-09-26
+**45 open roles** · updated 2026-09-27
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,8 +8,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Ellison Institute of Technology Oxford](https://jobs.winterchill.xyz/?employer=Ellison%20Institute%20of%20Technology%20Oxford) (6)
 
-- [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4470263775/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4469900744/) — DevOps / SRE · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4470263775/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4469900744/) — DevOps / SRE · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.linkedin.com/jobs/view/4469201291/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Scientist, Automated Diagnostic Systems - Pathogen](https://www.linkedin.com/jobs/view/4468609192/) — Oxford, England, United Kingdom · 🛂 visa sponsor
 - [(Senior) Computational Genomics Scientist, Algorithms & AI/ML](https://www.linkedin.com/jobs/view/4467705950/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
@@ -17,7 +17,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [IonQ](https://jobs.winterchill.xyz/?employer=IonQ) (6)
 
-- [Senior Front-End Engineer, Quantum Tools](https://www.linkedin.com/jobs/view/4471677578/) — Platform / Infrastructure · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Front-End Engineer, Quantum Tools](https://www.linkedin.com/jobs/view/4471677578/) — Platform / Infrastructure · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Staff Software Engineer, Non-Realtime Controllers](https://startup.jobs/staff-software-engineer-non-realtime-controllers-ionq-10064593) — Oxford, England, United Kingdom
 - [Senior Software Engineer, Non-Realtime Controllers](https://startup.jobs/senior-software-engineer-non-realtime-controllers-ionq-10064590) — Oxford, England, United Kingdom
 - [Senior Software Engineer, Transport](https://startup.jobs/senior-software-engineer-transport-ionq-9946555) — Oxford, England, United Kingdom
@@ -41,7 +41,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [AIOI R&D Lab - Oxford](https://jobs.winterchill.xyz/?employer=AIOI%20R%26D%20Lab%20-%20Oxford) (3)
 
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467761300/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4467761300/) — Backend · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 - [Senior Machine Learning Scientist](https://www.linkedin.com/jobs/view/4460315903/) — Backend · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 - [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4460315983/) — Backend · Oxford, England, United Kingdom · remote · 🛂 visa sponsor
 
@@ -87,7 +87,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Oxa](https://jobs.winterchill.xyz/?employer=Oxa) (1)
 
-- [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468989983/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468989983/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Oxford BioTherapeutics](https://jobs.winterchill.xyz/?employer=Oxford%20BioTherapeutics) (1)
 
@@ -95,11 +95,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Oxford Ionics](https://jobs.winterchill.xyz/?employer=Oxford%20Ionics) (1)
 
-- [Senior Front-End Engineer, Quantum Tools](https://www.linkedin.com/jobs/view/4471634854/) — Backend · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Front-End Engineer, Quantum Tools](https://www.linkedin.com/jobs/view/4471634854/) — Backend · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Quantum Computing Jobs UK](https://jobs.winterchill.xyz/?employer=Quantum%20Computing%20Jobs%20UK) (1)
 
-- [Senior Front-End Engineer, Quantum Tools](https://www.linkedin.com/jobs/view/4471873804/) — Platform / Infrastructure · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Senior Front-End Engineer, Quantum Tools](https://www.linkedin.com/jobs/view/4471873804/) — Platform / Infrastructure · Oxford, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [RELX India (Pvt) Ltd Els div Company](https://jobs.winterchill.xyz/?employer=RELX%20India%20%28Pvt%29%20Ltd%20Els%20div%20Company) (1)
 
@@ -116,10 +116,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [University of Oxford](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford) (1)
 
 - [engineer & post doc](https://www.linkedin.com/jobs/view/4470403558/) — Oxford, England, United Kingdom · 🛂 visa sponsor
-
-### [Valteros](https://jobs.winterchill.xyz/?employer=Valteros) (1)
-
-- [Head of Engineering (£160k-£200k + Equity) at Valteros](https://www.linkedin.com/jobs/view/4465718296/) — Backend · £160,000–£200,000/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

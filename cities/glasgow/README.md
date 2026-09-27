@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Glasgow
 
-**142 open roles** · updated 2026-09-26
+**140 open roles** · updated 2026-09-27
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Glasgow)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -56,13 +56,12 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [AI Cloud Solution Engineer](https://morganstanley.eightfold.ai/careers/job/549797604045) — Backend · Glasgow, United Kingdom; Glasgow, Scotland, GB · 🛂 visa sponsor
 - [Senior Platform Engineer - VP](https://morganstanley.eightfold.ai/careers/job/549798279798) — DevOps / SRE · Glasgow, United Kingdom; Glasgow, Scotland, GB · hybrid · 🛂 visa sponsor
 
-### [Robert Walters](https://jobs.winterchill.xyz/?employer=Robert%20Walters) (5)
+### [Robert Walters](https://jobs.winterchill.xyz/?employer=Robert%20Walters) (4)
 
-- [Python Developer](https://www.linkedin.com/jobs/view/4469861292/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior Infrastructure Integration Engineer (Python Scripting)](https://www.linkedin.com/jobs/view/4470441033/) — DevOps / SRE · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Python Developer](https://www.linkedin.com/jobs/view/4469861292/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Infrastructure Integration Engineer (Python Scripting)](https://www.linkedin.com/jobs/view/4470441033/) — DevOps / SRE · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Java Developer](https://www.linkedin.com/jobs/view/4469863446/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
-- [Python Data Modelling Specialist](https://www.linkedin.com/jobs/view/4469141284/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
-- [Developer](https://www.linkedin.com/jobs/view/4468614066/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [Python Data Modelling Specialist](https://www.linkedin.com/jobs/view/4469141284/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Spire](https://jobs.winterchill.xyz/?employer=Spire) (4)
 
@@ -78,8 +77,8 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [GlobalLogic](https://jobs.winterchill.xyz/?employer=GlobalLogic) (2)
 
-- [Senior Java Backend Engineer IRC299953](https://www.linkedin.com/jobs/view/4453522909/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
-- [Senior Java Backend Engineer IRC299954](https://www.linkedin.com/jobs/view/4440692217/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Senior Java Backend Engineer IRC299953](https://www.linkedin.com/jobs/view/4453522909/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Java Backend Engineer IRC299954](https://www.linkedin.com/jobs/view/4440692217/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
@@ -87,15 +86,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [AECOM](https://jobs.winterchill.xyz/?employer=AECOM) (1)
 
-- [Technical Director / Associate Director: Ground Engineering](https://www.linkedin.com/jobs/view/4469048454/) — Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Technical Director / Associate Director: Ground Engineering](https://www.linkedin.com/jobs/view/4469048454/) — Glasgow, Scotland, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Capco](https://jobs.winterchill.xyz/?employer=Capco) (1)
 
 - [Principal Backend Developer (Java)](https://job-boards.greenhouse.io/capco/jobs/7681743) — Backend · UK - Glasgow  · hybrid · 🛂 visa sponsor
-
-### [Deloitte](https://jobs.winterchill.xyz/?employer=Deloitte) (1)
-
-- [Python Developer](https://www.linkedin.com/jobs/view/4447167839/) — Backend · Glasgow, Scotland, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Glasgow: Privacy-Preserved Human Motion Analysis for Healthcare Applications](https://jobs.winterchill.xyz/?employer=Glasgow%3A%20Privacy-Preserved%20Human%20Motion%20Analysis%20for%20Healthcare%20Applications) (1)
 
@@ -115,7 +110,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Mott MacDonald](https://jobs.winterchill.xyz/?employer=Mott%20MacDonald) (1)
 
-- [2027 UK Graduate Software Engineering Career Path](https://www.linkedin.com/jobs/view/4469813942/) — Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [2027 UK Graduate Software Engineering Career Path](https://www.linkedin.com/jobs/view/4469813942/) — Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Mphasis](https://jobs.winterchill.xyz/?employer=Mphasis) (1)
 
@@ -127,15 +122,15 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Nestling Engineering](https://jobs.winterchill.xyz/?employer=Nestling%20Engineering) (1)
 
-- [Software Engineer internship](https://www.linkedin.com/jobs/view/4470432768/) — Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer internship](https://www.linkedin.com/jobs/view/4470432768/) — Glasgow, Scotland, United Kingdom · remote · 🛂 visa sponsor
 
 ### [s1jobs](https://jobs.winterchill.xyz/?employer=s1jobs) (1)
 
-- [Software Engineer (Full Stack Developer)](https://www.linkedin.com/jobs/view/4471128174/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Software Engineer (Full Stack Developer)](https://www.linkedin.com/jobs/view/4471128174/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [SAS](https://jobs.winterchill.xyz/?employer=SAS) (1)
 
-- [Associate Software Developer](https://www.linkedin.com/jobs/view/4470962300/) — Backend · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Associate Software Developer](https://www.linkedin.com/jobs/view/4470962300/) — Backend · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Scott Logic](https://jobs.winterchill.xyz/?employer=Scott%20Logic) (1)
 
@@ -147,7 +142,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Trust In SODA](https://jobs.winterchill.xyz/?employer=Trust%20In%20SODA) (1)
 
-- [Principal Developer](https://www.linkedin.com/jobs/view/4472035103/) — £67,000/yr · Glasgow, Scotland, United Kingdom · 🛂 visa sponsor
+- [Principal Developer](https://www.linkedin.com/jobs/view/4472035103/) — £67,000/yr · Glasgow, Scotland, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [University of Strathclyde](https://jobs.winterchill.xyz/?employer=University%20of%20Strathclyde) (1)
 

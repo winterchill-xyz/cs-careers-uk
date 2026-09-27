@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**33 open roles** · updated 2026-09-26
+**33 open roles** · updated 2026-09-27
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,9 +8,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (5)
 
-- [Senior Integrations Engineer](https://www.linkedin.com/jobs/view/4469895554/) — Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Clinical Doctoral Fellowship](https://www.linkedin.com/jobs/view/4468846862/) — Leeds, England, United Kingdom · 🛂 visa sponsor
-- [Research Software Engineer](https://www.linkedin.com/jobs/view/4470220858/) — Platform / Infrastructure · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Senior Integrations Engineer](https://www.linkedin.com/jobs/view/4469895554/) — Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Clinical Doctoral Fellowship](https://www.linkedin.com/jobs/view/4468846862/) — Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
+- [Research Software Engineer](https://www.linkedin.com/jobs/view/4470220858/) — Platform / Infrastructure · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Research Fellow in Large Scale Choice Modelling](https://www.linkedin.com/jobs/view/4468640422/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Research Fellow in Machine Learning Assisted Choice Modelling](https://www.linkedin.com/jobs/view/4467427294/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
@@ -40,7 +40,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [BigChange](https://jobs.winterchill.xyz/?employer=BigChange) (1)
 
-- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4470529632/) — DevOps / SRE · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4470529632/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [CGI](https://jobs.winterchill.xyz/?employer=CGI) (1)
 
@@ -56,7 +56,7 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Gravitas Recruitment Group (Global) Ltd](https://jobs.winterchill.xyz/?employer=Gravitas%20Recruitment%20Group%20%28Global%29%20Ltd) (1)
 
-- [Software Developer – React / TypeScript](https://www.linkedin.com/jobs/view/4468592988/) — Backend · Up to £45,000/yr · Leeds, England, United Kingdom · 🛂 visa sponsor
+- [Software Developer – React / TypeScript](https://www.linkedin.com/jobs/view/4468592988/) — Backend · Up to £45,000/yr · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
 
