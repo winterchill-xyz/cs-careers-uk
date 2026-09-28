@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Leeds
 
-**33 open roles** · updated 2026-09-27
+**31 open roles** · updated 2026-09-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -58,10 +58,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Software Developer – React / TypeScript](https://www.linkedin.com/jobs/view/4468592988/) — Backend · Up to £45,000/yr · Leeds, England, United Kingdom · remote · 🛂 visa sponsor
 
-### [Harnham - Data and Analytics Recruitment](https://jobs.winterchill.xyz/?employer=Harnham%20-%20Data%20and%20Analytics%20Recruitment) (1)
-
-- [Junior Data Engineer](https://dataengineeringjobs.co.uk/jobs/junior-data-engineer-harnham-data-and-analytics-recruitment-leeds) — Data Engineering · £35,000–£45,000/yr · Leeds, England · remote
-
 ### [Hippo](https://jobs.winterchill.xyz/?employer=Hippo) (1)
 
 - [Lead .Net Developer](https://www.linkedin.com/jobs/view/4472042101/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
@@ -77,10 +73,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Mastek](https://jobs.winterchill.xyz/?employer=Mastek) (1)
 
 - [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4467618369/) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [Michael Page](https://jobs.winterchill.xyz/?employer=Michael%20Page) (1)
-
-- [Power BI Developer](https://dataengineeringjobs.co.uk/jobs/power-bi-developer-michael-page-leeds) — Data Engineering · £55,000–£65,000/yr · Leeds, West Yorkshire
 
 ### [NewDay](https://jobs.winterchill.xyz/?employer=NewDay) (1)
 

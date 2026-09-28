@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Sheffield
 
-**16 open roles** · updated 2026-09-27
+**16 open roles** · updated 2026-09-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Sheffield)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -8,15 +8,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 ### [Autodesk](https://jobs.winterchill.xyz/?employer=Autodesk) (4)
 
-- [Senior Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Senior-Software-Engineer_26WD101043) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Development Engineer in Test](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Software-Development-Engineer-in-Test_26WD100960-1) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
-- [Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Software-Engineer_26WD101042-1) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
 - [Principal Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Principal-Software-Engineer_26WD101115-1) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
+- [Senior Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Senior-Software-Engineer_26WD101043) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
+- [Software Engineer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Sheffield-GBP/Software-Engineer_26WD101042-1) — Backend · Sheffield, GBP, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
 
 - [Kotlin Developer CGEMJP00357205](https://www.linkedin.com/jobs/view/4470682583/) — Backend · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Full Stack Engineer](https://www.linkedin.com/jobs/view/4465780646/) — Backend · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Cognizant](https://jobs.winterchill.xyz/?employer=Cognizant) (1)
+
+- [MS Fabric Data Engineer](https://www.linkedin.com/jobs/view/4472486189/) — Data Engineering · Sheffield, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Grant Thornton UK](https://jobs.winterchill.xyz/?employer=Grant%20Thornton%20UK) (1)
 
@@ -33,10 +37,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RedRock Resourcing](https://jobs.winterchill.xyz/?employer=RedRock%20Resourcing) (1)
 
 - [Senior Software Engineer - C#/.Net/Angular - New](https://www.linkedin.com/jobs/view/4468707777/) — Sheffield, England, United Kingdom · 🛂 visa sponsor
-
-### [Sparta Global](https://jobs.winterchill.xyz/?employer=Sparta%20Global) (1)
-
-- [Graduate Data or Dev-ops Engineer ( Python tech test )](https://www.linkedin.com/jobs/view/4465200092/) — Backend · Sheffield, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Synechron](https://jobs.winterchill.xyz/?employer=Synechron) (1)
 

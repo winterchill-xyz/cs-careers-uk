@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Oxford
 
-**45 open roles** · updated 2026-09-27
+**44 open roles** · updated 2026-09-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Oxford)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -24,20 +24,19 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Staff Software Engineer, Runtime](https://startup.jobs/staff-software-engineer-runtime-ionq-9789366) — Oxford, England, United Kingdom
 - [Software Engineer, Runtime](https://startup.jobs/software-engineer-runtime-ionq-9789363) — Oxford, England, United Kingdom
 
-### [University of Oxford, Department of Engineering Science](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford%2C%20Department%20of%20Engineering%20Science) (5)
-
-- [Neuroelectronics Research Engineer Closing date: Oct 23, 2026](https://www.linkedin.com/jobs/view/4469690967/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Postdoctoral Research Assistant in Sustainable Computer Networks Closing date: Oct 15, 2026](https://www.linkedin.com/jobs/view/4469694611/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Postdoctoral Research Assistant in Fetal Ultrasound Biomarker  Discovery Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466865969/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Postdoctoral Research Assistant in Temporal Reasoning and Ultrasound Video Analysis Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466533934/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-- [Postdoctoral Research Assistant in Machine Learning Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466530994/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
-
 ### [Mind Foundry](https://jobs.winterchill.xyz/?employer=Mind%20Foundry) (4)
 
 - [Machine Learning Engineer (Forward Deployed)](https://www.mindfoundry.ai/about-us/careers?gh_jid=7662539003) — Backend · £67,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Machine Learning Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7746675003) — Backend · £68,000–£80,000/yr · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Senior Software Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=8004210003) — Backend · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Software Engineer](https://www.mindfoundry.ai/about-us/careers?gh_jid=7900652003) — Backend · Oxford / Hybrid , England, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [University of Oxford, Department of Engineering Science](https://jobs.winterchill.xyz/?employer=University%20of%20Oxford%2C%20Department%20of%20Engineering%20Science) (4)
+
+- [Neuroelectronics Research Engineer Closing date: Oct 23, 2026](https://www.linkedin.com/jobs/view/4469690967/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Postdoctoral Research Assistant in Sustainable Computer Networks Closing date: Oct 15, 2026](https://www.linkedin.com/jobs/view/4469694611/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Postdoctoral Research Assistant in Fetal Ultrasound Biomarker  Discovery Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466865969/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
+- [Postdoctoral Research Assistant in Machine Learning Closing date: Oct 09, 2026](https://www.linkedin.com/jobs/view/4466530994/) — £39,424–£47,779/yr · Oxford, England, United Kingdom · 🛂 visa sponsor
 
 ### [AIOI R&D Lab - Oxford](https://jobs.winterchill.xyz/?employer=AIOI%20R%26D%20Lab%20-%20Oxford) (3)
 

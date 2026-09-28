@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Belfast
 
-**82 open roles** · updated 2026-09-27
+**82 open roles** · updated 2026-09-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Belfast)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -96,12 +96,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer II - (Ruby)](https://startup.jobs/software-engineer-ii-ruby-stora-co-10179172) — £50,000/yr · Belfast, Northern Ireland, United Kingdom
 - [Software Engineer II - Product (Multiple Roles)](https://startup.jobs/software-engineer-ii-product-multiple-roles-stora-co-8355936) — Backend · £50,000/yr · Belfast, Northern Ireland, United Kingdom · remote
 
-### [Symphony](https://jobs.winterchill.xyz/?employer=Symphony) (3)
-
-- [Lead Software Engineer, Back-End](https://www.linkedin.com/jobs/view/4467080233/) — Backend · £65,000–£80,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Placement, Site Reliability Engineering SRE](https://www.linkedin.com/jobs/view/4463348801/) — Backend · £14/hr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-- [Placement, Software Developer](https://www.linkedin.com/jobs/view/4463106000/) — Backend · £14/hr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
-
 ### [Bazaarvoice](https://jobs.winterchill.xyz/?employer=Bazaarvoice) (2)
 
 - [Principal Engineer](https://www.linkedin.com/jobs/view/4453141369/) — Backend · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
@@ -116,6 +110,11 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Senior Backend Engineer (Platform)](https://www.linkedin.com/jobs/view/4471466228/) — Backend · Belfast, Northern Ireland, United Kingdom · hybrid · 🛂 visa sponsor
 - [Technical Lead (Ruby on Rails)](https://www.linkedin.com/jobs/view/4468393912/) — Belfast, Northern Ireland, United Kingdom · hybrid · 🛂 visa sponsor
+
+### [Symphony](https://jobs.winterchill.xyz/?employer=Symphony) (2)
+
+- [Placement, Site Reliability Engineering SRE](https://www.linkedin.com/jobs/view/4463348801/) — Backend · £14/hr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
+- [Placement, Software Developer](https://www.linkedin.com/jobs/view/4463106000/) — Backend · £14/hr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ### [Black Duck Software, Inc.](https://jobs.winterchill.xyz/?employer=Black%20Duck%20Software%2C%20Inc.) (1)
 
@@ -152,6 +151,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [TRG Screen](https://jobs.winterchill.xyz/?employer=TRG%20Screen) (1)
 
 - [Lead Software Engineer, Full Stack](https://startup.jobs/lead-software-engineer-full-stack-trg-screen-10164067) — Belfast, Northern Ireland, United Kingdom
+
+### [VIVA Tech Talent](https://jobs.winterchill.xyz/?employer=VIVA%20Tech%20Talent) (1)
+
+- [Artificial Intelligence Engineer](https://www.linkedin.com/jobs/view/4472495659/) — Backend · £70,000–£80,000/yr · Belfast, Northern Ireland, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Newcastle
 
-**30 open roles** · updated 2026-09-27
+**32 open roles** · updated 2026-09-28
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Newcastle)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -29,9 +29,14 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Senior Data Engineer](https://jobs.lever.co/scottlogic/b62c1780-cd44-4871-8d41-45590f020935) — Data Engineering · Newcastle · 🛂 visa sponsor
 - [Lead Data Engineer](https://jobs.lever.co/scottlogic/ecde2bc5-2b6a-481c-9e2a-b19d1c39f2f6) — Data Engineering · Newcastle · 🛂 visa sponsor
 
+### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (2)
+
+- [Software Engineer](https://www.linkedin.com/jobs/view/4460273832/) — Backend · Up to £470/day · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4460263114/) — Data Engineering · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
+
 ### [Noir](https://jobs.winterchill.xyz/?employer=Noir) (2)
 
-- [Frontend Developer](https://www.linkedin.com/jobs/view/4469203025/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Frontend Developer](https://www.linkedin.com/jobs/view/4472497524/) — Backend · £45,000–£80,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 - [.NET Developer - Newcastle-under-Lyme](https://www.linkedin.com/jobs/view/4470919787/) — Backend · £40,000–£65,000/yr · Newcastle-Under-Lyme, England, United Kingdom · remote · 🛂 visa sponsor
 
 ### [Searchability](https://jobs.winterchill.xyz/?employer=Searchability) (2)
@@ -56,9 +61,9 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Data Engineer- Delivery Centre- Newcastle](https://www.linkedin.com/jobs/view/4451124433/) — Backend · Newcastle Upon Tyne, England, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
+### [develop](https://jobs.winterchill.xyz/?employer=develop) (1)
 
-- [Software Engineer](https://www.linkedin.com/jobs/view/4460273832/) — Backend · Up to £470/day · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
+- [Data Engineer](https://www.linkedin.com/jobs/view/4467340387/) — Data Engineering · £60,000–£120,000/yr · Newcastle Upon Tyne, England, United Kingdom · 🛂 visa sponsor
 
 ### [Harrington Starr](https://jobs.winterchill.xyz/?employer=Harrington%20Starr) (1)
 
