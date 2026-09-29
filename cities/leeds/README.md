@@ -1,18 +1,17 @@
 # Software &amp; IT careers in Leeds
 
-**31 open roles** · updated 2026-09-28
+**29 open roles** · updated 2026-09-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Leeds)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
 Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parquet)
 
-### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (5)
+### [University of Leeds](https://jobs.winterchill.xyz/?employer=University%20of%20Leeds) (4)
 
 - [Senior Integrations Engineer](https://www.linkedin.com/jobs/view/4469895554/) — Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Clinical Doctoral Fellowship](https://www.linkedin.com/jobs/view/4468846862/) — Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Research Software Engineer](https://www.linkedin.com/jobs/view/4470220858/) — Platform / Infrastructure · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 - [Research Fellow in Large Scale Choice Modelling](https://www.linkedin.com/jobs/view/4468640422/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
-- [Research Fellow in Machine Learning Assisted Choice Modelling](https://www.linkedin.com/jobs/view/4467427294/) — ML / AI Engineering · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [AND Digital](https://jobs.winterchill.xyz/?employer=AND%20Digital) (3)
 
@@ -89,10 +88,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [Rockstar Games](https://jobs.winterchill.xyz/?employer=Rockstar%20Games) (1)
 
 - [Senior Software Engineer, Java](https://job-boards.greenhouse.io/rockstargames/jobs/7734497003) — Backend · Leeds, England, United Kingdom · 🛂 visa sponsor
-
-### [Simpro Software](https://jobs.winterchill.xyz/?employer=Simpro%20Software) (1)
-
-- [Senior Engineering Manager](https://www.linkedin.com/jobs/view/4467727470/) — DevOps / SRE · Leeds, England, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Syntax Consultancy](https://jobs.winterchill.xyz/?employer=Syntax%20Consultancy) (1)
 

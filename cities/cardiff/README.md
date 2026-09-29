@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Cardiff
 
-**13 open roles** · updated 2026-09-28
+**12 open roles** · updated 2026-09-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Cardiff)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -30,14 +30,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Manager Software Engineering](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---Cardiff-Global-Reach/Manager-Software-Engineering_R117550) — Data Engineering · UK - Cardiff (Global Reach), United Kingdom · 🛂 visa sponsor
 
-### [M-KOPA](https://jobs.winterchill.xyz/?employer=M-KOPA) (1)
-
-- [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4467268800/) — Backend · Cardiff, Wales, United Kingdom · remote · 🛂 visa sponsor
-
-### [Marsh](https://jobs.winterchill.xyz/?employer=Marsh) (1)
-
-- [Senior Software Engineer](https://www.linkedin.com/jobs/view/4458241984/) — Backend · Cardiff, Wales, United Kingdom · hybrid · 🛂 visa sponsor
-
 ### [Public Health Wales](https://jobs.winterchill.xyz/?employer=Public%20Health%20Wales) (1)
 
 - [Software Developer](https://www.linkedin.com/jobs/view/4470936660/) — Platform / Infrastructure · Cardiff, Wales, United Kingdom · 🛂 visa sponsor
@@ -45,6 +37,10 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [RELX Group](https://jobs.winterchill.xyz/?employer=RELX%20Group) (1)
 
 - [Manager Software Engineering](https://relx.wd3.myworkdayjobs.com/relx/job/UK---Cardiff-Global-Reach/Manager-Software-Engineering_R117550-1) — Data Engineering · UK - Cardiff (Global Reach), United Kingdom · 🛂 visa sponsor
+
+### [WSP in the UK & Ireland](https://jobs.winterchill.xyz/?employer=WSP%20in%20the%20UK%20%26%20Ireland) (1)
+
+- [Major Programme Technical Delivery Lead (Nuclear)](https://www.linkedin.com/jobs/view/4470626655/) — Cardiff, Wales, United Kingdom · 🛂 visa sponsor
 
 ---
 Discover more on the live board → **https://jobs.winterchill.xyz/**

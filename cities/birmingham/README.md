@@ -1,6 +1,6 @@
 # Software &amp; IT careers in Birmingham
 
-**32 open roles** · updated 2026-09-28
+**31 open roles** · updated 2026-09-29
 
 > Browse these live — filter, sort by pay, see full descriptions &amp; visa sponsorship — on **[jobs.winterchill.xyz](https://jobs.winterchill.xyz/?city=Birmingham)**. Job titles link to the original posting; company headings link to all that employer's roles on the board.
 
@@ -31,22 +31,26 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 - [Software Engineer, Education](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer--Education_26WD99981-1) — Backend · Birmingham, GBR, United Kingdom · 🛂 visa sponsor
 - [Software Engineer C++](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Birmingham-GBR/Software-Engineer_26WD99922-1) — Backend · Birmingham, GBR, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (2)
+### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (2)
 
-- [QA Lead & Automation Engineer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/QA-Lead---Automation-Engineer_R0449479) — DevOps / SRE · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
-- [Senior ServiceNow Developer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-ServiceNow-Developer_R0423603-1) — Backend · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
+- [Research Fellow (Smart Monitoring and Autonomous Systems) - School of Engineering - 108002 - Grade 7](https://www.linkedin.com/jobs/view/4471574993/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
+- [Research Fellow - School of Biosciences - 107914 - Grade 7](https://www.linkedin.com/jobs/view/4465488649/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Accenture](https://jobs.winterchill.xyz/?employer=Accenture) (1)
 
 - [Cloud DevOps Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Birmingham/Cloud-DevOps-Engineer_R00347196) — DevOps / SRE · Birmingham, United Kingdom · hybrid · 🛂 visa sponsor
 
-### [Applause IT Recruitment](https://jobs.winterchill.xyz/?employer=Applause%20IT%20Recruitment) (1)
-
-- [Software Engineer](https://www.linkedin.com/jobs/view/4468651628/) — Backend · £45,000–£52,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
 ### [Autodesk Canada Co.](https://jobs.winterchill.xyz/?employer=Autodesk%20Canada%20Co.) (1)
 
 - [Software Engineer C++](https://startup.jobs/software-engineer-c-autodesk-canada-co-8786897) — Backend · Birmingham, England, United Kingdom
+
+### [Compass Community](https://jobs.winterchill.xyz/?employer=Compass%20Community) (1)
+
+- [Senior BI Developer](https://www.linkedin.com/jobs/view/4471314534/) — Data Engineering · Birmingham, England, United Kingdom · 🛂 visa sponsor
+
+### [Deutsche Bank](https://jobs.winterchill.xyz/?employer=Deutsche%20Bank) (1)
+
+- [Senior ServiceNow Developer](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Birmingham-5-Brindley-Place/Senior-ServiceNow-Developer_R0423603-1) — Backend · Birmingham 5 Brindley Place, United Kingdom · hybrid · 🛂 visa sponsor
 
 ### [Experis](https://jobs.winterchill.xyz/?employer=Experis) (1)
 
@@ -72,10 +76,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 
 - [Business Automation Engineer](https://jobs.ashbyhq.com/perk/223339a0-0920-4f0d-bcae-1bf0b5945000) — Backend · Birmingham · hybrid · 🛂 visa sponsor
 
-### [PwC](https://jobs.winterchill.xyz/?employer=PwC) (1)
-
-- [Data Engineer - Manager](https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Birmingham/Data-Engineer---Manager_714688WD/apply) — Data Engineering · Birmingham, United Kingdom · 🛂 visa sponsor
-
 ### [The Developer Society](https://jobs.winterchill.xyz/?employer=The%20Developer%20Society) (1)
 
 - [Django Developer](https://www.linkedin.com/jobs/view/4468210807/) — Backend · Birmingham, England, United Kingdom · 🛂 visa sponsor
@@ -83,10 +83,6 @@ Full data for this city: [`jobs.json`](jobs.json) · [`jobs.parquet`](jobs.parqu
 ### [TRIA](https://jobs.winterchill.xyz/?employer=TRIA) (1)
 
 - [Software Engineer](https://www.linkedin.com/jobs/view/4470146303/) — Backend · £60,000–£70,000/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
-
-### [University of Birmingham](https://jobs.winterchill.xyz/?employer=University%20of%20Birmingham) (1)
-
-- [Research Fellow - School of Biosciences - 107914 - Grade 7](https://www.linkedin.com/jobs/view/4465488649/) — £36,636–£46,049/yr · Birmingham, England, United Kingdom · 🛂 visa sponsor
 
 ### [Worldpay](https://jobs.winterchill.xyz/?employer=Worldpay) (1)
 
